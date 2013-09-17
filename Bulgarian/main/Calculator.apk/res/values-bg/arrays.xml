@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+        <item>лява скоба</item>
+        <item>дясна скоба</item>
+        <item>факториел</item>
+        <item>естествен логаритъм</item>
+        <item>логаритъм</item>
+        <item>квадратен корен</item>
+        <item>деление</item>
+        <item>умножение</item>
+        <item>плюс</item>
+        <item>минус</item>
+        <item> десетична запетая </item>
+        <item>степен</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>равно</item>
     </string-array>
 </resources>
