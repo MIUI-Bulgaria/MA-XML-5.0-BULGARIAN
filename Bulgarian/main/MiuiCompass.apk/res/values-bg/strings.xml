@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
-  <string name="altitude_title">Altitude</string>
+  <string name="altitude_title">Височина</string>
   <string name="altitude_unit">m</string>
-  <string name="app_label">Compass</string>
-  <string name="calibrate_failed_no_location">Calibration failed: Unable to get the current latitude and longitude</string>
-  <string name="calibrate_failed_timeout">Calibration failed: Server timeout occurred</string>
-  <string name="calibrate_success">Calibration complete</string>
-  <string name="cannot_get_location">Unknown location</string>
-  <string name="dialog_calibrat_altitude">Calibrating altitude through the internet connection.</string>
-  <string name="dialog_title_no_network">No network found, connect via Wi-Fi or enable Data</string>
+  <string name="app_label">Компас</string>
+  <string name="calibrate_failed_no_location">Калибрирането се провали: Географската ширина и дължина не може да бъде определена</string>
+  <string name="calibrate_failed_timeout">Калибрирането се провали: Изтече времето за връзка със сървъра</string>
+  <string name="calibrate_success">Калибрирането е изпълнено</string>
+  <string name="cannot_get_location">Неизвестно местоположение</string>
+  <string name="dialog_calibrat_altitude">Калибриране на височината чрез интернет връзка.</string>
+  <string name="dialog_title_no_network">Не е открита мрежа. Свържете се с Wi-Fi мрежа или включете мобилните данни</string>
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
   <string name="direction_south">S</string>
   <string name="direction_west">W</string>
-  <string name="getting_location">Getting location...</string>
-  <string name="guide_toast">"There may be magnetic field interference, please calibrate the compass using the following gesture."</string>
+  <string name="getting_location">Определяне на местоположението...</string>
+  <string name="guide_toast">"Възможни са смущения в магнитното поле. Моля калибрирайте компаса чрез следното движение."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
   <string name="location_north">N</string>
   <string name="location_south">S</string>
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
-  <string name="menu_calibrate">Calibrate</string>
-  <string name="menu_calibrate_altitude">Calibrate altitude</string>
+  <string name="menu_calibrate">Калибриране</string>
+  <string name="menu_calibrate_altitude">Калибриране на височината</string>
   <string name="pressure">%.1f</string>
-  <string name="pressure_title">Pressure</string>
+  <string name="pressure_title">Налягане</string>
   <string name="pressure_unit">hPa</string>
 </resources>
