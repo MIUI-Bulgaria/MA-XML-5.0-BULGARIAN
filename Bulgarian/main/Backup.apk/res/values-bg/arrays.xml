@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi data</item>
-        <item>All programs</item>
+        <item>Параметри на Wi-Fi</item>
+        <item>Всички приложения</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Browser</item>
-	<item>Gallery</item>
-	<item>Permission Manager</item>
-	<item>Camera</item>
-	<item>Network Assistant</item>
-	<item>Weather Storage</item>
-	<item>Weather</item>
+	<item>Браузър</item>
+	<item>Галерия</item>
+	<item>Диспечър на разрешения</item>
+	<item>Камера</item>
+	<item>Асистент за мобилни мрежи</item>
+	<item>История на Времето</item>
+	<item>Времето</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia Messages</item>
-        <item>System settings</item>
-        <item>Wi-Fi settings</item>
-        <item>Desktop layout</item>
-        <item>Alarm settings</item>
-        <item>Notes</item>
-        <item>DND</item>
-        <item>Account</item>
+        <item>Контакти</item>
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
+        <item>MMS</item>
+        <item>Системни настройки</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Икони на началния екран</item>
+        <item>Настройки на аларми</item>
+        <item>Бележки</item>
+        <item>Черен списък</item>
+        <item>Профили</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Data</item>
-        <item>Apps</item>
-        <item>Apps and Data</item>
+        <item>Данни</item>
+        <item>Приложения</item>
+        <item>Приложения и Данни</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Контакти</item>
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Бележки</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Контакти</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Бележки</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call logs</item>
-        <item>Messages</item>
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
     </string-array>
 </resources>
