@@ -80,7 +80,7 @@
   <string name="stop_recording">Спри записването</string>
   <string name="storage_is_full">Мястото за съхранение е пълно</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
+  <string name="toast_max_record_time">App: %1$s максимално време за запис %2$s</string>
   <string name="unknown_caller">Непознат номер</string>
   <string name="view_list_of_recordings">Виж звукозаписите</string>
 </resources>
