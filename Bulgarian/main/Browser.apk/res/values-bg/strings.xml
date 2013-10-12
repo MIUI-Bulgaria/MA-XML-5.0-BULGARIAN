@@ -574,7 +574,7 @@
   <string name="too_many_subwindows_dialog_message">Само един изскачащ прозорец  може да бъде отворен.</string>
   <string name="too_many_subwindows_dialog_title">Изскачащият прозорец е вече отворен</string>
   <string name="too_many_windows_dialog_message">"Не може да отворите нов раздел, докато не затворите стария."</string>
-  <string name="too_many_windows_dialog_title">Максимален брой оворени раздели</string>
+  <string name="too_many_windows_dialog_title">Максимален брой отворени раздели</string>
   <string name="ua_switcher_desktop">Пълна версия</string>
   <string name="uploads_disabled">Качването на файлове е забранено.</string>
   <string name="url_copy_done">URL адреса е копиран</string>
