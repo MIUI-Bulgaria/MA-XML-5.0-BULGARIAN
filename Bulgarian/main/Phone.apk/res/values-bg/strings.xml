@@ -29,7 +29,7 @@
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Да</string>
   <string name="allContactdeleteFailed">Неможе да се истрият всички контакти от SIM картата !!!</string>
-  <string name="allContactdeleteSuccess">Всички контакти от SIM картата са изтрити/string>
+  <string name="allContactdeleteSuccess">Всички контакти от SIM картата са изтрити</string>
   <string name="always_enable_mms_miui">Винаги получавай MMS</string>
   <string name="always_enable_mms_summary_miui">Винаги получавай MMS дори когато данните са изключени</string>
   <string name="answer_and_hangup_miui">Отговори</string>
