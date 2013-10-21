@@ -92,7 +92,7 @@
   <string name="import_from_xiaomi_account_hint_title">За да архивирате контактите, използвайте MiTalk</string>
   <string name="local_app_name">Резервно копие</string>
   <string name="local_backup_window_title">Локално резервно копие</string>
-  <string name="local_home_title">Резервно копие на SD карта/string>
+  <string name="local_home_title">Резервно копие на SD карта</string>
   <string name="local_no_backup">Няма резервни копия</string>
   <string name="local_restore_window_title">Локално възстановяване</string>
   <string name="local_select_account_contact">Профили и Контакти</string>
