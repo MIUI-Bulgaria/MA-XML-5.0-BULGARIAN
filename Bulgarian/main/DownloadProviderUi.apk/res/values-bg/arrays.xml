@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>1GB</item>
@@ -12,7 +12,7 @@
         <item>500KB</item>
         <item>200KB</item>
         <item>100KB</item>
-        <item>Any size</item>
+        <item>Винаги</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
         <item>1048576000</item>
