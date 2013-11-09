@@ -449,7 +449,7 @@
   <string name="pause_state_need_photos_quota">на пауза - квотата за Picasa Web Albums е превишена</string>
   <string name="pause_state_need_wifi">на пауза - в очакване на Wi-Fi връзка</string>
   <string name="pause_state_retrying">в очакване на повторен опит</string>
-  <string name="pause_state_roaming">на пауза - роуминг/string>
+  <string name="pause_state_roaming">на пауза - роуминг</string>
   <string name="pause_state_running">изпращане</string>
   <string name="permission_access_provider_desc">Разрешава достъп на приложението до имейл данните, включително получени и изпратени писма, потр. имена и пароли.</string>
   <string name="permission_access_provider_label">Достъп до данните на доставчика на електронна поща</string>
