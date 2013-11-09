@@ -168,7 +168,7 @@
   <string name="memu_refresh">Презареди</string>
   <string name="mibi_license_message">Xiaomi Mi Кредит. С натискането на бутона ОK Вие се съгласявате със %1$s.</string>
   <string name="mibi_license_message_span">Mi Кредит права и задължения</string>
-  <string name="mibi_license_title"Mi Кредит права и задължения</string>
+  <string name="mibi_license_title">Mi Кредит права и задължения</string>
   <string name="micloud_account">Xiaomi акаунт</string>
   <string name="micloud_account_label">Акаунт: %1$s</string>
   <string name="micloud_account_name">Xiaomi Акаунт</string>
