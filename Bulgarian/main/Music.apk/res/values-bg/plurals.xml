@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d related songs</item>
-        <item quantity="one">%d related song</item>
+        <item quantity="other">%d свързани песни</item>
+        <item quantity="one">%d свързана песен</item>
     </plurals>
     <plurals name="Ntracks_total">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="Ntracks_string">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">%d album</item>
+        <item quantity="other">%d албуми</item>
+        <item quantity="one">%d албум</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">songs</item>
-        <item quantity="one">song</item>
+        <item quantity="other">песни</item>
+        <item quantity="one">песен</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">albums</item>
-        <item quantity="one">album</item>
+        <item quantity="other">албуми</item>
+        <item quantity="one">албум</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">artists</item>
-        <item quantity="one">artist</item>
+        <item quantity="other">Изпълнители</item>
+        <item quantity="one">Изпълнител</item>
     </plurals>
     <plurals name="Nplaylists">
-        <item quantity="other">playlists</item>
-        <item quantity="one">playlist</item>
+        <item quantity="other">списъци за изпълнение</item>
+        <item quantity="one">списък за изпълнение</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" folders"</item>
-        <item quantity="one">" folder"</item>
+        <item quantity="other">" папки"</item>
+        <item quantity="one">" папка"</item>
     </plurals>
     <plurals name="Nitems_batch_selection">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">%d песни са избрани</item>
+        <item quantity="one">%d песен е избрана</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">There are %d songs on SD card</item>
-        <item quantity="one">There is %d song on SD card</item>
+        <item quantity="other">В SD картата има %d песни</item>
+        <item quantity="one">В SD картата има %d песен</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d песни, добавени към списъка за изпълнение.</item>
+        <item quantity="one">1 песен, добавена към плейлиста.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d песни, добавени към списъка за изпълнение.</item>
+        <item quantity="one">1 песен, добавена към плейлиста.</item>
     </plurals>
     <plurals name="Nonlinecategory">
-        <item quantity="other">" categories"</item>
-        <item quantity="one">" category"</item>
+        <item quantity="other">" категории"</item>
+        <item quantity="one">" категория"</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d songs</item>
-        <item quantity="one">%1$s, %2$d song</item>
+        <item quantity="other">%1$s, %2$d песни</item>
+        <item quantity="one">%1$s, %2$d песен</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d songs were deleted.</item>
-        <item quantity="one">1 song was deleted.</item>
+        <item quantity="other">%d песни са били изтрити.</item>
+        <item quantity="one">1 песен е изтрита.</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded.</item>
-        <item quantity="one">1 song will be downloaded.</item>
+        <item quantity="other">%d песни ще се свалят.</item>
+        <item quantity="one">1 песен ще се свали.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d songs removed from playlist.</item>
-        <item quantity="one">1 song removed from playlist.</item>
+        <item quantity="other">%d песни са премахнати от removed списъка за изпълнение.</item>
+        <item quantity="one">1 песен е премахната от removed списъка за изпълнение.</item>
     </plurals>
     <plurals name="Nhot_tracks_total">
-        <item quantity="other">%d top rated songs</item>
-        <item quantity="one">%d top rated song</item>
+        <item quantity="other">%d най-слущани песни</item>
+        <item quantity="one">%d най-слушана песен</item>
     </plurals>
 </resources>
