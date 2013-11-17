@@ -10,10 +10,10 @@
   <string name="adjust_traffic_carrier_settings_title">Мобилен оператор/string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Не е обновявано повече от месец"</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Не е обновявано повече от седмица"</string>
-  <string name="adjust_traffic_carrier_summary_oneweek_before">Updated a week ago</string>
-  <string name="adjust_traffic_carrier_summary_three_day_before">Updated 3 days ago</string>
-  <string name="adjust_traffic_carrier_summary_today">Updated at %1$02d:%2$02d today</string>
-  <string name="adjust_traffic_carrier_summary_yesterday">Updated at: %1$02d:%2$02d yesterday</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">Обновено преди седмица</string>
+  <string name="adjust_traffic_carrier_summary_three_day_before">Обновено преди 3 дена</string>
+  <string name="adjust_traffic_carrier_summary_today">Обновено на %1$02d:%2$02d днес</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Обновено на: %1$02d:%2$02d вчера</string>
   <string name="adjust_traffic_manual_adjust">Input manually</string>
   <string name="adjust_traffic_relate_settings">Other Traffic Settings</string>
   <string name="adjust_traffic_sms_template_update">Update SMS template</string>
