@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Traffic yesterday</item>
-        <item>Traffic today</item>
-        <item>Traffic this month</item>
+        <item>Трафик вчера</item>
+        <item>Трафик днес</item>
+        <item>Трафик този месец</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday on 2G/3G</item>
-        <item>Today on 2G/3G</item>
-        <item>This month on 2G/3G</item>
-        <item>Yesterday on Wi-Fi</item>
-        <item>Today on Wi-fi</item>
-        <item>This month on Wi-Fi</item>
+        <item>Вчера на 2G/3G</item>
+        <item>Днес на 2G/3G</item>
+        <item>Този месец на 2G/3G</item>
+        <item>Вчера на Wi-Fi</item>
+        <item>Днес на Wi-fi</item>
+        <item>Този месец на Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
+        <item>Вчера 2G/3G</item>
+        <item>Днес 2G/3G</item>
+        <item>Този месец 2G/3G</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>" B"</item>
@@ -25,13 +25,13 @@
         <item>GB</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3s</item>
-        <item>4s</item>
-        <item>5s</item>
-        <item>6s</item>
-        <item>7s</item>
-        <item>8s</item>
-        <item>9s</item>
+        <item>3сек.</item>
+        <item>4сек.</item>
+        <item>5сек.</item>
+        <item>6сек.</item>
+        <item>7сек.</item>
+        <item>8сек.</item>
+        <item>9сек.</item>
     </string-array>
     <string-array name="network_speed_update_internal_values">
         <item>3000</item>
