@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add">Add</string>
-  <string name="add_to">Add to</string>
-  <string name="add_to_favorite">Add to Favorites</string>
-  <string name="add_to_playlist">Add to Playlist</string>
-  <string name="add_tracks">Add songs</string>
+  <string name="add">Добави</string>
+  <string name="add_to">Добави в</string>
+  <string name="add_to_favorite">Добави към любими</string>
+  <string name="add_to_playlist">Добави към списъка за изпълнение</string>
+  <string name="add_tracks">Добави песни</string>
   <string name="album_artist_format" formatted="false">%s , %s</string>
-  <string name="album_display_settings">Display album art</string>
-  <string name="album_display_summary">Display album cover in the player interface</string>
-  <string name="album_download">Download album art</string>
-  <string name="album_edit">Album</string>
+  <string name="album_display_settings">Показване на обложката</string>
+  <string name="album_display_summary">Показване на обложката повреме на изпълнение</string>
+  <string name="album_download">Изтегляне на албумни картинки</string>
+  <string name="album_edit">Албум</string>
   <string name="album_picker_not_found">Gallery application not found on device</string>
   <string name="album_search_failed">Album art not found!</string>
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
   <string name="album_select">Please select a album art</string>
-  <string name="albums_title">Albums</string>
+  <string name="albums_title">Албуми</string>
   <string name="albumsongseparator">""</string>
-  <string name="all_tracks">All Songs</string>
-  <string name="android_album_settings">Use embedded album art</string>
+  <string name="all_tracks">Всички песни</string>
+  <string name="android_album_settings">Използвайте записани обложки на албума</string>
   <string name="android_album_summary">Automatically using the album art from songs may cause errors.</string>
-  <string name="artist_albums">All Albums</string>
+  <string name="artist_albums">Всички албуми</string>
   <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
-  <string name="artist_edit">Artist</string>
+  <string name="artist_edit">Изпълнител</string>
   <string name="artist_hot_audios">Popular Audio</string>
   <string name="artists_title">Артисти</string>
   <string name="auto_correct_id3_settings">Autocorrect ID3 Settings</string>
@@ -59,12 +59,12 @@
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
   <string name="download">Download</string>
-  <string name="download_album_settings">Auto download album art</string>
-  <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>
-  <string name="download_all_album">Download album art(s)</string>
+  <string name="download_album_settings">Автоматично изтегляне на албумни картинки</string>
+  <string name="download_album_summary">Може да увеличи трафика през мобилната мрежа,моля използвайте Wi-Fi</string>
+  <string name="download_all_album">Изтегляне на обложки за песен(и)</string>
   <string name="download_all_avatar">Download Artist Avatar(s)</string>
   <string name="download_all_track">Download All Tracks</string>
-  <string name="download_batch_start">Start downloading all</string>
+  <string name="download_batch_start">Започнете сваляне на всички</string>
   <string name="download_lyric_settings">Auto download lyrics</string>
   <string name="download_lyric_summary">"Downloading lyrics does not use large amounts of data, you may disable to save on data allowance."</string>
   <string name="download_processing">Downloading</string>
