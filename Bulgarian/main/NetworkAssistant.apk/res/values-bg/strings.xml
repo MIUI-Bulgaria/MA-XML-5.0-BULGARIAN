@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about">About</string>
-  <string name="adjust_no_network_update_data_fail">Failed to update data, please try again after checking your network settings.</string>
-  <string name="adjust_traffic_auto_adjust_hint">System inquires and adjusts data regularly from operators. Need to set up operator information</string>
-  <string name="adjust_traffic_auto_adjust_open_hint">Auto adjustment is enabled and will auto adjust traffic data regularly</string>
-  <string name="adjust_traffic_auto_adjust_title">Auto adjust traffic</string>
-  <string name="adjust_traffic_carrier_adjust">Get from operator</string>
-  <string name="adjust_traffic_carrier_adjusting">Adjusting traffic…</string>
-  <string name="adjust_traffic_carrier_settings_title">Mobile operator</string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Hasn't been updated for more than a month"</string>
-  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Hasn't been updated in more than a week"</string>
+  <string name="about">Информация</string>
+  <string name="adjust_no_network_update_data_fail">Неможе да се обнови информацията, моля проверете вашите мрежови настройки.</string>
+  <string name="adjust_traffic_auto_adjust_hint">Системата прави запитвания и промени от операторите. Трябва да се настрой информацията от оператора</string>
+  <string name="adjust_traffic_auto_adjust_open_hint">Автоматичната настройка е активирана и ще обновява информацията за трафика</string>
+  <string name="adjust_traffic_auto_adjust_title">Автоматична настройка на трафика</string>
+  <string name="adjust_traffic_carrier_adjust">Вземи от мобилния оператор</string>
+  <string name="adjust_traffic_carrier_adjusting">Настройване на трафика…</string>
+  <string name="adjust_traffic_carrier_settings_title">Мобилен оператор/string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Не е обновявано повече от месец"</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Не е обновявано повече от седмица"</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Updated a week ago</string>
   <string name="adjust_traffic_carrier_summary_three_day_before">Updated 3 days ago</string>
   <string name="adjust_traffic_carrier_summary_today">Updated at %1$02d:%2$02d today</string>
