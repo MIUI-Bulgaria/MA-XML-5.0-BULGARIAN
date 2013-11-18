@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_airplane_mode">Самолетен режим.</string>
+  <string name="accessibility_airplane_mode">Самолетен режим</string>
   <string name="accessibility_back">Назад</string>
   <string name="accessibility_battery_level">Проценти %d батерия.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth свързан.</string>
