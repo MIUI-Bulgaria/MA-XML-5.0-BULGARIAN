@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Трафик вчера</item>
-        <item>Трафик днес</item>
-        <item>Трафик този месец</item>
+        <item>Трафик за вчера\u0020</item>
+        <item>Трафик за днес\u0020</item>
+        <item>Трафик за месеца\u0020</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Вчера на 2G/3G</item>
-        <item>Днес на 2G/3G</item>
-        <item>Този месец на 2G/3G</item>
-        <item>Вчера на Wi-Fi</item>
-        <item>Днес на Wi-fi</item>
-        <item>Този месец на Wi-Fi</item>
+        <item>Вчера по 2G/3G</item>
+        <item>Днес по 2G/3G</item>
+        <item>Този месец по 2G/3G</item>
+        <item>Вчера по Wi-Fi</item>
+        <item>Днес по Wi-fi</item>
+        <item>Този месец по Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Вчера 2G/3G</item>
@@ -25,13 +25,13 @@
         <item>GB</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3сек.</item>
-        <item>4сек.</item>
-        <item>5сек.</item>
-        <item>6сек.</item>
-        <item>7сек.</item>
-        <item>8сек.</item>
-        <item>9сек.</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
     </string-array>
     <string-array name="network_speed_update_internal_values">
         <item>3000</item>
