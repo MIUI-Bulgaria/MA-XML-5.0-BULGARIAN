@@ -69,7 +69,7 @@
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="chooseUsbActivity">Изберете приложение за това USB усторйство</string>
   <string name="compat_mode_help_body">Когато едно приложение е за по-малък екран, зум икона ще се появи до часовникът.</string>
-  <string name="compat_mode_help_header">Съвместим зум/string>
+  <string name="compat_mode_help_header">Съвместим зум</string>
   <string name="compat_mode_off">Разпъни на целият екран</string>
   <string name="compat_mode_on">Увеличи за да запълне екрана</string>
   <string name="data_usage_disabled_dialog">"Вие достигнахте лимита на вашият интенет трафик. Ако искате да активирате интернета отново може да се наложи да смените оператора си."</string>
