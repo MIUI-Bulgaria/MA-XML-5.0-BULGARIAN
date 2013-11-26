@@ -2683,7 +2683,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_nickname">Nickname</string>
   <string name="user_owner">Owner</string>
   <string name="user_picture_title">Photo ID</string>
-  <string name="user_remove_user_menu">Delete %1$s from this device</string>
+  <string name="user_remove_user_menu">Remove user</string>
   <string name="user_restrictions_heading">Content restrictions</string>
   <string name="user_settings_title">Users</string>
   <string name="user_setup_button_setup_later">Not now</string>
