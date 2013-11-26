@@ -90,10 +90,10 @@
   <string name="st_bl_setting_group">Настройки на черния списък</string>
   <string name="st_block_all">Блокирай повиквания и съобщения</string>
   <string name="st_block_mute">Блокирай повиквания и заглуши съобщенията</string>
-  <string name="st_block_private_call_button">Блокирай всички повиквания от скрит номер</string>
+  <string name="st_block_private_call_button">Блокирай всички повиквания от частен номер</string>
   <string name="st_block_setting_group">Настройки на списък за блокиране</string>
   <string name="st_block_setting_title">Повиквания и съобщения</string>
-  <string name="st_block_title">Блоирай и запиши в списък</string>
+  <string name="st_block_title">Блокирай и запиши в списък</string>
   <string name="st_block_unknown_call">Блокирай всички повиквания от непознат номер</string>
   <string name="st_block_unknown_sms">Блокирай всички съобщения от непознат номер</string>
   <string name="st_call_group">Повикване</string>
