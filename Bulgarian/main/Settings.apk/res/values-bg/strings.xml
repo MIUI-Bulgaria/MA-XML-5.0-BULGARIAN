@@ -3167,11 +3167,11 @@ Phone setup can require significant network activity."</string>
   <string name="wimax_settings">4G settings</string>
   <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
   <string name="window_animation_scale_title">Window animation scale</string>
-  <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
-  <string name="work_done">Done</string>
+  <string name="wireless_networks_settings_title">Wireless &amp; мрежи</string>
+  <string name="work_done">Готово</string>
   <string name="wps_category">WPS Security</string>
   <string name="wps_connect_summary">Make sure router supports WPS mode</string>
-  <string name="wps_connect_title">Connect using WPS</string>
+  <string name="wps_connect_title">Свързване чрез WPS</string>
   <string name="xiaomi_account">Xiaomi account</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit center</string>
@@ -3179,6 +3179,6 @@ Phone setup can require significant network activity."</string>
   <string name="zone_auto">Automatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>
   <string name="zone_auto_summaryOn">Use network-provided time zone</string>
-  <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
-  <string name="zone_list_menu_sort_by_timezone">Sort by time zone</string>
+  <string name="zone_list_menu_sort_alphabetically">Сортирай азбучно</string>
+  <string name="zone_list_menu_sort_by_timezone">Сортирай по часови зони</string>
 </resources>
