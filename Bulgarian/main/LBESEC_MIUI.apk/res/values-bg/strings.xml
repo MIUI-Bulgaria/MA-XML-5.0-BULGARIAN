@@ -1,12 +1,12 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Приложения</string>
   <string name="Dashboard_HIPS_Disable_Content">Деактивирането ще остави системата Ви без контрол на приложенията. Така MIUI ще спре да защитава вашата безопасност и неприкосновеност. 
 Наистина ли искате да забраните мониторинга?</string>
   <string name="Dashboard_HIPS_Disable_Title">Монитор на достъпа</string>
-  <string name="Dashboard_Log">Логове</string>
-  <string name="Dashboard_Log_Clear_Content">Всички логове ще бъдат изтрити. Наистина ли искате да продължите?</string>
-  <string name="Dashboard_Log_Clear_Title">Изчистване на логове</string>
+  <string name="Dashboard_Log">Регистри</string>
+  <string name="Dashboard_Log_Clear_Content">Всички регистри ще бъдат изтрити. Наистина ли искате да продължите?</string>
+  <string name="Dashboard_Log_Clear_Title">Изчистване на регистри</string>
   <string name="Dashboard_Perm">Права</string>
   <string name="Dashboard_Perm_AutoStart">Автостарт</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Вкл/изкл на функцията автостарт на приложения</string>
@@ -21,10 +21,10 @@
   <string name="Dashboard_Perm_Header">Наблюдават се %1$d приложения</string>
   <string name="Dashboard_Perm_Header_Disabled">Проследяването на права е изключено</string>
   <string name="Dashboard_Perm_SU">Управление на ROOT достъп</string>
-  <string name="Dashboard_Perm_SU_Desc">Наблюдават се %1$d приложения с ROOT достъп</string>
+  <string name="Dashboard_Perm_SU_Desc">Наблюдават се %1$d приложения за ROOT достъп</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT достъпа е забранен</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT достъпа не е наличен в стабилните версии на MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешаването на ROOT достъп  на приложения от трети страни може да доведе до нестабилност на системата, загуба на вашите лични данни или повреда на телефона. Моля, преминете към версия за разработчици на MIUI."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешаването на ROOT достъп на приложения от трети страни може да доведе до нестабилност на системата, загуба на вашите лични данни или повреда на телефона. Моля, преминете към версия за разработчици на MIUI."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Изтегляне на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT достъп</string>
@@ -166,11 +166,11 @@
   <string name="HIPS_SecurityPrompt_Remember">Запомни моя избор</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s се опитва да %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;Доверени&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Завършено</string>
   <string name="Privacy_App_Installed">Настройка на достъпа</string>
   <string name="Privacy_App_Launch">Отворете</string>
-  <string name="Privacy_App_Log">Логове</string>
+  <string name="Privacy_App_Log">Регистри</string>
   <string name="Privacy_App_Manage">Детайли</string>
   <string name="Privacy_App_Trust">Вярвам на приложението</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI няма да изисква потвърждение за действията на това приложение.</string>
@@ -184,6 +184,6 @@
   <string name="SysOpt_Boost_AutoStart">Права за автостарт</string>
   <string name="SysOpt_Boost_AutoStart_Group">Автостарт</string>
   <string name="SysOpt_Boost_Boot">Стартиране</string>
-  <string name="SysOpt_Boost_Receiver">Фонови</string>
+  <string name="SysOpt_Boost_Receiver">Фоново</string>
   <string name="app_name">Разрешения</string>
 </resources>
