@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Error in account information, please try logging in again.</string>
-  <string name="all_resources">All</string>
-  <string name="all_ringtone_resource">All</string>
+  <string name="account_abnormal_state">Грешни детайли за профила, опитайте отново.</string>
+  <string name="all_resources">Всички</string>
+  <string name="all_ringtone_resource">Всички</string>
   <string name="app_name">Теми</string>
   <string name="apply_font_btn_exclude">Приложи без шрифт</string>
   <string name="apply_font_btn_reboot">Прилагане и рестартиране</string>
@@ -17,12 +17,12 @@
   <string name="backup_theme_success_message">TТемата архивирана успешно.</string>
   <string name="change_wallpaper">Тапети</string>
   <string name="close">Затвори</string>
-  <string name="component_category_finest_title">Featured</string>
+  <string name="component_category_finest_title">Нови</string>
   <string name="component_category_more_title">Още</string>
   <string name="component_include_title">Съдържа %1$s компоненти</string>
   <string name="component_lockstyle_personal_title">Насторйки</string>
   <string name="component_select_title">Избраните %1$s компоненти</string>
-  <string name="component_settings_title">CПерсонализиране на тема</string>
+  <string name="component_settings_title">Персонализиране на тема</string>
   <string name="default_name">Стандартен</string>
   <string name="deleting">Изтриване...</string>
   <string name="description_author">Автор:</string>
@@ -58,7 +58,7 @@
   <string name="resource_buy">Купи</string>
   <string name="resource_can_not_selected">%1$s неможе да бъде избрано!</string>
   <string name="resource_comment_account_need_activitied">Вашият акаунт не е активиран, искатели да го активирате сега?</string>
-  <string name="resource_comment_count">%1$s scores %2$s comments in total(%3$s version)</string>
+  <string name="resource_comment_count">%1$s точки %2$s общо коментари(%3$s версия)</string>
   <string name="resource_comment_description">%1$s коментари за %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Добави коментар</string>
   <string name="resource_comment_edit_comment_waiting">Проверка какво трябва да се използва</string>
@@ -76,7 +76,7 @@
   <string name="resource_comment_upload_failed">Неможе да се изпрати коментар</string>
   <string name="resource_comment_upload_not_bought">Трябва да приложите темата преди да оставите коментар.</string>
   <string name="resource_comment_upload_not_logined">Не сте влезли!</string>
-  <string name="resource_comment_upload_success">Comment sent! It will be displayed after the audit</string>
+  <string name="resource_comment_upload_success">Коментарът е изпратен! Ще бъде побликуван след преглед</string>
   <string name="resource_comment_version_name">(%1$s версия)</string>
   <string name="resource_default">Мелодия по подразбиране</string>
   <string name="resource_default_name">Ресурс</string>
@@ -160,7 +160,7 @@
   <string name="theme_import_fail">Неможе да се вмъкне %1$s тема</string>
   <string name="theme_import_from_sdcard">Вмъкване от SD картата</string>
   <string name="theme_import_importing">Обновяване.. %1$d</string>
-  <string name="theme_import_item_delete_request_button">Изтрии</string>
+  <string name="theme_import_item_delete_request_button">Изтрий</string>
   <string name="theme_import_item_delete_request_content">Темата не е обновена, можете да я използвате след обновяване или да я изтриете.</string>
   <string name="theme_import_item_delete_request_title">Темата не е обновена</string>
   <string name="theme_import_item_importing">Обновяване</string>
@@ -186,7 +186,7 @@
   <string name="theme_upgrade_request_title">Темите трябва да бъдат обновени</string>
   <string name="theme_upgrade_request_yes">Ок</string>
   <string name="third_party_pickers_activity_title">Задай %1$s</string>
-  <string name="title_component">Mix</string>
+  <string name="title_component">Смесени</string>
   <string name="title_local">Локални</string>
   <string name="title_online">В магазина</string>
   <string name="title_system_resource">Системни ресурси</string>
