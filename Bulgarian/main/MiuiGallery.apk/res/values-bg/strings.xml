@@ -386,9 +386,9 @@ friends."</string>
   <string name="set_image">Задай снимката като</string>
   <string name="set_label_all_albums">Всички албуми</string>
   <string name="set_label_local_albums">Албуми на телефона</string>
-  <string name="set_label_mtp_devices">MTP devices</string>
-  <string name="set_lock_and_wallpaper">Setting as Wallpaper...</string>
-  <string name="set_lock_or_wallpaper">Set wallpaper</string>
+  <string name="set_label_mtp_devices">MTP устройства</string>
+  <string name="set_lock_and_wallpaper">Задаване като тапет...</string>
+  <string name="set_lock_or_wallpaper">Задай като тапет</string>
   <string name="set_lockscreen">Set lock screen</string>
   <string name="set_recent_album">Set as recent album</string>
   <string name="set_screensaver_path_message">This album will be shown 5 seconds after screen shuts off.</string>
