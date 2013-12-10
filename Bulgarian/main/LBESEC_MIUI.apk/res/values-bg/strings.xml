@@ -180,7 +180,7 @@
   <string name="Privacy_App_Uninstall">Деинсталиране</string>
   <string name="Privacy_Perm_Count">Разрешени: %1$d Забранени: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s се опитва да получи ROOT достъп, който е забранен по подразбиране от съображения за сигурност. Ако искате да го разрешите, отидете от настройки в Разрешения.</string>
-  <string name="Su_Unavailable">ROOT досъпа е забранен в стабилните версии на MIUI. Моля, инсталирайте верия за разработчици.</string>
+  <string name="Su_Unavailable">ROOT достъпа е забранен в стабилните версии на MIUI. Моля, инсталирайте версия за разработчици.</string>
   <string name="SysOpt_Boost_AutoStart">Права за автостарт</string>
   <string name="SysOpt_Boost_AutoStart_Group">Автостарт</string>
   <string name="SysOpt_Boost_Boot">Стартиране</string>
