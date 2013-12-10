@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">This test will detect an OTG device.</string>
-  <string name="cit_OTG_plugin_check_title"> Start OTG Test</string>
-  <string name="cit_OTG_plugout_check_summary"> This test will detect for an OTG device plugged in status.</string>
-  <string name="cit_OTG_plugout_check_title">OTG Pulled out status</string>
-  <string name="cit_OTG_waiting_in">Please insert USB_OTG device.</string>
-  <string name="cit_OTG_waiting_out">Please unplug USB_OTG device.</string>
-  <string name="cit_ac_charger_in">AC charger is connected</string>
-  <string name="cit_ac_charger_out">AC charger in disconnected</string>
+  <string name="cit_OTG_plugin_check_summary">Този тест ще настрой OTG устройството.</string>
+  <string name="cit_OTG_plugin_check_title"> Стартиране на OTG теста</string>
+  <string name="cit_OTG_plugout_check_summary"> Този тест ще провери дали OTG устройството е свързано.</string>
+  <string name="cit_OTG_plugout_check_title">OTG статус</string>
+  <string name="cit_OTG_waiting_in">Сключете вашето USB_OTG устройство.</string>
+  <string name="cit_OTG_waiting_out">Изключете USB_OTG устройството.</string>
+  <string name="cit_ac_charger_in">Зарядното е включено</string>
+  <string name="cit_ac_charger_out">Зарядното е изключено</string>
   <string name="cit_accelermeter_sensor_check_summary">The screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on screen orientation</string>
   <string name="cit_accelermeter_sensor_check_title">Test Accelerometer</string>
   <string name="cit_audio_loopback_check_one_title">Test Microphone to receiver</string>
