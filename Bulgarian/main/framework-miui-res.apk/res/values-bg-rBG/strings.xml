@@ -472,7 +472,7 @@
   <string name="user_agreement2">" Условия за ползване"</string>
   <string name="user_agreement3">" и "</string>
   <string name="user_agreement4">"Политика на поверителност. "</string>
-  <string name="user_agreement5">Натискайки OK, Вие се съгласявате с гореизложеното. Натиснете Отмени, за да излезете.</string>
+  <string name="user_agreement5">Натискайки OK, Вие се съгласявате с гореизложеното. Натиснете Отказ, за да излезете.</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>

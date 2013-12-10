@@ -215,7 +215,7 @@
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежов режим</string>
   <string name="status_bar_toggle_power_high">Производителност</string>
-  <string name="status_bar_toggle_power_low">Пестене на енергия</string>
+  <string name="status_bar_toggle_power_low">Икономичен</string>
   <string name="status_bar_toggle_power_mid">Балансиран</string>
   <string name="status_bar_toggle_power_mode">Режим на работа</string>
   <string name="status_bar_toggle_privacy_mode">Гост</string>
@@ -248,7 +248,7 @@
   <string name="transformation_type_rotate">3D ротация</string>
   <string name="transformation_type_stack">Каскадно</string>
   <string name="uninstall">Деинсталиране</string>
-  <string name="uninstall_dialog_message">Премахване на приложението</string>
+  <string name="uninstall_dialog_message">Премахване на прилoжението</string>
   <string name="uninstall_dialog_title_format">Премахване на \"%s\"</string>
   <string name="unknown_artist_name">Неизвестен артист</string>
   <string name="unnamed_folder_name">Без име</string>

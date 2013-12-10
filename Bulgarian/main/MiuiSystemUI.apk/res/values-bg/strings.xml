@@ -208,7 +208,7 @@
   <string name="status_bar_network_flow_exceed">"Днес:%1$s    Надвишени:%2$s    Пакети:%3$s"</string>
   <string name="status_bar_network_flow_today">Днес:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>
-  <string name="status_bar_no_recent_apps">Няма последно използвани проложения</string>
+  <string name="status_bar_no_recent_apps">Няма последно използвани приложения</string>
   <string name="status_bar_notification_inspect_item_title">Информация за приложение</string>
   <string name="status_bar_recent_guide_all">Плъзни нагоре за да затвориш, плъзни надолу за да заключиш</string>
   <string name="status_bar_recent_guide_bottom">Плъзни надолу за да заключиш</string>
@@ -254,10 +254,10 @@
   <string name="torch_activity_name">Фенерче</string>
   <string name="usb_accessory_confirm_prompt">Отвори %1$s когато този USB аксесоар е свързан?</string>
   <string name="usb_accessory_permission_prompt">Разреши това приложение да има достъп до този %1$s USB аксесоар?</string>
-  <string name="usb_accessory_uri_prompt">Няма инсталирани проложения които да разботят с този USB аксесоар. Научете повече за този аксесоар на %1$s</string>
+  <string name="usb_accessory_uri_prompt">Няма инсталирани приложения които да работят с този USB аксесоар. Научете повече за този аксесоар на %1$s</string>
   <string name="usb_debugging_always">Винаги разреши от този компютър</string>
   <string name="usb_debugging_message">"Host RSA ключ е: %1$s"</string>
-  <string name="usb_debugging_title">Разреши USB debugging?</string>
+  <string name="usb_debugging_title">Разрешавате ли отстр. USB грешки?</string>
   <string name="usb_device_confirm_prompt">Отвори %1$s когато това USB устройство е свързано?</string>
   <string name="usb_device_permission_prompt">Разреши приложението %1$s да има достъп до това USB устройство?</string>
   <string name="usb_mode_dont_ask">"Не ме питай отново"</string>
