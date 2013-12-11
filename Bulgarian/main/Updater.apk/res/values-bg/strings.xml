@@ -36,7 +36,7 @@
   <string name="confirm_download_cancelation_dialog_message">Сигурни ли сте, че искате да прекратите свалянето?</string>
   <string name="copy_install_log">Копитай на клипборда</string>
   <string name="current_version_text">Текуща версия </string>
-  <string name="current_version_update_monthly_build">Текуща версия (Отнасясе за месечното обновление)</string>
+  <string name="current_version_update_monthly_build">Текуща версия (Отнася се за месечното обновление)</string>
   <string name="daily_build">Дневен билд</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_ok">Ок</string>
@@ -57,7 +57,7 @@
   <string name="finish_download">Свалянето завършено</string>
   <string name="get_update_error">Неможе да се намери информация за ъпдейта</string>
   <string name="install_email">Инсталиране на E-mail приложението</string>
-  <string name="install_file_explorer">моля инсталирайте файл експолорер</string>
+  <string name="install_file_explorer">моля инсталирайте файл експлорер</string>
   <string name="install_qq">Инсталиране на QQ приложение</string>
   <string name="install_rom_from_sd">Изберете инсталационнен пакет</string>
   <string name="install_sina">Инсталирайте Sina приложението</string>
@@ -65,13 +65,13 @@
   <string name="internal_build">Вградена версия</string>
   <string name="kernel_upgrade_link"/>
   <string name="kernel_upgrade_version"/>
-  <string name="loading">Запитванеg</string>
+  <string name="loading">Запитване</string>
   <string name="md5_check_cancelled">MD5 проверка отменена</string>
   <string name="mione_update_fail_description">Моля обновете отново</string>
   <string name="mione_update_fail_title">Обновяванете неуспешно</string>
   <string name="mione_update_success_title">Обновяването е успешно</string>
   <string name="monthly_build">Месечна версия</string>
-  <string name="move_data_to_sdcard_not_enough_space_message">Няма достатъчно място на SD card за да изместите %dMB този файл</string>
+  <string name="move_data_to_sdcard_not_enough_space_message">Няма достатъчно място на SD картата за да изместите посочения %dMB файл</string>
   <string name="move_data_to_sdcard_title">Прехвърляне на информациата на SD картата</string>
   <string name="moving_data_to_sdcard_message">"Информациата Ви се прехвърля на SD картата, моля не изключвайте USB mode или не махайте SD картата."</string>
   <string name="moving_data_to_sdcard_progress_format">Прехвърлени %1$ddKb от %2$dKb</string>
