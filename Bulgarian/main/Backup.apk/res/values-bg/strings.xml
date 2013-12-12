@@ -78,7 +78,7 @@
   <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press OK to cancel"</string>
   <string name="cloud_app_remove_cancel_prompt_title">Stop deletion</string>
   <string name="cloud_app_restore_cancel">Cancel restore</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Restore unfinised, press OK to cancel restore"</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Restore incomplete, press OK to cancel restore"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Cancel restore</string>
   <string name="cloud_app_wait_wifi">Waiting for Wi-Fi connection</string>
   <string name="compute_backup_info">Изтегляне на информация от архив...</string>
