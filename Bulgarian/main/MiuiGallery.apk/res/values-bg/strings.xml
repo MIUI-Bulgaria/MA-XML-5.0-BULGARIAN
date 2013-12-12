@@ -10,7 +10,7 @@
   <string name="add_to_cloud_album">Добави към облака</string>
   <string name="add_to_cloud_exceeded_the_size_message">Файлът е твърде голям за MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">Неможе да се изпълни операцията,избрани са твърде много файлове</string>
-  <string name="add_to_cloud_failed_message_with_count">%s файлът/овете немогът да бъдат добавену към облака</string>
+  <string name="add_to_cloud_failed_message_with_count">%2$s файлът/овете немогът да бъдат добавену към облака</string>
   <string name="add_to_cloud_file_exist_message">Има съществуваща галерия в този албум.</string>
   <string name="add_to_cloud_file_not_exist_message">Файлът не съществува.</string>
   <string name="add_to_cloud_folder">Добави към папка в облъка</string>
