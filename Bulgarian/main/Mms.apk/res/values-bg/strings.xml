@@ -403,7 +403,7 @@
   <string name="timed_message_expired_title_2">Изпращане сега?</string>
   <string name="timed_message_in_total">... (общо %d)</string>
   <string name="timed_message_to">до</string>
-  <string name="title_date_type">Клеймо на съобщение</string>
+  <string name="title_date_type">Време на съобщение</string>
   <string name="title_timed_message_dialog">Час на съобщение</string>
   <string name="to_address_label">"До: "</string>
   <string name="to_count">Всичко: %d</string>
@@ -434,4 +434,10 @@
   <string name="view_message_details">Виж детайлите на съобщение</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
+  <string name="sp_conversation_title">Notification Messages</string>
+  <string name="title_collapse_sp_messages">Групирай съобщенията от оператора</string>
+  <string name="pref_collapse_sp_messages_summary">Групирай съобщенията от оператора в едно</string>
+  <string name="sp_mark_as_read_title">Маркирай ВСИЧКИ съобщения като прочетени</string>
+  <string name="sp_mark_as_read">Маркирай всички съобщения като прочетени?</string>
+  <string name="sp_mark_as_read_progress">Маркиране на всички съобщения като прочетени...</string>
 </resources>
