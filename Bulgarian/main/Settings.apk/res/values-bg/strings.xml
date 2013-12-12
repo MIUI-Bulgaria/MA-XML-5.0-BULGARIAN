@@ -2071,7 +2071,7 @@ for MAC"</li>"
   <string name="really_remove_account_title">Ще изтриете ли профила?</string>
   <string name="realtime_protection">Защита</string>
   <string name="realtime_protection_title">Защита</string>
-  <string name="recognizer_settings_summary">Настройки за '%s'</string>
+  <string name="recognizer_settings_summary">Настройки за %s</string>
   <string name="recognizer_settings_title">Гласово търсене</string>
   <string name="recognizer_title">Разпознаване на глас</string>
   <string name="recompute_size">Преизчисляване на размера…</string>
