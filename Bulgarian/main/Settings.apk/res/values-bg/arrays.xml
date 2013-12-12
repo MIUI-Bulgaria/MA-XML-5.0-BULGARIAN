@@ -31,14 +31,14 @@
         <item>Смесена парола</item>
     </string-array>
     <string-array name="preferred_app_entries">
-       <item>Desktop</item>
-       <item>Phone</item>
-       <item>SMS</item>
-       <item>Browser</item>
-       <item>Camera</item>
-       <item>Albums</item>
-       <item>Music</item>
-       <item>Video</item>
-       <item>E-mail</item>
+       <item>Launcher</item>
+       <item>Телефон</item>
+       <item>Съобщения</item>
+       <item>Браузър</item>
+       <item>Камера</item>
+       <item>Галерия</item>
+       <item>Музика</item>
+       <item>Видео</item>
+       <item>Имейл</item>
    </string-array>
 </resources>
