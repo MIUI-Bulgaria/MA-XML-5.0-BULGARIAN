@@ -119,6 +119,7 @@
   <string name="confirm_delete_pictures">%s снимки</string>
   <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
   <string name="confirm_delete_videos">%s видео клипове</string>
+  <string name="confirm_download">"You need to download %s. This tip won't be displayed again."</string>
   <string name="contact_photo">Снимка на контакт</string>
   <string name="context_menu_add_contact">Добави към контакти</string>
   <string name="context_menu_copy">Копирай</string>
@@ -144,6 +145,7 @@
   <string name="delete_file">Сигурен ли сте, че искате да изтриете %1$d избраният(е) файл(ове)?</string>
   <string name="delete_files_and_folders">Сигурен ли сте, че искате да изтриете %1$d избраният(е) файл(ове) и %2$d избраната(е) папка(и)?</string>
   <string name="delete_folder">Сигурен ли сте, че искате да изтриете %1$d избраната(е) папка(и)?</string>
+  <string name="delete_smb_file_fail">Failed to delete smb file</string>
   <string name="deleting_files">Изтриване на файлове...</string>
   <string name="demo_video_folder_display_name">Демо видео клип</string>
   <string name="deny">Отказ</string>
@@ -158,6 +160,9 @@
   <string name="done">Готово</string>
   <string name="doodle">Русувай</string>
   <string name="doodle_tooltip">Плъзни върху снимката за да започнеш да рисуваш</string>
+  <string name="download">Download</string>
+  <string name="download_fail">Download failed!</string>
+  <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
   <string name="duotone">Двоен тон</string>
   <string name="duration">Продължителност</string>
   <string name="edit">Редактирай</string>
@@ -189,6 +194,7 @@
   <string name="fail_to_apply">Не може да се присъедини към албум.</string>
   <string name="fail_to_pick_email">Не е избран валиден Имейл</string>
   <string name="fail_to_sync_album">Неможе да се синхронизират албумите от сървъра. Моля проверете мрежовите си връзки!</string>
+  <string name="file_not_exist_message">File does not exist.</string>
   <string name="file_size">Размер на файла</string>
   <string name="filllight">Осветеност</string>
   <string name="fisheye">Рибешко око</string>
@@ -250,6 +256,7 @@
   <string name="location">Местоположение</string>
   <string name="locations">Мостоположения</string>
   <string name="lomoish">Ломо</string>
+  <string name="make_download_dir_fail">Failed to create a directory!</string>
   <string name="maker">Маркер</string>
   <string name="manual">Ръководство</string>
   <string name="me">аз</string>
@@ -284,6 +291,7 @@
   <string name="must_pick_file">Избери снимка</string>
   <string name="negative">Негатив</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="new_device_tips">New device found. Click to view</string>
   <string name="no">Не</string>
   <string name="no_albums_alert">Няма налични албуми.</string>
   <string name="no_connectivity">"Някои местоположения неможе да се намерят зареди проблем в мрежовата връзка."</string>
