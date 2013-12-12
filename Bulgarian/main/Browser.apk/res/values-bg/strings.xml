@@ -32,6 +32,7 @@
   <string name="add_bookmark_short">Добави</string>
   <string name="add_folder">Добави папка</string>
   <string name="add_new_bookmark">Добави отметка</string>
+  <string name="add_quicklink_to_popular">Добави към началната страница</string>
   <string name="add_to_bookmarks_menu_option">Отметки</string>
   <string name="add_to_homescreen_menu_option">Начален екран</string>
   <string name="add_to_other_folder_menu_option">Друга папка</string>
@@ -210,6 +211,10 @@
   <string name="folder_name">Име на папка</string>
   <string name="folder_name_too_long">Името на папката е прекалено дълго</string>
   <string name="forward">Напред</string>
+  <string name="general_set_default_browser_dialog_close_txt">Затвори</string>
+  <string name="general_set_default_browser_dialog_ok_txt">Ок</string>
+  <string name="general_set_default_browser_dialog_summary">Използвай интегрираните MIUI приложения за по-бърза и гладка производителност</string>
+  <string name="general_set_default_browser_title">Задай като браузер по подразбиране</string>
   <string name="geolocation_permissions_prompt_dont_share">Откажи</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s иска достъп до Вашето местоположение</string>
   <string name="geolocation_permissions_prompt_remember">Запомни избора</string>
@@ -430,9 +435,9 @@
   <string name="pref_privacy_clear_form_data">Изчисти данни за автоматично попълване на форми</string>
   <string name="pref_privacy_clear_form_data_dlg">Да изтрия ли запазените данни за автоматично попълване на форми?</string>
   <string name="pref_privacy_clear_form_data_summary">Изчисти всички запазени данни за автоматично попълване на форми</string>
-  <string name="pref_privacy_clear_geolocation_access">Забрани достъпа до местоположения</string>
+  <string name="pref_privacy_clear_geolocation_access">Изтрий достъпа до местоположения</string>
   <string name="pref_privacy_clear_geolocation_access_dlg">Да изтрия ли списъка от сайтове, които имат достъп до местоположението Ви?</string>
-  <string name="pref_privacy_clear_geolocation_access_summary">Забрани достъпа до метоположения за всички уеб страници</string>
+  <string name="pref_privacy_clear_geolocation_access_summary">Изтрий достъпа до метоположения за всички уеб страници</string>
   <string name="pref_privacy_clear_history">Изтрий историята</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Да изтрия ли историята на сърфирането Ви?</string>
   <string name="pref_privacy_clear_history_dlg">Да изтрия ли списъка с посетени страници?</string>
@@ -537,6 +542,7 @@
   <string name="selection_all">Избери всичко</string>
   <string name="send_bookmark_to_home_screen">Създай пряк път на началните екрани</string>
   <string name="send_to_desktop">На началните екрани</string>
+  <string name="send_to_popular">Популярни</string>
   <string name="set_as_homepage">Задай като начална страница</string>
   <string name="share_link">Сподели връзка</string>
   <string name="share_page">Сподели страница</string>
