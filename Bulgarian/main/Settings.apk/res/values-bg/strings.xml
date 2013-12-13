@@ -2279,7 +2279,7 @@ for MAC"</li>"
   <string name="set_dds_success">Успешно задаване на абонамента за данни</string>
   <string name="set_sms_error">Грешка при задаване на абонамента за SMS. Функцията не е налична.</string>
   <string name="set_voice_error">Грешка при задаване на абонамента за гласови повиквания. Функцията не е налична.</string>
-  <string name="settings_backup">Резервно копие на настройки/string>
+  <string name="settings_backup">Резервно копие на настройки</string>
   <string name="settings_backup_summary">Създай резервно копие на моите настройки</string>
   <string name="settings_button">Настройки</string>
   <string name="settings_label">Настройки</string>
