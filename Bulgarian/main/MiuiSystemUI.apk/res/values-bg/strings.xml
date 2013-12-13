@@ -190,15 +190,15 @@
   <string name="settings_show_notificationBar_notification">Покажи бележките в ленатата с известия</string>
   <string name="settings_show_statusBar_notification">Покажи бележкаите в ленатата с известия</string>
   <string name="settings_status_bar">Лента с известия</string>
-  <string name="settings_toggle">Бутони за бърз достъп</string>
+  <string name="settings_toggle">Превключватели</string>
   <string name="settings_toggle_collapse_after_clicked">Покажи когато се докосне</string>
-  <string name="settings_toggle_layout_style">Стил на Бутони за бърз достъп</string>
+  <string name="settings_toggle_layout_style">Стил на Превключватели</string>
   <string name="settings_toggle_layout_style_applying">Смяна на стила на бутоните за бърз достъп...</string>
   <string name="settings_toggle_layout_style_compact">Компактен вид</string>
   <string name="settings_toggle_layout_style_single_page">Страница</string>
   <string name="settings_toggle_position">"Персонализирай местоположението на бутоните за бърз достъп"</string>
   <string name="settings_toggle_position_divider_list">Бутоните за бърз достъп под лентата за известия са активни</string>
-  <string name="settings_toggle_position_divider_page">%1$d бутони за бърз достъп разположени под лентата за известия са активни</string>
+  <string name="settings_toggle_position_divider_page">%1$d превключвателите, разположени под лентата за известия са активни</string>
   <string name="settings_toggle_position_reset">Ресет на бутоните за бърз достъп</string>
   <string name="share">Сподели</string>
   <string name="status_bar_date_format">"EEEE 
@@ -248,7 +248,7 @@ d.MMMM.yyyy"</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="status_bar_use_physical_keyboard">Използвай хардуерна клавиатура</string>
   <string name="tab_notifications_lable">Известия</string>
-  <string name="tab_toggles_lable">Бутони за бърз достъп</string>
+  <string name="tab_toggles_lable">Превключватели</string>
   <string name="title_usb_accessory">USB аксесоари</string>
   <string name="toast_rotation_locked">Екранът е заключен в landscape режим</string>
   <string name="torch_activity_hint">Включете фенерчето като задържите [icon] при заключен екран</string>
