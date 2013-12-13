@@ -201,7 +201,8 @@
   <string name="settings_toggle_position_divider_page">%1$d бутони за бърз достъп разположени под лентата за известия са активни</string>
   <string name="settings_toggle_position_reset">Ресет на бутоните за бърз достъп</string>
   <string name="share">Сподели</string>
-  <string name="status_bar_date_format">EEEE d.MMMM.yyyy</string>
+  <string name="status_bar_date_format">"EEEE 
+d.MMMM.yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настрой методи на въвеждане</string>
   <string name="status_bar_network_flow">"Днес:%1$s    Остават:%2$s    Пакети:%3$s"</string>
