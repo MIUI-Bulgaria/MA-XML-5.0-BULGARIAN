@@ -171,7 +171,7 @@
   <string name="resource_local">Локално %1$s</string>
   <string name="resource_mute">Няма</string>
   <string name="resource_no_result">Няма резултат</string>
-  <string name="resource_notification_default">Уведомления</string>
+  <string name="resource_notification_default">Известия</string>
   <string name="resource_online">Онлайн %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Безплатно</string>

@@ -98,7 +98,7 @@
   <string name="delete_unlocked">Изтрий заключени съобщения</string>
   <string name="delivery_report_activity">Потвърждение за доставка</string>
   <string name="delivery_toast_body">Съобщението до %s е доставено.</string>
-  <string name="disable_notifications_dialog_message">Да не се дублират уведомления за SMS на приложението за съобщения по подразбиране</string>
+  <string name="disable_notifications_dialog_message">Да не се дублират известия за SMS на приложението за съобщения по подразбиране</string>
   <string name="discard">Отмени</string>
   <string name="discard_message">Отмяна</string>
   <string name="discard_message_reason">Съобщението ще бъде премахнато, тъй като няма указани получатели.</string>
@@ -262,7 +262,7 @@
   <string name="pref_edit_smsc_address">Номер на SMS-център</string>
   <string name="pref_messages_to_save">Задай броя на съобщения за запазване в кореспонденцията</string>
   <string name="pref_mms_settings_title">Настройки на съобщения (MMS)</string>
-  <string name="pref_notification_settings_title">Настройки на уведомления</string>
+  <string name="pref_notification_settings_title">Настройки на известия</string>
   <string name="pref_other_title">Други</string>
   <string name="pref_sms_theme_title">Настройки на теми</string>
   <string name="pref_summary_allow_si_sl_push">Позволете получаване на WAP Push съобщения (SI/SL)</string>
@@ -275,7 +275,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Автоматично зареждане на съобщения в роуминг</string>
   <string name="pref_summary_new_message_popup">Покажи изскачащ прозорец при ново съобщение</string>
   <string name="pref_summary_new_message_popup_when_secure">Въведете паролата си за да видите изскачащия прозорец</string>
-  <string name="pref_summary_notification_body_enabled">Преглед на съобщения на заключен екран и в лентата с уведомления</string>
+  <string name="pref_summary_notification_body_enabled">Преглед на съобщения на заключен екран и в лентата с известия</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Изключване на преглед на съобщения в защитен режим</string>
   <string name="pref_summary_on_system_mms_priority">Системното Mms приложение ще получава съобщенията първо</string>
   <string name="pref_summary_show_recent_contacts">Прегледайте списъка с последните контакти, когато пишете съобщение</string>
@@ -308,7 +308,7 @@
   <string name="priority_normal">Нормален</string>
   <string name="privacy_mode_hint">Съобщението не може да бъде изпратено в защитен режим</string>
   <string name="private_message">Частни съобщения</string>
-  <string name="private_new_notification">Уведомление</string>
+  <string name="private_new_notification">Известие</string>
   <string name="private_protect">Защита на частни съобщения</string>
   <string name="private_settings">Настройка на частни</string>
   <string name="processing">Обработка...</string>

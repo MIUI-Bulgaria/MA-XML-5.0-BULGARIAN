@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Грешка в информацията за профила, опитайте се да влезете отново!</string>
   <string name="account_container_title">От профила</string>
@@ -776,7 +776,7 @@
   <string name="resource_local">Локални %1$s</string>
   <string name="resource_mute">Без звук</string>
   <string name="resource_no_result">Няма резултати</string>
-  <string name="resource_notification_default">Уведомления</string>
+  <string name="resource_notification_default">Известия</string>
   <string name="resource_online">Онлайн %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Безплатни</string>

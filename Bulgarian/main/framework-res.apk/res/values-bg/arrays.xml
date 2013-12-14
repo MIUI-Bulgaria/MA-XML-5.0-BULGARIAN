@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Домашен</item>
+        <item>Личен</item>
         <item>Служебен</item>
         <item>Друг</item>
         <item>По избор</item>

@@ -89,7 +89,7 @@
   <string name="HIPS_Perm_Call_Desc">Набиране, приемане и отклоняване на разговори</string>
   <string name="HIPS_Perm_Call_Hint">%1$s приложения имат достъп до набиране, приемане и отклоняване на разговори</string>
   <string name="HIPS_Perm_Call_Number">набиране на %1$s</string>
-  <string name="HIPS_Perm_CancelMissedCalls">изчистване на уведомление за пропуснати повиквания</string>
+  <string name="HIPS_Perm_CancelMissedCalls">изчистване на известие за пропуснати повиквания</string>
   <string name="HIPS_Perm_Contact">Контакти</string>
   <string name="HIPS_Perm_Contact_Access">четене на контактите Ви</string>
   <string name="HIPS_Perm_Contact_Desc">Достъп до списъка Ви с контакти</string>

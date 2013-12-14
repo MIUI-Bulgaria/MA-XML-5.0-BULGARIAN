@@ -165,7 +165,7 @@
   <string name="download_no_sdcard_dlg_msg" formatted="false">Изтеглянето на файлът %s, изисква наличието на USB памет.</string>
   <string name="download_no_sdcard_dlg_title">USB паметта е недостъпна</string>
   <string name="download_pending">Започва изтегляне...</string>
-  <string name="download_sdcard_busy_dlg_msg">USB паметта е заета. За да разрешите изтегляне, кликнете на "Изключи USB памет" в лентата с уведомления.</string>
+  <string name="download_sdcard_busy_dlg_msg">USB паметта е заета. За да разрешите изтегляне, кликнете на "Изключи USB памет" в лентата с известия.</string>
   <string name="download_sdcard_busy_dlg_title">USB паметта е недостъпна</string>
   <string name="download_video_alert_message">Ако трафика на данни през оператора е ограничен, изтеглянето на видео може да го изразходи. Ще продължите ли?</string>
   <string name="download_video_alert_title">Предупеждение!</string>

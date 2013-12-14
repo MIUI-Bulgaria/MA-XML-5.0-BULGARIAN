@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">Второ обаждане от едно и също лице в рамките на три минути няма да се заглуши</string>
   <string name="qm_repeated_call_summary_none">Не прави изключение за повтарящи се повиквания</string>
   <string name="qm_special_call_setting_group">Изключения</string>
-  <string name="qm_summary">След включване на Тих режим, входящите повиквания и съобщения ще са без звук и телефона няма да получава уведомления.</string>
+  <string name="qm_summary">След включване на Тих режим, входящите повиквания и съобщения ще са без звук и телефона няма да получава известия.</string>
   <string name="qm_vip_call_button_title">Позволи повиквания от белия списък</string>
   <string name="qm_vip_call_setting_title">Настройки на входящите повиквания от белия списък</string>
   <string name="qm_vip_call_summary_contact">Всички контакти</string>
@@ -108,7 +108,7 @@
   <string name="st_mute_title">Тих режим</string>
   <string name="st_other_setting_group">Други настройки</string>
   <string name="st_settings_name">Настройки</string>
-  <string name="st_show_block_notification">Покажи блокираните уведомления</string>
+  <string name="st_show_block_notification">Покажи блокираните известия</string>
   <string name="st_sms_group">Съобщения</string>
   <string name="tab_blacklist">Черен списък</string>
   <string name="tab_block_log">Защитна стена</string>

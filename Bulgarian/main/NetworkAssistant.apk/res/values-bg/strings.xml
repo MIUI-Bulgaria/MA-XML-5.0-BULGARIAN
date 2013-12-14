@@ -88,7 +88,7 @@
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Месечен трафик</string>
   <string name="notify_carrier_settings_title">Вие не сте настроили доставчика си на услуги. Настройка сега?</string>
-  <string name="notify_traffic_settings_cancel_hint">Уведомленията и контрола на трафика ще бъдат деактивирани. Изход сега?</string>
+  <string name="notify_traffic_settings_cancel_hint">Известията и контрола на трафика ще бъдат деактивирани. Изход сега?</string>
   <string name="notify_traffic_settings_title">Вие не сте настроили вашия абонаментен план. Настройка сега?</string>
   <string name="overseas_menu_traffic_adjust">Настройте ръчно</string>
   <string name="overseas_menu_traffic_settings">Лимит на данните</string>
@@ -102,11 +102,11 @@
   <string name="pref_connect_settings_enable_backgroung_hint">Позволете на приложенията автоматично свързване към Интернет във фонов режим</string>
   <string name="pref_connect_settings_exceed_limit">Изключване на данни</string>
   <string name="pref_connect_settings_exceed_limit_hint">Предупредете ме и изключете данните при превишаване на месечния трафик</string>
-  <string name="pref_connect_settings_notify_in_statusbar">Покажи в лентата с уведомления</string>
+  <string name="pref_connect_settings_notify_in_statusbar">Покажи в лентата с известия</string>
   <string name="pref_connect_settings_title">Настройки на монитор за данни</string>
   <string name="pref_network_speed_internal_title">Интервал на обновяване</string>
   <string name="pref_network_speed_settings">Покажи скоростта на мрежата</string>
-  <string name="pref_network_status_bar">Лента с уведомления</string>
+  <string name="pref_network_status_bar">Лента с известия</string>
   <string name="pref_netwotk_speed_internal_summary">Обновяване на скоростта на мрежата на %d секунди</string>
   <string name="pref_traffic_adjust_title">Регулиране на трафика</string>
   <string name="pref_traffic_daily_limit_settings">Настройки на дневен лимит</string>

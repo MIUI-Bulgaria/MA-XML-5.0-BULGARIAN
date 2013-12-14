@@ -18,7 +18,7 @@
   <string name="accessibility_sync_cal">Синхронизиране на календара</string>
   <string name="accounts">Профили и синхронизиране</string>
   <string name="acct_not_synced">"Този профил не е синхронизиран, така че Вашите календари може да не са актуални."</string>
-  <string name="acessibility_cal_notification">Уведомления от Календар</string>
+  <string name="acessibility_cal_notification">Известия от Календар</string>
   <string name="acessibility_selected_marker_description">Избрано събитие</string>
   <string name="acessibility_snooze_notification">Отлагане на събитието</string>
   <string name="add_account">Добави профил</string>
@@ -26,7 +26,7 @@
   <string name="agenda_tomorrow">Утре, %1$s</string>
   <string name="agenda_view">Дневен ред</string>
   <string name="agenda_yesterday">Вчера, %1$s</string>
-  <string name="alert_title">Уведомления от Календар</string>
+  <string name="alert_title">Известия от Календар</string>
   <string name="app_label">Календар</string>
   <string name="attendees_label">Посетители</string>
   <string name="birthday_calendar_display_name">Напомняне за рожден ден</string>
@@ -124,9 +124,9 @@
   <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
   <string name="preferences_about_title">За програмата</string>
-  <string name="preferences_alerts_popup_title">Изскачащо уведомление</string>
+  <string name="preferences_alerts_popup_title">Изскачащо известие</string>
   <string name="preferences_alerts_ringtone_title">Мелодия</string>
-  <string name="preferences_alerts_title">Уведомления</string>
+  <string name="preferences_alerts_title">Известия</string>
   <string name="preferences_alerts_vibrateWhen_title">Вибрация</string>
   <string name="preferences_build_version">Версия</string>
   <string name="preferences_category_account_title">Профил</string>

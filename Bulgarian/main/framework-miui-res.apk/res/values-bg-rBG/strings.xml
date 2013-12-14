@@ -6,9 +6,9 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Задай по подразбиране (не питай отново)</string>
   <string name="android_lockscreen_glogin_instructions">За отключване влезете в профила си</string>
-  <string name="app_no_notification">няма уведомления</string>
-  <string name="app_notificaiton_on_notificationBar">Лента с уведомления</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Лента за статус и уведомления</string>
+  <string name="app_no_notification">няма известия</string>
+  <string name="app_notificaiton_on_notificationBar">Лента с известия</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Лента за статус и известия</string>
   <string name="arbor_day">""</string>
   <string name="autumn_begins">""</string>
   <string name="autumn_equinox">""</string>
@@ -488,9 +488,9 @@
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Повикване</string>
   <string name="volume_icon_description_media">Медия</string>
-  <string name="volume_icon_description_notification">Уведомления</string>
+  <string name="volume_icon_description_notification">Известия</string>
   <string name="volume_icon_description_ringer">Мелодия</string>
-  <string name="volume_ring_description">Мелодия и уведомления</string>
+  <string name="volume_ring_description">Мелодия и известия</string>
   <string name="wake_alarm_message">Алармата ще звъни в %s </string>
   <string name="white_dews"/>
   <string name="winter_begins"/>

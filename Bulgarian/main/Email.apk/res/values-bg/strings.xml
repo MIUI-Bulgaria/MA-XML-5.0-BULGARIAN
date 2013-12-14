@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Профил</string>
   <string name="account_delete_dlg_instructions_fmt">Профилът \"%s\" ще бъде премахнат от Имейл приложението.</string>
@@ -36,16 +36,16 @@
   <string name="account_settings_login_dialog_title">"Неуспешно влизане в профила"</string>
   <string name="account_settings_mail_check_frequency_label">Честота за проверка на "Входящи"</string>
   <string name="account_settings_name_label">Вашето име</string>
-  <string name="account_settings_notifications">Настройки на уведомления</string>
-  <string name="account_settings_notify_label">Имейл уведомления</string>
-  <string name="account_settings_notify_summary">Извести в лентата с уведомления при получаване на нов имейл</string>
+  <string name="account_settings_notifications">Настройки на известия</string>
+  <string name="account_settings_notify_label">Имейл известия</string>
+  <string name="account_settings_notify_summary">Уведоми в лентата с известия при получаване на нов имейл</string>
   <string name="account_settings_outgoing_label">Настройки на изходяща поща</string>
   <string name="account_settings_outgoing_summary">Потребителско име, парола и други настройки на сървъра за изходяща поща</string>
   <string name="account_settings_ringtone">Избери мелодия</string>
   <string name="account_settings_servers">Настройки на сървъра</string>
   <string name="account_settings_signature_hint">Кликнете тук, за да промените подписа си</string>
   <string name="account_settings_signature_label">Подпис</string>
-  <string name="account_settings_summary">Честота на синхронизация, уведомления и други настройки</string>
+  <string name="account_settings_summary">Честота на синхронизация, известия и други настройки</string>
   <string name="account_settings_sync_calendar_enable">Синхронизирай календара</string>
   <string name="account_settings_sync_calendar_summary">Синхронизирай календара на този профил</string>
   <string name="account_settings_sync_contacts_enable">Синхронизирай контакти</string>
