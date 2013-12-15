@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Import</string>
+  <string name="Import">Импортиране</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Toggle camera and video (currently using %s)</string>
   <string name="accessibility_camera_auto_flashmode">Auto-flash</string>
