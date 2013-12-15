@@ -2,10 +2,10 @@
 <resources>
   <string name="app_name">Антиспам</string>
   <string name="bl_block_info" formatted="false">Блокирани: Брой %d, Детайли %d</string>
-  <string name="bl_no_blacklist">Черния списък е празен</string>
+  <string name="bl_no_blacklist">Черният списък е празен</string>
   <string name="bl_no_block_call">Всички блокирани повиквания ще бъдат тук</string>
   <string name="bl_no_block_sms">Всички блокирани съобщения ще бъдат тук</string>
-  <string name="dlg_add_blacklist">Ще добавите ли номерът към черния списък?</string>
+  <string name="dlg_add_blacklist">Ще добавите ли номера към черния списък?</string>
   <string name="dlg_add_keyword">Добави ключови думи</string>
   <string name="dlg_add_manual_hint">Въведи телефонен номер</string>
   <string name="dlg_add_manual_ok">Добави</string>
@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">Второ обаждане от едно и също лице в рамките на три минути няма да се заглуши</string>
   <string name="qm_repeated_call_summary_none">Не прави изключение за повтарящи се повиквания</string>
   <string name="qm_special_call_setting_group">Изключения</string>
-  <string name="qm_summary">След включване на Тих режим, входящите повиквания и съобщения ще са без звук и телефона няма да получава известия.</string>
+  <string name="qm_summary">След включване на Тих режим, входящите повиквания и съобщения ще са без звук и телефонът няма да получава известия.</string>
   <string name="qm_vip_call_button_title">Позволи повиквания от белия списък</string>
   <string name="qm_vip_call_setting_title">Настройки на входящите повиквания от белия списък</string>
   <string name="qm_vip_call_summary_contact">Всички контакти</string>
@@ -91,7 +91,7 @@
   <string name="st_block_all">Блокирай повиквания и съобщения</string>
   <string name="st_block_mute">Блокирай повиквания и заглуши съобщенията</string>
   <string name="st_block_private_call_button">Блокирай всички повиквания от частен номер</string>
-  <string name="st_block_setting_group">Настройки на списък за блокиране</string>
+  <string name="st_block_setting_group">Настройки на списъка за блокиране</string>
   <string name="st_block_setting_title">Повиквания и съобщения</string>
   <string name="st_block_title">Блокирай и запиши в списък</string>
   <string name="st_block_unknown_call">Блокирай всички повиквания от непознат номер</string>
@@ -100,8 +100,8 @@
   <string name="st_common_setting_group">Бърз преглед</string>
   <string name="st_filter_keywords_setting_summary1">Съобщения от непознати контакти ще бъдат блокирани.</string>
   <string name="st_filter_keywords_setting_summary2">Добавете няколко ключови думи, разделени със запетая.</string>
-  <string name="st_filter_keywords_setting_title">Задайте филтър по ключови думи</string>
-  <string name="st_filter_keywords_title">Филтър по ключови думи за съобщения</string>
+  <string name="st_filter_keywords_setting_title">Задайте филтър с ключови думи</string>
+  <string name="st_filter_keywords_title">Филтър за съобщения с ключови думи</string>
   <string name="st_filter_sms_button">Филтър за спам съобщения</string>
   <string name="st_mute_all">Повиквания и съобщения без звук</string>
   <string name="st_mute_block">Повиквания без звук и блокиране на съобщения</string>
