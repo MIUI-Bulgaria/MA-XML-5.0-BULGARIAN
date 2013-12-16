@@ -12,7 +12,7 @@
   <string name="add_vm_number_str">Добавете номер</string>
   <string name="add_zero_prefix">Добавете 0 преди да изберете номер</string>
   <string name="adding_fdn_contact">Добавяне на предпочитан номер…</string>
-  <string name="additional_cdma_call_sttings">Допълнителни настройки на CDMA</string>
+  <string name="additional_cdma_call_settings">Допълнителни настройки на CDMA</string>
   <string name="additional_gsm_call_settings">Допълнителни настройки</string>
   <string name="administrative_disable">Административни функции забранено</string>
   <string name="administrative_enable">Административни функции разрешено</string>
