@@ -16,6 +16,8 @@
   <string name="accessibility_remove_reminder">Изтрий напомняне</string>
   <string name="accessibility_repeats">Повторение</string>
   <string name="accessibility_sync_cal">Синхронизиране на календара</string>
+  <string name="account_and_calendar">Акаунт и календар</string>
+  <string name="account_and_calendar_to_display">Показване на акаунт и календар</string>
   <string name="accounts">Профили и синхронизиране</string>
   <string name="acct_not_synced">"Този профил не е синхронизиран, така че Вашите календари може да не са актуални."</string>
   <string name="acessibility_cal_notification">Известия от Календар</string>
@@ -39,8 +41,11 @@
   <string name="birthday_notification_title_three_days_later">"Скоро е рождения ден на %1$s"</string>
   <string name="birthday_notification_title_today">"%1$s има рожден ден"</string>
   <string name="birthday_notification_type_term_lunar"/>
+  <string name="button_day">D</string>
+  <string name="button_month">M</string>
   <string name="calendar_refresh">Обнови</string>
   <string name="change_response_title">Промяна на отговор</string>
+  <string name="chongsha"/>
   <string name="copy_db">Изпрати база данни</string>
   <string name="copy_email">Копирай E-mail адрес</string>
   <string name="copy_number">Копирай телефонен номер</string>
@@ -55,6 +60,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Ден</string>
   <string name="day_view_new_event_hint">Създай събитие</string>
+  <string name="default_reminder_mode">Напомняне по подразбиране</string>
   <string name="delete_label">Изтрий</string>
   <string name="delete_recurring_event_title">Ще изтриете ли %s?</string>
   <string name="delete_this_event_title">Ще изтриете ли това събитие?</string>
@@ -76,13 +82,22 @@
   <string name="email_picker_label">E-mail на</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Празни събития не се създават.</string>
+  <string name="event_account">Календар за акаунт</string>
+  <string name="event_all_day_label">Цял ден</string>
   <string name="event_create">Ново събитие</string>
   <string name="event_delete">Изтрий събитие</string>
   <string name="event_edit">Редактирай събитие</string>
+  <string name="event_hide_more">Скрии</string>
+  <string name="event_info_descrip">"Описание: "</string>
   <string name="event_info_organizer">Органайзер:</string>
   <string name="event_info_reminders_label">Напомняния</string>
+  <string name="event_info_repeat">"Повторно: "</string>
   <string name="event_info_title">Преглед на събития</string>
   <string name="event_info_title_invite">Покана за среща</string>
+  <string name="event_info_when">"Кога: "</string>
+  <string name="event_info_where">"Къде: "</string>
+  <string name="event_lunar_month"/>
+  <string name="event_show_more">Покажи</string>
   <string name="event_view">Преглед на събития</string>
   <string name="every_weekday">Всеки делник (Пон-Пт)</string>
   <string name="gadget_no_events">Няма предстоящи събития в календара</string>
@@ -93,11 +108,14 @@
   <string name="hint_description">Описание</string>
   <string name="hint_what">Име на събитие</string>
   <string name="hint_where">Място на събитие</string>
+  <string name="huangli_bad_type"/>
+  <string name="huangli_good_type"/>
   <string name="jump_date">Отиди</string>
   <string name="jump_date_full">Отиди на дата</string>
   <string name="loading">Зареждане…</string>
   <string name="local_calendar_display_name">Локален календар</string>
   <string name="local_owner_account_name">Локален профил</string>
+  <string name="lunar_date">Лунна дата</string>
   <string name="menu_about_preferences">За Календар</string>
   <string name="menu_general_preferences">Общи настройки</string>
   <string name="menu_preferences">Настройки</string>
@@ -119,6 +137,7 @@
   <string name="no_syncable_calendars">Няма календари</string>
   <string name="no_title_label">(Неозаглавен)</string>
   <string name="not_synced">Не е синхронизиран</string>
+  <string name="pengzu"/>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
   <string name="prefDefault_alerts_vibrate_false">never</string>
   <string name="prefDefault_alerts_vibrate_true">always</string>
@@ -172,6 +191,7 @@
   <string name="select_synced_calendars_button">Календари за синхронизиране</string>
   <string name="select_synced_calendars_title">Календари за синхронизиране</string>
   <string name="select_visible_calendars_title">Календари, които се показват</string>
+  <string name="show_all_lunar">Покажи лунен календар</string>
   <string name="show_controls">Покажи елементи за управление</string>
   <string name="show_day_view">Покажи ден</string>
   <string name="show_newer_events">Докоснете за преглед на събития след %1$s</string>
@@ -179,8 +199,10 @@
   <string name="snooze_all_label">Отложи всички</string>
   <string name="snooze_label">Отлагане</string>
   <string name="synced">Синхронизирани</string>
+  <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Събитие %1$s на %2$s.</string>
+  <string name="time_zone">Часова зона</string>
   <string name="timezone_label">Часови пояс</string>
   <string name="today">Днес</string>
   <string name="today_at_time_fmt">Днес в %s</string>
@@ -194,7 +216,13 @@
   <string name="what_label">Какво</string>
   <string name="when_label">Кога</string>
   <string name="where_label">Къде</string>
+  <string name="widget_events">Предстоящи събития</string>
+  <string name="widget_no_events">Няма предстоящи събития</string>
+  <string name="widget_select_style">Избери widget</string>
   <string name="work_day_indication"/>
+  <string name="wuxing"/>
+  <string name="xingxiu"/>
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
+  <string name="zhushen"/>
 </resources>
