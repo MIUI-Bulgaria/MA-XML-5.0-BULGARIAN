@@ -118,6 +118,8 @@
   <string name="confirm_delete_items">%s файлове</string>
   <string name="confirm_delete_pictures">%s снимки</string>
   <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
+  <string name="confirm_delete_this_picture">Сигурни ли сте, че искате да изтриете избраната снимка?</string>
+  <string name="confirm_delete_this_video">Сигурни ли сте, че искате да изтриете избраното видео?</string>
   <string name="confirm_delete_videos">%s видео клипове</string>
   <string name="confirm_download">"You need to download %s. This tip won't be displayed again."</string>
   <string name="contact_photo">Снимка на контакт</string>
@@ -251,6 +253,7 @@
   <string name="landscape_mode">Включи Пейзажен режим</string>
   <string name="loading">Зареждане...</string>
   <string name="loading_failure">Снимката неможе да бъде заредена</string>
+  <string name="loading_members">Зареждане на потребители...</string>
   <string name="loading_thumbnail">зареждане на умалени изображения...</string>
   <string name="local_albums">Снимки на телефона</string>
   <string name="location">Местоположение</string>
