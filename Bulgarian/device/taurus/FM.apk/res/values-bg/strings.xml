@@ -86,6 +86,7 @@
   <string name="preset_tune">Настрой</string>
   <string name="presetlist_autoselect_title">Потвърди автоматичен избор</string>
   <string name="radio_text_string">Това е дълго радио текстово съобщение, което трябва да превъртите</string>
+  <string name="record_completed">Записът е завършен</string>
   <string name="record_error_file_removed">Записа е спрян. Записания файл е изтрит.</string>
   <string name="record_error_unknown">Записа е спрян. Непозната грешка по време на записа.</string>
   <string name="record_fail">Записа е неуспешен</string>
