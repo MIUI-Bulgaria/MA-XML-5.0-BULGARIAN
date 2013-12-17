@@ -485,6 +485,8 @@
   <string name="local_profile_title">Моят локален профил</string>
   <string name="local_search_label">Всички контакти</string>
   <string name="locale_change_in_progress">Списъкът с контакти е актуализиран, за да отрази промяната на езика.</string>
+  <string name="login_before_recharging">Трябва да влезете в акаунта си преди да презаредите.</string>
+  <string name="login_ok">Вход</string>
   <string name="lunarBirthdayLabelsGroup">Лунен рожден ден</string>
   <string name="make_primary">Запомни този избор</string>
   <string name="map_custom">Покажи адрес %s</string>
@@ -744,6 +746,7 @@
   <string name="recent_updates">Последни актуализации</string>
   <string name="redirect_calls_to_vm_confirm_message">Ако не сте заявили услугата при оператора, моля не включвайте. В противен случай, може да не могат да получават обаждания от този контакт.</string>
   <string name="redirect_calls_to_vm_confirm_text">Включи</string>
+  <string name="refresh">Презареди</string>
   <string name="relationLabelsGroup">Отношения</string>
   <string name="remind_btn_ignore">Игнорирай</string>
   <string name="remind_btn_sync_now">Синхронизиране сега</string>
@@ -897,6 +900,8 @@
   <string name="success_message_import_from_account">Успешно импортиране</string>
   <string name="summary_kind_title">Инфо:</string>
   <string name="t9_search_guide">Въведи номер или намери контакти с помощта на Т9</string>
+  <string name="t9_search_guide_pinyin">Натиснете 7 и 5 за търсене, пример:. Steve Jobs</string>
+  <string name="t9_search_guide_zhuyin">Натиснете 7 и 5 за търсене, пример:. Steve Jobs</string>
   <string name="take_new_photo">Направи нова снимка</string>
   <string name="take_photo">Направи снимка</string>
   <string name="titleJoinContactDataWith">Обедини контакти</string>
@@ -956,5 +961,12 @@
   <string name="websiteLabelsGroup">Уеб сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Изчисти данни</string>
+  <string name="yellowPageNavigationIconLabel">Директория</string>
+  <string name="yellowPageNavigationLabel">Директория</string>
+  <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
+  <string name="yellowpage_navigation_search_hint">Търси</string>
+  <string name="yellowpage_navigation_search_offline_hint">Мрежата не е достъпна</string>
+  <string name="yellowpage_navigation_search_select_city">Моля изберете град</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>
