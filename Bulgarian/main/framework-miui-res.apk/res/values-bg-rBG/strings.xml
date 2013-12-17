@@ -473,9 +473,7 @@
   <string name="user_agreement3">" и "</string>
   <string name="user_agreement4">"Политика на поверителност. "</string>
   <string name="user_agreement5">Натискайки OK, Вие се съгласявате с гореизложеното. Натиснете Отказ, за да излезете.</string>
-  <string name="v5_date_picker_label_day"/>
-  <string name="v5_date_picker_label_month"/>
-  <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title">Време на известието</string>
   <string name="v5_deselect_all">Размаркирай всички</string>
   <string name="v5_edit_mode_title_empty">Маркирай елементи</string>
   <string name="v5_icon_menu_bar_more_item_label">Още</string>
