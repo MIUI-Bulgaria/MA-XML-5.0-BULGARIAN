@@ -179,7 +179,7 @@
   <string name="micloud_activate_retry_btn">Опитай отново активиране</string>
   <string name="micloud_activating_account_notify_info">Вие активирате вашият Xiaomi профил</string>
   <string name="micloud_activating_account_notify_title">Активиране на Xiaomi профил...</string>
-  <string name="micloud_active_alert_title">Активирайте вашият профилActivate your account</string>
+  <string name="micloud_active_alert_title">Активирайте вашият профил</string>
   <string name="micloud_active_email_sent_1">Изпратили сме Ви линк за активиране на вашият Имейл:</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Посети %s</string>
