@@ -24,7 +24,7 @@
   <string name="advertisements_enable">Реклами включени</string>
   <string name="alert_dialog_close">Излизане от профила</string>
   <string name="alert_dialog_dismiss">Отказване</string>
-  <string name="alert_dialog_in_ecm_call">Опцията не е налична в режим 'Само спешни'</string>
+  <string name="alert_dialog_in_ecm_call">Опцията не е налична в режим \"Само спешни\"</string>
   <string name="alert_dialog_no">НЕ</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Да</string>
