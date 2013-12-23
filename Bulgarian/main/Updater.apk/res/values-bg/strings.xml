@@ -160,7 +160,7 @@
   <string name="verify_and_apply_dialog_title">Проверка на файла</string>
   <string name="view_install_log">Преглед на информациата за грешките</string>
   <string name="view_upgrade_tutorial">Преглед на ръководството</string>
-  <string name="weekly_build">Седмичена версия</string>
+  <string name="weekly_build">Седмична версия</string>
   <string name="wifi_not_available_body">Препоръчително е да използвате Wi-Fi да изтеглите актуализации, тъй като размера на файловете могат да бъдат големи. в момента не се използва Wi-Fi, Сигурни ли сте че искате да продължите?</string>
   <string name="wifi_not_available_title">Wi-Fi не е свързан</string>
   <string name="worst_update">3. Не е добър ъпдейта</string>
