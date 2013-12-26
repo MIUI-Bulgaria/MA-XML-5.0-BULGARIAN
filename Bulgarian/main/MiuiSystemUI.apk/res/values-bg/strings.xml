@@ -190,7 +190,7 @@
   <string name="settings_screenshot_notification_disabled">Без известия за снимки на екрана</string>
   <string name="settings_show_flow_info">Показвай трафика</string>
   <string name="settings_show_network_speed">Показвай скороста на мрежата</string>
-  <string name="settings_show_notificationBar_notification">Показвай  в ленатата с известия</string>
+  <string name="settings_show_notificationBar_notification">Показвай в лентата с известия</string>
   <string name="settings_show_statusBar_notification">Показвай в статус лентата</string>
   <string name="settings_status_bar">Статус лента</string>
   <string name="settings_toggle">Превключватели</string>
@@ -296,7 +296,7 @@ d.MMMM.yyyy"</string>
   <string name="usb_ptp_text">Снимки</string>
   <string name="usb_share_net_info">Изп. на интернет от ПК</string>
   <string name="usb_storage_error_message">Има проблем при използването на вашата SD карта като USB памет.</string>
-  <string name="usb_storage_message">Свързани сте към компютъра през USB. Натиснете бутона отдолу ако искате да копирате файлове между компютъра и вашето Androjd устройство през USB паметта.</string>
+  <string name="usb_storage_message">Свързани сте към компютъра през USB. Натиснете бутона отдолу ако искате да копирате файлове между компютъра и вашето Android устройство през USB паметта.</string>
   <string name="usb_storage_notification_message">Изберете за да копирате файлове от и на вашият компютър.</string>
   <string name="usb_storage_notification_title">USB е свързан</string>
   <string name="usb_storage_stop_message">Преди да изключите вашата USB памет, бъдете сигурни че сте изключили Android USB външната памет от менюто на вашия компютър.</string>

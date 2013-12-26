@@ -225,7 +225,7 @@
   <string name="pref_camera_focusmode_entry_infinity">Безкрайност</string>
   <string name="pref_camera_focusmode_entry_macro">Макро</string>
   <string name="pref_camera_focusmode_entry_normal">Нормално</string>
-  <string name="pref_camera_focusmode_title">Фокус режим</string>
+  <string name="pref_camera_focusmode_title">Режим на фокуса</string>
   <string name="pref_camera_focusmode_value_default">авто</string>
   <string name="pref_camera_front_picture_size_default">1920x1088</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -338,14 +338,14 @@
   <string name="pref_camera_saturation_entry_level7">Ниво 7</string>
   <string name="pref_camera_saturation_entry_level8">Ниво 8</string>
   <string name="pref_camera_saturation_entry_level9">Ниво 9</string>
-  <string name="pref_camera_saturation_title">Нситеност</string>
+  <string name="pref_camera_saturation_title">Наситеност</string>
   <string name="pref_camera_scenedetect_default">изкл.</string>
   <string name="pref_camera_scenedetect_title">Проследяване на автоснимане</string>
   <string name="pref_camera_scenemode_default">авто</string>
   <string name="pref_camera_scenemode_entry_auto">Авто</string>
   <string name="pref_camera_scenemode_entry_backlight">Скрита светлина</string>
   <string name="pref_camera_scenemode_entry_beach">Плаж</string>
-  <string name="pref_camera_scenemode_entry_fireworks">Фоерверки</string>
+  <string name="pref_camera_scenemode_entry_fireworks">Фойерверки</string>
   <string name="pref_camera_scenemode_entry_flowers">Цветя</string>
   <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
   <string name="pref_camera_scenemode_entry_night">Вечер</string>
@@ -357,7 +357,7 @@
   <string name="pref_camera_scenemode_entry_sunset">Залез</string>
   <string name="pref_camera_scenemode_title">Режим на снимане</string>
   <string name="pref_camera_selectablezoneaf_default">авто</string>
-  <string name="pref_camera_settings_category">Камера настройки</string>
+  <string name="pref_camera_settings_category">Настройки на камерата</string>
   <string name="pref_camera_settings_title">Настройки</string>
   <string name="pref_camera_sharpness_default">2</string>
   <string name="pref_camera_sharpness_entry_level0">Ниво 0</string>
@@ -426,9 +426,9 @@
   <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Експозиция</string>
   <string name="pref_grp_advanced_settings">Допълнителни настройки</string>
-  <string name="pref_grp_capture_settings">Настроийки на заснемане</string>
+  <string name="pref_grp_capture_settings">Настройки на заснемане</string>
   <string name="pref_grp_picture_settings">Настройки на снимките</string>
-  <string name="pref_grp_restore_settings">Настроийки за възстановяване</string>
+  <string name="pref_grp_restore_settings">Настройки за възстановяване</string>
   <string name="pref_settings_mode">Режим на камерата</string>
   <string name="pref_video_captrue_ability_title">Способност на снимане</string>
   <string name="pref_video_continuous_focus">Продължителен фокус</string>
