@@ -815,6 +815,7 @@
   <string name="dialog_title_font_size">Размер на шрифта</string>
   <string name="dirac_control">Dirac контрол</string>
   <string name="dirac_mode_earbuds">Сл. в ухото</string>
+  <string name="dirac_mode_general">Общи</string>
   <string name="dirac_mode_in_ear">Слушалки</string>
   <string name="dirac_mode_off">Изключено</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston слушалки</string>
