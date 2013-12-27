@@ -336,6 +336,7 @@
   <string name="pref_content_auto_light_mode">Автоматична яркост</string>
   <string name="pref_content_autofit">Мобилна версия</string>
   <string name="pref_content_autofit_summary">Настрой страницата, така че да се побира в екрана</string>
+  <string name="pref_content_block_float_popups">Блокирай изкачащите прозорци</string>
   <string name="pref_content_block_popups">Блокирай изкачащи прозорци</string>
   <string name="pref_content_fontsize_setting">Настройки на шрифт</string>
   <string name="pref_content_homepage">Задай начална страница</string>
