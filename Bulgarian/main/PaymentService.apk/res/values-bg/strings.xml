@@ -135,7 +135,7 @@
   <string name="hfb_sms1_progress_label">SMS се изпраща. Моля, изчакайте...</string>
   <string name="hfb_sms2_progress_label">Плащането беше потвърдено. Моля, изчакайтеt...</string>
   <string name="hfb_sms_error">SMS не се изпрати!</string>
-  <string name="hfb_sms_pay">Бележка: Натиснете 'Потвърждаване на плащане' и пратете SMS на 10658008 за да заършите поръчката. Плащанията се такусват само на местни цени.</string>
+  <string name="hfb_sms_pay">"Бележка: Натиснете 'Потвърждаване на плащане' и пратете SMS на 10658008 за да заършите поръчката. Плащанията се такусват само на местни цени."</string>
   <string name="hfb_succ_label">Покупката е завършена</string>
   <string name="hfb_succ_result">"Благодарим Ви, че използвахте нашите услуги. Вие си закупихте [%1$s] на стойност [%2$s юан]. Номерът за Обслужване на Клиенти е:Customer Service Phone: %3$s"</string>
   <string name="hfb_tariff">Tarif информация</string>
@@ -243,7 +243,7 @@
   <string name="linkpay_shenzhoufu_alert">Моля, изберете валидна карта или код за потврждение, които са ви нужни, за да завършите покупката.</string>
   <string name="linkpay_shenzhoufu_charge">Зареждане</string>
   <string name="linkpay_sms_chargeing">Зареди чрез SMS</string>
-  <string name="linkpay_sms_confirm_sendsms_content">Добре дошли в системата за плащане на Unicome чрез SMS. Натиснете бутона по-долу на 'зареди'. Може да платите чрез SMS.</string>
+  <string name="linkpay_sms_confirm_sendsms_content">"Добре дошли в системата за плащане на Unicome чрез SMS. Натиснете бутона по-долу на 'зареди'. Може да платите чрез SMS."</string>
   <string name="linkpay_sms_exit_getresult_dialog_message">Ако оставите плащането наполовина, възможно е все пак да бъдете таксувани за поръчката си.</string>
   <string name="linkpay_sms_getresult_error">Неосъществена връзка със сървъра. Моля, опитайте пак по-късно.</string>
   <string name="linkpay_sms_pay_faild">Linkpay плащането е неуспешно!</string>
@@ -323,7 +323,7 @@
   <string name="msg_telecom_order_denom_label">Сума:</string>
   <string name="msg_telecom_order_goods">%1s MiКредити</string>
   <string name="msg_telecom_order_goods_label">Продукт инфо:</string>
-  <string name="msg_telecom_picker_hint_1_1">След като натиснете 'Потвърждаване на покупката, вашият телефон</string>
+  <string name="msg_telecom_picker_hint_1_1">"След като натиснете 'Потвърждаване на покупката, вашият телефон"</string>
   <string name="msg_telecom_picker_hint_1_2">автоматично ще се свърже с Оператора за услуги.</string>
   <string name="msg_telecom_picker_hint_2_1">Вие се свързахте с Вашия Оператор!</string>
   <string name="msg_telecom_picker_hint_2_2">Скоро ще получите текстово потвърждение</string>
