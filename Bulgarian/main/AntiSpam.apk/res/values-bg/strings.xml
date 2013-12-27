@@ -98,7 +98,7 @@
   <string name="st_block_unknown_sms">Блокирай всички съобщения от непознат номер</string>
   <string name="st_call_group">Повикване</string>
   <string name="st_common_setting_group">Бърз преглед</string>
-  <string name="st_filter_keywords_setting_summary1">Съобщения от непознати контакти ще бъдат блокирани.</string>
+  <string name="st_filter_keywords_setting_summary1">Съобщенията от непознати номера ще бъдат блокирани.</string>
   <string name="st_filter_keywords_setting_summary2">Добавете няколко ключови думи, разделени със запетая.</string>
   <string name="st_filter_keywords_setting_title">Задайте филтър с ключови думи</string>
   <string name="st_filter_keywords_title">Филтър за съобщения с ключови думи</string>
@@ -112,6 +112,7 @@
   <string name="st_sms_group">Съобщения</string>
   <string name="tab_blacklist">Черен списък</string>
   <string name="tab_block_log">Защитна стена</string>
+  <string name="tab_block_log_unKnowNumber">Неизвестен номер</string>
   <string name="tab_call">Дневник повиквания</string>
   <string name="tab_sms">Дневник съобщения</string>
   <string name="tab_title">Антиспам</string>
