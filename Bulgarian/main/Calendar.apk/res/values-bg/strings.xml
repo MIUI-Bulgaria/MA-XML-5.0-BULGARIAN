@@ -192,6 +192,7 @@
   <string name="select_synced_calendars_title">Календари за синхронизиране</string>
   <string name="select_visible_calendars_title">Календари, които се показват</string>
   <string name="show_all_lunar">Покажи лунен календар</string>
+  <string name="show_almanac">Покажи алманах</string>
   <string name="show_controls">Покажи елементи за управление</string>
   <string name="show_day_view">Покажи ден</string>
   <string name="show_newer_events">Докоснете за преглед на събития след %1$s</string>
