@@ -122,6 +122,8 @@
   <string name="confirm_delete_this_video">Сигурни ли сте, че искате да изтриете избраното видео?</string>
   <string name="confirm_delete_videos">%s видео клипове</string>
   <string name="confirm_download">"You need to download %s. This tip won't be displayed again."</string>
+  <string name="confirm_download_video_message">Video requires download! Download will resume when a Wi-Fi connection is available.</string>
+  <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Снимка на контакт</string>
   <string name="context_menu_add_contact">Добави към контакти</string>
   <string name="context_menu_copy">Копирай</string>
@@ -233,6 +235,7 @@
   <string name="how_many_sub_folders">%d Папки</string>
   <string name="how_many_videos">%d Видео клипове</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">"Неможе да се направи снимка, достигнат е максималния лимит."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Вмъкването е успешно</string>
@@ -255,8 +258,11 @@
   <string name="landscape_mode">Включи Пейзажен режим</string>
   <string name="loading">Зареждане...</string>
   <string name="loading_failure">Снимката неможе да бъде заредена</string>
+  <string name="loading_image">Downloading image…</string>
   <string name="loading_members">Зареждане на потребители...</string>
+  <string name="loading_suspend">Download paused: Will resume when Wi-Fi connection is available</string>
   <string name="loading_thumbnail">зареждане на умалени изображения...</string>
+  <string name="loading_video">Downloading video…</string>
   <string name="local_albums">Снимки на телефона</string>
   <string name="location">Местоположение</string>
   <string name="locations">Мостоположения</string>
