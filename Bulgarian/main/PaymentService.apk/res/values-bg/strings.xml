@@ -18,11 +18,11 @@
   <string name="bankcall_debit_card">Дебитна карта</string>
   <string name="bankcall_denom">Плащане:</string>
   <string name="bankcall_denom_number">%1$s юан</string>
-  <string name="bankcall_error_card">Невалидем момер на сметка: Моля, поправете номера на вашата сметка.</string>
-  <string name="bankcall_error_card_info">Грешна информация за сметката: Моля, поправете информацията за вашата сметка.</string>
-  <string name="bankcall_hint">Тази услуга е криптирана и ауторизирана от UnionPay.</string>
+  <string name="bankcall_error_card">Невалидем момер на сметка. Моля, поправете номера на вашата сметка.</string>
+  <string name="bankcall_error_card_info">Грешна информация за сметката. Моля, поправете информацията за вашата сметка.</string>
+  <string name="bankcall_hint">Тази услуга е криптирана и одобрена от UnionPay.</string>
   <string name="bankcall_id_card">ID номер на картата.</string>
-  <string name="bankcall_id_card_hint">ID номера на картата е разпозната със сметката</string>
+  <string name="bankcall_id_card_hint">ID номерът на картата е разпознат със сметката</string>
   <string name="bankcall_merchant">Получател:</string>
   <string name="bankcall_name">Име</string>
   <string name="bankcall_name_hint">Името е разпознато със сметката</string>
@@ -32,7 +32,7 @@
   <string name="bankcall_province">Провинция</string>
   <string name="bankcall_saved_card_info">%1$s - Но. на Карта %2$s</string>
   <string name="bankcall_xiaomi_company">Xiaomi Корпорация (Beijing)</string>
-  <string name="btn_back">Върни</string>
+  <string name="btn_back">Назад</string>
   <string name="btn_call">Обаждане</string>
   <string name="btn_count_down_auto">Поискване след %1$s секунди</string>
   <string name="btn_delete_record">Изтриване</string>
@@ -60,18 +60,17 @@
   <string name="button_retry">Опитайте пак</string>
   <string name="cancel">Затвори</string>
   <string name="change_security_lock">Промяна на заключването</string>
-  <string name="error_account_changed_summary">"Информацията за сметката ви се смени.
-Моля, влезте отново."</string>
+  <string name="error_account_changed_summary">"Информацията за сметката ви се смени. Моля, влезте отново."</string>
   <string name="error_account_changed_title">Сметката е променена</string>
-  <string name="error_auth_summary">Грешка на сметката. Молея, влезте отното.</string>
+  <string name="error_auth_summary">Грешка на сметката. Моля, влезте отново.</string>
   <string name="error_auth_title">Грешка</string>
-  <string name="error_bankcard_verify_summary">Неуспешно потвърждаване на на картата.</string>
-  <string name="error_common_summary">Системна грешка. Моля, опитайте отноро.</string>
+  <string name="error_bankcard_verify_summary">Неуспешно потвърждаване на картата.</string>
+  <string name="error_common_summary">Системна грешка. Моля, опитайте отново.</string>
   <string name="error_common_title">Системна грешка</string>
   <string name="error_expired_summary">Поръчката ви е изтекла</string>
   <string name="error_frozen_summary">"Сметката ви е замразена. Моля, свържете се с Xiaomi центъра за обслужване на клиенти."</string>
   <string name="error_frozen_title">Сметката е замразена</string>
-  <string name="error_giftcard_summary">"Не е налична информация за ваучера за подаръци."</string>
+  <string name="error_giftcard_summary">"Не е налична информация относно ваучера за подаръци."</string>
   <string name="error_has_bought_summary">Вие вече си закупихте този продукт.</string>
   <string name="error_has_bought_title">Повтаряне на покупката</string>
   <string name="error_illegal_order_summary">Грешка. Моля, опитайте отново</string>
@@ -79,7 +78,7 @@
   <string name="error_mili_summary">Недостатъчни средства.</string>
   <string name="error_network_summary">"Неуспешно свързване към мрежата."</string>
   <string name="error_network_title">Мрежова грешка</string>
-  <string name="error_server_summary">Грешка на Сървъра. Моля, опитайте по-късно отново</string>
+  <string name="error_server_summary">Грешка на Сървъра. Моля, опитайте отново по-късно</string>
   <string name="error_server_title">Грешка на Сървъра</string>
   <string name="error_too_frequent_visits_summary">"Привишихте опитите за достъп до сметката. Изчакайте пет минути и опитайте отново."</string>
   <string name="error_too_frequent_visits_title">Уау... Забавете темпото!</string>
@@ -106,25 +105,25 @@
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_commit">Изпращане на поръчката</string>
   <string name="hfb_complete">Успешна Покупка!</string>
-  <string name="hfb_complete_hint">(Информацията по-долу ви помага да завършите своята покупка)</string>
+  <string name="hfb_complete_hint">(Информацията по-долу Ви помага да завършите своята покупка)</string>
   <string name="hfb_confirm">Потвърди</string>
   <string name="hfb_customer_service_phone">Обслужване на Клиенти: </string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
   <string name="hfb_dialog_exit_content">Транзакцията не е завършена. Сигурни ли сте, че искате да излезнете?</string>
   <string name="hfb_fail_hint">"При неуспешно получаване на SMS за активиране, моля, свържете се със центъра за плащания на China Mobile: 400 612 5880 (директен телефон за връзка отвсякъде) 0.3 юан на минута. "</string>
   <string name="hfb_fail_label">Плащането се провали!</string>
-  <string name="hfb_fail_pad_result">Моля, не отговаряйте на това съобщение. Просто отговорете на  %1$s от вашата SMS поща.</string>
-  <string name="hfb_fail_result">"Неуспешно завършване на плащането. Моля, опитайте по-късно пак или опитайте да платите по друг начин. Ако имате нужда от повече помощ, моля обадете се в Грижа за Клиента: 400 612 5880"</string>
+  <string name="hfb_fail_pad_result">Моля, не отговаряйте на това съобщение. Отговорете на  %1$s от вашата SMS поща.</string>
+  <string name="hfb_fail_result">"Неуспешно приключване на плащането. Моля, опитайте по-късно пак или опитайте да платите по друг начин. Ако имате нужда от повече помощ, моля обадете се на Център за Клиента: 400 612 5880"</string>
   <string name="hfb_goods_name">Име: </string>
   <string name="hfb_goods_price_value_format">%1$s (Включени мрежови такси)</string>
   <string name="hfb_hint">"1. China Mobile, China Mobile разплащане със сметка.
 2. 10658008 е  SMS номера за плащене na China Mobile.
 3. Тази услуга се поддържа от марките M-Zone и Shenzhouxing за потребители на China Mobile.
-4. В някои провинции, с обажданията за 'подарък' или 'връщане на стока' не могат да бъдат закопувани стоки в районите на Beijing и Heliongjiang.
-5. China Mobile телефон за обслужване на клиенти: 400 612 5880 (директни обаждания / извън китай). номера с 125 , 880 кодове (само за мобилни телефони) 0.3 юан / минута
+4. В някои провинции, с обаждания за 'подарък' или 'връщане на стока' , не могат да бъдат закупени стоки в районите на Beijing и Heliongjiang.
+5. China Mobile телефонът за обслужване на клиенти: 400 612 5880 (директни обаждания / извън китай). номера с 125 , 880 кодове (само за мобилни телефони) 0.3 юан / минута
 6. Ако искате да се откажете от тази услуга, моля, изпратете съобщение на: 00-10658008.</string>
   <string name="hfb_instruct">"Моля, следвайте 10658008 SMS потвърждение и натиснете на  'приключване на плащането'. Благодарим Ви!"</string>
-  <string name="hfb_main_title">Завършете плащането</string>
+  <string name="hfb_main_title">Приключване на плащането</string>
   <string name="hfb_network_progress">Плащането се извършва. Моля, изчакайте...</string>
   <string name="hfb_order_price">Тотал на поръчката:</string>
   <string name="hfb_other_case">Ако не получите SMS съобщението от 10658008, моля, вижте помощните указания..</string>
@@ -136,9 +135,9 @@
   <string name="hfb_sms1_progress_label">SMS се изпраща. Моля, изчакайте...</string>
   <string name="hfb_sms2_progress_label">Плащането беше потвърдено. Моля, изчакайтеt...</string>
   <string name="hfb_sms_error">SMS не се изпрати!</string>
-  <string name="hfb_sms_pay">"Бележка: Натиснете 'Потвърждаване на плащане' и пратете SMS на 10658008 за да заършите поръчката. Плащанията се такусват само на местни цени."</string>
+  <string name="hfb_sms_pay">"Бележка: Натиснете 'Потвърждаване на плащане' и пратете SMS на 10658008 за да завършите поръчката. Плащанията се такусват само по местни цени."</string>
   <string name="hfb_succ_label">Покупката е завършена</string>
-  <string name="hfb_succ_result">"Благодарим Ви, че използвахте нашите услуги. Вие си закупихте [%1$s] на стойност [%2$s юан]. Номерът за Обслужване на Клиенти е:Customer Service Phone: %3$s"</string>
+  <string name="hfb_succ_result">"Благодарим Ви, че използвахте нашите услуги. Вие си закупихте [%1$s] на стойност [%2$s юан]. Номерът за Обслужване на Клиенти е: %3$s"</string>
   <string name="hfb_tariff">Tarif информация</string>
   <string name="hfb_trans_error_label">Няма намерени предишни плащания</string>
   <string name="hfb_trans_result_progress_label">Търсене на предишни плащания...</string>
@@ -178,7 +177,7 @@
   <string name="linkpay_confirm_order">Потвърждаване на поръчката</string>
   <string name="linkpay_consumer_records">История на плащанията</string>
   <string name="linkpay_consumer_records_thirtydays">История на плащанията за последните 30 дена</string>
-  <string name="linkpay_copyright">Всички Права Запазени, China Unicom</string>
+  <string name="linkpay_copyright">Всички Права Запазени! China Unicom</string>
   <string name="linkpay_deal_time">Работно време</string>
   <string name="linkpay_dear_user">Скъпи потребители:</string>
   <string name="linkpay_determine">OК</string>
@@ -200,8 +199,8 @@
   <string name="linkpay_id">ID:</string>
   <string name="linkpay_mobile_calls_pay">China Unicom платформа за предплащане на игри.</string>
   <string name="linkpay_morethen_300_thismonth">Съжаляваме, но вашите покупки надвишиха 300 юан този месец!</string>
-  <string name="linkpay_next_step">Следващ</string>
-  <string name="linkpay_next_step_btn">Следващ</string>
+  <string name="linkpay_next_step">Напред</string>
+  <string name="linkpay_next_step_btn">Напред</string>
   <string name="linkpay_no_payment">Неплатен</string>
   <string name="linkpay_ordernum">Номер на поръчката:</string>
   <string name="linkpay_paidamount_title">Сума: </string>
@@ -217,7 +216,7 @@
   <string name="linkpay_please_choose_paycard_value">Моля, въведете номерата на картата</string>
   <string name="linkpay_please_enter_verificationcode">Въведете кода за потвърждение:</string>
   <string name="linkpay_please_enter_verificationcode_toast">Моля, въведете кода за потвърждение</string>
-  <string name="linkpay_please_use_3gnet">Моля, използвайте 3G мрежа, за да извършвате плащания</string>
+  <string name="linkpay_please_use_3gnet">Моля, използвайте 3G мрежа, за да извършите плащания</string>
   <string name="linkpay_price">Цена (точки)</string>
   <string name="linkpay_product">Инфо за продукта</string>
   <string name="linkpay_product_title">Инфо:</string>
@@ -231,48 +230,48 @@
   <string name="linkpay_rmb_50">50 юан</string>
   <string name="linkpay_searching_payed">Проверяване статуса на плащанията</string>
   <string name="linkpay_searching_record">Проверяване история на плащанията</string>
-  <string name="linkpay_send_sms_faild">SMS не бе изпратен!</string>
+  <string name="linkpay_send_sms_faild">SMS-ът не бе изпратен!</string>
   <string name="linkpay_send_sms_text_char">Скъпи Unicom потребители, моля, натиснете "OK" за да изпратите SMS, с който да потвърдите своя телефонен номер.</string>
   <string name="linkpay_sendsms_fail">Неуспешно изпращане на SMS!</string>
-  <string name="linkpay_sendsms_ok">SMS бе пратен успешно!</string>
+  <string name="linkpay_sendsms_ok">SMS-ът бе пратен успешно!</string>
   <string name="linkpay_sendsms_outoftime">SMS сесията приключи!</string>
   <string name="linkpay_server_connection_error">Linkpay грешка в сървъра!</string>
   <string name="linkpay_service_phone">Облсужване на Клиенти:</string>
   <string name="linkpay_service_phonenum">Облсужване на Клиенти:</string>
   <string name="linkpay_service_system_error">Linkpay системна грешка!</string>
   <string name="linkpay_shenzhoufu">Заплащане</string>
-  <string name="linkpay_shenzhoufu_alert">Моля, изберете валидна карта или код за потврждение, които са ви нужни, за да завършите покупката.</string>
+  <string name="linkpay_shenzhoufu_alert">Моля, изберете валидна карта или код за потвърждение, които са нужни, за да приключите покупката.</string>
   <string name="linkpay_shenzhoufu_charge">Зареждане</string>
   <string name="linkpay_sms_chargeing">Зареди чрез SMS</string>
-  <string name="linkpay_sms_confirm_sendsms_content">"Добре дошли в системата за плащане на Unicome чрез SMS. Натиснете бутона по-долу на 'зареди'. Може да платите чрез SMS."</string>
+  <string name="linkpay_sms_confirm_sendsms_content">"Добре дошли в системата за плащане на Unicom чрез SMS. Натиснете бутона по-долу на 'зареди'. Може да платите чрез SMS."</string>
   <string name="linkpay_sms_exit_getresult_dialog_message">Ако оставите плащането наполовина, възможно е все пак да бъдете таксувани за поръчката си.</string>
   <string name="linkpay_sms_getresult_error">Неосъществена връзка със сървъра. Моля, опитайте пак по-късно.</string>
   <string name="linkpay_sms_pay_faild">Linkpay плащането е неуспешно!</string>
   <string name="linkpay_sms_pay_success">Linkpay плащането е успешно</string>
-  <string name="linkpay_sms_pay_success_thanks">Благодарим Ви, че използвате системата за плащане на Unicom. Моля, насладете се на покупката си.</string>
+  <string name="linkpay_sms_pay_success_thanks">Благодарим Ви, че използвате системата за плащане на Unicom. Насладете се на покупката си!</string>
   <string name="linkpay_sms_payed">Платено</string>
   <string name="linkpay_sms_paying">Плащане</string>
   <string name="linkpay_sms_payment_agreement">Linkpay SMS одобрение за плащане</string>
   <string name="linkpay_sms_payment_agreement_details">Linkpay SMS информация</string>
   <string name="linkpay_sms_sending">Пращане на SMS</string>
   <string name="linkpay_sms_timeout_dialog_message">Възникна проблем с SMS. Моля, излезте от приложението и опитайте отново.</string>
-  <string name="linkpay_sms_timeout_prompt">Скед 30 секунди ще получите SMS. Ако не го получите, моля проверете дали то не е блокирано.</string>
+  <string name="linkpay_sms_timeout_prompt">Скед 30 секунди ще получите SMS. Ако не го получите, моля , проверете дали то не е блокирано.</string>
   <string name="linkpay_soft_data_error">Грешка при плащането</string>
   <string name="linkpay_step_1_text">Направете поръчка</string>
   <string name="linkpay_step_2_text">Изберете метод на плащане</string>
   <string name="linkpay_step_3_text">Метод за зареждане</string>
   <string name="linkpay_step_4_text">Завършване на плащането</string>
-  <string name="linkpay_szf_getresult_error">Неуспешна транзакция. Моля, сържете се със вашата банка.</string>
+  <string name="linkpay_szf_getresult_error">Неуспешна транзакция. Моля, свържете се със вашата банка.</string>
   <string name="linkpay_ten_yuan">10 юан</string>
   <string name="linkpay_thirty_yuan">30 юан</string>
   <string name="linkpay_to_buy">Купи</string>
   <string name="linkpay_twenty_yuan">20 юан</string>
   <string name="linkpay_unicom_msg_pay">Unicom SMS плащане</string>
-  <string name="linkpay_verification_faild">Неуспешно Потвърждаване!</string>
+  <string name="linkpay_verification_faild">Неуспешно Потвърждение!</string>
   <string name="linkpay_verificationcode">Код за потвърждаване: </string>
   <string name="linkpay_verificationcode_wrong">Невалиден код за потвърждаване!</string>
   <string name="linkpay_wait_verificationcode_sms">Кодът за потвърждение бе пратен чрез SMS. Моля, изчакайте.</string>
-  <string name="linkpay_waiting_SMS_pay">Извършване на SMS плащане...</string>
+  <string name="linkpay_waiting_SMS_pay">Извършва се SMS плащане...</string>
   <string name="linkpay_waiting_detail_a">Изчакване за потвърждение</string>
   <string name="linkpay_waiting_title">Моля, изчакайте...</string>
   <string name="linkpay_wo_money_pay">WO разплащане</string>
@@ -301,7 +300,7 @@
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Опитайте отново след %d секунди.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Прекалено много грешни опита!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Затвори</string>
-  <string name="lockpattern_tutorial_continue_label">Следващ</string>
+  <string name="lockpattern_tutorial_continue_label">Напред</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Забравена парола (модел) &lt;/u&gt;</string>
   <string name="login">Влизане</string>
   <string name="memu_refresh">Обнови</string>
@@ -317,20 +316,20 @@
   <string name="msg_picker_hint_2_2">За всяко зареждане по 0.1 юан такса</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Максимум месечни зареждания: %1$s юан</string>
-  <string name="msg_send_no_net_error">"Неуспешно изпращане: неоткрита връзка с мрежовия Оператор."</string>
-  <string name="msg_send_no_sim_error">Неуспешно изпращане: опитайте се да поставите отново SIM картата.</string>
+  <string name="msg_send_no_net_error">"Неуспешно изпращане: няма връзка с мрежовия Оператор."</string>
+  <string name="msg_send_no_sim_error">Неуспешно изпращане: опитайте се да поставите SIM картата отново.</string>
   <string name="msg_send_send_fail_error">Неуспешно изпращане</string>
   <string name="msg_telecom_order_denom">%1s юан（без включени цени за мобилната връзка）</string>
   <string name="msg_telecom_order_denom_label">Сума:</string>
-  <string name="msg_telecom_order_goods">%1s MiКредити</string>
+  <string name="msg_telecom_order_goods">%1s MiКредита</string>
   <string name="msg_telecom_order_goods_label">Продукт инфо:</string>
-  <string name="msg_telecom_picker_hint_1_1">"След като натиснете 'Потвърждаване на покупката, вашият телефон"</string>
-  <string name="msg_telecom_picker_hint_1_2">автоматично ще се свърже с Оператора за услуги.</string>
+  <string name="msg_telecom_picker_hint_1_1">""След като натиснете 'Потвърждаване на покупката, вашият телефон</string>
+  <string name="msg_telecom_picker_hint_1_2">автоматично ще се свърже с Оператора за услуги."</string>
   <string name="msg_telecom_picker_hint_2_1">Вие се свързахте с Вашия Оператор!</string>
   <string name="msg_telecom_picker_hint_2_2">Скоро ще получите текстово потвърждение</string>
   <string name="msg_telecom_sending">Свързване с Оператора…</string>
   <string name="onemore_click_exit">Още едно докосване за излизане</string>
-  <string name="order_price">%1$s MiКредити</string>
+  <string name="order_price">%1$s MiКредита</string>
   <string name="password_error">Грешна парола.</string>
   <string name="password_hint">Въведете парола за профила</string>
   <string name="pay_record_empty">Няма налична история за плащания.</string>
@@ -360,7 +359,7 @@
   <string name="prepaid_picker_title_selected">сума</string>
   <string name="progress_bankcall_card_creating">Създаване на поръчка…</string>
   <string name="progress_bankcall_card_querying">Проверяване на вида сметка…</string>
-  <string name="progress_creating">Retrieving order info…</string>
+  <string name="progress_creating">Търсене на инфо за поръчката…</string>
   <string name="progress_downloading">Обработва се…</string>
   <string name="progress_error_pay_summary">%1$s MiКредита са прибавени,  но плащането се провали! Моля, опитайте отново по-късно.</string>
   <string name="progress_error_pay_title">Неуспешно плащане</string>
@@ -382,10 +381,10 @@
   <string name="progress_success_recharge_title">%1$s MiКредит зареждането приключи</string>
   <string name="progress_voucher_creating">прибаване на MiКредит към сметката Ви. Моля, изчакайте...</string>
   <string name="progress_warning_check">"Плащането все още не е стигнало до сметката ви. Ще проверим отново в рамките на два дена."</string>
-  <string name="progress_warning_contact_server">"Плащането все още не е стигнало до сметката ви. 
+  <string name="progress_warning_contact_server">"Плащането все още не е отразено в сметката ви. 
 1. Моля, свържете се с нашия Център за Обслужване на Клиенти в Shenzhou：%1$s 
 2. Когато се свържете, оставете серийния номер: %2$s."</string>
-  <string name="progress_warning_waiting">"Плащането все още не е стигнало до сметката ви."</string>
+  <string name="progress_warning_waiting">"Плащането все още не е отразено в сметката ви."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Банкова карта</string>
   <string name="recharge_denomination">%1$s юан</string>
