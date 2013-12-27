@@ -2,7 +2,7 @@
 <resources>
   <string name="advanced">Разширен панел</string>
   <string name="app_name">Калкулатор</string>
-  <string name="basic">Обикновен панел</string>
+  <string name="basic">Основен панел</string>
   <string name="clear">C</string>
   <string name="clearDesc">изчистване</string>
   <string name="clear_history">Изчистване на историята</string>
