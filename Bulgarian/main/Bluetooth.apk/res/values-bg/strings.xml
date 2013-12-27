@@ -9,7 +9,7 @@
   <string name="auth_notif_message">Въведете ключа за сдвояване с %1$s</string>
   <string name="auth_notif_ticker">OBEX-заявка за удостоверяване</string>
   <string name="auth_notif_title">Ключ за сдвояване</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+  <string name="bluetooth_share_file_name">споделяне на данни чрез bluetooth</string>
   <string name="bpp_authentication_timeout_message">Времето за въвеждане на ключ за сдвояване с %1$s изтече</string>
   <string name="bpp_cancel">Отмени</string>
   <string name="bpp_main">Печат чрез Bluetooth</string>
