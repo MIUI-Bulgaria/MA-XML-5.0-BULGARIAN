@@ -920,6 +920,7 @@
   <string name="today">Днес</string>
   <string name="type_incoming">Входящо обаждане</string>
   <string name="type_missed">Пропуснато обаждане</string>
+  <string name="type_mx_msg">Cloud съобщения</string>
   <string name="type_outgoing">Изходящо обаждане</string>
   <string name="type_voicemail">Гласова поща</string>
   <string name="unknown">Неизвестно</string>
@@ -967,6 +968,10 @@
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
   <string name="yellowpage_navigation_search_hint">Търси</string>
   <string name="yellowpage_navigation_search_offline_hint">Мрежата не е достъпна</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Неможе да се свърже към мрежата"</string>
+  <string name="yellowpage_navigation_search_result_no_more">Няма повече резултати</string>
+  <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
   <string name="yellowpage_navigation_search_select_city">Моля изберете град</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>
