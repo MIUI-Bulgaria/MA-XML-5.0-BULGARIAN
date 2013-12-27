@@ -206,6 +206,7 @@
   <string name="flip">Завърти</string>
   <string name="flip_tooltip">Преместете снимката за да се завърти</string>
   <string name="focal_length">Фокусна дължина</string>
+  <string name="folder_holder_file">Папка с файлове</string>
   <string name="frame_black">Черно</string>
   <string name="frame_button">Рамка</string>
   <string name="frame_classic">Класическо</string>
@@ -223,6 +224,7 @@
   <string name="group_by_location">По местоположение</string>
   <string name="group_by_tags">По тагове</string>
   <string name="group_by_time">По време</string>
+  <string name="time_line_view">Timeline преглед</string>
   <string name="has_invalid_recipient">Невалиден получател(и):%1$s</string>
   <string name="height">Височина</string>
   <string name="highlight">Препоръчани</string>
