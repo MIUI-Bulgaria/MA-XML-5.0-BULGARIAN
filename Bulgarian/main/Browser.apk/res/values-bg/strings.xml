@@ -290,6 +290,10 @@
   <string name="menu_share_url">Сподели</string>
   <string name="menu_theme_setting">Настройки на теми</string>
   <string name="menu_view_download">Изтегляния</string>
+  <string name="miui_quicksearch_enable_pref_summary">Enable quick search</string>
+  <string name="miui_quicksearch_enable_pref_title">Quick search notifications</string>
+  <string name="miui_search_notification_message">Open quick search</string>
+  <string name="miui_search_notification_title">Quick search</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">За промяна се изисква USB памет.</string>
   <string name="move_to_up_folder">Едно ниво нагоре</string>
   <string name="multi_select_title">Избрани %1$s елемента(и)</string>
