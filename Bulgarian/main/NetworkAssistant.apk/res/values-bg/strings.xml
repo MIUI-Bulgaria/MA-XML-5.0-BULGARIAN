@@ -134,6 +134,7 @@
   <string name="text_day"/>
   <string name="text_done">Готово</string>
   <string name="text_save">Запиши</string>
+  <string name="traffic_bought">Traffic purchased</string>
   <string name="traffic_none">Няма данни</string>
   <string name="traffic_remain">Оставащи</string>
   <string name="traffic_settings_error">Грешка в месечния допустим трафик. Според вашия доставчик на услуги, размерът на трафика е: %1$s и остават: %2$s.</string>
