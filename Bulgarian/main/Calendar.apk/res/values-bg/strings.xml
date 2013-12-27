@@ -23,11 +23,13 @@
   <string name="acessibility_cal_notification">Известия от Календар</string>
   <string name="acessibility_selected_marker_description">Избрано събитие</string>
   <string name="acessibility_snooze_notification">Отлагане на събитието</string>
+  <string name="activity_summary"/>
+  <string name="activity_title"/>
   <string name="add_account">Добави профил</string>
-  <string name="agenda_today">Днес, %1$s</string>
-  <string name="agenda_tomorrow">Утре, %1$s</string>
+  <string name="agenda_today">ДНЕС, %1$s</string>
+  <string name="agenda_tomorrow">УТРЕ, %1$s</string>
   <string name="agenda_view">Дневен ред</string>
-  <string name="agenda_yesterday">Вчера, %1$s</string>
+  <string name="agenda_yesterday">ВЧЕРА, %1$s</string>
   <string name="alert_title">Известия от Календар</string>
   <string name="app_label">Календар</string>
   <string name="attendees_label">Посетители</string>
@@ -41,7 +43,7 @@
   <string name="birthday_notification_title_three_days_later">"Скоро е рождения ден на %1$s"</string>
   <string name="birthday_notification_title_today">"%1$s има рожден ден"</string>
   <string name="birthday_notification_type_term_lunar"/>
-  <string name="button_day">D</string>
+  <string name="button_day">Д</string>
   <string name="button_month">M</string>
   <string name="calendar_refresh">Обнови</string>
   <string name="change_response_title">Промяна на отговор</string>
@@ -87,7 +89,7 @@
   <string name="event_create">Ново събитие</string>
   <string name="event_delete">Изтрий събитие</string>
   <string name="event_edit">Редактирай събитие</string>
-  <string name="event_hide_more">Скрии</string>
+  <string name="event_hide_more">Скрий</string>
   <string name="event_info_descrip">"Описание: "</string>
   <string name="event_info_organizer">Органайзер:</string>
   <string name="event_info_reminders_label">Напомняния</string>
@@ -133,7 +135,7 @@
   <string name="more_string">Още %1$s ...</string>
   <string name="new_event_dialog_label">Ново събитие</string>
   <string name="new_event_dialog_option">Ново събитие</string>
-  <string name="no_calendars_found">Добавянето на събитие е възможно само във видим календар, свързан с Google профил. Кликнете на "Добави профил", а ако вече сте добавили профил, изчакайте синхронизацията му да завърши и опитайте отново. Или кликнете на "Отмени" и направете видим поне един календар.</string>
+  <string name="no_calendars_found">Добавянето на събитие е възможно само във видим календар, свързан с Google профил. Кликнете на "Добави профил", а ако вече сте добавили профил, изчакайте синхронизацията му да завърши и опитайте отново. Или кликнете на "Отказ" и направете видим поне един календар.</string>
   <string name="no_syncable_calendars">Няма календари</string>
   <string name="no_title_label">(Неозаглавен)</string>
   <string name="not_synced">Не е синхронизиран</string>
@@ -162,8 +164,8 @@
   <string name="preferences_reminder_title">Настройки на напомняния</string>
   <string name="preferences_show_week_num_title">Показване номера на седмицата</string>
   <string name="preferences_title">Настройки</string>
-  <string name="preferences_use_home_tz_descrip">Винаги показвай времето в календара според зададения часови пояс (дори при далечно пътуване)</string>
-  <string name="preferences_use_home_tz_title">Фиксирай часовия пояс</string>
+  <string name="preferences_use_home_tz_descrip">Винаги показвай времето в календара според зададената часова зона (дори при далечно пътуване)</string>
+  <string name="preferences_use_home_tz_title">Фиксирай часовата зона</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Начало на седмицата</string>
   <string name="preferences_week_start_day_title">Начало на седмицата</string>
@@ -171,10 +173,10 @@
   <string name="privacy_label">Поверителност</string>
   <string name="quick_response_custom_msg">Алтернативен отговор…</string>
   <string name="quick_response_dialog_title">Избери бърз отговор</string>
-  <string name="quick_response_email_failed">Не е намерена E-mail програма</string>
+  <string name="quick_response_email_failed">Не е намерена Имейл програма</string>
   <string name="quick_response_settings">Бързи отговори</string>
   <string name="quick_response_settings_edit_title">Бърз отговор</string>
-  <string name="quick_response_settings_summary">Редактиране на отговори, когато изпращате Е-mail</string>
+  <string name="quick_response_settings_summary">Редактиране на отговори, когато изпращате Имейл</string>
   <string name="quick_response_settings_title">Промени бърз отговор</string>
   <string name="reminders_label">Добави напомняне</string>
   <string name="repeats_label">Повтарящ се</string>
@@ -219,7 +221,7 @@
   <string name="where_label">Къде</string>
   <string name="widget_events">Предстоящи събития</string>
   <string name="widget_no_events">Няма предстоящи събития</string>
-  <string name="widget_select_style">Избери widget</string>
+  <string name="widget_select_style">Избери джаджа</string>
   <string name="work_day_indication"/>
   <string name="wuxing"/>
   <string name="xingxiu"/>
