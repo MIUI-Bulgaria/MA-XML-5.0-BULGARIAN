@@ -451,6 +451,8 @@
   <string name="summer_solstice"/>
   <string name="sync_one_time_sync">Натиснете тук за синхронизация (%1$s)</string>
   <string name="teachers_day"/>
+  <string name="text_copied">Текста е копиран.</string>
+  <string name="text_cut">Изрежи текста</string>
   <string name="text_pastelist">Буферна памет</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
