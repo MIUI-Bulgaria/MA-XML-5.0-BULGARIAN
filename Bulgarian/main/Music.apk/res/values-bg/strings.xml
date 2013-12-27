@@ -26,7 +26,7 @@
   <string name="artist_hot_audios">Популярни</string>
   <string name="artists_title">Музиканти</string>
   <string name="auto_correct_id3_settings">Авто-обновяване на ID3 Настройките</string>
-  <string name="auto_correct_id3_summary">Аудио алгоритъмът 'пръстови отпечатъци' ще обнови ID3 данните по време на свирене.</string>
+  <string name="auto_correct_id3_summary">Аудио алгоритъмът \'пръстови отпечатъци\' ще обнови ID3 данните по време на свирене.</string>
   <string name="batch_correct_id3_completed">ID3 обновяването завършено!</string>
   <string name="billboard">Billboard</string>
   <string name="buffering">Зареждане...</string>
