@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Продължи</string>
-  <string name="data_usage_summary">Ако нямате предплатен мобилен интернет, се препоръчва да изключите данни. В противен случай, те могат значително да увеличат вашите такси.</string>
+  <string name="data_usage_summary">Ако нямате предплатен мобилен интернет, се препоръчва да изключите данните. В противен случай, те могат значително да увеличат Вашите такси.</string>
   <string name="default_gprs_sim_name">Моля, въведете лимита за данни на \"%s\"</string>
   <string name="input_method">Метод на въвеждане</string>
   <string name="input_method_category">Изберете метод на въвеждане по подразбиране</string>
@@ -28,7 +28,7 @@
   <string name="sim_card_detection_label">Търсене на SIM карта</string>
   <string name="sim_card_detection_status_absent">SIM картата не е намерена!</string>
   <string name="traffic_protection_label">Контрол на трафика на данни</string>
-  <string name="traffic_protection_summary">Контрола на трафика на данни ще Ви предупреди, когато надвишите лимита.</string>
+  <string name="traffic_protection_summary">Контролът на трафика на данни ще Ви предупреди, когато надвишите лимита.</string>
   <string name="traffic_protection_text_hint">Въведете лимит за мобилни данни.</string>
   <string name="traffic_protection_unknown">Сега не знам, ще въведа по-късно.</string>
   <string name="use_data">Разрешаване на данни</string>

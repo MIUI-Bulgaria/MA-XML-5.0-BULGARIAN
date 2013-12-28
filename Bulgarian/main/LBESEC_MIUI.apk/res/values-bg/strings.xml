@@ -164,7 +164,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешавате ли на %1$s да получи ROOT достъп?</string>
   <string name="HIPS_SecurityPrompt_Reject">Забранени (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Запомни моя избор</string>
-  <string name="HIPS_SecurityPrompt_Title">%1$s се опитва да %2$s</string>
+  <string name="HIPS_SecurityPrompt_Title">%1$s опитва %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;Доверени&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Завършено</string>

@@ -167,7 +167,7 @@
   <string name="apn_mnc">MNC</string>
   <string name="apn_name">Име</string>
   <string name="apn_new">Нова точка за достъп</string>
-  <string name="apn_not_set">Не е зададена</string>
+  <string name="apn_not_set">Не е зададено</string>
   <string name="apn_password">Парола</string>
   <string name="apn_protocol">APN протокол</string>
   <string name="apn_roaming_protocol">APN роуминг протокол</string>
@@ -571,7 +571,7 @@
   <string name="check_nothing">Размаркирай всички</string>
   <string name="checkbox_notification_same_as_incoming_call">Използвай тази сила на звука и за известия</string>
   <string name="checking">Проверка...</string>
-  <string name="choose_timezone">Избери часови пояс</string>
+  <string name="choose_timezone">Избери часова зона</string>
   <string name="clean_confirm_title">Ще изтриете ли избраните файлове?</string>
   <string name="cleaner">Почистване</string>
   <string name="clear_activities">Изчисти настройките по подразбиране</string>
@@ -733,7 +733,7 @@
   <string name="data_usage_uninstalled_apps_users">Премахнати приложения и потребители</string>
   <string name="data_usage_warning_editor_title">Задайте предупреждение за използване на данни</string>
   <string name="date_and_time">Настройки за дата и час</string>
-  <string name="date_and_time_settings_summary">Задайте дата, час, часови пояс и формат</string>
+  <string name="date_and_time_settings_summary">Задайте дата, час, часова зона и формат</string>
   <string name="date_and_time_settings_title">Дата и час</string>
   <string name="date_and_time_settings_title_setup_wizard">Задайте дата и час</string>
   <string name="date_picker_title">Дата</string>
@@ -746,7 +746,7 @@
   <string name="date_time_date_format">Формат на датата</string>
   <string name="date_time_set_date">Настройка на датата</string>
   <string name="date_time_set_time">Настройка на часа</string>
-  <string name="date_time_set_timezone">Избор на часови пояс</string>
+  <string name="date_time_set_timezone">Избор на часова зона</string>
   <string name="date_time_settings">Дата и час</string>
   <string name="debug_app">Изберете приложение за отстраняване на грешки</string>
   <string name="debug_app_not_set">Не е избрано приложение за отстр. на грешки</string>
@@ -811,7 +811,7 @@
   <string name="device_sd_memory">SD карта</string>
   <string name="device_status">Състояние</string>
   <string name="device_status_activity_title">Състояние</string>
-  <string name="device_status_summary">Състояние и ниво на батерията, и т.н.</string>
+  <string name="device_status_summary">Състояние,ниво на батерията и т.н.</string>
   <string name="dialog_title_font_size">Размер на шрифта</string>
   <string name="dirac_control">Dirac контрол</string>
   <string name="dirac_mode_earbuds">Сл. в ухото</string>
@@ -1271,7 +1271,7 @@
   <string name="location_neighborhood_level">Приложенията използват данни от Wi-Fi и мобилни мрежи, за да определят приблизителното ми местоположение.</string>
   <string name="location_neighborhood_level_wifi">Определяне на местоположение чрез Wi-Fi</string>
   <string name="location_network_based">Позициониране от мобилната мрежа</string>
-  <string name="location_settings_title">Услуги за местоположение</string>
+  <string name="location_settings_title">Местоположение</string>
   <string name="location_sources_heading">Източници на местоположение</string>
   <string name="location_street_level">Разрешавам на приложенията да използват GPS, за да посочат местоположението ми</string>
   <string name="location_title">Моето местоположение</string>
@@ -1708,7 +1708,7 @@ for MAC"</li>"
   <string name="perm_manage_tab_title">Разрешения</string>
   <string name="perm_mian_name">Разрешение</string>
   <string name="perm_monitored_app">Наблюдавани приложения (%1$d)</string>
-  <string name="perm_notice">Предупреждение на защитата</string>
+  <string name="perm_notice">Внимание!</string>
   <string name="perm_operating">Обработка...</string>
   <string name="perm_optimize">Оптимизиране</string>
   <string name="perm_privacy_app_count">%1$d разрешения</string>
@@ -2732,7 +2732,7 @@ for MAC"</li>"
   <string name="version_text">Версия %1$s</string>
   <string name="vibrate_category_title">Вибрация</string>
   <string name="vibrate_in_normal_title">Винаги вибрира</string>
-  <string name="vibrate_in_silent_title">Вибрира в тих режим</string>
+  <string name="vibrate_in_silent_title">Вибрация в тих режим</string>
   <string name="vibrate_input_devices">Вибрация</string>
   <string name="vibrate_input_devices_summary">Пренасочва вибрацията към свързания игрови контролер.</string>
   <string name="vibrate_when_ringing_title">Вибрация при звънене</string>

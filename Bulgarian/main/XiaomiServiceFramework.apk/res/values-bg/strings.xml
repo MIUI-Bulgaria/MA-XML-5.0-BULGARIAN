@@ -214,7 +214,7 @@
   <string name="micloud_use_existing">Съществуващ</string>
   <string name="micloud_via_int_sms_alert">SMS ще бъде изпратен до вашето устройство на тарифата, която ползвате в момента за съобщения. Искате ли да продължите?</string>
   <string name="micloud_via_sms_alert">SMS ще бъде изпратен за да потвърди вашия номер. Искате ли да продължите?</string>
-  <string name="micloud_welcome_skip_login">Прескочете регистрацията</string>
+  <string name="micloud_welcome_skip_login">Пропуснете регистрацията</string>
   <string name="mili_center">Mi Кредит</string>
   <string name="msg_denomination_type">Mi Кредит</string>
   <string name="msg_error">Презареждане с SMS неуспешно</string>
@@ -350,7 +350,7 @@
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Прескочи влизане</string>
   <string name="skip_setup_account_msg">Използвайки вашия Xiaomi Профол, вие можете да синхронизирате и архивирате вашете SMS, Контакти, Снимки, бележки и др. Продължи и настрой по-късно?</string>
-  <string name="skip_setup_account_title">Прескочете настройките на профила</string>
+  <string name="skip_setup_account_title">Пропуснете настройките на профила</string>
   <string name="start_micloud">Започни</string>
   <string name="sync_dspt">Използвай Xiaomi профил за синхрониране на данни</string>
   <string name="sync_off">Изключване</string>
