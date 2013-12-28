@@ -323,7 +323,7 @@
   <string name="msg_telecom_order_denom_label">Сума:</string>
   <string name="msg_telecom_order_goods">%1s MiКредита</string>
   <string name="msg_telecom_order_goods_label">Продукт инфо:</string>
-  <string name="msg_telecom_picker_hint_1_1">""След като натиснете 'Потвърждаване на покупката, вашият телефон</string>
+  <string name="msg_telecom_picker_hint_1_1">"След като натиснете 'Потвърждаване на покупката, вашият телефон"</string>
   <string name="msg_telecom_picker_hint_1_2">автоматично ще се свърже с Оператора за услуги."</string>
   <string name="msg_telecom_picker_hint_2_1">Вие се свързахте с Вашия Оператор!</string>
   <string name="msg_telecom_picker_hint_2_2">Скоро ще получите текстово потвърждение</string>
