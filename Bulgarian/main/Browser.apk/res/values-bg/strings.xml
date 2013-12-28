@@ -611,8 +611,8 @@
   <string name="uploads_disabled">Качването на файлове е забранено.</string>
   <string name="url_copy_done">URL адреса е копиран</string>
   <string name="url_hint">Търси или въведи URL адрес</string>
-  <string name="user_defined_webpage">Add URL</string>
-  <string name="user_defined_webpage_title">Add URL to start page</string>
+  <string name="user_defined_webpage">Добави URL адрес</string>
+  <string name="user_defined_webpage_title">Добави URL към началната страница</string>
   <string name="username">Име</string>
   <string name="view_certificate">Преглед на сертификата</string>
   <string name="warning">Предупреждение</string>
