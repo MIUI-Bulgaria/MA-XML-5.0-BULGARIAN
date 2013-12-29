@@ -49,11 +49,11 @@
         <item quantity="one">В SD картата има %d песен</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d песни, добавени към списъка за изпълнение.</item>
+        <item quantity="other">%d песни, добавени към плейлиста.</item>
         <item quantity="one">1 песен, добавена към плейлиста.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d песни, добавени към списъка за изпълнение.</item>
+        <item quantity="other">%d песни, добавени към плейлиста.</item>
         <item quantity="one">1 песен, добавена към плейлиста.</item>
     </plurals>
     <plurals name="Nonlinecategory">
@@ -69,15 +69,15 @@
         <item quantity="one">1 песен е изтрита.</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d песни ще се свалят.</item>
-        <item quantity="one">1 песен ще се свали.</item>
+        <item quantity="other">%d песни ще се изтеглят.</item>
+        <item quantity="one">1 песен ще се изтегли.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d песни са премахнати от removed списъка за изпълнение.</item>
-        <item quantity="one">1 песен е премахната от removed списъка за изпълнение.</item>
+        <item quantity="other">%d песни са премахнати от списъка за изпълнение.</item>
+        <item quantity="one">1 песен е премахната от списъка за изпълнение.</item>
     </plurals>
     <plurals name="Nhot_tracks_total">
-        <item quantity="other">%d най-слущани песни</item>
+        <item quantity="other">%d най-слушани песни</item>
         <item quantity="one">%d най-слушана песен</item>
     </plurals>
 </resources>
