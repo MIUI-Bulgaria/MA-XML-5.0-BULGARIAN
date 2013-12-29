@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Добави аларма</string>
   <string name="alarm_alert">Мелодия</string>
@@ -6,7 +6,7 @@
   <string name="alarm_alert_dismiss_text">Изключете</string>
   <string name="alarm_alert_snooze_set">Повтори сигнала след %d минути.</string>
   <string name="alarm_alert_snooze_text">Отложи</string>
-  <string name="alarm_ascending_mode_summary">Звука на алармата се увеличава до максималния зададен.</string>
+  <string name="alarm_ascending_mode_summary">Звукът на алармата се увеличава до максималния зададен.</string>
   <string name="alarm_ascending_mode_title">Повишаване на звука</string>
   <string name="alarm_button_description">Аларми</string>
   <string name="alarm_disabled">Изключена</string>
@@ -14,14 +14,14 @@
   <string name="alarm_klaxon_service_desc">Обслужване на сигналите за аларма от Часовник.</string>
   <string name="alarm_label_hint">Въведете името на алармата</string>
   <string name="alarm_list_title">Аларми</string>
-  <string name="alarm_notify_snooze_label">Алармата е отложена до %s</string>
+  <string name="alarm_notify_snooze_label">Алармата е отложена за %s</string>
   <string name="alarm_notify_snooze_text">Докоснете, за да отмените %s</string>
   <string name="alarm_notify_text">Отложи/изключи аларма.</string>
   <string name="alarm_repeat">Повторение</string>
   <string name="alarm_screen">Стил на аларма</string>
   <string name="alarm_settings">Настройки на аларми</string>
   <string name="alarm_vibrate">Вибрация</string>
-  <string name="alarm_volume_summary">Настрой сила на звука за аларми и таймери</string>
+  <string name="alarm_volume_summary">Настрой силата на звука за аларми и таймери</string>
   <string name="alarm_volume_title">Сила на звука</string>
   <string name="alarmclock_empty_text">Няма аларми</string>
   <string name="alert">Мелодия</string>
@@ -45,11 +45,11 @@
   <string name="default_alarm_title">Мелодия по подразбиране</string>
   <string name="default_label">Аларма</string>
   <string name="default_ringtone_setting_title">Мелодия по подразбиране</string>
-  <string name="delelte_selected_timezone">Сигурни ли сте, че искате да изтриете избрания часови пояс?</string>
+  <string name="delelte_selected_timezone">Сигурни ли сте, че искате да изтриете избраната часова зона?</string>
   <string name="delete">Изтрий</string>
   <string name="delete_alarm">Изтрий аларма</string>
   <string name="delete_alarm_confirm">Ще изтриете ли тази аларма?</string>
-  <string name="delete_timezone_title">Изтрий часови пояс</string>
+  <string name="delete_timezone_title">Изтрий часова зона</string>
   <string name="desk_clock_button_description">Вид часовник</string>
   <string name="dialog_confirm_abort">Ще отмените ли промените?</string>
   <string name="disable_alarm">Изключи аларма</string>
@@ -75,7 +75,7 @@
   <string name="legal_workday_invalidate_message">(Списъкът на празниците не е актуален, обновете го в Настройки)</string>
   <string name="legal_workday_message">(Алармата е изключена по време на празници)</string>
   <string name="loading_ringtone">Зареждане на мелодии...</string>
-  <string name="menu_add_worldclock">Часови пояс</string>
+  <string name="menu_add_worldclock">Часова зона</string>
   <string name="menu_alarmclock_edit">Редактирай аларма</string>
   <string name="menu_delete">Изтрий</string>
   <string name="menu_desk_clock">Часовник</string>
@@ -87,12 +87,12 @@
   <string name="minutes">%s минути</string>
   <string name="music_button_description">Музика</string>
   <string name="never">Никога</string>
-  <string name="nightmode_button_description">Затъмняване</string>
+  <string name="nightmode_button_description">Заглушаване</string>
   <string name="pause">Пауза</string>
   <string name="remind_ringtone">Тон на звънене</string>
   <string name="reset">Нулиране</string>
   <string name="revert">Върни се обратно</string>
-  <string name="set_alarm">Настрой аларма</string>
+  <string name="set_alarm">Настрой алармата</string>
   <string name="settings">Настройки</string>
   <string name="show_clock">Покажи часовник</string>
   <string name="shutdown_alarm_disable_summary">Телефона не се включва, дори и да е настроена аларма</string>
@@ -102,7 +102,7 @@
   <string name="snooze_confirm_cancel">Изключи</string>
   <string name="snooze_confirm_message">"Алармата беше отложена, ще се включи отново в %s.
 Можете също да изключите тази аларма."</string>
-  <string name="snooze_confirm_ok">Остави</string>
+  <string name="snooze_confirm_ok">ОК</string>
   <string name="snooze_duration_title">Отложи за</string>
   <string name="start">Старт</string>
   <string name="start_up">Старт</string>
@@ -120,7 +120,7 @@
   <string name="timer_start_alarm">Времето изтече</string>
   <string name="timer_title">Таймер</string>
   <string name="timer_tutorial">Завъртете, за да регулирате</string>
-  <string name="timezone_exist_error_message">Часовия пояс вече съществува.</string>
+  <string name="timezone_exist_error_message">Часовата зона вече съществува.</string>
   <string name="timezone_search_hint">Намерете град за добавяне на световен часовник</string>
   <string name="volume_button_dialog_title">Функции на бутоните</string>
   <string name="volume_button_setting_summary">Задайте функция на бутоните при натискане по време на звънене на аларма</string>
