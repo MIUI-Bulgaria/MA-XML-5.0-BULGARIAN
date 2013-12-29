@@ -120,7 +120,7 @@
   <string name="ktv_alert_message">"Натиснете \"Използвай телефон\" , за да прибавите песните в главната страница на KTV панела и видите съответния QR код."</string>
   <string name="ktv_alert_title">Само поддържани устройства могат да прибавят песни</string>
   <string name="ktv_and_room">%1$s %2$s</string>
-  <string name="ktv_connected_alert_message">Песните, които избрахте ще бъдат добавени в списъка \"Моя KTV\"</string>
+  <string name="ktv_connected_alert_message">Песните, които избрахте ще бъдат добавени в списъка Моя KTV</string>
   <string name="ktv_connected_alert_titel">Свързване... %1$s</string>
   <string name="ktv_disconnect_alert_titel">Изключване от %1$s?</string>
   <string name="ktv_song_vod_fail">Неуспешно прибавяне %1$s</string>
