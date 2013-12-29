@@ -94,7 +94,7 @@
   <string name="filter_by_duration_prefix">"Минимална продължителност: "</string>
   <string name="filter_by_duration_summary">Продължителността на филтриране е прекалено малка за аудио файлове</string>
   <string name="filter_by_folder">Избери по папка</string>
-  <string name="filter_by_folder_summary_off">Не е отворена. Натиснете върху папката , после филтриране на папка</string>
+  <string name="filter_by_folder_summary_off">Не е отворена. Натиснете върху папката, после филтриране на папка</string>
   <string name="filter_by_folder_summary_on">Вече е отворена. Натиснете редакция на филтър папката</string>
   <string name="filter_by_size">Избери по размер</string>
   <string name="filter_by_size_max">2МБ</string>
@@ -113,14 +113,14 @@
   <string name="id3_edit_failed">Неуспешно редактиране на ID3 инфото</string>
   <string name="id3_modify_confirm_check">Потвърди ID3 промените?</string>
   <string name="id3_modify_confirm_text">Запази</string>
-  <string name="impunity_declaration">Музиката, която ще използвате е от онлайн услугите на Baidu. Натиснете \"OK\" , за да приемете и използвате или \"Отказ\" за да излезнете.</string>
+  <string name="impunity_declaration">Музиката, която ще използвате е от онлайн услугите на Baidu. Натиснете \"OK\", за да приемете и използвате или \"Отказ\" за да излезнете.</string>
   <string name="impunity_declaration_title">Декларация</string>
   <string name="keep_quit_position_settings">Запомни последното свирене</string>
   <string name="keep_quit_position_summary">Запомняне на песента в последното  й свирене чрез преотваряне на приложението</string>
-  <string name="ktv_alert_message">" Натиснете \"Използвай телефон\" , за да прибавите песните в главната страница на KTV панела и видите съответния QR код."</string>
+  <string name="ktv_alert_message">"Натиснете \"Използвай телефон\" , за да прибавите песните в главната страница на KTV панела и видите съответния QR код."</string>
   <string name="ktv_alert_title">Само поддържани устройства могат да прибавят песни</string>
   <string name="ktv_and_room">%1$s %2$s</string>
-  <string name="ktv_connected_alert_message">Песните, които избрахте ще бъдат довавени в списъка 'Моя KTV'</string>
+  <string name="ktv_connected_alert_message">Песните, които избрахте ще бъдат добавени в списъка \"Моя KTV\"</string>
   <string name="ktv_connected_alert_titel">Свързване... %1$s</string>
   <string name="ktv_disconnect_alert_titel">Изключване от %1$s?</string>
   <string name="ktv_song_vod_fail">Неуспешно прибавяне %1$s</string>
