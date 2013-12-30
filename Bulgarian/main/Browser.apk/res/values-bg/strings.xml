@@ -221,7 +221,7 @@
   <string name="general_set_default_browser_dialog_close_txt">Затвори</string>
   <string name="general_set_default_browser_dialog_ok_txt">ОК</string>
   <string name="general_set_default_browser_dialog_summary">Използвай интегрираните MIUI приложения за по-бърза и гладка производителност</string>
-  <string name="general_set_default_browser_title">Задай като браузер по подразбиране</string>
+  <string name="general_set_default_browser_title">Браузър по подразбиране</string>
   <string name="geolocation_permissions_prompt_dont_share">Откажи</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s иска достъп до Вашето местоположение</string>
   <string name="geolocation_permissions_prompt_remember">Запомни избора</string>

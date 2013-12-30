@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">"Прехвърляне на потребителски данни.
 Вашият профил ще бъде временно недостъпен,
@@ -17,11 +17,11 @@
   <string name="big5_summary">Кодирането по подразбиране е на Windows с традиционен китайски</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Свързване с MiDrive профил</string>
-  <string name="bind_account_summary">Ако вече имате MiDrive профил, може да го добавите и да изтеглите вашите лични данни</string>
+  <string name="bind_account_summary">Ако вече имате MiDrive профил, може да го добавите и да изтеглите Вашите лични данни</string>
   <string name="binded_accout_description">Профилите са обединени. Независимо дали влизате с Xiaomi профил или с MiDrive профил, ще имате достъп до вашите данни</string>
   <string name="binded_accout_title">MiDrive профил</string>
   <string name="cache_size_label">Кеш</string>
-  <string name="cancel">Отмяна</string>
+  <string name="cancel">Отказ</string>
   <string name="cancel_app_garbage_cleanup">Отмени почистване на приложения</string>
   <string name="cancel_with_count_down">Отмяна (%d)</string>
   <string name="category_all">Всички</string>
@@ -30,7 +30,7 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Документи</string>
   <string name="category_favorite">Любими</string>
-  <string name="category_log">Логове</string>
+  <string name="category_log">Регистри</string>
   <string name="category_music">Музика</string>
   <string name="category_other">Други</string>
   <string name="category_picture">Снимки</string>
@@ -48,7 +48,7 @@
   <string name="cleanup_complete">Готово</string>
   <string name="cleanup_stopped">Почистването спря</string>
   <string name="close">Затвори</string>
-  <string name="compress_fail">Грешка при архивиране, файла вече съществува</string>
+  <string name="compress_fail">Грешка при архивиране, файлът вече съществува</string>
   <string name="compress_message">Име на архива:</string>
   <string name="compress_title">Създаване на архив</string>
   <string name="confirm">OK</string>
@@ -62,8 +62,8 @@
   <string name="cution">Съвети</string>
   <string name="data_capacity">Обем: %1$s</string>
   <string name="data_size_label">Данни</string>
-  <string name="decompress_cancel">Отмяна</string>
-  <string name="decompress_confirm">Разархивирай?</string>
+  <string name="decompress_cancel">Отказ</string>
+  <string name="decompress_confirm">Ще разархивирате ли?</string>
   <string name="decompress_fail">Грешка при разархивиране!</string>
   <string name="decompress_success">Разархивирането завърши</string>
   <string name="decompress_to">Разархивирай в:</string>
@@ -85,7 +85,7 @@
   <string name="dlg_error_unmount_text">"Не можете да изключите USB-паметта. Моля, опитайте отново по-късно."</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Грешка при изтегляне!</string>
-  <string name="download_link_completed">Аз споделих %1$s чрез MiDrive. Кликнете върху линка долу за преглед:</string>
+  <string name="download_link_completed">Аз споделих %1$s чрез MiDrive. Натиснете линка долу за преглед:</string>
   <string name="downloading">Изтегляне...</string>
   <string name="empty_dir_cleanup_indication">%s ненужни файлове</string>
   <string name="empty_dir_title">Празни папки</string>
@@ -175,15 +175,15 @@
   <string name="no_temp_file_indication">Няма временни файлове</string>
   <string name="no_thumbnail_indication">Няма файлове с миниатюри</string>
   <string name="no_wifi">Няма Wi-Fi мрежи</string>
-  <string name="no_wifi_hint">Няма Wi-Fi връзки</string>
+  <string name="no_wifi_hint">Няма Wi-Fi връзка</string>
   <string name="notif_server_starting">Стартира FTP сървър</string>
   <string name="notif_title">Активна FTP връзка </string>
   <string name="open_changed_file_message">"Файлът, който се опитвате да отворите е променен. Изберете:
-1. Изтегляне (актуализира локалния файл)
-2. Изпращане (актуализация на файл в облак)"</string>
+1. Изтегли (актуализира локалния файл)
+2. Изпрати (актуализация на файла в облака)"</string>
   <string name="open_changed_file_title">Файлът е променен</string>
   <string name="operating">Обработка…</string>
-  <string name="operation_cancel">Отмяна</string>
+  <string name="operation_cancel">Отказ</string>
   <string name="operation_compress">Добави в архива</string>
   <string name="operation_compressing">Архивиране...</string>
   <string name="operation_copy">Копирай</string>
