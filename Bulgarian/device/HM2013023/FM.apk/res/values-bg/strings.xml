@@ -21,8 +21,8 @@
     <string name="dlg_addedit_station_freq">Честота:</string>
     <string name="dlg_addedit_title_edit">Промени станция</string>
     <string name="default_station_name">Нова станция</string>
-    <string name="dlg_delete_confirm_title">Потвърдеете премахването от любими</string>
-    <string name="dlg_delete_confirm_title1">Потвърдеете премахването от предв. зададени</string>
+    <string name="dlg_delete_confirm_title">Потвърдете премахването от любими</string>
+    <string name="dlg_delete_confirm_title1">Потвърдете премахването от предв. зададени</string>
     <string name="dlg_delete_confirm_text">Сигурни ли сте, че искате да премахнете тази станция от любими?</string>
     <string name="dlg_delete_confirm_text1">Сигурни ли сте, че искате да премахнете тази станция от предв. зададени?</string>
     <string name="toast_favorite_full">Не можете да добавите тази станция към любими, защото списъка е пълен.</string>
