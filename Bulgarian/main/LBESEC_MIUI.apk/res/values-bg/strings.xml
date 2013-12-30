@@ -24,13 +24,13 @@
   <string name="Dashboard_Perm_SU_Desc">Наблюдават се %1$d приложения за ROOT достъп</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT достъпа е забранен</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT достъпа не е наличен в стабилните версии на MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешаването на ROOT достъп на приложения от трети страни може да доведе до нестабилност на системата, загуба на вашите лични данни или повреда на телефона. Моля, преминете към версия за разработчици на MIUI."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешаването на ROOT достъп на приложения от трети страни може да доведе до нестабилност на системата, загуба на Вашите лични данни или повреда на телефона. Моля, преминете към версия за разработчици на MIUI."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Изтегляне на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT достъп</string>
-  <string name="Dashboard_Su_Enable_Content">Разрешаване на ROOT достъп? Приложения с тези права могат да доведат до нестабилност на системата или загуба на данни, или дори до повреди по системата и хардуера. Моля, бъдете внимателни. Наистина ли искате да разрешите?</string>
+  <string name="Dashboard_Su_Enable_Content">Разрешаване на ROOT достъп? Приложения с тези права могат да предизвикат нестабилност на системата или загуба на данни, дори повреди по системата и хардуера. Моля, бъдете внимателни. Наистина ли искате да разрешите?</string>
   <string name="Dashboard_Su_Enable_Title">ROOT достъп</string>
-  <string name="Generic_Canceling">Отменяне...</string>
+  <string name="Generic_Canceling">Отмяна...</string>
   <string name="Generic_Check">Проверка</string>
   <string name="Generic_Clean">Почистване</string>
   <string name="Generic_Configuration">Настройка</string>
@@ -45,7 +45,7 @@
   <string name="Generic_Operating">Изпълнение...</string>
   <string name="Generic_Optimize">Оптимизирайте</string>
   <string name="Generic_Service_Disabled">Услугата е изключена</string>
-  <string name="Generic_Service_Enabled">Услугата е активирана</string>
+  <string name="Generic_Service_Enabled">Услугата е включена</string>
   <string name="Generic_Shortcut">Контекстно меню</string>
   <string name="Generic_ShowSystemApp">Покажи системните приложения</string>
   <string name="Generic_Summary_Disabled">Изкл</string>
@@ -57,12 +57,12 @@
   <string name="Generic_UserApp">Изтеглени приложения (%d)</string>
   <string name="Generic_Version">Версия: %1$s</string>
   <string name="HIPS_Action_Accept">Разрешете</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Разрешаване&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Разрешени: %1$d</string>
   <string name="HIPS_Action_Prompt">Питай</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Питане&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Забранете</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Забрана&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Забранени: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Поверителност</string>
   <string name="HIPS_Group_Expense">Безопасност</string>
@@ -112,7 +112,7 @@
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения имат достъп до Интернет чрез мобилни данни</string>
   <string name="HIPS_Perm_Network_Accept">Приеми свързване от %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Свързване с %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">Слушайте на порт %1$s</string>
+  <string name="HIPS_Perm_Network_Listen">Слушане на порт %1$s</string>
   <string name="HIPS_Perm_Network_MobileEvent">Използване на мобилна мрежа</string>
   <string name="HIPS_Perm_Network_Recv">Получаване на данни</string>
   <string name="HIPS_Perm_Network_Send">Изпращане на данни</string>
@@ -121,17 +121,17 @@
   <string name="HIPS_Perm_PhoneID">Информация за телефона</string>
   <string name="HIPS_Perm_PhoneID_Desc">Получаване на информация за телефона Ви, включително IMEI, IMSI и др.</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s приложения имат достъп до информацията за телефона Ви</string>
-  <string name="HIPS_Perm_PhoneID_ICCID">получи серийния номер на SIM картата</string>
-  <string name="HIPS_Perm_PhoneID_IMEI">получи IMEI номер</string>
-  <string name="HIPS_Perm_PhoneID_IMEISN">получи IMEI/SN</string>
-  <string name="HIPS_Perm_PhoneID_IMSI">получи IMSI номер</string>
-  <string name="HIPS_Perm_PhoneID_Number">получи телефонния Ви номер</string>
+  <string name="HIPS_Perm_PhoneID_ICCID">да получи серийния номер на SIM картата</string>
+  <string name="HIPS_Perm_PhoneID_IMEI">да получи IMEI номер</string>
+  <string name="HIPS_Perm_PhoneID_IMEISN">да получи IMEI/SN</string>
+  <string name="HIPS_Perm_PhoneID_IMSI">да получи IMSI номер</string>
+  <string name="HIPS_Perm_PhoneID_Number">да получи телефонния Ви номер</string>
   <string name="HIPS_Perm_PromptAll">Питай винаги</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">Изисква се ROOT достъп</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Не се предлага в стабилните версии на MIUI</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s приложения имат ROOT достъп</string>
-  <string name="HIPS_Perm_ROOT_Title">получи ROOT досъп</string>
+  <string name="HIPS_Perm_ROOT_Title">да получи ROOT досъп</string>
   <string name="HIPS_Perm_RejectAll">Забрани на всички</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">четене на входящите SMS-и</string>
@@ -163,7 +163,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Използвайте внимателно!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешавате ли на %1$s да получи ROOT достъп?</string>
   <string name="HIPS_SecurityPrompt_Reject">Забранени (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Запомни моя избор</string>
+  <string name="HIPS_SecurityPrompt_Remember">Запомни моят избор</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s опитва %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800&gt;Доверени&lt;/font&gt;</string>
