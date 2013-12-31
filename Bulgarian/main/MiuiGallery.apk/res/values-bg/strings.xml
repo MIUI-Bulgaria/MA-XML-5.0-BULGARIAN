@@ -8,6 +8,8 @@
   <string name="add_account">Добави акаунт</string>
   <string name="add_sharer">Добави споделяне</string>
   <string name="add_to_cloud_album">Добави към облака</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Image quota exceeded.</string>
+  <string name="add_to_cloud_local_space_full_message">Storage is full or not yet ready.</string>
   <string name="add_to_cloud_exceeded_the_size_message">Файлът е твърде голям за MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">Неможе да се изпълни операцията,избрани са твърде много файлове</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s файлът/овете не могaт да бъдат добавени към албума в облак: %1$s</string>
@@ -57,6 +59,8 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Проектор</string>
+  <string name="bigscreen_slide_exit">Exit slideshow</string>
+  <string name="bigscreen_slide_fail_cause_loading">Please load the slideshow after image has loaded.</string>
   <string name="bigscrren_slide_exit">Изход от слайдшоуто</string>
   <string name="browse_category">Преглед снимки</string>
   <string name="by_email">Имейл</string>
@@ -82,6 +86,7 @@
   <string name="clear_thumbnail_cache_confirm">Кеша с умалените изображения е изчистен. Галерията ще сканира файловете за да създаде на ново умалени изображения.</string>
   <string name="clear_thumbnail_cache_summary">Прегледа на галерията ще създаде умалени изображения. Изчистването на кеша ще освободи памет.</string>
   <string name="click_to_enter_camera">Отвори камерата</string>
+  <string name="click_top_right">Tap icon on the top-right</string>
   <string name="close">Затвори</string>
   <string name="cloud_album_more_settings">Настроки на албума на облака</string>
   <string name="cloud_album_set_create">Нов</string>
@@ -217,6 +222,7 @@
   <string name="frame_white">бяло</string>
   <string name="gallery_cloud_provider_name">Галерия</string>
   <string name="gallery_setting">Настройки на галерията</string>
+  <string name="get_album_info_in_process">"Requesting shared album's info, please wait..."</string>
   <string name="global_setting">Насторйки</string>
   <string name="grain">Филм</string>
   <string name="grayscale">Ч/Б</string>
@@ -270,6 +276,7 @@
   <string name="make_download_dir_fail">Failed to create a directory!</string>
   <string name="maker">Маркер</string>
   <string name="manual">Ръководство</string>
+  <string name="marked_by_others">%d people marked this</string>
   <string name="me">аз</string>
   <string name="menu_item_sort">Сортиране</string>
   <string name="menu_item_sort_date_asc">По дата (най-нови)</string>
@@ -321,6 +328,7 @@
   <string name="open_public_title">Сподели с всички</string>
   <string name="open_single_image_failure">Неможе да се отвори снимката!</string>
   <string name="open_sync_title">Синхронизациата е задължителна</string>
+  <string name="operation_add_picture">Add pictures</string>
   <string name="operation_delete_confirm_message_folder">"Папките и файловете ще бъдат изтрити автоматично.
 "</string>
   <string name="operation_failed">Операцията е грешна!</string>
@@ -345,8 +353,14 @@
   <string name="photoeditor_name">Студио за снимки</string>
   <string name="photos">Снимка(и)</string>
   <string name="pick_too_many_recipients">Твърде много получатели</string>
+  <string name="pick_too_much_tips">"Can't pick that many items (maximum %d items)."</string>
+  <string name="picker_no_album_selected">No album selected</string>
+  <string name="picker_no_items_selected">No items selected</string>
+  <string name="picker_select_album_title_empty">Select an album</string>
+  <string name="picker_tab_camera">Camera</string>
   <string name="posterize">Размер за плакат</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data_to_delete">Preparing to delete image data.</string>
   <string name="projection">Прожектиране</string>
   <string name="public_url_descript">Всеки може да разглежда този албум през този линк</string>
   <string name="publish_failed">Не може да се публикува.</string>
@@ -493,7 +507,10 @@
   <string name="unpublishing">Отказ на публикуването, моля изчакайте...</string>
   <string name="untagged">Не тагнат</string>
   <string name="user_alias_self">Личен</string>
+  <string name="video_download_in_process">Video is being downloaded, please wait.</string>
+  <string name="video_download_start">Start video download</string>
   <string name="video_err">"Не може да се зареди видеото."</string>
+  <string name="video_not_exist">Video does not exist!</string>
   <string name="view_sharers">Виж споделящите</string>
   <string name="vignette">Портрет</string>
   <string name="wallpaper">Тапет</string>
