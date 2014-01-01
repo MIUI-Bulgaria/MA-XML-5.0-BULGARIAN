@@ -80,4 +80,11 @@
         <item quantity="other">%d най-слушани песни</item>
         <item quantity="one">%d най-слушана песен</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">Изтича след %d дни</item>
+        <item quantity="one">Изтича след %d ден</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Вашият достъп до музика с високо качество ще приключи скоро (остават %d дни)</item>
+    </plurals>
 </resources>

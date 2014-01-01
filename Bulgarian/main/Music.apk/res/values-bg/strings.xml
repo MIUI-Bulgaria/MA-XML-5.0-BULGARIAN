@@ -59,6 +59,8 @@
   <string name="create_equalzier_create_text_prompt">Име на профила</string>
   <string name="create_playlist_create_text_prompt">Име на плейлиста</string>
   <string name="custom">Персонализиране</string>
+  <string name="data_usage_warning">Предупреждение!</string>
+  <string name="data_usage_warning_summary">Използването на мобилни данни за слушане на музика с високо качество може да увеличи вашите месечни такси.</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Изтрий файла от SD картата</string>
   <string name="delete_item">Изтрий</string>
@@ -88,6 +90,7 @@
   <string name="empty_edit_hint">Информацията за песента е недостъпна</string>
   <string name="empty_track_list">Няма списък с песни</string>
   <string name="emptyplaylist">Избраният списък е празен.</string>
+  <string name="enabled">Активиран</string>
   <string name="enter_sleep_mode">Спящ режим</string>
   <string name="eq_auto">По избор</string>
   <string name="eq_blues">Блус</string>
@@ -113,6 +116,7 @@
   <string name="equalizer_delete">Изтрий</string>
   <string name="equalizer_delete_success">Профилът е изтрит</string>
   <string name="equalizer_save_success">Профилът е запазен</string>
+  <string name="expired">Изтекъл</string>
   <string name="fade_effect_settings">Ефект на затихване</string>
   <string name="fade_effect_summary">Плавно изменение на силата на звука между песните</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -138,6 +142,8 @@
   <string name="frequentlyplayed_title">Най-често слушани</string>
   <string name="headphone_settings">Настройки на тип слушалки</string>
   <string name="high_quality">Високо качество</string>
+  <string name="higher_quality_music">Музика с високо качество</string>
+  <string name="higher_quality_music_summary">Слушайте и изтегляйте музика с високо качество</string>
   <string name="hot_artists">Популярни изпълнители</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Редактирай ID3 информация</string>
@@ -187,6 +193,7 @@
   <string name="lyric_picker_not_found">Директорията на файла не е намерена на усторйството</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Музика</string>
+  <string name="menu_higher_quality_music">Музика с високо качество (месечен достъп)</string>
   <string name="mi_effect">MI Ефекти</string>
   <string name="mi_effect_summary">Винаги използвай MiSound подобрителя, когато се използват тонколонки</string>
   <string name="mi_effect_title">Изполвай MiSound подобрител</string>
@@ -203,6 +210,7 @@
   <string name="music_not_loaded">Няма намерение аудио файлове!</string>
   <string name="music_open_other_connect">Свалете музика чрез мобилна връзка</string>
   <string name="music_picker_title">Изберете песен</string>
+  <string name="music_quality">Качество на музиката</string>
   <string name="music_settings">Настройки</string>
   <string name="network_error">Няма налична мрежа. Моля, проверете настройките за мрежа</string>
   <string name="new_albums">Нови Албуми</string>
@@ -317,13 +325,17 @@
   <string name="ultra_high_quality">Най-високото качество</string>
   <string name="unknown_album_name">Непознат Албум</string>
   <string name="unknown_artist_name">Непознат Изпълнител</string>
-  <string name="use_local_album">Използвай запазената обложка</string>
-  <string name="use_local_lyric">Използвай запазения текст</string>
+  <string name="use_local_album">Използвай запазената обложка</stri
+  <string name="valid_period">"Валидно от: "</string>
+  <string name="vip_bought">"Вече закупихте достъп до музика с високо качество"</string>
+  <string name="vip_expired">Достъпът Ви до музика с високо качество е изтекъл</string>
+  <string name="vip_rebuy">Поднови</string>
   <string name="vip_recommend_buy">Купи (5 Юан за  1 месец)</string>
   <string name="vip_recommend_exchange">Използвайте код за ваучер</string>
   <string name="vip_recommend_main_title">Неограничено CD качество (320 kbps)</string>
+  <string name="vip_recommend_rebuy">Подновяването на VIP достъпа за 30 дни струва 5 Mi-кредита</string>
   <string name="vip_recommend_sub_title">Само 5 Юан на месец</string>
-  <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
+  <string name="vip_recommend_summary">Стриймвайте или изтегляйте любимите си изпълнители от Baidu Music с качество 320 kbps.</string>
   <string name="vip_recommend_title">Музика с по-високо качество</string>
   <string name="where_is_barcode">"Къде е QR кодът?"</string>
   <string name="xiaomi_account_setting">Xiaomi Профил</string>

@@ -195,7 +195,8 @@
   <string name="exit_share_successfully">Албумът %1$s е затворен успешно</string>
   <string name="exposure_time">Време на експонация</string>
   <string name="external_sd_card">SD карта</string>
-  <string name="external_usb_device">USB устройство</string>
+  <string name="external_usb_device">Външно USB хранилище</string>
+  <string name="external_usb_device_hm">Външно USB хранилище</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Тон</string>
   <string name="fail_hint">Операциата е невалидна.</string>
@@ -252,10 +253,12 @@
   <string name="input_cloudfolder_name">Име на папка на облака</string>
   <string name="internal_camera_folder_display_name">Снимки от камерата</string>
   <string name="internal_miui_capture_screen_folder_display_name">Снимки на екрана</string>
-  <string name="internal_sd_card">Вътрешна SD карта</string>
+  <string name="internal_sd_card">Вътрешна памет</string>
+  <string name="internal_sd_card_hm">Вътрешна памет</string>
   <string name="invalid_invition_url">Невалиден URL за покана.</string>
   <string name="invalid_recipient_message">"Поправете инфото за получателите или те няма да получат съобщението."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync">Този файл не е синхронизиран с облака и не е възможно бъде изтеглен</string>
   <string name="kick_owner_user_positive_button_text">Премахни</string>
   <string name="kick_owner_user_title">Премахване на този потребител?</string>
   <string name="kick_sharer">Премахни получател</string>
@@ -302,6 +305,7 @@
   <string name="modify_allow_hint">Добавяне на нови снимки към албума е разрешено</string>
   <string name="modify_disallow_hint">Добавянето на нови снимки към албума не е разрешено</string>
   <string name="more">Още</string>
+  <string name="move">Премести</string>
   <string name="move_to_cloud_album">Премести на облака</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>

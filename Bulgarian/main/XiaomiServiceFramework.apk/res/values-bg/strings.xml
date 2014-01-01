@@ -93,6 +93,8 @@
   <string name="email_already_be_used">Имейл вече се използва</string>
   <string name="enable_find_device_error">%1$s, неможе да се локализира устройството</string>
   <string name="enable_micloud">Включи услугите от облака</string>
+  <string name="enable_sync">Включи синхр.</string>
+  <string name="enable_sync_dspt">Синхронизацията е изключена</string>
   <string name="error_account_changed_summary">Вашият Xiaomi профил беше обновен. Моля прегледайте вашите данни и опитайте отново</string>
   <string name="error_account_changed_title">Профила е обновен</string>
   <string name="error_auth_summary">Грешка при проверка на профила, моля опитайте отново</string>
@@ -170,6 +172,7 @@
   <string name="mibi_license_message_span">Mi Кредит права и задължения</string>
   <string name="mibi_license_title">Mi Кредит права и задължения</string>
   <string name="micloud_account">Xiaomi профил</string>
+  <string name="micloud_account_details">Детайли на профила</string>
   <string name="micloud_account_label">Профил: %1$s</string>
   <string name="micloud_account_name">Xiaomi Профил</string>
   <string name="micloud_account_not_actived">Профила не е активиран</string>
@@ -186,8 +189,10 @@
   <string name="micloud_activing_account">Активиране на вашият профил...</string>
   <string name="micloud_activing_account_delayed">"Ще отнеме около 30 секунди да се активира вашият профил...."</string>
   <string name="micloud_activing_account_failed">Неуспешно активиране на вашият профил</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_click_email">Натиснете на линка във вашият Имейл за да активирате вашият Xiaomi профил</string>
   <string name="micloud_click_email_to_valid">Натиснете на линка във писмото което сте получили</string>
+  <string name="micloud_data_loading">Зареждане...</string>
   <string name="micloud_delete_account">Изтриване на профил</string>
   <string name="micloud_dspt">Услугите на облака включват синхронизация на данните, местоположение на вашето устройство и др. Можете по всяко време онлайн да видите вашата информция!</string>
   <string name="micloud_email">Имейл адрес</string>
@@ -195,6 +200,16 @@
   <string name="micloud_error_empty_pwd">Паролата е празна</string>
   <string name="micloud_error_empty_username">Потребителското име е празно</string>
   <string name="micloud_error_illegal_pwd">Невалидна парола</string>
+  <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
+
+If you lose or damage your phone, your data will still be safe.
+
+When your MiCloud account is full, your old data won't be removed. However, any new content you add (e.g. photos, videos, notes or  apps) won't be backed up.
+
+To solve this, you can either clean out old files, or purchase additional storage space."</string>
+  <string name="micloud_full_influence_title">When your MiCloud is full</string>
+  <string name="micloud_gallery_image">MiCloud images</string>
+  <string name="micloud_gallery_video">MiCloud videos</string>
   <string name="micloud_input_password_prompt">Въведете парола</string>
   <string name="micloud_intro_01_part_01">Спестете от смс съобщения</string>
   <string name="micloud_intro_01_part_02">MIUI ви позволява безплатно да изпращате съобщения чрез облака на Xiaomi</string>
@@ -204,16 +219,35 @@
   <string name="micloud_intro_03_part_02">Също така можете да видите местоположението на вашият телефон, да го заключите или да изтриете информацията на него от i.xiaomi.com</string>
   <string name="micloud_is_what">Какво е MiClould?</string>
   <string name="micloud_more">Научете повече</string>
+  <string name="micloud_none">None</string>
   <string name="micloud_password_confirm_hint">Потвърдете паролата</string>
   <string name="micloud_password_error_inconsistent">Паролите не съвпадата</string>
   <string name="micloud_password_req_notice">8~16 знака, да съдържа числа, и букви</string>
   <string name="micloud_proceed">Напред</string>
   <string name="micloud_reg_new">Създай нов</string>
   <string name="micloud_resend_active_email">Изпрати отново активиращ Имейл</string>
+  <string name="micloud_space_full_influence">What happens if I run out of space?</string>
+  <string name="micloud_storage_space">MiCloud storage space</string>
   <string name="micloud_summary">Влезте в вашият Xiaomi профил за да синхронизирате вашите Контакти, Снимки и други функции.</string>
+  <string name="micloud_title_dspt" formatted="false">"Total space %s
+ used %s | left %s"</string>
+  <string name="micloud_title_full_dspt">Storage limit has been reached!</string>
   <string name="micloud_use_existing">Съществуващ</string>
+  <string name="micloud_user_base_info">User info</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Username</string>
+  <string name="micloud_user_phone">Phone number</string>
+  <string name="micloud_user_space_usage">Space used</string>
   <string name="micloud_via_int_sms_alert">SMS ще бъде изпратен до вашето устройство на тарифата, която ползвате в момента за съобщения. Искате ли да продължите?</string>
   <string name="micloud_via_sms_alert">SMS ще бъде изпратен за да потвърди вашия номер. Искате ли да продължите?</string>
+  <string name="micloud_warn_full_msg">You have reached your storage limit!</string>
+  <string name="micloud_warn_full_sum">"New items won't be synced with your MiCloud account."</string>
+  <string name="micloud_warn_full_title">MiCloud storage full!</string>
+  <string name="micloud_warn_low_sum">Storage space is 90% used.</string>
+  <string name="micloud_warn_low_title">Low storage space!</string>
+  <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_welcome_skip_login">Пропуснете регистрацията</string>
   <string name="mili_center">Mi Кредит</string>
   <string name="msg_denomination_type">Mi Кредит</string>
