@@ -325,7 +325,8 @@
   <string name="ultra_high_quality">Най-високото качество</string>
   <string name="unknown_album_name">Непознат Албум</string>
   <string name="unknown_artist_name">Непознат Изпълнител</string>
-  <string name="use_local_album">Използвай запазената обложка</stri
+  <string name="use_local_album">Използвай запазената обложка</string>
+  <string name="use_local_lyric">Използвай запазения текст</string>
   <string name="valid_period">"Валидно от: "</string>
   <string name="vip_bought">"Вече закупихте достъп до музика с високо качество"</string>
   <string name="vip_expired">Достъпът Ви до музика с високо качество е изтекъл</string>
