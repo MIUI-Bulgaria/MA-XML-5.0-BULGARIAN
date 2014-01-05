@@ -70,6 +70,7 @@
   <string name="camera_key_action_shortcut_title">Пряк път</string>
   <string name="camera_key_action_shortcut_wake">Заключване/Събуждане на устройството</string>
   <string name="camera_key_action_toggle_title">Превключвател</string>
+  <string name="center_clock_title">Часовник в средата</string>
   <string name="chooseUsbActivity">Изберете приложение за USB усторйството</string>
   <string name="compat_mode_help_body">Ако приложението е предназначено за по-малък екран, до часовника ще появи икона за регулиране на мащаба.</string>
   <string name="compat_mode_help_header">Мащаб и съвместимост</string>
@@ -105,7 +106,7 @@
   <string name="ext_media_safe_unmount_notification_title">Може да премахнете SD картата</string>
   <string name="ext_media_unmountable_notification_message">SD картата е повредена. Може би трябва да я форматирате.</string>
   <string name="ext_media_unmountable_notification_title">Повредена SD карта</string>
-  <string name="filter_item_description">Можете да изберете типа на известията от приложението</string>
+  <string name="filter_item_description">Можете да изберете типа и показването на известията от това приложение</string>
   <string name="filter_item_preview_image">Преглед</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Местоположението е определено от GPS</string>
@@ -125,7 +126,7 @@
   <string name="mdb_restore_mode">Режим Възстановяване</string>
   <string name="mdb_usb_disconnection_exit">USB е изключен, възстановяването е прекратено!</string>
   <string name="mount_storage">Да</string>
-  <string name="move_data_to_sdcard_message">"Снимките и снимките на екрана ще бъдат преместени на SD картата за да се освободи място на вътрешната памет."</string>
+  <string name="move_data_to_sdcard_message">"Снимките и екранните снимки ще бъдат преместени на SD картата за да се освободи място на вътрешната памет."</string>
   <string name="move_data_to_sdcard_title">Преместване на данни на SD картата</string>
   <string name="no_notification_tips">Няма известия</string>
   <string name="notification_icon_filter">Персонализирай известията</string>
@@ -135,7 +136,7 @@
   <string name="notification_icon_filter_menu_item_show">Показвай известия от това приложение в лентата за известия</string>
   <string name="notification_icon_filter_mode">Настройки</string>
   <string name="notification_icon_filter_mode_black_list">Черен списък</string>
-  <string name="notification_icon_filter_mode_white_list">Бал списък</string>
+  <string name="notification_icon_filter_mode_white_list">Бял списък</string>
   <string name="notification_icon_filter_other_list">Списък с приложения</string>
   <string name="notification_icon_filter_settings">Известия</string>
   <string name="notification_icon_filter_settings_loading">Зареждане, моля изчакайте...</string>
@@ -164,7 +165,7 @@
   <string name="recent_apps_key_show">Показване на последно използваните приложения</string>
   <string name="return_to_incall_screen">Натиснете за да се върнете на обаждането</string>
   <string name="screen_button_custom">Персонализирайте бутоните на екрана</string>
-  <string name="screen_button_disabled_message">Бутоните под екрана са изключени. Може да ги включите като натиснете \"Начало\" и \"Захр.\"</string>
+  <string name="screen_button_disabled_message">Бутоните под екрана са изключени. Можете да ги включите като натиснете \"Начало\" и \"Захр.\"</string>
   <string name="screen_button_enabled_message">Бутоните под екрана са включени</string>
   <string name="screen_key_back">Назад</string>
   <string name="screen_key_home">Начало</string>
@@ -193,6 +194,7 @@
   <string name="settings_show_notificationBar_notification">Показвай в лентата с известия</string>
   <string name="settings_show_statusBar_notification">Показвай в статус лентата</string>
   <string name="settings_status_bar">Статус лента</string>
+  <string name="settings_statusbar_style">Настройка на статус лентата</string>
   <string name="settings_toggle">Превключватели</string>
   <string name="settings_toggle_collapse_after_clicked">Свиване при докосване</string>
   <string name="settings_toggle_layout_style">Стил на панела</string>
@@ -242,6 +244,7 @@ d.MMMM.yyyy"</string>
   <string name="status_bar_toggle_divider">Още</string>
   <string name="status_bar_toggle_drive_mode">Шофиране</string>
   <string name="status_bar_toggle_flight_mode">Самолет</string>
+  <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Заключи</string>
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежов режим</string>
@@ -265,7 +268,7 @@ d.MMMM.yyyy"</string>
   <string name="status_bar_toggle_torch">Фенерче</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
   <string name="status_bar_use_physical_keyboard">Използвай хардуерна клавиатура</string>
   <string name="tab_notifications_lable">Известия</string>
   <string name="tab_toggles_lable">Превключватели</string>
@@ -296,17 +299,17 @@ d.MMMM.yyyy"</string>
   <string name="usb_ptp_text">Снимки</string>
   <string name="usb_share_net_info">Изп. на интернет от ПК</string>
   <string name="usb_storage_error_message">Има проблем при използването на вашата SD карта като USB памет.</string>
-  <string name="usb_storage_message">Свързани сте към компютъра през USB. Натиснете бутона отдолу ако искате да копирате файлове между компютъра и вашето Android устройство през USB паметта.</string>
-  <string name="usb_storage_notification_message">Изберете за да копирате файлове от и на вашият компютър.</string>
+  <string name="usb_storage_message">Свързани сте към компютъра през USB. Натиснете бутона долу ако искате да копирате файлове между компютъра и вашето Android устройство през USB паметта.</string>
+  <string name="usb_storage_notification_message">Изберете за да копирате файлове от и на Вашият компютър.</string>
   <string name="usb_storage_notification_title">USB е свързан</string>
-  <string name="usb_storage_stop_message">Преди да изключите вашата USB памет, бъдете сигурни че сте изключили Android USB външната памет от менюто на вашия компютър.</string>
+  <string name="usb_storage_stop_message">Преди да изключите USB паметта, уверете се че сте изключили Android USB външната памет от менюто на компютъра Ви.</string>
   <string name="usb_storage_stop_notification_message">Изберете за да изключите USB паметта.</string>
   <string name="usb_storage_stop_notification_title">Изключване на USB паметта</string>
   <string name="usb_storage_stop_title">USB паметта се използва</string>
   <string name="usb_storage_title">USB е свързан</string>
   <string name="user_guide_for_notification">Ново известие，плъзнете надолу за да видите повече информация.</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
-  <string name="user_guide_for_toggle_list">Натиснете тук за да настроите списъка с превключватели</string>
+  <string name="user_guide_for_toggle_list">Натиснете тук за настройка на списъка с превключватели</string>
   <string name="cust_carrier_label_title">Промени името на оператора</string>
   <string name="cust_carrier_label_text_title">Персонализиране на името на оператора</string>
 </resources>
