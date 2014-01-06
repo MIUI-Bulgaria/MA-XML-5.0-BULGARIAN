@@ -15,11 +15,13 @@
   <string name="app_name">Mi-Видео</string>
   <string name="buffering">Буфериране...</string>
   <string name="buffering_video_netplay_label_v5">Буфериране...</string>
+  <string name="episode_prefix">епизод</string>
+  <string name="episode_suffix">серия</string>
   <string name="loading_video_netplay_label">Зареждане, моля изчакайте...</string>
   <string name="loading_video_netplay_label_v5">Зареждане, моля изчакайте...</string>
   <string name="menu_item_about_label">За програмата</string>
-  <string name="menu_item_disable_audio_enhance">Изключи звуковите подобрения</string>
-  <string name="menu_item_enable_audio_enhance">Включи звуковите подобрения</string>
+  <string name="menu_item_disable_audio_enhance">Изключи подобряването на звука</string>
+  <string name="menu_item_enable_audio_enhance">Включи подобряването на звука</string>
   <string name="menu_item_hide_media_info_label">Скрий информация за видео</string>
   <string name="menu_item_media_info_label">Покажи информация</string>
   <string name="menu_item_orientation_auto_sensor_action">Включи ротация</string>
