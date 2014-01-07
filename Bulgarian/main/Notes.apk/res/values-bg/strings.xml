@@ -33,7 +33,7 @@
   <string name="error_sdcard_export">Неуспешно експортиране, моля проверете SD картата</string>
   <string name="error_sdcard_unmounted">SD картата е заета или недостъпна</string>
   <string name="error_unsupport_content">Тази бележка съдържа неподдържани данни, натиснете за актуализиране на системата</string>
-  <string name="error_widget_exist_for_send_to_desktop">Тази бележка вече съществува на десктопа</string>
+  <string name="error_widget_exist_for_send_to_desktop">Тази бележка вече съществува на началния екран</string>
   <string name="failed_sdcard_export">Неуспешно експортиране</string>
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>
@@ -44,7 +44,7 @@
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">Бележките %1$ са преместени в папка %2$s</string>
   <string name="hint_foler_name">Въведете име на папка</string>
-  <string name="info_note_enter_desktop">Бележката е добавена на десктопа</string>
+  <string name="info_note_enter_desktop">Бележката е добавена на началния екран</string>
   <string name="login_sync">Вход и синхронизация</string>
   <string name="menu_create_folder">Нова папка</string>
   <string name="menu_delete">Изтрий</string>
@@ -80,6 +80,7 @@
   <string name="pref_title_common">Общи настройки</string>
   <string name="pref_title_data_export">Експортиране на данни</string>
   <string name="pref_title_data_export_to_sdcard">Експортиране в SD картата</string>
+  <string name="pref_title_font_size">Размер на шрифта</string>
   <string name="pref_title_note_style">Стил на бележки</string>
   <string name="preferences_bg_random_appear_title">Случаен цвят на бележки</string>
   <string name="preferences_title">Настройки</string>
@@ -92,9 +93,9 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Експортирането е успешно</string>
   <string name="time_picker_dialog_title">Задаване време за напомняне</string>
-  <string name="toast_folder_privacy_mode">"В защитен режим, не можете да редактирате папката"</string>
+  <string name="toast_folder_privacy_mode">В защитен режим, не можете да редактирате папката</string>
   <string name="toast_message_add_image_fail">Вмъкването на изображение е неуспешно!</string>
-  <string name="toast_note_privacy_mode">"В защитен режим, не можете да редактирате бележката"</string>
+  <string name="toast_note_privacy_mode">В защитен режим, не можете да редактирате бележката</string>
   <string name="toast_privacy_mode">Не мога да редактирам бележка в защитен режим</string>
   <string name="toast_reach_text_limit_attachment">Съдържанието на бележката е твърде дълго за нови прикачвания.</string>
   <string name="toast_reach_text_limit_truncate">"Съдържанието на бележката ще се намали автоматично, защото е много дълго."</string>
