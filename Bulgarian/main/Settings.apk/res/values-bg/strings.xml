@@ -106,6 +106,8 @@
   <string name="active_input_method_subtypes">Активни методи за въвеждане</string>
   <string name="activity_not_found">Приложението не е инсталирано на телефона.</string>
   <string name="activity_picker_label">Изберете дейност</string>
+  <string name="activity_title_create_shortcut">Пряк път</string>
+  <string name="activity_title_settings">Настройки</string>
   <string name="adb_warning_message">Отстр. на USB грешки - това е режим, който Ви позволява да използвате устройството си като външен диск за: преместване на файлове (от и към компютър), директно инсталиране на приложения и преглед на системните регистри.</string>
   <string name="adb_warning_title">Ще разрешите ли Отстр. на USB грешки?</string>
   <string name="add_account_label">Добави профил</string>
@@ -923,6 +925,7 @@
   <string name="edit_whitelist">Редактирай бележка</string>
   <string name="emergency_tone_summary">Задай режима на работа при спешно повикване</string>
   <string name="emergency_tone_title">Звънене при спешно повикване</string>
+  <string name="empty_folder_title">Празна папка (%d)</string>
   <string name="empty_list_msg">Нямате инсталирани приложения от трети страни.</string>
   <string name="enableNetwork">Включване на мрежата</string>
   <string name="enable_adb">Отстр. USB грешки</string>
@@ -1259,6 +1262,11 @@
   <string name="legal_information">Правна информация</string>
   <string name="license_title">Лиценз</string>
   <string name="link_speed_label">"Скорост: "</string>
+  <string name="list_sub_view_item_clean">Изчисти</string>
+  <string name="list_sub_view_item_install">Инсталация</string>
+  <string name="list_sub_view_item_lock">Заключи</string>
+  <string name="list_sub_view_item_unlock">Отключи</string>
+  <string name="list_sub_view_item_view">Детайли</string>
   <string name="local_backup_password_summary_change">Докоснете за да промените или премахнете паролата за пълни резервни копия</string>
   <string name="local_backup_password_summary_none">Пълните резервни копия към момента не са защитени с парола</string>
   <string name="local_backup_password_title">Парола за пълни резервни копия</string>
@@ -1427,7 +1435,13 @@
   <string name="menu_delete">Изтрий APN</string>
   <string name="menu_edit">Редактирай</string>
   <string name="menu_item_about_content">Безопасност: %s</string>
+  <string name="menu_item_about_summary">Версия：%s</string>
   <string name="menu_item_about_title">За програмата</string>
+  <string name="menu_item_settings_title">Настройки</string>
+  <string name="menu_item_shortcut">Създай пряк път</string>
+  <string name="menu_item_shortcut_summary">Добавяне на често използвани функции на началния екран</string>
+  <string name="menu_item_shortcut_title">Добави пряк път</string>
+  <string name="menu_item_shortcut_uninstall">Премахни пряк път</string>
   <string name="menu_key">Бутон Меню</string>
   <string name="menu_new">Нова APN</string>
   <string name="menu_restore">Възстанови настройки по подразбиране</string>
@@ -1849,7 +1863,11 @@ for MAC"</li>"
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Не може да се изтрие. В момента използвате този профил."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Не може да се изтрие. Вашето устройство ще превключи на този профил при слаба батерия. 
  Трябва да промените тази настройка, преди да изтриете този профил."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Не може да се изтрие. Устройството е настроено да превключи на този профил в определено време.
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Не може да се изтрие. Вашето устройство ще превключи на този профил при възстановяване на батерията.
+ Трябва да промените настройките на батерията, преди да изтриете този профил.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Не може да се изтрие. Устройството е настроено да превключи на този режим в определено време. 
+ Трябва да промените настройките на батерията, преди да изтриете този профил.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Не може да се изтрие. Устройството е настроено да превключи на този режим в определено време.
  Трябва да промените тази настройка, преди да изтриете този профил."</string>
   <string name="power_dialog_delete_dialog_delete">"Ще изтриете ли профила По избор и всичките му данни? Действието не може да бъде отменено!"</string>
   <string name="power_dialog_delete_dialog_title">Изтриване на профил По избор</string>
@@ -1871,6 +1889,7 @@ for MAC"</li>"
   <string name="power_mode_auto_clean_memory_in_ten_minutes">След 10 минути</string>
   <string name="power_mode_auto_clean_memory_never">Никога</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
+  <string name="power_mode_chooser_button_text">Приложи</string>
   <string name="power_mode_cpu_state">Използване на CPU</string>
   <string name="power_mode_cpu_state_balance">Балансирано</string>
   <string name="power_mode_cpu_state_balance_desc">Повишаване на производителността на CPU само когато е необходимо</string>
@@ -1899,10 +1918,13 @@ for MAC"</li>"
   <string name="power_mode_vibration_silence">Когато звука е заглушен</string>
   <string name="power_mode_vibration_yes">Винаги</string>
   <string name="power_mode_wifi">Wi-Fi</string>
+  <string name="power_new_choose_mode">Изберете режим</string>
   <string name="power_perm_logs_empty">Няма регистри</string>
   <string name="power_phone">Гласови повиквания</string>
   <string name="power_save_choose_mode">Изберете профил</string>
+  <string name="power_save_choose_recovery_mode">Изберете режим възстановяване</string>
   <string name="power_save_low_battery_auto_save_title">Авт. превключване</string>
+  <string name="power_save_low_battery_option_recovery_title">След възстановяване на батерията, превключи на</string>
   <string name="power_save_low_battery_option_summary">Ако капацитетът на батерията е над установените граници, устройството ще се върне на последния използван профил.</string>
   <string name="power_save_low_battery_option_title">При слаба батерия превключете на</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -1916,6 +1938,8 @@ for MAC"</li>"
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Край</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
+  <string name="power_save_on_time_goout_title">Възстанови до</string>
+  <string name="power_save_on_time_option_recovery_title">След края на този период, превключи на</string>
   <string name="power_save_on_time_option_summary">След края на този период устройството ще се върне към последния използван профил</string>
   <string name="power_save_on_time_option_title">През този период</string>
   <string name="power_save_on_time_start_time_summary">Начало</string>
@@ -2525,6 +2549,8 @@ for MAC"</li>"
   <string name="title_virus_update_yes">Авт. обновяване на вирусните дефиниции е включено</string>
   <string name="title_virus_yes">Не са открити вируси</string>
   <string name="toast_qucik_scan_list_empty">Няма нужда от почистване!</string>
+  <string name="toast_shortcut_install">Прекият път е създаден</string>
+  <string name="toast_shortcut_uninstall">Прекият път е пренахнат</string>
   <string name="total_size">%s общо</string>
   <string name="total_size_label">Общо</string>
   <string name="track_frame_time">Профилиране на GPU</string>
@@ -2769,6 +2795,7 @@ for MAC"</li>"
   <string name="virus_scan_finish_text">Всичко е почистено!</string>
   <string name="virus_scan_guard_provider_missed">Антивируса беше компрометиран. Трябва да възстановите фабричните настройки на телефона.</string>
   <string name="virus_scan_installed_package">%s (инсталирано)</string>
+  <string name="virus_scan_is_cloud_scanning">Сканиране на облака...</string>
   <string name="virus_scan_is_scanning">Сканиране...</string>
   <string name="virus_scan_judge_is_virus">Проверявай приложението преди инсталириране</string>
   <string name="virus_scan_last_risk">По време на последната проверка са намерени съмнителни приложения, които все още не са отстранени.</string>
@@ -2802,6 +2829,7 @@ for MAC"</li>"
   <string name="virus_scan_stop">Спри</string>
   <string name="virus_scan_support">Разработчик: Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (.apk пакет)</string>
+  <string name="virus_scan_unknown_virus_name">Неизвестно</string>
   <string name="virus_scan_update_lib">Актуализирай вирусните дефиниции автоматично</string>
   <string name="virus_scan_update_now">Актуализирай</string>
   <string name="virus_scan_use_cloud">Онлайн вирусни дефиниции</string>

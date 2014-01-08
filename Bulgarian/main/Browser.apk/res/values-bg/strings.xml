@@ -309,6 +309,7 @@
   <string name="navigation_button_newtab">Нов</string>
   <string name="navigation_button_tab">Раздел</string>
   <string name="navigation_button_view">Преглед</string>
+  <string name="network_alert_message">Не е достъпна Wi-Fi мрежа, ще използвате ли мобилни данни?</string>	
   <string name="network_show_wifi_setting_tip_dialog_description">Достъпна е Wi-Fi мрежа. Ще се свържете ли с нея?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Запомни избора</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Напомняне за налична Wi-Fi мрежа</string>
@@ -317,6 +318,7 @@
   <string name="new_folder">Нова папка</string>
   <string name="new_incognito_tab">Нов раздел в режим Инкогнито</string>
   <string name="new_tab">Нов раздел</string>
+  <string name="no">Не</string>
   <string name="no_subfolders">Няма подпапки.</string>
   <string name="not_enough_disk_space_alert">Недостатъчно свободна памет</string>
   <string name="not_remind_again">Не напомняй отново</string>
@@ -640,4 +642,5 @@
   <string name="webstorage_origin_summary_mb_stored">MB са заети на Вашия телефон</string>
   <string name="webstorage_outofspace_notification_text">Докоснете за да освободите памет.</string>
   <string name="webstorage_outofspace_notification_title">Паметта на браузъра е пълна</string>
+  <string name="yes">Да</string>
 </resources>

@@ -17,7 +17,7 @@
   <string name="addPeopleToGroup">За да добавите контакт, редактирайте група.</string>
   <string name="add_2sec_pause">Добави 2сек. пауза</string>
   <string name="add_account">Добави профил</string>
-  <string name="add_blacklist">Добави към черния списък</string>
+  <string name="add_blacklist">Блокирай</string>
   <string name="add_connection_button">Добави връзка</string>
   <string name="add_contact_dlg_message_fmt">Ще добавите ли \"%s\" към контакти?</string>
   <string name="add_field">Добави ново поле</string>
@@ -41,7 +41,7 @@
   <string name="audio_chat">Гласов чат</string>
   <string name="auto_nickname">Авто</string>
   <string name="auto_set_nickname">Авто</string>
-  <string name="batch_delete">Пакетно изтриване на контакти</string>
+  <string name="batch_delete">Пакетно изтриване</string>
   <string name="batch_delete_msg">"Сигурни ли сте, че искате да изтриете избраните %d контакти?
 
 Ако използвате услуга за синхронизиране на контакти, информацията за тях ще бъде изтрита и в облака."</string>
@@ -356,7 +356,7 @@
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
   <string name="export_to_sim_title">Експортиране към SIM картата…</string>
-  <string name="export_vcard_description">Експортиране на визитка в хранилище (SD карта)</string>
+  <string name="export_vcard_description">Експортиране на визитка във вътрешната памет на телефона</string>
   <string name="exporting_contact_failed_message">"Неуспешно експортиране на данни.
 Причина: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Неуспешно експортиране"</string>
@@ -385,9 +385,9 @@
   <string name="favorites_list_empty">Няма любими</string>
   <string name="forward_from">Прехвърлен от:</string>
   <string name="foundTooManyContacts">Открити са повече от %d.</string>
-  <string name="frequency_none">Не ми напомняй</string>
-  <string name="frequency_three_days">Проверка и напомняне на всеки 3 дни</string>
-  <string name="frequency_weekly">Проверка и напомняне всяка седмица</string>
+  <string name="frequency_none">Никога</string>
+  <string name="frequency_three_days">На всеки 3 дни</string>
+  <string name="frequency_weekly">Всяка седмица</string>
   <string name="frequentList">Често използвани</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Име</string>
@@ -403,6 +403,7 @@
   <string name="group_delete_success_toast">Групата е изтрита успешно</string>
   <string name="group_edit_field_hint_text">Име на група</string>
   <string name="group_member_remove_toast">Контакта е успешно премахнат от групата</string>
+  <string name="group_name">Моите групи</string>
   <string name="group_name_hint">Име на група</string>
   <string name="group_read_only">Не може да бъде редактирано на това устройство.</string>
   <string name="group_rename_dialog_title">Преименуване на група</string>
@@ -553,7 +554,7 @@
   <string name="menu_splitAggregate">Раздели</string>
   <string name="menu_sync_remove">Премахни синхронизацията за групата</string>
   <string name="menu_viewContact">Преглед на контакт</string>
-  <string name="merge_contact_message">%1$d контакта с частично дублирани данни, %2$d обединени</string>
+  <string name="merge_contact_message">%1$d контакта с частично дублирани данни</string>
   <string name="messageShortcutActivityTitle">Изберете номер за изпращане на съобщение</string>
   <string name="missing_name">(без име)</string>
   <string name="move_and_resize">Промяна на размера и позицията</string>
@@ -778,6 +779,7 @@
   <string name="resource_alarm_default">Будилник</string>
   <string name="resource_app_name">Браузър ресурси</string>
   <string name="resource_apply">Приложи</string>
+  <string name="resource_apply_trial">Пробвай сега</string>
   <string name="resource_buy">Купи</string>
   <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
   <string name="resource_category">Категория</string>
@@ -832,6 +834,7 @@
   <string name="resource_detail_update_log_title">Актуализации</string>
   <string name="resource_detail_window_title">Информация: %1$s</string>
   <string name="resource_download">Изтегляне</string>
+  <string name="resource_download_trial">Безплатен тест</string>
   <string name="resource_downloaded_title">Изтеглени ресурси</string>
   <string name="resource_downloading">Изтегляне...</string>
   <string name="resource_exchange">Активиране на код</string>
@@ -859,6 +862,7 @@
   <string name="resource_get_auth_missing">Тази тема не е изтеглена от официалния магазин.</string>
   <string name="resource_get_auth_retrieving">Получаване на разрешение...</string>
   <string name="resource_hint">Предупреждение</string>
+  <string name="resource_import_failed">Импортирането се провали</string>
   <string name="resource_import_successful">Успешно изтегляне.</string>
   <string name="resource_importing">Импортиране...</string>
   <string name="resource_list_title">Последно избрани</string>
@@ -868,6 +872,7 @@
   <string name="resource_my">Локални</string>
   <string name="resource_no_result">Няма резултати</string>
   <string name="resource_notification_default">Известия</string>
+  <string name="resource_on_trial">Изпробвате: %1$s</string>
   <string name="resource_online">Онлайн %1$s</string>
   <string name="resource_pack_confirm">Вече сте закупили %1$d елемента. Но текущата им пакетна цена има отстъпка в сравнение с покупката им поотделно. Продължавате ли?</string>
   <string name="resource_pack_discount_info">%1$s Отстъпка!</string>
@@ -884,6 +889,7 @@
   <string name="resource_ranking_free">Безплатни</string>
   <string name="resource_ranking_purchase">Платени</string>
   <string name="resource_ringtone_default">Мелодии</string>
+  <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
   <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
   <string name="resource_save_to_note">Запази в бележки</string>
   <string name="resource_see_more">Подробно</string>
@@ -900,6 +906,11 @@
   <string name="resource_tip_select_ringtone">Не е избрана мелодия</string>
   <string name="resource_title">Подробности</string>
   <string name="resource_title_select_ringtone">Изберете мелодия</string>
+  <string name="resource_trial_end_message">Тестовата версия на %1$s изтече. Ако желаете може да си го закупите.</string>
+  <string name="resource_trial_end_purchase">Купи</string>
+  <string name="resource_trial_end_restore">Прекрати теста</string>
+  <string name="resource_trial_end_title">Тестът изтече</string>
+  <string name="resource_trial_time">（тест за %1$d минути）</string>
   <string name="resource_unable_to_access">"За съжаление,
 съдържанието което търсите в момента не се предлага за Вашия регион.”</string>
   <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
