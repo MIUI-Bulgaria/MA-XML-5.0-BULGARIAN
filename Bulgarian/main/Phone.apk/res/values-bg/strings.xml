@@ -1056,9 +1056,9 @@
   <string name="title_data_settings">Настройки за данни</string>
   <string name="transport">Протокол</string>
   <string name="transport_title">Тип транспорт</string>
-  <string name="tty_mode_entries_full_miui">TTY Full</string>
+  <string name="tty_mode_entries_full_miui">Пълен TTY режим</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
-  <string name="tty_mode_entries_off_miui">TTY Off</string>
+  <string name="tty_mode_entries_off_miui">TTY е изкл.</string>
   <string name="tty_mode_entries_vco_miui">TTY VCO</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_summary_miui">Set TTY mode</string>
