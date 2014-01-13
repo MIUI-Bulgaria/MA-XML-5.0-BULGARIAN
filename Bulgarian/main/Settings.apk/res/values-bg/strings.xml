@@ -1720,7 +1720,7 @@ for MAC"</li>"
   <string name="perm_log_clear_title">Изчистване на регистрите</string>
   <string name="perm_log_empty">Празен регистър</string>
   <string name="perm_manage_tab_title">Разрешения</string>
-  <string name="perm_mian_name">Разрешение</string>
+  <string name="perm_mian_name">Разрешения</string>
   <string name="perm_monitored_app">Наблюдавани приложения (%1$d)</string>
   <string name="perm_notice">Внимание!</string>
   <string name="perm_operating">Обработка...</string>
