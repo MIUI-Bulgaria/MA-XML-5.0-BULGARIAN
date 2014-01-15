@@ -505,12 +505,6 @@ phone will open automatically when connected to a computer."</item>
         <item>Systrace (графики)</item>
         <item>Call stack on glGetError</item>
     </string-array>
-    <string-array name="change_security_lock_picker">
-        <item>Отключване с лице</item>
-        <item>Фигура</item>
-        <item>Парола</item>
-        <item>Смесена парола</item>
-    </string-array>
     <string-array name="preferred_app_entries">
        <item>Launcher</item>
        <item>Телефон</item>
