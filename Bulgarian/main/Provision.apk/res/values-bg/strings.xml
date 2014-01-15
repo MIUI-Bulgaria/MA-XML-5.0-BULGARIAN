@@ -8,7 +8,8 @@
   <string name="next">Следващ</string>
   <string name="other_service_google_location">Google услуга за местоположения</string>
   <string name="other_service_google_location_use">Местоположение и Google търсене</string>
-  <string name="other_service_google_location_use_help">"Позволете услугите на Google да събират данни за местоположението Ви. Събирането на данни ще се извършва във фонов режим. Можете да промените настройките в менюто \ "Настройки \"> \ "Услуги за местоположение \"."</string>
+  <string name="other_service_google_location_use_help">"Позволете услугите на Google да събират данни за местоположението Ви. Събирането на данни ще се извършва във фонов режим.
+За да регулирате тази настройка, отидете на Настройки > Местоположение."</string>
   <string name="other_service_google_location_use_summary">Позволете Google да използва местоположението за подобряване на резултатите от търсенето и други услуги</string>
   <string name="other_service_label">Други услуги</string>
   <string name="other_service_location">Услуги за местоположение</string>
@@ -31,5 +32,5 @@
   <string name="traffic_protection_summary">Контролът на трафика на данни ще Ви предупреди, когато надвишите лимита.</string>
   <string name="traffic_protection_text_hint">Въведете лимит за мобилни данни.</string>
   <string name="traffic_protection_unknown">Сега не знам, ще въведа по-късно.</string>
-  <string name="use_data">Разрешаване на данни</string>
+  <string name="use_data">Използване на данни</string>
 </resources>
