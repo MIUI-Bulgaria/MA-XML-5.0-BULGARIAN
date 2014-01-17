@@ -101,6 +101,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Входящи: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Изходящи: "</string>
   <string name="callrecordview_menu_add_call_note">Добави бележка</string>
+  <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
   <string name="callrecordview_menu_delete">Изтрий списъка с обажданията</string>
   <string name="callrecordview_menu_delete_accepted">Изтрий списъка с входящи повиквания</string>
   <string name="callrecordview_menu_delete_all">Изтрий целия списък с повиквания</string>
@@ -214,6 +215,7 @@
   <string name="deleteConfirmation">Този контакт ще бъде изтрит.</string>
   <string name="deleteConfirmationDetail">\"%s\" ще бъде изтрит.</string>
   <string name="deleteConfirmation_title">Изтрий</string>
+  <string name="delete_call_log_selected_title">Ще премахнете ли избраните списъци с повиквания?</string>
   <string name="delete_call_log_title">Ще премахнете ли избраните списъци с повиквания?</string>
   <string name="delete_contact_calllog_title">"Ще изтриете ли списъка с повиквания за този котакт?"</string>
   <string name="delete_dial_input">Изтрий</string>
@@ -1056,6 +1058,7 @@
   <string name="toast_copying">Копиране, моля изчакайте...</string>
   <string name="toast_displaying_all_contacts">Показване на всички контакти</string>
   <string name="toast_finish_delete_call_log">Списъкът с повиквания е изтрит</string>
+  <string name="toast_finish_delete_selected_call_log">Избраният списък с повиквания е изтрит</string>
   <string name="toast_for_failed_saving_nickname">Грешка при запазване на псевдоним!</string>
   <string name="toast_for_saving_nickname">Псевдонимът е запазен</string>
   <string name="toast_join_with_empty_contact">Именувайте контакта, преди обединяването му с друг.</string>

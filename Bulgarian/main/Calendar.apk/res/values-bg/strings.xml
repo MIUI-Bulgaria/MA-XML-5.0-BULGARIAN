@@ -72,7 +72,7 @@
   <string name="dismiss_all_label">Отхвърляне на всички</string>
   <string name="do_not_check">Не проверявай -></string>
   <string name="does_not_repeat">Еднократно събитие</string>
-  <string name="done">Назад</string>
+  <string name="done">Обратно</string>
   <string name="edit_event_all_day_label">През целия ден</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_from_label">От</string>
@@ -134,6 +134,18 @@
   <string name="modify_all">Промени всички събития от поредицата</string>
   <string name="modify_all_following">Промени това и всички бъдещи събития</string>
   <string name="modify_event">Промени само това събитие</string>
+  <string name="month_medium_january">ян.</string>
+  <string name="month_medium_february">февр.</string>
+  <string name="month_medium_march">март</string>
+  <string name="month_medium_april">апр.</string>
+  <string name="month_medium_may">май</string>
+  <string name="month_medium_june">юни</string>
+  <string name="month_medium_july">юли</string>
+  <string name="month_medium_august">авг.</string>
+  <string name="month_medium_september">септ.</string>
+  <string name="month_medium_october">окт.</string>
+  <string name="month_medium_november">ноем.</string>
+  <string name="month_medium_december">дек.</string>
   <string name="month_view">Месец</string>
   <string name="monthly">Ежемесечно</string>
   <string name="monthly_on_day">Ежемесечно (за ден %s)</string>

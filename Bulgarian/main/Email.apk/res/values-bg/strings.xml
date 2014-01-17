@@ -256,7 +256,7 @@
   <string name="dialog_sync_all_server_error">Проблем при комуникацията със сървъра. Моля, опитайте отново по-късно.</string>
   <string name="disable_admin_warning">"ВНИМАНИЕ! Деактивирането на администраторските права на Имейл приложението за устройството Ви ще изтрие всички профили, които ги изискват, заедно с елктронната им поща, контакти, календари и други данни."</string>
   <string name="discard_action">Отказ</string>
-  <string name="done">Назад</string>
+  <string name="done">Обратно</string>
   <string name="done_action">Готово</string>
   <string name="edit_quick_response_dialog">Редактирай бърз отговор</string>
   <string name="eml_view_title">Преглед на файл %s</string>
