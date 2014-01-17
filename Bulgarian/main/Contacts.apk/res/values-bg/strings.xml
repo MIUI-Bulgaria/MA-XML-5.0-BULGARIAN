@@ -248,7 +248,7 @@
   <string name="description_image_button_four">четири</string>
   <string name="description_image_button_nine">девет</string>
   <string name="description_image_button_one">едно</string>
-  <string name="description_image_button_pound">решетка</string>
+  <string name="description_image_button_pound">диез</string>
   <string name="description_image_button_seven">седем</string>
   <string name="description_image_button_six">шест</string>
   <string name="description_image_button_star">звезда</string>
@@ -773,7 +773,7 @@
   <string name="resource_account_current">Профил: %1$s</string>
   <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
   <string name="resource_account_login">Вход</string>
-  <string name="resource_account_login_before_action">Моля влезте във Вашия Xiaomi профил.</string>
+  <string name="resource_account_login_before_action">Моля, влезте в Xiaomi профила си.</string>
   <string name="resource_account_login_title">Вход</string>
   <string name="resource_account_switch">Превключи профила</string>
   <string name="resource_alarm_default">Будилник</string>
@@ -829,7 +829,7 @@
   <string name="resource_detail_jump_to_online_title">Онлайн</string>
   <string name="resource_detail_jump_to_same_author_title">От същия автор</string>
   <string name="resource_detail_recommend_desiner_other_themes">Други теми разработени от %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">теми: %1$s </string>
+  <string name="resource_detail_recommend_desiner_themes">теми: %1$s</string>
   <string name="resource_detail_recommend_other_themes">Потребителите също харесаха</string>
   <string name="resource_detail_update_log_title">Актуализации</string>
   <string name="resource_detail_window_title">Информация: %1$s</string>
@@ -884,7 +884,7 @@
   <string name="resource_price_unit">" MI-Кредити"</string>
   <string name="resource_purchase_getting_order">Получаване на данни за поръчката…</string>
   <string name="resource_purchase_verifying_payment">Проверка на плащането…</string>
-  <string name="resource_purchase_waiting_payment">Изчакване проверката на плащането…</string>
+  <string name="resource_purchase_waiting_payment">Изчакване за проверка на плащането…</string>
   <string name="resource_ranking">Популярни</string>
   <string name="resource_ranking_free">Безплатни</string>
   <string name="resource_ranking_purchase">Платени</string>
@@ -896,12 +896,12 @@
   <string name="resource_select">Избери</string>
   <string name="resource_selected">Най-добри</string>
   <string name="resource_send">Изпрати</string>
-  <string name="resource_server_alert_dialog_title">Сървърът е недостъпен в момента</string>
+  <string name="resource_server_alert_dialog_title">Сървърът е временно недостъпен</string>
   <string name="resource_server_out_of_service">Сървърът е временно недостъпен, моля опитайте по-късно.</string>
   <string name="resource_share_subject">Споделям темата: %1$s</string>
   <string name="resource_share_text">Ето една тема за MIUI, на която може да се насладите: %1$s! Връзка: %2$s</string>
   <string name="resource_share_title">Сподели</string>
-  <string name="resource_switch_account">Промени</string>
+  <string name="resource_switch_account">Превключи</string>
   <string name="resource_system_title">Системни ресурси</string>
   <string name="resource_tip_select_ringtone">Не е избрана мелодия</string>
   <string name="resource_title">Подробности</string>
@@ -912,7 +912,7 @@
   <string name="resource_trial_end_title">Тестът изтече</string>
   <string name="resource_trial_time">（тест за %1$d минути）</string>
   <string name="resource_unable_to_access">"За съжаление,
-съдържанието което търсите в момента не се предлага за Вашия регион.”</string>
+съдържанието което търсите в момента не се предлага за вашия регион."</string>
   <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
   <string name="resource_update">Обнови</string>
   <string name="resource_user_know">OK</string>
@@ -938,7 +938,7 @@
   <string name="scanning_sdcard_failed_title">"SD картата не е сканирана"</string>
   <string name="sdcard_not_mounted_dialog_message">"Поставете SD карта."</string>
   <string name="sdcard_not_mounted_dialog_title">Не е открита SD карта</string>
-  <string name="sdcard_status_changed_dialog_message">"Прекъснато! Моля, отворете приложението отново, за да актуализирате ресурс."</string>
+  <string name="sdcard_status_changed_dialog_message">"Прекъснато! Моля, отворете приложението отново, за да актуализирате ресурсите."</string>
   <string name="sdcard_status_changed_dialog_title">Статуса на SD картата е променен</string>
   <string name="searchHint">Търсене на контакти</string>
   <string name="search_results_searching">Търсене…</string>
