@@ -368,7 +368,7 @@
   <string name="dial_emergency_empty_error">Обаждането не е изпратено, моля наберете спешен номер!</string>
   <string name="dial_emergency_error">Обаждането не е изпратено, %s не е номер за спешен номер!</string>
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
-  <string name="dial_related_setting_catory_miui">Набери</string>
+  <string name="dial_related_setting_catory_miui">Набиране</string>
   <string name="dialerKeyboardHintText">Използвайте клавиатурата за набиране</string>
   <string name="disable">Деактивирай</string>
   <string name="disable_all_cf_miui">Изключи всички пренасочвания</string>
