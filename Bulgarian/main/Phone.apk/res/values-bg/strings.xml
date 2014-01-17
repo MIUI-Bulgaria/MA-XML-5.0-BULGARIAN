@@ -141,7 +141,7 @@
   <string name="call_assistant_miui">Асистент за набиране</string>
   <string name="call_forwarding_number_hint_miui">Моля, въведете номер за пренасочване</string>
   <string name="call_forwarding_settings">Настройки за пренасочване на обаждания</string>
-  <string name="call_forwarding_settings_miui">Настройки за пренасоване</string>
+  <string name="call_forwarding_settings_miui">Настройки за пренасочване</string>
   <string name="call_ind_services">Независими услуги за тел. Разговори</string>
   <string name="call_lost">Разговорът се загуби.</string>
   <string name="call_lost_title">Загубено обаждане</string>
