@@ -885,7 +885,7 @@
   <string name="resource_purchase_getting_order">Получаване на данни за поръчката…</string>
   <string name="resource_purchase_verifying_payment">Проверка на плащането…</string>
   <string name="resource_purchase_waiting_payment">Изчакване проверката на плащането…</string>
-  <string name="resource_ranking">Пополярни</string>
+  <string name="resource_ranking">Популярни</string>
   <string name="resource_ranking_free">Безплатни</string>
   <string name="resource_ranking_purchase">Платени</string>
   <string name="resource_ringtone_default">Мелодии</string>

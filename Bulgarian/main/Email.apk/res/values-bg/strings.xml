@@ -213,6 +213,7 @@
   <string name="cc">Копие</string>
   <string name="choose_attachment_dialog_title">Изберете файл за прикачване</string>
   <string name="choosertitle_sharevia">Сподели чрез</string>
+  <string name="cleared_trusted_senders_message">Снимките в съобщенията няма да се показват автоматично.</string>
   <string name="close_action">Затвори</string>
   <string name="completed_no_file">Файлът не е намерен</string>
   <string name="compose_action">Ново съобщение</string>
