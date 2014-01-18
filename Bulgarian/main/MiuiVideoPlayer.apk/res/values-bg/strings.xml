@@ -20,7 +20,9 @@
   <string name="loading_video_netplay_label">Зареждане, моля изчакайте...</string>
   <string name="loading_video_netplay_label_v5">Зареждане, моля изчакайте...</string>
   <string name="menu_item_about_label">За програмата</string>
+  <string name="menu_item_disable_3d_mode">Деактивиране на 3D</string>
   <string name="menu_item_disable_audio_enhance">Изключи подобряването на звука</string>
+  <string name="menu_item_enable_3d_mode">Активиране на 3D</string>
   <string name="menu_item_enable_audio_enhance">Включи подобряването на звука</string>
   <string name="menu_item_hide_media_info_label">Скрий информация за видео</string>
   <string name="menu_item_media_info_label">Покажи информация</string>
