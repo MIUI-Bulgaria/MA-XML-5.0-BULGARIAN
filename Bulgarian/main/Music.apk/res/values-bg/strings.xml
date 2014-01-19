@@ -321,7 +321,7 @@
   <string name="track_bit_rate_uhd">Най-високо</string>
   <string name="track_edit">Песен</string>
   <string name="track_num_format">(%s)</string>
-  <string name="tracks_title">Всички песни</string>
+  <string name="tracks_title">Песни</string>
   <string name="ultra_high_quality">Най-високото качество</string>
   <string name="unknown_album_name">Непознат албум</string>
   <string name="unknown_artist_name">Непознат изпълнител</string>
