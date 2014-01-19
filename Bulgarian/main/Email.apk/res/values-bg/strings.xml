@@ -289,7 +289,7 @@
   <string name="general_preference_text_zoom_normal">Нормален</string>
   <string name="general_preference_text_zoom_small">Малък</string>
   <string name="general_preference_text_zoom_tiny">Много малък</string>
-  <string name="general_preferences_clear_trusted_senders_summary">"Снимките в съобщенията няма да се показват автоматично"</string>
+  <string name="general_preferences_clear_trusted_senders_summary">Снимките в съобщенията няма да се показват автоматично.</string>
   <string name="general_preferences_clear_trusted_senders_title">Питай, преди показване на изображения</string>
   <string name="header_label_general_preferences">Общи</string>
   <string name="login_failed_ticker">Влизането в профила %s е неуспешно.</string>
@@ -582,4 +582,5 @@
   <string name="widget_starred">Със звезда</string>
   <string name="widget_touch_to_configure">Натисни за настройка.</string>
   <string name="widget_unread">Непрочетени</string>
+  <string name="cleared_trusted_senders_message">Снимките в съобщенията няма да се показват автоматично.</string>
 </resources>
