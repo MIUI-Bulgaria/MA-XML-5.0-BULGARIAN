@@ -582,5 +582,4 @@
   <string name="widget_starred">Със звезда</string>
   <string name="widget_touch_to_configure">Натисни за настройка.</string>
   <string name="widget_unread">Непрочетени</string>
-  <string name="cleared_trusted_senders_message">Снимките в съобщенията няма да се показват автоматично.</string>
 </resources>
