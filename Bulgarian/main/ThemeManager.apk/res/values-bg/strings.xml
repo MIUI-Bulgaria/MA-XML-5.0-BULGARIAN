@@ -96,7 +96,7 @@
   <string name="resource_comment_good_comments">Позитивни</string>
   <string name="resource_comment_invalid">Изберете броя на звездите</string>
   <string name="resource_comment_loading_list">Зареждане…</string>
-  <string name="resource_comment_name_default">Поребител %1$s</string>
+  <string name="resource_comment_name_default">Потребител %1$s</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Няма коментари</string>
   <string name="resource_comment_publish">Изпрати</string>
