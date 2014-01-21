@@ -207,7 +207,7 @@
   <string name="settings_toggle_position_reset">Нулиране на превключвателите</string>
   <string name="share">Сподели</string>
   <string name="status_bar_date_format">"EEEE 
-d.MMMM.yyyy"</string>
+d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка на методи на въвеждане</string>
   <string name="status_bar_network_flow">"Днес: %1$s    Остават: %2$s    Пакет: %3$s"</string>
