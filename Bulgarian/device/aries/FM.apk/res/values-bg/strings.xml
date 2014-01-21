@@ -130,4 +130,14 @@
   <string name="turn_on_speaker_phone">Включи високоговорителя</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Покажи списъка със станции</string>
+  <string name="menu_exit">Изход</string>
+  <string name="new_frequency">Нова станция</string>
+  <string name="menu_save_station_presets">Добави към запаметени</string>
+  <string name="toast_added_to_presets">Добавена към запаметени</string>
+  <string name="toast_removed_from_presets">Изтрита от запеметени</string>
+  <string name="hint_frequency">Честота: %1$s ~ %2$s</string>
+  <string name="hint_label">Име</string>
+  <string name="context_menu_item_edit">Промени</string>
+  <string name="context_menu_item_delete">Изтрий</string>
+  <string name="toast_channel_searched">Намерени %1$d станции</string>
 </resources>
