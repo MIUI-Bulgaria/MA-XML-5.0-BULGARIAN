@@ -108,7 +108,7 @@
   <string name="cloud_app_restore_query_error_prompt">"Неуспешно получаване на данните от облака. Приложенията и потребителските данни ще бъдат възстановени автоматично, когато устройството получи достъп до тях."</string>
   <string name="cloud_app_restore_success">Приложенията са възстановени!</string>
   <string name="cloud_app_restore_summary">Възстанови инсталираните приложения от архива и свързаните с тях потребителски данни</string>
-  <string name="cloud_app_restore_wifi_prompt">Необходимо е да се свържите към Интернет чрез Wi-Fi за възстановяване на приложения и потребителски данни.</string>
+  <string name="cloud_app_restore_wifi_prompt">Необходимо е да се свържете към Интернет чрез Wi-Fi за възстановяване на приложения и потребителски данни.</string>
   <string name="cloud_app_total_size">Размер на пълно резервно копие: %1$s</string>
   <string name="cloud_app_version_size">Версия: %1$s, Размер: %2$s</string>
   <string name="cloud_app_wait_wifi">В очакване на Wi-Fi връзка</string>
