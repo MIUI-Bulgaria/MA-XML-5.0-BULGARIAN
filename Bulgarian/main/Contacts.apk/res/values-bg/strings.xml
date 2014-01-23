@@ -1122,5 +1122,6 @@
   <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
   <string name="yellowpage_navigation_search_select_city">Моля изберете град</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>

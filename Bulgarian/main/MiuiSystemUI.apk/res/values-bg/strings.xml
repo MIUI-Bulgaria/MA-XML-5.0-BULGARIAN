@@ -161,6 +161,8 @@
   <string name="notification_otg_unknow_out">OTG устройството е изключено</string>
   <string name="notifications_off_text">Натиснете тук за включите известията отново.</string>
   <string name="notifications_off_title">Известията са изключени</string>
+  <string name="oldman_airplane_mode_text">Самолет</string>
+  <string name="oldman_incall_text">повикване</string>
   <string name="recent_apps_key">Последни приложения</string>
   <string name="recent_apps_key_show">Показване на последно използваните приложения</string>
   <string name="return_to_incall_screen">Натиснете за да се върнете на обаждането</string>
