@@ -10,6 +10,22 @@
   <string name="cit_ac_charger_out">Зарядното е изключено</string>
   <string name="cit_accelermeter_sensor_check_summary">Екрана ще покаже X, Y, Z трите посоки на ускорение (Забележка: Когато завъртите телефона стойностите ще се променят според положението</string>
   <string name="cit_accelermeter_sensor_check_title">Тест на акселерометъра</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test.
+
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
   <string name="cit_audio_loopback_check_one_title">Тест на микрофона към приемника</string>
   <string name="cit_audio_loopback_check_summary_first">Тестът ще изпробва връзката на главния микрофон</string>
   <string name="cit_audio_loopback_check_summary_second">Завртете телефона обратно и изпробвайте другите микрофони</string>
@@ -64,7 +80,7 @@
   <string name="cit_fm_open_bluetooth">Включва се Bluetooth...</string>
   <string name="cit_fm_start_service">Включи радиото</string>
   <string name="cit_front_camera_check_summary">"Стъпки на теста:
-  
+
 1. Натиснете бутона на камерата за да се отвори системната камера
 2. Натиснете върху камерата
 3. Натиснете бутона ОК на камерата, системата ще запази снимката автоматично
@@ -172,9 +188,15 @@
   <string name="cit_stop_calibration">Спри калибрирането</string>
   <string name="cit_tool">Инструменти</string>
   <string name="cit_tool_bluetooth">Инструменти за тест на Bluetooth</string>
+  <string name="cit_tool_bluetooth_dut">Bluetooth test</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
   <string name="cit_tool_bluetooth_mode">Режим за тест на Bluetooth</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth не е включен!</string>
   <string name="cit_tool_bluetooth_off">Изключи Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Включи Bluetooth</string>
+  <string name="cit_tool_bluetooth_tx_h">Bluetooth test（2.480GHz)</string>
+  <string name="cit_tool_bluetooth_tx_l">Bluetooth test（2.402GHz)</string>
   <string name="cit_tool_log">Записи</string>
   <string name="cit_tool_log_bugreport">Доклади за грешки</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -183,14 +205,39 @@
   <string name="cit_tool_log_kmsg">Последен регистър на ядрото</string>
   <string name="cit_tool_log_logcat">ADB регистър</string>
   <string name="cit_tool_log_modem">Регистър на модема</string>
+  <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
   <string name="cit_tool_log_ril">RIL регистър</string>
   <string name="cit_tool_log_toast">Регистъра е запазен в %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Генерира се отчет за грешка (коства около 10 секунди)</string>
+  <string name="cit_tool_modem">MODEM Test</string>
+  <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+  <string name="cit_tool_modem_exit_ftm">Прекрати</string>
+  <string name="cit_tool_modem_offline_log">Отвори/Затвори Offline Log</string>
+  <string name="cit_tool_nfc">NFC Test</string>
+  <string name="cit_tool_nfc_st">NFC ST:</string>
+  <string name="cit_tool_nfc_st_confreq">Freq:</string>
+  <string name="cit_tool_nfc_st_run">Стартирай</string>
+  <string name="cit_tool_nfc_st_stop">Спри</string>
   <string name="cit_tool_wifi">Инструмент за тест на Wi-Fi</string>
+  <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+  <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+  <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+  <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
   <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
   <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
   <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
   <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+  <string name="cit_tool_wifi_band_24">мрежа: 2.4G</string>
+  <string name="cit_tool_wifi_band_5">мрежа: 5G</string>
+  <string name="cit_tool_wifi_band_change">Напред</string>
   <string name="cit_tool_wifi_exit">Exit</string>
   <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
   <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
@@ -201,7 +248,10 @@
   <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
   <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
   <string name="cit_tool_wifi_rx_1">Rx:1</string>
+  <string name="cit_tool_wifi_rx_100">Rx:100</string>
   <string name="cit_tool_wifi_rx_13">Rx:13</string>
+  <string name="cit_tool_wifi_rx_165">Rx:165</string>
+  <string name="cit_tool_wifi_rx_36">Rx:36</string>
   <string name="cit_tool_wifi_rx_7">Rx:7</string>
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Име на точка за достъп</string>
@@ -211,20 +261,35 @@
   <string name="cit_tool_wifi_rx_chan">Rx: Канал</string>
   <string name="cit_tool_wifi_rx_count_error">Изходната стойност не е число</string>
   <string name="cit_tool_wifi_rx_error">Възникна грешка</string>
+  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
   <string name="cit_tool_wifi_rx_exit">Rx:изход</string>
   <string name="cit_tool_wifi_rx_run">Пусни</string>
   <string name="cit_tool_wifi_rx_stop">Спри</string>
   <string name="cit_tool_wifi_rx_total_format">Прехвърлени: %s</string>
+  <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
+  <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+  <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Канал:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX power:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">Datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: N</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_chan">Канал:</string>
   <string name="cit_tool_wifi_tx_n_txpr">TX Power:</string>
   <string name="cit_tool_wifi_tx_n_txrt">Datarate: MCS</string>
+  <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+  <string name="cit_tool_wifi_tx_st_chan">Канал:</string>
   <string name="cit_torch_off">Изключи фенерчето</string>
   <string name="cit_torch_on">Включи фенерчето</string>
+  <string name="cit_touch_calib_fail">Калибрирането е неуспешно</string>
+  <string name="cit_touch_calib_instruction">Калибриране</string>
+  <string name="cit_touch_calib_pass">Калибрирането е успешно завършено</string>
+  <string name="cit_touch_calib_summary">Стъпки за калибриране на екрана: Натиснете ОК и не докосвайте екрана, докато калибрирането не завърши</string>
+  <string name="cit_touch_calib_title">Калибриране на докосването</string>
   <string name="cit_usb_OTG_in"> USB_OTG устройство е включено </string>
   <string name="cit_usb_OTG_out"> USB_OTG оборудване е включено. </string>
   <string name="cit_usb_charger_in">USB зарядно е включено</string>
