@@ -19,33 +19,33 @@
   <string name="access_control_recording_intro_header">Начертайте фигура за отключване</string>
   <string name="access_control_reset_by_account">За отключване трябва да влезете във вашия Xiaomi профил</string>
   <string name="accessibility_enable">Позволи достъп</string>
-  <string name="accessibility_feature_state_off">Изкл</string>
-  <string name="accessibility_feature_state_on">Вкл</string>
-  <string name="accessibility_global_gesture_preference_description">"Ако тази функция е активирана, можете бързо в две стъпки да включвате функциите за достъпност:
+  <string name="accessibility_feature_state_off">Изкл.</string>
+  <string name="accessibility_feature_state_on">Вкл.</string>
+  <string name="accessibility_global_gesture_preference_description">"Когато тази функция е включена, можете бързо да активирате тези за достъпността в две стъпки:
 
-Стъпка 1: Натиснете и задръжте бутон Захранване, докато чуете звуков сигнал или усетите вибрация.
+Стъпка 1: Натиснете и задръжте бутона за захранване, докато чуете звук или усетите вибриране.
 
-Стъпка 2: Докоснете екрана с два пръста и ги задръжте, докато чуете звук за потвърждение.
+Стъпка 2: Докоснете и задръжте два пръста, докато чуете звуково потвърждение.
 
-Ако устройството има няколко потребителя, прекия път на функциите за достъпност ще бъдат включени, докато устройството не бъде отключено или не бъде избран друг потребител."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Изкл</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Вкл</string>
-  <string name="accessibility_global_gesture_preference_title">Пряк път на достъпност</string>
+Ако устройството има няколко потребители, използването на този пряк път върху заключения екран временно активира функциите за достъпност, докато устройството се отключи."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Изкл.</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Включено</string>
+  <string name="accessibility_global_gesture_preference_title">Пряк път към ф-ята за достъпност</string>
   <string name="accessibility_long_press_timeout_preference_title">Докосване и дълго задържане</string>
   <string name="accessibility_long_press_timeout_title">Докосване и дълго задържане</string>
   <string name="accessibility_menu_item_settings">Настройка</string>
   <string name="accessibility_no_services_installed">Няма инсталирани услуги</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Бутон Захр. - край на обаждане</string>
   <string name="accessibility_power_button_ends_call_title">Бутон Захр. - край на обаждане</string>
-  <string name="accessibility_screen_magnification_summary">"Когато тази функция е активирана, можете да увеличите или намалите мащаба с тройно почукване на екрана.
+  <string name="accessibility_screen_magnification_summary">"Когато тази функция е включена, можете да увеличите или намалите мащаба, като докоснете екрана три пъти.
 
-По време на увеличаване, можете да:
-"<li><ul>"Премествате: Плъзгайки пръсти по екрана.
-"<li>Променяте мащаба: Щипнете с два или повече пръста или ги раздалечете.</li></ul></li>"
+При увеличен мащаб можете:
+"<li><ul>"Да извършите панорамно преместване: Плъзнете два или повече пръста по екрана.
+"<li>Да коригирате нивото на мащаба: Съберете заедно или разгънете два или повече пръста.</li></ul></li>"
 
-За да увеличите временно изображението под пръста си, докоснете екрана три пъти и задръжте. В това състояние, плъзнете пръст за да разлгедате други части от екрана. За да върнете екрана към предишното му състояние, махнете пръста си.
+Можете също временно да промените мащаба на това, което е под пръста ви, като докоснете три пъти и задържите. В това променено състояние можете да плъзнете пръста си, за да изследвате различни части на екрана. Вдигнете го, за да се върнете към предишното състояние.
 
-Забележка: Увеличението с тройно почукване работи навсякъде, с изключение на клавиатурата и навигационната лента."</string>
+Забележка: Докосването три пъти за промяна на мащаба работи навсякъде освен при клавиатурата и навигационната лента."</string>
   <string name="accessibility_screen_magnification_title">Жестове за увеличение</string>
   <string name="accessibility_script_injection_allowed">Разрешено</string>
   <string name="accessibility_script_injection_button_allow">Разрешаване</string>
@@ -72,9 +72,9 @@
   <string name="accessibility_system_title">Система</string>
   <string name="accessibility_toggle_large_text_preference_title">Голям текст</string>
   <string name="accessibility_toggle_large_text_title">Голям текст</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Обновявай мащаба при превключване между приложения</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Авт. обновяване на мащаба</string>
-  <string name="accessibility_toggle_screen_magnification_preference_title">Мащаб</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ниво на мащаба на екрана при преходи на прилож.: Актуал.</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Ниво на мащаба на екрана: Автоакт.</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Ниво на мащаба на екрана</string>
   <string name="accessibility_toggle_script_injection_preference_title">Специални уеб скриптове</string>
   <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на пароли</string>
   <string name="account_settings">Профили</string>
@@ -105,7 +105,7 @@
   <string name="activating">Активиране...</string>
   <string name="active_device_admin_msg">Администратор на устройство</string>
   <string name="active_input_method_subtypes">Активни методи за въвеждане</string>
-  <string name="activity_not_found">Приложението не е инсталирано на телефона.</string>
+  <string name="activity_not_found">Приложението не е инсталирано на телефона ви.</string>
   <string name="activity_picker_label">Изберете дейност</string>
   <string name="activity_title_create_shortcut">Пряк път</string>
   <string name="activity_title_settings">Настройки</string>
@@ -275,7 +275,7 @@
   <string name="battery_desc_other_apps">Разход на батерия от други приложения</string>
   <string name="battery_desc_radio">Използване на батерия от клетъчното радио</string>
   <string name="battery_desc_standby">Разход на батерия когато телефона не се използва</string>
-  <string name="battery_desc_users">Използване на батерия от потребителя</string>
+  <string name="battery_desc_users">Батерия, използвана от потребителя</string>
   <string name="battery_desc_voice">Използване на батерия за гласови обаждания</string>
   <string name="battery_desc_wifi">Използване на батерия от Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
@@ -526,8 +526,8 @@
   <string name="bt_hci_snoop_log_summary">Запишете всички Bluetooth HCI пакети към файл</string> 
   <string name="bt_trace_log">Разрешете Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Разрешете Bluetooth Trace log</string>
-  <string name="bugreport_in_power">Сигнал за грешка от главното меню</string>
-  <string name="bugreport_in_power_summary">Прибави в главното меню опция за подаване на сигнал</string>
+  <string name="bugreport_in_power">Сигнали за програмни грешки в менюто за захранване</string>
+  <string name="bugreport_in_power_summary">Включване на опцията за получаване на сигнал за програмна грешка в менюто за захранване</string>
   <string name="bugreport_tool_log_toast">Логът е съхранен в %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Създаването на сигнал за грешка ще отнеме около 1 минута.</string>
   <string name="build_number">Номер на версията</string>
@@ -730,9 +730,9 @@
   <string name="data_usage_pick_cycle_day">Ден от месеца, когато се нулира отчитането на трафика от данни:</string>
   <string name="data_usage_received_sent">Получено: %1$s, изпратено: %2$s</string>
   <string name="data_usage_restrict_background">Ако ограничите данните във фонов режим, някои приложения и услуги няма да работят без връзка с Wi-Fi мрежа</string>
-  <string name="data_usage_restrict_background_multiuser">"Ако ограничите данните във фонов режим, някои приложения и услуги няма да работят без връзка с Wi-Fi мрежа.
+  <string name="data_usage_restrict_background_multiuser">"Ако ограничите мобилните данни на заден план, някои приложения и услуги няма да работят, освен ако не сте свързани с Wi-Fi мрежа.
 
-Тази настройка засяга всички потребители на телефона."</string>
+Настройката засяга всички потребители на този телефон."</string>
   <string name="data_usage_restrict_background_title">Ще ограничите ли фоновите данни?</string>
   <string name="data_usage_restrict_denied_dialog">"Ограничаването на фоновите данни е възможно само след като сте задали лимит за мобилни данни."</string>
   <string name="data_usage_summary_title">Трансфер на данни</string>
@@ -794,7 +794,7 @@
   <string name="default_sdcard_select_msg">"Ако изберете %1$s, инсталираните приложения на %2$s няма да могат да се използват преди рестартиране на устройството, променяте ли на %3$s?"</string>
   <string name="default_usb_mode">USB връзка по подразбиране</string>
   <string name="delete">Изтрий</string>
-  <string name="deny">Откажи</string>
+  <string name="deny">Забрани</string>
   <string name="details_subtitle">Консумация на батерията</string>
   <string name="details_title">Консумация на батерията</string>
   <string name="dev_settings_warning_message">Тези настройки са само за разработчици. Те могат да предизвикат нестабилност в работата на устройството и приложенията.</string>
@@ -1054,8 +1054,8 @@
   <string name="font_size_summary">Задайте размер на шрифта за приложения като: Телефон, Съобщения, контакти и др.</string>
   <string name="force_hw_ui">Ускоряване работата на GPU</string>
   <string name="force_hw_ui_summary">Използване на 2D хардуерно ускорение в приложенията</string>
-  <string name="force_msaa">Ускоряване с 4x MSAA</string>
-  <string name="force_msaa_summary">Включи 4x MSAA в приложения OpenGL ES 2.0</string>
+  <string name="force_msaa">Задаване на 4x MSAA</string>
+  <string name="force_msaa_summary">Активиране на 4x MSAA в прилож. с OpenGL ES 2.0</string>
   <string name="force_stop">Принудително спиране</string>
   <string name="force_stop_dlg_text">Ако спрете принудително приложението, това може да се отрази на поведението му.</string>
   <string name="force_stop_dlg_title">Спирате ли го принудително?</string>
@@ -1117,9 +1117,9 @@
   <string name="fw_whitelist_hint">Повикванията и съобщенията няма да бъдат блокирани</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">автоматична</string>
-  <string name="gadget_brightness_state_full">максимална</string>
+  <string name="gadget_brightness_state_full">пълна</string>
   <string name="gadget_brightness_state_half">средна</string>
-  <string name="gadget_brightness_state_off">минимална</string>
+  <string name="gadget_brightness_state_off">изключена</string>
   <string name="gadget_brightness_template">Яркост %1$s</string>
   <string name="gadget_gps">GPS</string>
   <string name="gadget_picker_title">Избор на притурка</string>
@@ -1128,7 +1128,7 @@
   <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">изключване</string>
   <string name="gadget_state_turning_on">включване</string>
-  <string name="gadget_sync">Синхронизация</string>
+  <string name="gadget_sync">Синхронизиране</string>
   <string name="gadget_title">Упр. на захранването</string>
   <string name="gadget_toggle_bluetooth">Актуализиране на Bluetooth настройките</string>
   <string name="gadget_toggle_wifi">Актуализиране на настройките за Wi-Fi</string>
@@ -1290,7 +1290,7 @@
   <string name="local_backup_password_toast_confirmation_mismatch">"Новата парола и потвърждението не съвпадат"</string>
   <string name="local_backup_password_toast_success">Новата парола за пълен архив е настроена</string>
   <string name="local_backup_password_toast_validation_failure">Неуспешно задаване на парола за пълен архив</string>
-  <string name="location_access_summary">Позволява на избрани приложения достъп до информация за местоположението Ви</string>
+  <string name="location_access_summary">Приложенията, които са поискали от вас разрешение, да използват информацията за местоположението ви</string>
   <string name="location_access_title">Достъп до местоположението ми</string>
   <string name="location_gps">Спътници на GPS</string>
   <string name="location_neighborhood_level">Приложенията използват данни от Wi-Fi и мобилни мрежи, за да определят приблизителното ми местоположение.</string>
@@ -1436,10 +1436,10 @@
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Приложения</string>
   <string name="memory_available">На разположение</string>
-  <string name="memory_available_read_only">На разположение (само за четене)</string>
+  <string name="memory_available_read_only">Налице (само за четене)</string>
   <string name="memory_calculating_size">Изчисляване…</string>
-  <string name="memory_clear_cache_message">Това ще изтрие кешираните данни от всички приложения.</string>
-  <string name="memory_clear_cache_title">Ще изтриете ли кешираните данни?</string>
+  <string name="memory_clear_cache_message">Това ще изчисти кешираните данни за всички прил.</string>
+  <string name="memory_clear_cache_title">Да се изчистят ли кешираните данни?</string>
   <string name="memory_dcim_usage">Снимки и видео</string>
   <string name="memory_downloads_usage">Изтегляния</string>
   <string name="memory_media_cache_usage">Кеширани данни</string>
@@ -1624,7 +1624,7 @@ for MAC"</li>"
   <string name="optimizing">Оптимизиране</string>
   <string name="optimizing_virus">Премахване на вируси...</string>
   <string name="other_relative">Други разрешения</string>
-  <string name="overlay_display_devices_title">Симулиране на вторични екрани</string>
+  <string name="overlay_display_devices_title">Симулиране на алтерн. дисплеи</string>
   <string name="owner_info_settings_edit_text_hint">Въведи текст за показване на заключен екран</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Инф. за собственика</string>
@@ -2192,12 +2192,12 @@ for MAC"</li>"
   <string name="roaming_reenable_title">Разрешавате ли данните при роуминг?</string>
   <string name="roaming_turn_it_on_button">Включи</string>
   <string name="roaming_warning">Разрешавате ли данните при роуминг? Това може да доведе до висока такса за роуминг!</string>
-  <string name="roaming_warning_multiuser">"Използването на данни при роуминг може да доведе до непредвидено високи разходи!
+  <string name="roaming_warning_multiuser">"Разрешаването на роуминг на данни може да доведе до високи такси!
 
-Тази настройка засяга всички потребители на телефона."</string>
+Настройката засяга всички потребители на този телефон."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Почистване на системата</string>
-  <string name="running_process_item_removed_user_label">Премахване на потребител</string>
+  <string name="running_process_item_removed_user_label">Премахнат потребител</string>
   <string name="running_process_item_user_label">Потребител: %1$s</string>
   <string name="running_processes_item_description_p_p">Процеси: %1$d; услуги: %2$d</string>
   <string name="running_processes_item_description_p_s">Процеси: %1$d; услуги: %2$d</string>
@@ -2240,11 +2240,11 @@ for MAC"</li>"
   <string name="screensaver_component_title">Избрана декорация</string>
   <string name="screensaver_settings_button">Настройки</string>
   <string name="screensaver_settings_disabled_prompt">За да знаете какво се случва с телефона, докато е свързан с док-станция или е в режим на готовност, включете скрийнсейвъра.</string>
-  <string name="screensaver_settings_dream_start">Включи</string>
-  <string name="screensaver_settings_summary_dock">На док-станцията</string>
-  <string name="screensaver_settings_summary_either_long">При включване към док-станция или в режим на готовност (при зареждане)</string>
+  <string name="screensaver_settings_dream_start">Стартиране сега</string>
+  <string name="screensaver_settings_summary_dock">При свързване с докинг станция</string>
+  <string name="screensaver_settings_summary_either_long">При свързване с докинг станция или при спящ режим и зареждане</string>
   <string name="screensaver_settings_summary_either_short">Винаги</string>
-  <string name="screensaver_settings_summary_off">Изключено</string>
+  <string name="screensaver_settings_summary_off">Изкл.</string>
   <string name="screensaver_settings_summary_on">При свързан източник на захранване в режим на готовност</string>
   <string name="screensaver_settings_summary_sleep">При зареждане</string>
   <string name="screensaver_settings_title">Скрийнсейвър</string>
@@ -2315,10 +2315,10 @@ for MAC"</li>"
   <string name="security_passwords_title">Пароли</string>
   <string name="security_privacy_settings_title">Поверителност</string>
   <string name="security_relative">Безопасност</string>
-  <string name="security_settings_billing_desc">Това приложение може да Ви начислява такси:</string>
+  <string name="security_settings_billing_desc">Това приложение може да ви таксува пари:</string>
   <string name="security_settings_desc">Това приложение има достъп до следните функции на телефона:</string>
   <string name="security_settings_desc_multi">Приложението има достъп до някои права на телефона Ви. За да се подобри производителността и намали използването на паметта, приложението %1$s има някои от тези разрешения, защото стартира същия процес като %2$s:</string>
-  <string name="security_settings_premium_sms_desc">Изпрати премиум SMS съобщение</string>
+  <string name="security_settings_premium_sms_desc">Изпращане на импулсен SMS</string>
   <string name="security_settings_summary">Моето местоположение, отключване на екрана и заключване на хранилището за идентификационни данни</string>
   <string name="security_settings_title">Сигурност</string>
   <string name="sel_sub_summary">Изберете мрежовите услуги за Оператор-1 и Оператор-2</string>
@@ -2328,10 +2328,10 @@ for MAC"</li>"
   <string name="select_device_admin_msg">Администратори на устройството</string>
   <string name="select_memory">Хранилище по подразбиране</string>
   <string name="select_subscription">Изберете мрежова услуга</string>
-  <string name="selinux_status">Статус на SELinux</string>
-  <string name="selinux_status_disabled">Изключено</string>
-  <string name="selinux_status_enforcing">Строго</string>
-  <string name="selinux_status_permissive">Толерантно</string>
+  <string name="selinux_status">Състояние на SELinux</string>
+  <string name="selinux_status_disabled">Деактивирано</string>
+  <string name="selinux_status_enforcing">Налагане</string>
+  <string name="selinux_status_permissive">Разрешаващо</string>
   <string name="service_background_processes">Свободно: %1$s</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Заето: %1$s</string>
@@ -2367,15 +2367,15 @@ for MAC"</li>"
   <string name="show_background_processes">Покажи кеширани процеси</string>
   <string name="show_cpu_usage">Употреба на процесора</string>
   <string name="show_cpu_usage_summary">Наслагване на екрана показва текущата употр. на процесора</string>
-  <string name="show_dev_already">Не е необходимо, Вие вече сте разработчик.</string>
-  <string name="show_dev_on">Ти стана разработчик!</string>
+  <string name="show_dev_already">Не е необходимо – вече сте програмист.</string>
+  <string name="show_dev_on">Вече сте програмист!</string>
   <string name="show_fc">Показване на критични грешки</string>
   <string name="show_fc_summary">Показване на приложения, които са били принудително затворени</string>
   <string name="show_firewall_notification">Покажи блокираните известия</string>
   <string name="show_hw_layers_updates">Покажи акт. на HW слоеве</string>
-  <string name="show_hw_layers_updates_summary">Примигв. в зелено на HW слоеве при актуализиране</string>
+  <string name="show_hw_layers_updates_summary">Примигв. на слоевете на хардуера в зелено при актуал.</string>
   <string name="show_hw_overdraw">Покажи GPU пречертаването</string>
-  <string name="show_hw_overdraw_summary">От добре към зле: син, зелен, св.червен, червен</string>
+  <string name="show_hw_overdraw_summary">От най-добро към най-лошо: синьо, зелено, светло червено, червено</string>
   <string name="show_hw_screen_updates">Покажи актуализациите на GPU</string>
   <string name="show_hw_screen_updates_summary">Примигв. на изгледи в прозорците при начертаване с GPU</string>
   <string name="show_magnifier_when_input">Показвай лупа</string>
@@ -2389,7 +2389,7 @@ for MAC"</li>"
   <string name="show_screen_updates_summary">Примигване на участъци от екрана при актуализиране</string>
   <string name="show_touches">Покажи докосвания</string>
   <string name="show_touches_summary">Показване на визуална обр. връзка за докосванията</string>
-  <string name="show_user_info_on_lockscreen_label">Покажи собственика на заключен екран</string>
+  <string name="show_user_info_on_lockscreen_label">Информация за потребителя върху заключен екран</string>
   <string name="silent_mode_title">Тих режим</string>
   <string name="sim_absent">Няма SIM/RUIM</string>
   <string name="sim_bad_pin">Грешен PIN-код</string>
@@ -2716,15 +2716,15 @@ for MAC"</li>"
   <string name="use_system_language_to_select_input_method_subtypes">Използвай системния език</string>
   <string name="user_account_title">Профил за съдържанието</string>
   <string name="user_add_user_menu">Добави потребител</string>
-  <string name="user_add_user_message_long">"Вие може да споделяте устройството с други хора, като създадете допълнителни потребители. Всеки потребител има свое пространство, което могат да настроят с техни приложения, тапет и други. Въпреки това някои параметри, например настройките за Wi-Fi, ще останат общи за всички.
+  <string name="user_add_user_message_long">"Можете да споделите това устройство с други хора, като създадете допълнителни потребители. Всеки от тях има собствено работно пространство, което може да персонализира със свои собствени приложения, тапет и др. Те могат да коригират и настройки на телефона, като например Wi-Fi, които засягат всички.
 
-След създаване на нов потребител, този човек трябва да премине през процеса за първоначална настройка.
+След като създадете нов потребител, той трябва да премине през процеса за настройка.
 
-Всеки потребител може да приема актуализации на приложения от името на другите потребители."</string>
-  <string name="user_add_user_message_short">"След създаване на нов потребител, този човек трябва да премине през процеса за първоначална настройка.
+Всеки потребител може да приема разрешения на актуализирани приложения от името на всички останали."</string>
+  <string name="user_add_user_message_short">"След като създадете нов потребител, той трябва да премине през процеса за настройка.
 
-Всеки потребител може да приема актуализации на приложения от името на другите потребители."</string>
-  <string name="user_add_user_title">Добави нов потребител</string>
+Всеки потребител може да приема разрешения на актуализирани приложения от името на всички останали."</string>
+  <string name="user_add_user_title">Добавяне на нов потребител</string>
   <string name="user_adding_new_user">Добавяне на нов потребител…</string>
   <string name="user_cannot_manage_message">Само собственикът на телефона може да управлява потребителите.</string>
   <string name="user_confirm_remove_message">Мястото в паметта и потребителските данни ще бъдат премахнати от вашия телефон. Това действие не може да бъде отменено.</string>
@@ -2753,15 +2753,15 @@ for MAC"</li>"
   <string name="user_dict_settings_titlebar">Потребителски речник</string>
   <string name="user_dict_single_settings_title">Личен речник</string>
   <string name="user_discard_user_menu">Отказ</string>
-  <string name="user_info_settings_title">Инф. за потребителя</string>
+  <string name="user_info_settings_title">Данни за потребителя</string>
   <string name="user_information_heading">Информация за потребителя</string>
-  <string name="user_list_title">Потребители</string>
+  <string name="user_list_title">Други потребители</string>
   <string name="user_market_apps_heading">Инсталирани приложения</string>
   <string name="user_market_requires_pin">Изисква PIN-код</string>
   <string name="user_max_content_rating">Оценка на съдържанието</string>
   <string name="user_name_title">Име</string>
   <string name="user_new_user_name">Нов потребител</string>
-  <string name="user_nickname">Прякор</string>
+  <string name="user_nickname">Псевдоним</string>
   <string name="user_owner">Собственик</string>
   <string name="user_picture_title">Снимка</string>
   <string name="user_remove_user_menu">Изтриване на %1$s от устройството</string>
@@ -2778,9 +2778,9 @@ for MAC"</li>"
   <string name="user_you_section">Вие</string>
   <string name="valuation">Препоръчва се почистване</string>
   <string name="verify_applications">Проверка на приложения</string>
-  <string name="verify_applications_summary">Забрана или предупреждение за инсталиране на злонамерени приложения</string>
-  <string name="verify_apps_over_usb_summary">Проверете за вредност приложенията, инсталирани с помощта на ADB/ADT.</string>
-  <string name="verify_apps_over_usb_title">Проверка на прил-я чрез USB</string>
+  <string name="verify_applications_summary">Забраняване или предупреждаване преди инсталирането на приложения, които може да причинят вреди</string>
+  <string name="verify_apps_over_usb_summary">Проверка на инсталираните чрез ADB/ADT приложения за опасно поведение.</string>
+  <string name="verify_apps_over_usb_title">Прилож. да се потвържд. през USB</string>
   <string name="version_text">Версия %1$s</string>
   <string name="vibrate_category_title">Вибрация</string>
   <string name="vibrate_in_normal_title">Винаги вибрира</string>
@@ -2923,9 +2923,9 @@ for MAC"</li>"
   <string name="vpn_ipsec_server_cert">IPSec сертификат на сървъра</string>
   <string name="vpn_ipsec_user_cert">IPSec потр. сертификат</string>
   <string name="vpn_l2tp_secret">L2TP секретен ключ</string>
-  <string name="vpn_lockdown_config_error">Винаги включения VPN изисква IP адрес за DNS и за сървър.</string>
+  <string name="vpn_lockdown_config_error">Винаги включената виртуална частна мрежа (VPN) изисква IP адрес както за сървъра, така и за DNS.</string>
   <string name="vpn_lockdown_none">Няма</string>
-  <string name="vpn_lockdown_summary">Избери VPN профил, който ще бъде винаги включен. Мрежовия трафик ще работи само, когато се свързвате към този VPN.</string>
+  <string name="vpn_lockdown_summary">Изберете потребителски профил за виртуална частна мрежа (VPN), за да останете винаги свързани с нея. Мрежовият трафик ще бъде разрешен само при връзка с тази VPN.</string>
   <string name="vpn_menu_delete">Изтрий профила</string>
   <string name="vpn_menu_edit">Редактирай профила</string>
   <string name="vpn_menu_lockdown">Винаги включен VPN</string>
@@ -2975,14 +2975,14 @@ for MAC"</li>"
   <string name="wifi_advanced_mac_address_title">MAC адрес</string>
   <string name="wifi_advanced_settings_label">IP настройки</string>
   <string name="wifi_advanced_titlebar">Разширени настройки за Wi-Fi</string>
-  <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: телефонът няма да може да проверява дали вашият софтуер е актуализиран.</string>
+  <string name="wifi_and_mobile_skipped_message">ПРЕДУПРЕЖДЕНИЕ: Телефонът няма да може да потвърди, че софтуерът ви е актуален.</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Автоматично свързване</string>
   <string name="wifi_cancel">Отказ</string>
   <string name="wifi_certificate">Сертификат</string>
   <string name="wifi_config_info">Wi-Fi настройки</string>
   <string name="wifi_connect">Свързване</string>
-  <string name="wifi_connect_failed_message">Телефона не успя да се свърже към Wi-Fi мрежата.</string>
+  <string name="wifi_connect_failed_message">Телефонът не можа да се свърже с тази Wi-Fi мрежа.</string>
   <string name="wifi_context_menu_change_password">Промени паролата</string>
   <string name="wifi_context_menu_change_wapi_certificate">Промени WAPI сертификата</string>
   <string name="wifi_context_menu_connect">Свързване с мрежа</string>
@@ -2993,30 +2993,30 @@ for MAC"</li>"
   <string name="wifi_disabled_password_failure">Проблем при удостоверяването</string>
   <string name="wifi_display_available_devices">Налични устройства</string>
   <string name="wifi_display_details">Настройки на дисплея</string>
-  <string name="wifi_display_disconnect_text">Това действие ще прекрати връзката Ви с устройството:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
-  <string name="wifi_display_disconnect_title">Ще прекъснете ли връзката?</string>
-  <string name="wifi_display_no_devices_found">В близост не са намерени дисплеи с безжична връзка.</string>
+  <string name="wifi_display_disconnect_text">Това ще прекрати връзката ви със:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="wifi_display_disconnect_title">Да се изключи ли?</string>
+  <string name="wifi_display_no_devices_found">Няма намерени безжични дисплеи в района.</string>
   <string name="wifi_display_options_done">Готово</string>
   <string name="wifi_display_options_forget">Забравяне</string>
   <string name="wifi_display_options_name">Име</string>
-  <string name="wifi_display_options_title">Опции на безжичните дисплеи</string>
+  <string name="wifi_display_options_title">Опции на безжичния дисплей</string>
   <string name="wifi_display_paired_devices">Сдвоени дисплеи</string>
   <string name="wifi_display_search_for_devices">Търсене на дисплеи</string>
   <string name="wifi_display_searching_for_devices">Търсене…</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Безжичния дисплей е изключен, тъй като Wi-Fi не е включено.</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_off">Ако искате да видите всички устройства, включете безжичния дисплей.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Безжичният дисплей е деактивиран, защото Wi-Fi е изключен.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_off">За да видите устройства, включете безжичния дисплей.</string>
   <string name="wifi_display_settings_title">Безжичен дисплей</string>
-  <string name="wifi_display_status_available">На разположение</string>
-  <string name="wifi_display_status_connected">Свързан</string>
-  <string name="wifi_display_status_connecting">Свързва се</string>
-  <string name="wifi_display_summary_disabled">Деактивиран</string>
-  <string name="wifi_display_summary_off">Изкл</string>
-  <string name="wifi_display_summary_on">Вкл</string>
+  <string name="wifi_display_status_available">Налице</string>
+  <string name="wifi_display_status_connected">Установена е връзка</string>
+  <string name="wifi_display_status_connecting">Установява се връзка</string>
+  <string name="wifi_display_summary_disabled">Деактивирано</string>
+  <string name="wifi_display_summary_off">Изкл.</string>
+  <string name="wifi_display_summary_on">Вкл.</string>
   <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
-  <string name="wifi_dont_skip">Не пропускай</string>
+  <string name="wifi_dont_skip">Без пропускане</string>
   <string name="wifi_eap_anonymous">Анонимна идентичност</string>
   <string name="wifi_eap_ca_cert">CA сертификат</string>
   <string name="wifi_eap_identity">Идентичност</string>
@@ -3064,7 +3064,7 @@ for MAC"</li>"
   <string name="wifi_other_network">Друга мрежа</string>
   <string name="wifi_p2p_cancel_connect_message">Искате ли да откажете поканата да се свържете с %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Отказвате ли поканата?</string>
-  <string name="wifi_p2p_delete_group_message">Ще забравите ли тази група?</string>
+  <string name="wifi_p2p_delete_group_message">Да се забрави ли тази група?</string>
   <string name="wifi_p2p_device_info">Информация за устройството</string>
   <string name="wifi_p2p_disconnect_message">Ако прекъснете връзката, свързаването Ви с %1$s ще се прекрати.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, свързаването Ви с %1$s и %2$s други устройства ще се прекрати.</string>
@@ -3079,7 +3079,7 @@ for MAC"</li>"
   <string name="wifi_p2p_menu_searching">Търсене…</string>
   <string name="wifi_p2p_peer_devices">Peer устройства</string>
   <string name="wifi_p2p_persist_network">Запиши тази връзка</string>
-  <string name="wifi_p2p_remembered_groups">Записани групи</string>
+  <string name="wifi_p2p_remembered_groups">Запомнени групи</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Настройка за защита на Wi-Fi (WPS)</string>
   <string name="wifi_password">Парола</string>
@@ -3088,7 +3088,7 @@ for MAC"</li>"
   <string name="wifi_quick_toggle_summary">Включи Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Записано</string>
-  <string name="wifi_required_info_text">За да завърши настройката, вашето устройство се нуждае от достъп до Wi-Fi. След настройването, Вие може да превключвате между мобилни данни и Wi-Fi.</string>
+  <string name="wifi_required_info_text">За да завърши настройката, устройството ви се нуждае от достъп до Wi-Fi. След това можете да превключвате между мобилни данни и Wi-Fi.</string>
   <string name="wifi_save">Запиши</string>
   <string name="wifi_secured_first_item">Защитено с %1$s</string>
   <string name="wifi_secured_second_item">, защитено с %1$s</string>
@@ -3183,10 +3183,10 @@ for MAC"</li>"
   <string name="wifi_show_password">Показване на паролата</string>
   <string name="wifi_signal">Сила на сигнала</string>
   <string name="wifi_signal_found_msg">Открита е Wi-Fi AP, ще се свържете ли？</string>
-  <string name="wifi_skip_anyway">Пропусни все пак</string>
-  <string name="wifi_skipped_message">"ВНИМАНИЕ: Операторът може да събира допълнителни такси за данни.
+  <string name="wifi_skip_anyway">Пропускане въпреки това</string>
+  <string name="wifi_skipped_message">"Предупреждение: Това може да доведе до допълнителни таксувания за данни от оператора.
 
-Настройването на телефона може да изисква прехвърлянето на голям обем от данни."</string>
+Настройката на телефона може да изисква значителна активност на мрежата."</string>
   <string name="wifi_speed">Скорост на връзката</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_starting">Включване на Wi-Fi...</string>
@@ -3199,8 +3199,8 @@ for MAC"</li>"
   <string name="wifi_status">Статус</string>
   <string name="wifi_status_test">Wi-Fi статус</string>
   <string name="wifi_stopping">Изключване на Wi-Fi...</string>
-  <string name="wifi_suspend_optimizations">Оптимизация на Wi-Fi</string>
-  <string name="wifi_suspend_optimizations_summary">Намаляване на консумацията на батерията при включено Wi-Fi</string>
+  <string name="wifi_suspend_optimizations">Wi-Fi да се оптимизира</string>
+  <string name="wifi_suspend_optimizations_summary">Намаляване на използването на батерията, когато Wi-Fi е включен</string>
   <string name="wifi_tether_checkbox_text">Wi-Fi точка за достъп</string>
   <string name="wifi_tether_configure_ap_text">Настройка на Wi-Fi точка за достъп</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
@@ -3208,8 +3208,8 @@ for MAC"</li>"
   <string name="wifi_tether_enabled_subtext">Преносимата точка за достъп %1$s е активна</string>
   <string name="wifi_tether_failed_subtext">Грешка на преносимата Wi-Fi точка за достъп</string>
   <string name="wifi_tether_setting_title">Основни настройки</string>
-  <string name="wifi_tether_starting">Включване…</string>
-  <string name="wifi_tether_stopping">Изключване…</string>
+  <string name="wifi_tether_starting">Точката за достъп се включва…</string>
+  <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
   <string name="wifi_unchanged">(без промяна)</string>
   <string name="wifi_unspecified">(неопределен)</string>
   <string name="wifi_update">Обнови статистиката</string>
@@ -3285,7 +3285,7 @@ for MAC"</li>"
 Разрешавате ли това за всички приложения, които искат да сканират постоянно?"</string>
   <string name="wifi_scan_always_confirm_allow">Разреши</string>
   <string name="wifi_scan_always_confirm_deny">Откажи</string>
-  <string name="mtp_ptp_mode_summary">Активирана функция MTP или PTP</string>
+  <string name="mtp_ptp_mode_summary">Активна е функция за MTP или PTP</string>
   <string name="mvno_type">Тип MVNO</string>
   <string name="mvno_match_data">Стойност на MVNO</string>
   <string name="manage_mobile_plan_title">Управление на мобилния план</string>
@@ -3293,7 +3293,7 @@ for MAC"</li>"
   <string name="mobile_no_provisioning_url">%1$s все още няма известен интернет адрес</string>
   <string name="mobile_insert_sim_card">Поставете SIM карта и рестартирайте телефона</string>
   <string name="mobile_connect_to_internet">Моля, свържете се с интернет</string>
-  <string name="uninstall_all_users_text">Деинсталирай за всички потребители</string>
+  <string name="uninstall_all_users_text">Деинсталиране за всички потребители</string>
   <string name="filter_apps_disabled">Деактивирано</string>
   <string name="app_ops_settings">Функции на приложението</string>
   <string name="app_ops_running">Стартирано</string>
