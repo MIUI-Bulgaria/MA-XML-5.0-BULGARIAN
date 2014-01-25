@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_seconds_ago">
         <item quantity="other">Преди %d секунди</item>
@@ -68,16 +68,16 @@
         <item quantity="one">утре</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d s</item>
-        <item quantity="one">1 s</item>
+        <item quantity="other">%d с.</item>
+        <item quantity="one">1 с.</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">1 min.</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d hod.</item>
-        <item quantity="one">1 hod.</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">1 ч.</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Има достъпни Wi-Fi мрежи</item>
