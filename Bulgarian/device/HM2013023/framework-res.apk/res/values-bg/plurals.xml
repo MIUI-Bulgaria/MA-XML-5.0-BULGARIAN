@@ -68,16 +68,16 @@
         <item quantity="one">утре</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d с.</item>
-        <item quantity="one">1 с.</item>
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">1 мин.</item>
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">1 ч.</item>
+        <item quantity="other">%d часа</item>
+        <item quantity="one">1 час</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Има достъпни Wi-Fi мрежи</item>
