@@ -906,7 +906,7 @@
   <string name="dolby_bassboost_high">Силен</string>
   <string name="dolby_bassboost_low">Мек</string>
   <string name="dolby_bassboost_normal">Нормален</string>
-  <string name="dolby_bassboost_title">Bass Boost:\u0020</string>
+  <string name="dolby_bassboost_title">Бас:\u0020</string>
   <string name="dolby_dialogue_enhancer">Подобрител на диалога</string>
   <string name="dolby_effects">Dolby ефекти</string>
   <string name="dolby_eq_enter_alert_msg">Искате ли да включите Dolby EQ?</string>
@@ -915,8 +915,8 @@
   <string name="dolby_ieq_focused">Фокусиран</string>
   <string name="dolby_ieq_open">Отворен</string>
   <string name="dolby_ieq_rich">Дълбок</string>
-  <string name="dolby_mode_movie">Филм</string>
-  <string name="dolby_mode_music">Музика</string>
+  <string name="dolby_mode_movie">Филмов режим</string>
+  <string name="dolby_mode_music">Музикален режим</string>
   <string name="dolby_mode_off">Изключен</string>
   <string name="dolby_preset_select">Изберете режим Интелигентен еквалайзер</string>
   <string name="dolby_surround_virtualizer">Обемна визуализация</string>
@@ -963,7 +963,7 @@
   <string name="enable_traces_summary_none">Нито едно</string>
   <string name="enable_traces_summary_num">%1$d проследявания са активирани</string>
   <string name="enable_traces_title">Активирай проследяване</string>
-  <string name="enable_wifi_display">Активирай Wireless display</string>
+  <string name="enable_wifi_display">Включване на безжичен дисплей</string>
   <string name="enforce_read_external_confirm_message">"Когато е включена защитата на USB хранилището, приложенията трябва да искат разрешение за четене на данните му.
 
 Някои приложения може да спрат работа, докато разработчиците им не ги обновят."</string>
@@ -1136,7 +1136,7 @@
   <string name="game_controller_settings_category">Игрови контролер</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
-  <string name="global_change_warning">Тази настройка засяга всички потребители на телефона.</string>
+  <string name="global_change_warning">Настройката засяга всички потребители на този телефон.</string>
   <string name="global_font_change_title">Промяна на размера на шрифта</string>
   <string name="global_locale_change_title">Промяна на езика</string>
   <string name="haptic_feedback_enable_title">Вибрация при докосване</string>
@@ -2714,7 +2714,7 @@ for MAC"</li>"
   <string name="use_location_summary">Позволи на услугите на Google да използват местоположението Ви за подобряване на резултатите от търсенето и другите услуги</string>
   <string name="use_location_title">Местоположение и търсене</string>
   <string name="use_system_language_to_select_input_method_subtypes">Използвай системния език</string>
-  <string name="user_account_title">Профил за съдържанието</string>
+  <string name="user_account_title">Профил за съдържание</string>
   <string name="user_add_user_menu">Добави потребител</string>
   <string name="user_add_user_message_long">"Можете да споделите това устройство с други хора, като създадете допълнителни потребители. Всеки от тях има собствено работно пространство, което може да персонализира със свои собствени приложения, тапет и др. Те могат да коригират и настройки на телефона, като например Wi-Fi, които засягат всички.
 
@@ -2727,11 +2727,11 @@ for MAC"</li>"
   <string name="user_add_user_title">Добавяне на нов потребител</string>
   <string name="user_adding_new_user">Добавяне на нов потребител…</string>
   <string name="user_cannot_manage_message">Само собственикът на телефона може да управлява потребителите.</string>
-  <string name="user_confirm_remove_message">Мястото в паметта и потребителските данни ще бъдат премахнати от вашия телефон. Това действие не може да бъде отменено.</string>
-  <string name="user_confirm_remove_self_message">"Вие ще загубите мястото си в паметта и данните в този телефон. Това действие не може да бъде отменено."</string>
+  <string name="user_confirm_remove_message">Работното пространство и данните на този потребител ще бъдат премахнати от вашия телефон. Това действие не може да бъде отменено.</string>
+  <string name="user_confirm_remove_self_message">Ще загубите работното си пространство и данните си на този телефон. Не можете да отмените това действие.</string>
   <string name="user_confirm_remove_self_title">Искате ли да изтриете профила си?</string>
   <string name="user_confirm_remove_title">Изтриване на потребител?</string>
-  <string name="user_delete_button">Изтрий</string>
+  <string name="user_delete_button">Изтриване</string>
   <string name="user_details_title">Редактирай детайлите</string>
   <string name="user_dict_multiple_settings_title">Лични речници</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -2768,9 +2768,9 @@ for MAC"</li>"
   <string name="user_restrictions_heading">Ограничения на съдъджанието</string>
   <string name="user_settings_title">Потребители</string>
   <string name="user_setup_button_setup_later">Не сега</string>
-  <string name="user_setup_button_setup_now">Настрой сега</string>
-  <string name="user_setup_dialog_message">Уверете се, че лицето иска да създаде собствено пространство на устройството</string>
-  <string name="user_setup_dialog_title">Ще настроите ли потребителя сега?</string>
+  <string name="user_setup_button_setup_now">Настройване сега</string>
+  <string name="user_setup_dialog_message">Уверете се, че лицето е налице за да настрои работното си пространство</string>
+  <string name="user_setup_dialog_title">Настройване на потребителя?</string>
   <string name="user_summary_active">Активен</string>
   <string name="user_summary_inactive">Неактивен</string>
   <string name="user_summary_not_set_up">Не е настроен</string>
@@ -3333,7 +3333,7 @@ for MAC"</li>"
   <string name="user_new_profile_name">Нов профил</string>
   <string name="user_profile_confirm_remove_title">Ще премахнете ли профила?</string>
   <string name="user_profile_confirm_remove_message">Пространството в паметта и данните на този профил ще бъдат премахнати от телефона. Действието не може да бъде отменено.</string>
-  <string name="user_delete_user_description">Изтрий потребителя</string>
+  <string name="user_delete_user_description">Изтриване на потребителя</string>
   <string name="application_restrictions">Разреши приложения и данни</string>
   <string name="apps_with_restrictions_header">Приложения с ограничения</string>
   <string name="apps_with_restrictions_settings_button">Разшири настройките на приложението</string>
@@ -3376,7 +3376,7 @@ for MAC"</li>"
   <string name="dolby_roomsize_high">Голяма стая</string>
   <string name="dirac_switch_title">MiSound</string>
   <string name="dirac_switch_summary">Винаги използвай MiSound ако звукът е през високоговорителя</string>
-  <string name="select_ssid_type_title">Избор на SSID</string>
+  <string name="select_ssid_type_title">Тип на мрежовата връзка</string>
   <string name="gsm_to_wifi_connect_type_title">Мобилни->Wi-Fi</string>
   <string name="wifi_priority_settings_label">Настройки на приоритет</string>
   <string name="wifi_priority_type_title">Задаване на AP приоритет ръчно</string>
