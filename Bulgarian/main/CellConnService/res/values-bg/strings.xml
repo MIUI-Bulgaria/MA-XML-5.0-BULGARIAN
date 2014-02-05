@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отказ</string>
+    <string name="confirm_radio_title">Забранена SIM</string>
+    <string name="confirm_radio_msg">%1$s в момента е забранена. Разрешаване на тази SIM карта?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Режим „Полет“ е включен и %1$s е забранена. Изключване на режим „Полет“ и разрешаване на тази SIM карта?</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s е изключена. Желаете ли да изкл. режима за полет и да вкл. SIM картата?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Режим „Полет“ е включен. Изключване?</string>
+    <string name="confirm_radio_msg_single">SIM картата е забранена. Разрешаване сега?</string>
+    <string name="confirm_pin_title">Закл. SIM карта</string>
+    <string name="confirm_pin_msg">Избраната SIM карта в момента е заключена. Моля, първо я отключете.</string>
+    <string name="confirm_simmelock_title">Заключена SIM ME</string>
+    <string name="confirm_simmelock_msg">"Избраният SIM слот е заключен. Моля, първо
+го отключете."</string>
+    <string name="confirm_fdn_title">FDN разрешени</string>
+    <string name="confirm_fdn_msg">Фиксирани номера за набиране са разрешени.</string>
+    <string name="confirm_roaming_title">Известяване за роуминг</string>
+    <string name="confirm_roaming_msg">Вашата текуща SIM карта сега е в режим на роуминг и няма налична локална SIM карта. Да продължи ли роумингът?</string>
+    <string name="confirm_roaming_withPrefer_msg">Вашата текуща SIM карта сега е в режим на роуминг. Да се превключи ли към локална SIM карта сега?</string>
+    <string name="confirm_roaming_lbutton">Продължи</string>
+    <string name="confirm_roaming_rbutton">Отмяна</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Локална SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Роуминг SIM</string>
+    <string name="confirm_radio_lbutton">Включване</string>
+    <string name="confirm_unlock_lbutton">Отключване</string>
+    <string name="confirm_unlock_fail">Операцията е отменена</string>
+    <string name="confirm_turnon_radio_fail">Операцията е отменена</string>
+    <string name="confirm_permit_roaming_fail">Работата с роуминг SIM е отменена</string>
+    <string name="confirm_sim_locked_message">SIM картата е заключена за постоянно</string>
+    <string name="confirm_slot_locked_message">Слотът е заключен за постоянно</string>
+</resources>
