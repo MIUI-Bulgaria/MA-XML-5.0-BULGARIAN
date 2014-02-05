@@ -31,7 +31,7 @@
   <string name="accessibility_global_gesture_preference_summary_off">Изкл.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Включено</string>
   <string name="accessibility_global_gesture_preference_title">Пряк път към ф-ята за достъпност</string>
-  <string name="accessibility_long_press_timeout_preference_title">Докосване и дълго задържане</string>
+  <string name="accessibility_long_press_timeout_preference_title">Забавяне при докосване и задържане</string>
   <string name="accessibility_long_press_timeout_title">Докосване и дълго задържане</string>
   <string name="accessibility_menu_item_settings">Настройка</string>
   <string name="accessibility_no_services_installed">Няма инсталирани услуги</string>
@@ -75,7 +75,7 @@
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ниво на мащаба на екрана при преходи на прилож.: Актуал.</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Ниво на мащаба на екрана: Автоакт.</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ниво на мащаба на екрана</string>
-  <string name="accessibility_toggle_script_injection_preference_title">Специални уеб скриптове</string>
+  <string name="accessibility_toggle_script_injection_preference_title">Достъпност в мрежата: Подобряване</string>
   <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на пароли</string>
   <string name="account_settings">Профили</string>
   <string name="account_sync_settings_title">Синхронизация</string>
@@ -352,7 +352,7 @@
   <string name="bluetooth_a2dp_profile_summary_connected">Свързан към аудио носител</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Позволява връзка с аудио носител</string>
   <string name="bluetooth_advanced_titlebar">Разширени Bluetooth настройки</string>
-  <string name="bluetooth_ask_discovery">Приложение на телефона Ви иска да направите телефона си откриваем от други Bluetooth устройства за %1$d секунди. Разрешавате ли?</string>
+  <string name="bluetooth_ask_discovery">Приложение на телефона ви иска да го направи откриваем от други устройства с Bluetooth за %1$d секунди. Ще разрешите ли това?</string>
   <string name="bluetooth_ask_enablement">Приложение иска да включи Bluetooth. Разрешавате ли?</string>
   <string name="bluetooth_ask_enablement_and_discovery">Приложение на телефона Ви иска да включи Bluetooth и да направи телефона откриваем от други Bluetooth устройства за %1$d секунди. Разрешавате ли?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение на телефона Ви иска да включи Bluetooth и да направи телефона откриваем от други устройства. Разрешавате ли?</string>
@@ -1118,7 +1118,7 @@
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">автоматична</string>
   <string name="gadget_brightness_state_full">пълна</string>
-  <string name="gadget_brightness_state_half">средна</string>
+  <string name="gadget_brightness_state_half">наполовина</string>
   <string name="gadget_brightness_state_off">изключена</string>
   <string name="gadget_brightness_template">Яркост %1$s</string>
   <string name="gadget_gps">GPS</string>
@@ -1974,7 +1974,7 @@ for MAC"</li>"
   <string name="power_settings_category_title">Индикатор за батерия</string>
   <string name="power_settings_number">Процентно</string>
   <string name="power_settings_shape">Графично</string>
-  <string name="power_settings_title">Изберете</string>
+  <string name="power_settings_title">Режим на производителност</string>
   <string name="power_settings_top">Горна лента</string>
   <string name="power_usage_history">Използване на батерията</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -2243,12 +2243,12 @@ for MAC"</li>"
   <string name="screensaver_settings_dream_start">Стартиране сега</string>
   <string name="screensaver_settings_summary_dock">При свързване с докинг станция</string>
   <string name="screensaver_settings_summary_either_long">При свързване с докинг станция или при спящ режим и зареждане</string>
-  <string name="screensaver_settings_summary_either_short">Винаги</string>
+  <string name="screensaver_settings_summary_either_short">И в двата случая</string>
   <string name="screensaver_settings_summary_off">Изкл.</string>
   <string name="screensaver_settings_summary_on">При свързан източник на захранване в режим на готовност</string>
   <string name="screensaver_settings_summary_sleep">При зареждане</string>
   <string name="screensaver_settings_title">Скрийнсейвър</string>
-  <string name="screensaver_settings_when_to_dream">Кога да включа</string>
+  <string name="screensaver_settings_when_to_dream">Време за мечти</string>
   <string name="screensaver_test">Опитай!</string>
   <string name="screensaver_timeout_summary">След %1$s неактивност</string>
   <string name="screensaver_timeout_title">Време на активиране</string>
@@ -2374,7 +2374,7 @@ for MAC"</li>"
   <string name="show_firewall_notification">Покажи блокираните известия</string>
   <string name="show_hw_layers_updates">Покажи акт. на HW слоеве</string>
   <string name="show_hw_layers_updates_summary">Примигв. на слоевете на хардуера в зелено при актуал.</string>
-  <string name="show_hw_overdraw">Покажи GPU пречертаването</string>
+  <string name="show_hw_overdraw">Преизчертаване от GPU</string>
   <string name="show_hw_overdraw_summary">От най-добро към най-лошо: синьо, зелено, светло червено, червено</string>
   <string name="show_hw_screen_updates">Покажи актуализациите на GPU</string>
   <string name="show_hw_screen_updates_summary">Примигв. на изгледи в прозорците при начертаване с GPU</string>
@@ -2725,11 +2725,11 @@ for MAC"</li>"
 
 Всеки потребител може да приема разрешения на актуализирани приложения от името на всички останали."</string>
   <string name="user_add_user_title">Добавяне на нов потребител</string>
-  <string name="user_adding_new_user">Добавяне на нов потребител…</string>
+  <string name="user_adding_new_user">Новият потребител се добавя…</string>
   <string name="user_cannot_manage_message">Само собственикът на телефона може да управлява потребителите.</string>
-  <string name="user_confirm_remove_message">Работното пространство и данните на този потребител ще бъдат премахнати от вашия телефон. Това действие не може да бъде отменено.</string>
+  <string name="user_confirm_remove_message">Работното пространство и данните на този потребител ще изчезнат от телефона. Не можете да отмените това действие.</string>
   <string name="user_confirm_remove_self_message">Ще загубите работното си пространство и данните си на този телефон. Не можете да отмените това действие.</string>
-  <string name="user_confirm_remove_self_title">Искате ли да изтриете профила си?</string>
+  <string name="user_confirm_remove_self_title">Искате ли да се изтриете?</string>
   <string name="user_confirm_remove_title">Изтриване на потребител?</string>
   <string name="user_delete_button">Изтриване</string>
   <string name="user_details_title">Редактирай детайлите</string>
@@ -2763,10 +2763,10 @@ for MAC"</li>"
   <string name="user_new_user_name">Нов потребител</string>
   <string name="user_nickname">Псевдоним</string>
   <string name="user_owner">Собственик</string>
-  <string name="user_picture_title">Снимка</string>
+  <string name="user_picture_title">Идент. № на снимката</string>
   <string name="user_remove_user_menu">Изтриване на %1$s от устройството</string>
   <string name="user_restrictions_heading">Ограничения на съдъджанието</string>
-  <string name="user_settings_title">Потребители</string>
+  <string name="user_settings_title">Потребители и ограничения</string>
   <string name="user_setup_button_setup_later">Не сега</string>
   <string name="user_setup_button_setup_now">Настройване сега</string>
   <string name="user_setup_dialog_message">Уверете се, че лицето е налице за да настрои работното си пространство</string>
@@ -2777,7 +2777,7 @@ for MAC"</li>"
   <string name="user_system_apps_heading">Сиситемни приложения</string>
   <string name="user_you_section">Вие</string>
   <string name="valuation">Препоръчва се почистване</string>
-  <string name="verify_applications">Проверка на приложения</string>
+  <string name="verify_applications">Приложенията да се потвърдят</string>
   <string name="verify_applications_summary">Забраняване или предупреждаване преди инсталирането на приложения, които може да причинят вреди</string>
   <string name="verify_apps_over_usb_summary">Проверка на инсталираните чрез ADB/ADT приложения за опасно поведение.</string>
   <string name="verify_apps_over_usb_title">Прилож. да се потвържд. през USB</string>
@@ -2928,7 +2928,7 @@ for MAC"</li>"
   <string name="vpn_lockdown_summary">Изберете потребителски профил за виртуална частна мрежа (VPN), за да останете винаги свързани с нея. Мрежовият трафик ще бъде разрешен само при връзка с тази VPN.</string>
   <string name="vpn_menu_delete">Изтрий профила</string>
   <string name="vpn_menu_edit">Редактирай профила</string>
-  <string name="vpn_menu_lockdown">Винаги включен VPN</string>
+  <string name="vpn_menu_lockdown">Винаги включена VPN</string>
   <string name="vpn_missing_cert">Сертификата липсва. Редактирайте профила.</string>
   <string name="vpn_mppe">PPP кодиране (MPPE)</string>
   <string name="vpn_name">Име</string>
@@ -3314,7 +3314,7 @@ for MAC"</li>"
   <string name="credential_storage_type_hardware">Хардуерен</string>
   <string name="credential_storage_type_software">Само софтуерен</string>
   <string name="debug_hw_drawing_category">Хардуерно ускорение на начертаването</string>
-  <string name="enable_opengl_traces_title">Включи OpenGL трасирането</string>
+  <string name="enable_opengl_traces_title">Трасирания на OpenGL: Акт.</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="experimental_webview">Използване на Experimental WebView</string>
   <string name="experimental_webview_summary">Приложенията ще използват най-новия (beta) WebView</string>
@@ -3415,7 +3415,7 @@ for MAC"</li>"
   <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="hdmi_color_calibration_none">Естествени</string>
   <string name="hdmi_3d_display_enable_title">3D дисплей</string>
-  <string name="hdmi_3d_display_enable_summary">Активиране на поддръжката за 3D игри</string>
+  <string name="hdmi_3d_display_enable_summary">Активирайте за поддръжка на 3D игри</string>
   <string name="line_breaking_title">Оптимизиране на текст в абзац</string>
   <string name="line_breaking_summary">Оптимизирай пренасянето на текста</string>
   <string name="nfc_se_route_title">Позиция на защитния елемент</string>
