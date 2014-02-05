@@ -192,7 +192,7 @@
   <string name="settings_notification_icon">Известия в ленатата с известия</string>
   <string name="settings_screenshot_notification_disabled">Без известия за снимки на екрана</string>
   <string name="settings_show_flow_info">Показвай трафика</string>
-  <string name="settings_show_network_speed">Показвай скороста на мрежата</string>
+  <string name="settings_show_network_speed">Показвай скоростта на мрежата</string>
   <string name="settings_show_notificationBar_notification">Показвай в лентата с известия</string>
   <string name="settings_show_statusBar_notification">Показвай в статус лентата</string>
   <string name="settings_status_bar">Статус лента</string>
