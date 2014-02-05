@@ -50,4 +50,5 @@
     <string-array name="absent_num">
         <item>ABSENT NUMBER</item>
         <item>ABSENTNUMBER</item>
+    </string-array>
 </resources>
