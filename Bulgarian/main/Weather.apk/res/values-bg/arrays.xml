@@ -1,297 +1,297 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
-        <item>Text message</item>
-        <item>Email</item>
+        <item>Съобщение</item>
+        <item>Имейл</item>
     </string-array>
     <string-array name="act_weather_main_listview_json_key">
         <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
+        <item>UV индекс</item>
+        <item>Индекс облекло</item>
+        <item>Индекс комфорт</item>
+        <item>Индекс автомивка</item>
+        <item>Индекс на изсушаване</item>
+        <item>Сутрешни упражнения</item>
+        <item>Индекс пътуване</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:</item>
-        <item>UV index:　</item>
-        <item>Clothing:</item>
-        <item>Comfort:</item>
-        <item>Car wash index:</item>
-        <item>Drying index:</item>
-        <item>Morning exercise:</item>
-        <item>Leisure:</item>
+        <item>Скорост на вятъра:</item>
+        <item>UV индекс:　</item>
+        <item>Облекло:</item>
+        <item>Комфорт:</item>
+        <item>Индекс автомивка:</item>
+        <item>Индекс изсушаване:</item>
+        <item>Сутрешни упражнения:</item>
+        <item>Пътуване:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snow storm</item>
-        <item>Patches of snow fall</item>
-        <item>Heavy snow fall</item>
-        <item>Snow fall</item>
-        <item>Light snow fall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Мъгливо</item>
+        <item>Мъгла</item>
+        <item>Тежки дъждовни бури</item>
+        <item>Дъждовна буря</item>
+        <item>Проливен дъжд</item>
+        <item>Гръмотевична буря</item>
+        <item>Краткотраен дъжд</item>
+        <item>Проливен дъжд</item>
+        <item>Дъжд</item>
+        <item>Ръмеж</item>
+        <item>Суграшица</item>
+        <item>Снежна буря</item>
+        <item>Краткотраен сняг</item>
+        <item>Снеговалеж</item>
+        <item>Сняг</item>
+        <item>Слаб сняг</item>
+        <item>Силна пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Лека пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Градушка</item>
+        <item>Прах</item>
+        <item>Лека мъгла</item>
     </string-array>
     <string-array name="weather_details_key">
-        <item>Unavailable</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Ideal</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
-        <item>Clear skies</item>
-        <item>Cloudy</item>
-        <item>Rain</item>
-        <item>Sand storm</item>
-        <item>Snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions</item>
-        <item>Cloudy</item>
-        <item>Less than ideal</item>
-        <item>Ideal conditions</item>
-        <item>Poor conditions</item>
-        <item>Average conditions</item>
+        <item>Няма данни</item>
+        <item>Подходящо</item>
+        <item>Добро</item>
+        <item>Избягвайте ако е възможно</item>
+        <item>Неподходящо</item>
+        <item>Идеално</item>
+        <item>Умерено</item>
+        <item>Слабо</item>
+        <item>Средно</item>
+        <item>Силно</item>
+        <item>Много силно</item>
+        <item>Прохладно</item>
+        <item>Комфортно</item>
+        <item>Много горещо</item>
+        <item>Горещо</item>
+        <item>Топло</item>
+        <item>Хладно</item>
+        <item>Ниски температури</item>
+        <item>Студено</item>
+        <item>Ледено студено</item>
+        <item>Много комфортно</item>
+        <item>Комфортно</item>
+        <item>Малко комфортно</item>
+        <item>Ясно небе</item>
+        <item>Облачно</item>
+        <item>Дъжд</item>
+        <item>Прах</item>
+        <item>Сняг</item>
+        <item>Относително подходящи условия</item>
+        <item>Подходящи условия</item>
+        <item>Предимно облачно</item>
+        <item>Почти идеални условия</item>
+        <item>Идеални условия</item>
+        <item>Неподходящи условия</item>
+        <item>Стандартни условия</item>
     </string-array>
     <string-array name="weather_image_tips">
         <item></item>
         <item></item>
         <item></item>
         <item></item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"It's going to rain today, remember to bring an umbrella!"</item>
-        <item>"It's drizzling outside, you should bring an umbrella!"</item>
-        <item>"There's a mix of rain and snow outside, remember to bring an umbrella!"</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>"It's going to snow today, remember to bring a hat and scarf!"</item>
-        <item>"It's snowing a lot, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing quite a bit, remember to wear a hat and scarf!"</item>
-        <item>"There's a light snowfall, remember to wear a hat and scarf."</item>
-        <item>"There's a very strong sand storm, remember to wear a face mask."</item>
-        <item>"It's raining quite a bit, remember to bring an umbrella."</item>
-        <item>"There's a very strong sand storm, remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm, remember to wear a face mask."</item>
-        <item>"It's not everyday you see hail! Walk carefully!"</item>
+        <item>Навън вали силно, не забравяйте да си вземете чадър.</item>
+        <item>Навън вали силно, не забравяйте да си вземете чадър.</item>
+        <item>Навън вали силно, не забравяйте да си вземете чадър.</item>
+        <item>Ако ще излизате навън, не забравяйте да си вземете чадър!</item>
+        <item>Ако ще излизате навън, не забравяйте да си вземете чадър!</item>
+        <item>Ако ще излизате навън, не забравяйте да си вземете чадър!</item>
+        <item>Днес ще вали, не забравяйте да си вземете чадър!</item>
+        <item>Навън ръми, препоръчваме ви да си вземете чадър!</item>
+        <item>Навън вали дъжд и сняг, не забравяйте да си вземете чадър!</item>
+        <item>Навън вали силно сняг, не забравяйте да си сложите шапка и шал!</item>
+        <item>Днес ще вали сняг, не забравяйте да си вземете шапка и шал!</item>
+        <item>Навън вали силно сняг, не забравяйте да си сложите шапка и шал!</item>
+        <item>Навън прехвърча сняг, не забравяйте да си сложите шапка и шал!</item>
+        <item>Навън превалява сняг, не забравяйте да си сложите шапка и шал!</item>
+        <item>Навън има пясъчна буря, не забравяйте да си сложите прахова маска.</item>
+        <item>Навън превалява дъжд, не забравяйте да си вземете чадър.</item>
+        <item>Навън има пясъчна буря, не забравяйте да си сложите прахова маска.</item>
+        <item>Навън има пясъчна буря, не забравяйте да си сложите прахова маска.</item>
+        <item>Такава градушка не се вижда всеки ден! Стъпвайте внимателно навън!</item>
     </string-array>
     <string-array name="weather_sms_content">
-        <item>Remember to wear sunscreen.</item>
-        <item>It will be cloudy today.</item>
-        <item>The weather will take a turn for the worse. Try to stay indoors.</item>
-        <item>Drive safely :)</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>Bring an umbrella!</item>
-        <item>Bring an umbrella!</item>
-        <item>Bring an umbrella! :)</item>
-        <item>Bring an umbrella!</item>
-        <item>"It's drizzling outside, bring an umbrella!"</item>
-        <item>"There's a mix of rain and snow outside, remember to bring an umbrella!"</item>
-        <item>"It's snowing heavily!"</item>
-        <item>It will snow today, so remember to bring a hat and scarf.</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing quite a bit, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing, remember to wear a hat and scarf!"</item>
-        <item>"There's a very strong sand storm, remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm, remember to wear a face mask."</item>
-        <item>here is a very strong sand storm, remember to wear a face mask.</item>
-        <item>here is a very strong sand storm, remember to wear a face mask.</item>
-        <item>"It's not everyday you see hail! Walk carefully!"</item>
-        <item>Air quality is poor, remember to wear a mask.</item>
-        <item>Air quality is poor, try to stay indoors.</item>
+        <item>Не забравяй да си сложиш слънцезащитен крем.</item>
+        <item>Днес ще бъде предимно облачно.</item>
+        <item>Времето ще се влоши, така че по-добре си остани вкъщи.</item>
+        <item>Шофирай внимателно :)</item>
+        <item>Навън вали силно, не забравяй да си вземеш чадър.</item>
+        <item>Навън вали силно, не забравяй да си вземеш чадър.</item>
+        <item>Навън вали силно, не забравяй да си вземеш чадър.</item>
+        <item>Вземи си чадъра!</item>
+        <item>Вземи си чадъра!</item>
+        <item>Вземи си чадъра! :)</item>
+        <item>Вземи си чадъра!</item>
+        <item>Навън ръми, вземи си чадъра!</item>
+        <item>Навън вали дъжд и сняг, не забравяй да си вземеш чадър!</item>
+        <item>Навън вали силно сняг!</item>
+        <item>Днес ще вали сняг, не забравяй да си вземеш шапка и шал.</item>
+        <item>Навън вали силно сняг, не забравяй да си сложиш шапка и шал!</item>
+        <item>Навън прехвърча сняг, не забравяй да си сложиш шапка и шал!</item>
+        <item>Навън вали сняг, не забравяй да си сложиш шапка и шал!</item>
+        <item>Навън има пясъчна буря, не забравяй да си сложиш прахова маска.</item>
+        <item>Навън има пясъчна буря, не забравяй да си сложиш прахова маска.</item>
+        <item>Тук има пясъчна буря, не забравяй да си сложиш прахова маска.</item>
+        <item>Тук има пясъчна буря, не забравяй да си сложиш прахова маска.</item>
+        <item>Такава градушка не се вижда всеки ден! Стъпвай внимателно навън!</item>
+        <item>Качеството на въздуха е лошо, не забравяй да си сложиш маска.</item>
+        <item>Качеството на въздуха е лошо, по-добре стой на закрито.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>"Today's forecast for @: $."</item>
-        <item>Low~high: %.</item>
-        <item>Remember to bring an umbrella!</item>
+        <item>Времето в @ днес: $.</item>
+        <item>Мин.~Макс.: %.</item>
+        <item>Не забравяйте да си вземете чадър!</item>
         <item></item>
-        <item>"If you're drying clothes outside, remember to take them in later! :)"</item>
-        <item>"If possible, don't drive."</item>
-        <item>Drive safely!</item>
-        <item>"Be careful out there, it's slippery."</item>
+        <item>Ако сушите дрехи навън, не забравяйте да ги приберете на закрито! :)</item>
+        <item>Ако е възможно, не шофирайте.</item>
+        <item>Шофирайте внимателно!</item>
+        <item>Бъдете внимателни, пътищата са хлъзгави.</item>
         <item></item>
-        <item>Be careful outside.</item>
-        <item>"Don't go out unless you need to."</item>
-        <item>Wear sunscreen and bring sunglasses.</item>
-        <item>Wear sunscreen and bring sunglasses.</item>
-        <item>"It's windy out, remember to wear a jacket."</item>
-        <item>Air quality is poor, remember to wear a mask.</item>
-        <item>Remember to bring a jacket.</item>
-        <item>Remember to wear a mask :)</item>
-        <item>Remember to bring gloves and a hat.</item>
-        <item>"It's hot out!"</item>
-        <item>"It's hot out!"</item>
-        <item>Bundle up!</item>
-        <item>A cold spell is coming…</item>
-        <item>Bundle up!</item>
-        <item>Wear ear muffs if you have them! :)</item>
-        <item>Go for a run!</item>
-        <item>Go for a run and get some sun! :)</item>
-        <item>"It's a good day to dry clothes!"</item>
-        <item>"It's getting cool, remember to wear a jacket!"</item>
+        <item>Бъдете внимателни навън.</item>
+        <item>Не излизайте навън, ако не се налага.</item>
+        <item>Сложете си слънцезащитен крем и вземете слънчеви очила.</item>
+        <item>Сложете си слънцезащитен крем и вземете слънчеви очила.</item>
+        <item>Навън е ветровито, не забравяйте да си облечете яке.</item>
+        <item>Качеството на въздуха е лошо, не забравяйте да си сложите маска.</item>
+        <item>Не забравяйте да си вземете яке.</item>
+        <item>Не забравяйте да си сложите маска. :)</item>
+        <item>Не забравяйте да си вземете ръкавици и шапка.</item>
+        <item>Много е горещо. Пийте повече течности!</item>
+        <item>Много е горещо. Не излизайте, ако имате сърдечни проблеми!</item>
+        <item>Облечете топли дрехи!</item>
+        <item>Предстои застудяване…</item>
+        <item>Облечете топли дрехи!</item>
+        <item>Носете ушанки, ако имате! :)</item>
+        <item>Отидете да тичате!</item>
+        <item>Отидете да тичате, навън слънцето е страхотно! :)</item>
+        <item>Денят е подходящ за сушене на дрехи на открито!</item>
+        <item>Стана хладно, не забравяйте да облечете яке!</item>
     </string-array>
     <string-array name="weather_info_uv">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>6</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Използвайте слънцезащитен крем и носете шапка и слънчеви очила, когато сте на открито.</item>
         <item>7</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Използвайте слънцезащитен крем и носете шапка и слънчеви очила, когато сте на открито.</item>
         <item>8</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Използвайте слънцезащитен крем и носете шапка и слънчеви очила, когато сте на открито.</item>
         <item>9</item>
-        <item>Avoid the sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Избягвайте слънцето, ако е възможно. Използвайте слънцезащитни продукти, ако трябва да излезете на открито!</item>
         <item>10</item>
-        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Избягвайте слънцето, ако е възможно. Използвайте слънцезащитни продукти, ако трябва да излезете на открито!</item>
     </string-array>
     <string-array name="weather_info_dress">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>11</item>
-        <item>Light jacket</item>
+        <item>Тънко яке</item>
         <item>12</item>
-        <item>Light jacket</item>
+        <item>Тънко яке</item>
         <item>13</item>
-        <item>Summer clothing</item>
+        <item>Лятно облекло</item>
         <item>14</item>
-        <item>Summer clothing</item>
+        <item>Лятно облекло</item>
         <item>15</item>
-        <item>Light jacket</item>
+        <item>Тънко яке</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Не забравяйте да си носите допълнителни дрехи!</item>
         <item>17</item>
-        <item>Bring a jacket!</item>
+        <item>Носете си плътно яке!</item>
         <item>18</item>
-        <item>Bundle up!</item>
+        <item>Облечете топли дрехи!</item>
         <item>19</item>
-        <item>Bundle up!</item>
+        <item>Облечете топли дрехи!</item>
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>1</item>
-        <item>"It's a good day for morning exercises!"</item>
+        <item>Денят е подходящ за сутрешни упражнения!</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Носете си допълнителни дрехи!</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>Времето е променливо, носете си допълнителни дрехи!</item>
         <item>4</item>
-        <item>Exercise indoors!</item>
+        <item>Тренирайте на закрито!</item>
     </string-array>
     <string-array name="weather_info_comfort">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>20</item>
-        <item>Temperature will be stable</item>
+        <item>Температурите ще бъдат стабилни</item>
         <item>21</item>
-        <item>Cool and comfortable</item>
+        <item>Прохладно и комфортно</item>
         <item>22</item>
-        <item>Temperature will be volatile</item>
+        <item>Температурите ще бъдат променливи</item>
         <item>23</item>
-        <item>Clear skies and uncomfortable temperatures</item>
+        <item>Ясно небе и некомфортни температури</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Горещо и влажно! :(</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>1</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>Денят е подходящ за автомивка!</item>
         <item>2</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>Денят е подходящ за автомивка!</item>
         <item>3</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>Днес ще вали, така че изчакайте с измиването на колата.</item>
         <item>25</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>Днес ще вали, така че изчакайте с измиването на колата си.</item>
         <item>26</item>
-        <item>"There's a sand storm in the forecast, so hold off on washing your car."</item>
+        <item>В прогнозата има пясъчна буря, така че изчакайте с измиването на колата си.</item>
         <item>27</item>
-        <item>"It's going to snow, so hold off on washing your car."</item>
+        <item>Днес ще вали сняг, така че изчакайте с измиването на колата си.</item>
         <item>4</item>
-        <item>Hold off on washing your car.</item>
+        <item>Изчакайте с измиването на колата си.</item>
     </string-array>
     <string-array name="weather_info_hung">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>28</item>
-        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>Закачете дрехите си да съхнат през следобеда.</item>
         <item>29</item>
-        <item>Hang your clothes to dry any time.</item>
+        <item>Закачете дрехите си да съхнат по всяко време.</item>
         <item>30</item>
-        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>Облачно, но горещо, дрехите ви ще изсъхнат.</item>
         <item>1</item>
-        <item>The weather is suitable for drying clothes.</item>
+        <item>Времето е подходящо за изсушаване на дрехи.</item>
         <item>3</item>
-        <item>It will rain intermittently throughout the day.</item>
+        <item>Ще вали с прекъсвания през целия ден.</item>
         <item>5</item>
-        <item>Good drying conditions.</item>
+        <item>Добри условия за изсушаване.</item>
         <item>4</item>
-        <item>Dry your clothing indoors.</item>
+        <item>Изсушете си дрехите на закрито.</item>
         <item>31</item>
-        <item>Dry your clothing indoors.</item>
+        <item>Изсушете си дрехите на закрито.</item>
     </string-array>
     <string-array name="weather_info_travel">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недостъпно</item>
         <item>32</item>
-        <item>Clear and sunny with good temperatures.</item>
+        <item>Ясно и слънчево с добри температури.</item>
         <item>2</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Меко време със стабилни температури.</item>
         <item>1</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Меко време със стабилни температури.</item>
         <item>3</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>Днес времето ще бъде променливо.</item>
         <item>33</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>Днес времето ще бъде променливо.</item>
         <item>34</item>
-        <item>Clear skies, mild wind.</item>
+        <item>Ясно небе, лек вятър.</item>
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
-        <item>微风</item>
-        <item>Comfortable</item>
-        <item>暂缺</item>
-        <item>Unavailable</item>
+        <item>Ветровито</item>
+        <item>Бриз</item>
+        <item>Комфортно</item>
+        <item>Няма данни</item>
+        <item>Недостъпно</item>
     </string-array>
 </resources>
