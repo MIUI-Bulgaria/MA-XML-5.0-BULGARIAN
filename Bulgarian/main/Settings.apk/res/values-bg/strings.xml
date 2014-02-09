@@ -107,7 +107,7 @@
   <string name="active_input_method_subtypes">Активни методи за въвеждане</string>
   <string name="activity_not_found">Приложението не е инсталирано на телефона ви.</string>
   <string name="activity_picker_label">Изберете дейност</string>
-  <string name="activity_title_create_shortcut">Пряк път</string>
+  <string name="activity_title_create_shortcut">Управление на преките пътища</string>
   <string name="activity_title_settings">Настройки</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Консумацията на батерията се увеличава, ако е активиран скрийнсейвъра когато телефона не се зарежда. Искате ли да го изключите?</string>
   <string name="alert_show_screensaver_when_not_charging_title">Предупреждение</string>
@@ -547,7 +547,7 @@
   <string name="cache_garbage">Кеш файлове</string>
   <string name="cache_header_label">Кеш</string>
   <string name="cache_list_empty_hints">Няма кеширани файлове.</string>
-  <string name="cache_manage_title">Изчисти %1$d кеширани файл(ове) за освобождаване на %2$s</string>
+  <string name="cache_manage_title">Изчисти %1$d кеширани файлове за освобождаване на %2$s</string>
   <string name="cache_manager_actionbar_title">Системен кеш</string>
   <string name="cache_size_label">Кеш</string>
   <string name="cached">Кеширани фонови процеси</string>
@@ -876,7 +876,7 @@
   <string name="dndm_repeated_call_summary_3min">Второто обаждане от същия номер в рамките на 3 минути няма да се заглушава</string>
   <string name="dndm_repeated_call_summary_none">Заглуши повтарящи се обаждания от един и същ номер</string>
   <string name="dndm_special_call_setting_group">Изключения</string>
-  <string name="dndm_summary">След включване на режим Не безпокойте, входящите повиквания и съобщения ще бъдат без звук.</string>
+  <string name="dndm_summary">Обажданията и известията, които получавате докато телефона е заключен, ще бъдат без звук.</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Разрешете повиквания от изключенията</string>
@@ -1060,7 +1060,7 @@
   <string name="force_stop_dlg_text">Ако спрете принудително приложението, това може да се отрази на поведението му.</string>
   <string name="force_stop_dlg_title">Спирате ли го принудително?</string>
   <string name="forget_wifi_message">Вашият телефон ще спре да се свързва автоматично към тази мрежа.</string>
-  <string name="free_ram">Използвана памет</string>
+  <string name="free_ram">Памет</string>
   <string name="frequently_fragment_delete">Премахни</string>
   <string name="frequently_fragment_tempty">Често използваните елементи ще бъдат показани тук</string>
   <string name="fw_action_settings">Задаване на филтри</string>
@@ -1451,13 +1451,13 @@
   <string name="menu_cancel">Отказ</string>
   <string name="menu_delete">Изтрий APN</string>
   <string name="menu_edit">Редактирай</string>
-  <string name="menu_item_about_content">Безопасност: %s</string>
-  <string name="menu_item_about_summary">Версия：%s</string>
+  <string name="menu_item_about_content">Версия： %s</string>
+  <string name="menu_item_about_summary">Версия： %s</string>
   <string name="menu_item_about_title">За програмата</string>
   <string name="menu_item_settings_title">Настройки</string>
   <string name="menu_item_shortcut">Създай пряк път</string>
   <string name="menu_item_shortcut_summary">Добавяне на често използвани функции на началния екран</string>
-  <string name="menu_item_shortcut_title">Добави пряк път</string>
+  <string name="menu_item_shortcut_title">Управление на преките пътища</string>
   <string name="menu_item_shortcut_uninstall">Премахни пряк път</string>
   <string name="menu_key">Бутон Меню</string>
   <string name="menu_new">Нова APN</string>
@@ -2035,8 +2035,8 @@ for MAC"</li>"
   <string name="private_sms_reset_by_account">Влезте в Xiaomi профила си за възстановяване на паролата</string>
   <string name="process_kernel_label">Android ОС</string>
   <string name="process_list_empty_hints">Няма процеси.</string>
-  <string name="process_manage_title">Може да се почистят %1$d процеса, освобождава %2$s памет</string>
-  <string name="process_manager_actionbar_title">Използвана памет</string>
+  <string name="process_manage_title">Почистване на %1$d процеса за освобождаване на %2$s</string>
+  <string name="process_manager_actionbar_title">Използване на паметта</string>
   <string name="process_mediaserver_label">Медиен сървър</string>
   <string name="process_provider_in_use_description">%1$s се използва.</string>
   <string name="process_service_in_use_description">%1$s се използва.</string>

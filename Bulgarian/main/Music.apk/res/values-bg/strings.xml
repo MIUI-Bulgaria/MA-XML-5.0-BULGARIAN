@@ -194,9 +194,9 @@
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Музика</string>
   <string name="menu_higher_quality_music">Музика с високо качество (месечен достъп)</string>
-  <string name="mi_effect">MiSound</string>
+  <string name="mi_effect">Mi Sound</string>
   <string name="mi_effect_summary">Винаги използвай MiSound при слушане през високоговорителя</string>
-  <string name="mi_effect_title">Изполвай MiSound</string>
+  <string name="mi_effect_title">Mi Sound усилвател</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Мобилна мрежа</string>
   <string name="modify_id3_for_list">Ще бъдат променени ID3 данните на песните от текущия списък</string>
@@ -313,7 +313,7 @@
   <string name="streamloadingtext">Свързване към %s</string>
   <string name="synchronize_guide_toast">За да включите синхорнизирането, отидете на Настройки > Синхронизиране на плейлисти</string>
   <string name="synchronize_playlist_setting">Синхронизиране на плейлисти</string>
-  <string name="synchronize_playlist_summary">Синхронизиране на плейлисти с MiCloud.</string>
+  <string name="synchronize_playlist_summary">Синхронизиране на плейлисти с Mi Cloud.</string>
   <string name="synchronize_to_baidu_cloud">Запази резервно копие на песните в плейлиста чрез Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Високо</string>

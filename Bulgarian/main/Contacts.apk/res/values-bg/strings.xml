@@ -42,9 +42,7 @@
   <string name="auto_nickname">Авто</string>
   <string name="auto_set_nickname">Авто</string>
   <string name="batch_delete">Пакетно изтриване</string>
-  <string name="batch_delete_msg">"Сигурни ли сте, че искате да изтриете избраните %d контакти?
-
-Ако използвате услуга за синхронизиране на контакти, информацията за тях ще бъде изтрита и в облака."</string>
+  <string name="batch_delete_msg">"Ще изтриете ли избраните %d контакти? Съответните данни за тях ще бъдат изтрити и от вашия MiCloud профил."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth връзката е прекъсната</string>
   <string name="blurbJoinContactDataWith">Изберете контакта, който искате да обедините с %s:</string>
   <string name="btn_delete_multi_contacts">Изтрий %d контакти</string>
@@ -216,7 +214,7 @@
   <string name="deleteConfirmationDetail">\"%s\" ще бъде изтрит.</string>
   <string name="deleteConfirmation_title">Изтрий</string>
   <string name="delete_call_log_selected_title">Ще премахнете ли избраните списъци с повиквания?</string>
-  <string name="delete_call_log_title">Ще премахнете ли избраните списъци с повиквания?</string>
+  <string name="delete_call_log_title">Изберете списък с повиквания</string>
   <string name="delete_contact_calllog_title">"Ще изтриете ли списъка с повиквания за този котакт?"</string>
   <string name="delete_dial_input">Изтрий</string>
   <string name="delete_duplicate">Обедини</string>
@@ -224,7 +222,7 @@
   <string name="delete_group_dialog_message">Ще изтриете ли групата \"%1$s\"? Контактите в нея ще се запазят.</string>
   <string name="delete_group_dialog_title">Изтрий група</string>
   <string name="delete_selected_sim_entry_miui">Ще изтриете ли избраните контакти?</string>
-  <string name="delete_sim_entries_finish">Избраните контакти от SIM картата са изтрити успешно</string>
+  <string name="delete_sim_entries_finish">Контактите са изтрити от SIM картата</string>
   <string name="delete_sim_entry_miui">Изтрий</string>
   <string name="delete_unknown_contact_calllog_title">"Ще изтриете ли списъка с повиквания от непознати номера?"</string>
   <string name="deleting">Изтриване...</string>
@@ -346,7 +344,7 @@
   <string name="email_mobile">Мобилен Имейл</string>
   <string name="email_other">Имейл</string>
   <string name="email_work">Служебен Имейл</string>
-  <string name="emptyGroup">Няма контакти в тази група.</string>
+  <string name="emptyGroup">Няма контакти в тази група</string>
   <string name="empty_divider_title">Можете да</string>
   <string name="enter_contact_name">"Въведи име на контакт"</string>
   <string name="eventLabelsGroup">Рожден ден</string>
@@ -357,7 +355,7 @@
   <string name="export_sim_contacts_dialog_message">Вашата SIM карта има памет за %d контакта. Сигурни ли сте, че ще продължите?</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
-  <string name="export_to_sim_title">Експортиране към SIM картата…</string>
+  <string name="export_to_sim_title">Експортиране…</string>
   <string name="export_vcard_description">Експортиране на визитка във вътрешната памет на телефона</string>
   <string name="exporting_contact_failed_message">"Неуспешно експортиране на данни.
 Причина: \"%s\""</string>
@@ -439,7 +437,7 @@
   <string name="import_one_vcard_string">Импортиране на една визитка</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Импортиране на избраните контакти</string>
-  <string name="import_sim_entries_finish">Импортирането на контакти от SIM картата завърши успешно</string>
+  <string name="import_sim_entries_finish">Контактите са успешно импортирани от SIM картата</string>
   <string name="import_sim_entry_miui">Импортиране</string>
   <string name="import_to_xiaomi_account_confirm">Трансфер</string>
   <string name="import_to_xiaomi_account_progress_finish">Успешно прехвърляне!</string>
@@ -476,10 +474,10 @@
   <string name="listCustomView">Контакти в потребителски изглед</string>
   <string name="listFoundAllContactsZero">Нищо не е намерено</string>
   <string name="listSingleContact">Единичен контакт</string>
-  <string name="listTotalAllContactsZero">Няма контакти.</string>
+  <string name="listTotalAllContactsZero">Няма контакти</string>
   <string name="listTotalAllContactsZeroCustom">Няма видими контакти.</string>
   <string name="listTotalAllContactsZeroGroup">Няма контакти в %s</string>
-  <string name="listTotalAllContactsZeroStarred">Няма любими контакти.</string>
+  <string name="listTotalAllContactsZeroStarred">Няма любими контакти</string>
   <string name="listTotalPhoneContactsZero">Няма контакти с телефонни номера</string>
   <string name="list_filter_all_accounts">Всички контакти</string>
   <string name="list_filter_all_starred">Любими</string>
@@ -584,7 +582,7 @@
   <string name="noAccounts">За създаване на групи е нужен профил.</string>
   <string name="noContactHelpTextAccountsInfo">Синхронизирай контакти с Xiaomi, Google, Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Възстанови контакти от резервно копие в профил Xiaomi и MiTalk</string>
-  <string name="noContacts">Няма контакти.</string>
+  <string name="noContacts">Няма контакти</string>
   <string name="noContactsHelpText">"Няма контакти за показване.
 
 За добавяне на контакти, натиснете "</string>
@@ -599,13 +597,13 @@
   <string name="noContactsNoSimHelpTextWithSync">"Липсват контакти за показване. (Ако току-що сте добавили профил, синхронизацията на контакти с него може да отнеме до няколко минути.)
 
 За добавяне на контакти, натиснете "</string>
-  <string name="noContactsWithPhoneNumbers">Няма контакти с телефонни номера.</string>
+  <string name="noContactsWithPhoneNumbers">Няма контакти с телефонни номера</string>
   <string name="noFavoritesHelpText">"Няма любими контакти.
 
 За да добавите контакт към любими:
 
 "</string>
-  <string name="noGroups">Не са открити групи.</string>
+  <string name="noGroups">Не са открити групи</string>
   <string name="noMatchingContacts">Няма намерени съвпадения.</string>
   <string name="noRecentContacts">Няма последени контакти</string>
   <string name="no_account_prompt">"Контакти работят най-добре с Google профила Ви.
@@ -687,6 +685,7 @@
   <string name="pref_key_photo_word_title">Автоматична снимка на контакт</string>
   <string name="pref_key_rebuild_t9_index_message">Актуализиране на търсенето на контакти</string>
   <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
+  <string name="pref_key_sim_manage">Конфигуриране на SIM карта</string>
   <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Xiaomi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
   <string name="pref_title_card_format">Формат за споделяне на карта</string>
@@ -717,7 +716,7 @@
   <string name="preference_phone_more_title">Разширени настройки на телефон</string>
   <string name="preference_remove_duplicate">Обединяване на дубликати</string>
   <string name="preference_simple_mode_description">В списъка няма да се показват снимки и данни за контакт</string>
-  <string name="preference_simple_mode_title">Опростен режим</string>
+  <string name="preference_simple_mode_title">Скрий снимки и контактни данни</string>
   <string name="preference_smart_group_company_summary">Групиране на контакти по информация за фирма</string>
   <string name="preference_smart_group_company_title">По фирма</string>
   <string name="preference_smart_group_frequency_summary">Групиране по последни повиквания или SMS-и</string>
@@ -741,21 +740,21 @@
   <string name="profile_name_photo">Аз</string>
   <string name="progress_notifier_message" formatted="false">Импортиране %s/%s: %s</string>
   <string name="quickcontact_missing_app">Няма приложение, което да изпълни действието.</string>
-  <string name="quit_dialog_confirm_title">Ще излезете ли от обединяване на контакти?</string>
+  <string name="quit_dialog_confirm_title">Не сте обединявали контакти.</string>
   <string name="readOnlyContactDeleteConfirmation">Този контакт съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactWarning">Не можете да изтривате контакти, достъпни само за четене от профила си, но можете да ги скриете в списъка с контакти.</string>
   <string name="readingSimContacts">Изтегляне на информация от SIM карта...</string>
   <string name="reading_vcard_canceled_title">Разчитането на данни от визитка е отменено</string>
   <string name="reading_vcard_failed_title">Разчитането на данни от визитка е неуспешно</string>
-  <string name="rebuild_t9_index_dialog_message">Възстановяване на Т9 индекса…</string>
+  <string name="rebuild_t9_index_dialog_message">Възстановяване…</string>
   <string name="recent">Последни</string>
   <string name="recentCallsIconLabel">Списък с обаждания</string>
   <string name="recentCalls_addToContact">Добави към контакти</string>
   <string name="recentCalls_callNumber">Набери %s</string>
   <string name="recentCalls_deleteAll">Изчисти списъка с обаждания</string>
   <string name="recentCalls_editNumberBeforeCall">Редактирай номер преди набиране</string>
-  <string name="recentCalls_empty">Списъкът с повиквания е празен.</string>
+  <string name="recentCalls_empty">Списъкът с повиквания е празен</string>
   <string name="recentCalls_removeFromRecentList">Премахни от списъка с обаждания</string>
   <string name="recentCalls_shareVoicemail">Сподели гласова поща</string>
   <string name="recentCalls_trashVoicemail">Изтрий гласово съобщение</string>
@@ -770,7 +769,9 @@
   <string name="remind_btn_sync_now">Синхронизиране сега</string>
   <string name="removePhoto">Премахни снимка</string>
   <string name="remove_blacklist">Премахни от черния списък</string>
-  <string name="remove_duplicate">"MIUI ще Ви помогне да намерите и обедините дублиращи се контакти. Контактите не се обединяват автоматично."</string>
+  <string name="remove_duplicate">"MIUI ще ви помогне да намерите и обедините дублиращи се контакти.
+
+ За да започнете, натиснете иконата за обединяване в долната част на екрана."</string>
   <string name="resource_account_abnormal_state">Грешка в профила. Опитайте отново по-късно.</string>
   <string name="resource_account_current">Профил: %1$s</string>
   <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
@@ -962,7 +963,7 @@
   <string name="set_default">По подразбиране</string>
   <string name="set_photo_failed_msg">Грешка при задаване на аватар</string>
   <string name="set_smsc_address_title_miui">Задай номер на SMS център</string>
-  <string name="share_error">"Този контакт не може да бъде споделен."</string>
+  <string name="share_error">Този контакт не може да бъде споделен</string>
   <string name="share_via">Споделяне чрез</string>
   <string name="share_visible_contacts">Сподели контакти</string>
   <string name="shortcutActivityTitle">Функция пряк път на десктопа</string>
@@ -978,7 +979,7 @@
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Облачно съобщение)</string>
-  <string name="sim_card_no_free_space_message">Вашата SIM карта е пълна, не можете да добавите повече контакти. Моля, освободете място и опитайте отново</string>
+  <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет.</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Размаркирай всички</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Избери всички</string>
@@ -990,10 +991,10 @@
   <string name="sim_error_generic_failure">Неуспех.</string>
   <string name="sim_error_number_too_long">Номерът е прекалено дълъг!</string>
   <string name="sim_error_password_error">Неправилна парола.</string>
-  <string name="sim_error_storage_full">Хранилището на SIM картата е пълно!</string>
+  <string name="sim_error_storage_full">Паметта на SIM картата е пълна</string>
   <string name="sim_error_text_too_long">Името е прекалено дълго!</string>
   <string name="sim_export_loading">Изтегляне на контакти от SIM картата, моля изчакайте…</string>
-  <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна, трябва да бъде между %2$d и %3$d</string>
+  <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна. Стойността трябва да бъде между %2$d и %3$d</string>
   <string name="sim_no_contact">Няма контакти на SIM картата</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Няма членове на групата</string>
@@ -1045,8 +1046,8 @@
   <string name="success_message_import_from_account">Успешно импортиране</string>
   <string name="summary_kind_title">Инфо:</string>
   <string name="t9_search_guide">Въведи номер или намери контакти с помощта на Т9</string>
-  <string name="t9_search_guide_pinyin">Натиснете 7 и 5 за търсене, пример:. Steve Jobs</string>
-  <string name="t9_search_guide_zhuyin">Натиснете 7 и 5 за търсене, пример:. Steve Jobs</string>
+  <string name="t9_search_guide_pinyin">Въведете 32 за търсене на Димитър Бербатов</string>
+  <string name="t9_search_guide_zhuyin">Въведете 32 за търсене на Димитър Бербатов</string>
   <string name="take_new_photo">Направи нова снимка</string>
   <string name="take_photo">Направи снимка</string>
   <string name="titleJoinContactDataWith">Обедини контакти</string>
@@ -1116,12 +1117,12 @@
   <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
   <string name="yellowpage_navigation_search_hint">Търси</string>
-  <string name="yellowpage_navigation_search_offline_hint">Мрежата не е достъпна</string>
+  <string name="yellowpage_navigation_search_offline_hint">Вие не сте на линия</string>
   <string name="yellowpage_navigation_search_result_network_error">"Не може да се свърже към мрежата"</string>
   <string name="yellowpage_navigation_search_result_no_more">Няма повече резултати</string>
   <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
-  <string name="yellowpage_navigation_search_select_city">Моля изберете град</string>
+  <string name="yellowpage_navigation_search_select_city">Изберете град</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>

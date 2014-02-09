@@ -6,6 +6,7 @@
   <string name="all_numbers">Всички номера</string>
   <string name="app_label">Жълти страници</string>
   <string name="balance_inquiry_default_sp_name">Оператор</string>
+  <string name="balance_inquiry_send_sms_fail_hint">Неуспешно изпращане на SMS. Проверете състоянието на SIM картата си.</string>
   <string name="balance_inquiry_send_sms_hint">Ще бъде изпратено безплатно SMS съобщение за заявка на вашия баланс</string>
   <string name="balance_inquiry_title">Състояние на баланса</string>
   <string name="callrecordview_item_newcontact">Нов контакт</string>
@@ -46,6 +47,7 @@
   <string name="express_inquiry_serial_number_prefix">"Сериен номер: "</string>
   <string name="expresss_inquiry_all_logistics">Всички</string>
   <string name="expresss_inquiry_frequently_used_logistics">Често използвани</string>
+  <string name="locating_fail">Неуспешно позициониране, проверете услугите за местоположение и опитайте отново</string>
   <string name="login_before_recharging">Трябва да влезете преди да може да презареждате.</string>
   <string name="login_before_use">Преди употреба влезте в профила си.</string>
   <string name="login_ok">Влизане</string>
@@ -70,6 +72,9 @@
   <string name="navigation_search_no_city_list">Няма данни за градове!</string>
   <string name="navigation_search_positioning">Локализация...</string>
   <string name="navigation_search_positioning_failed">Изберете град</string>
+  <string name="nearby_yellow_page_title">Наблизо</string>
+  <string name="nearby_no_yellow_page">Няма резултати наблизо</string>
+  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Мрежата е недостъпна! Моля, проверете настройките на мрежата.</string>
   <string name="order_empty_hint">Няма поръчки</string>
   <string name="order_id">ID на поръчка: %s</string>
@@ -99,6 +104,7 @@
   <string name="recharge_history">История на зарежданията</string>
   <string name="recharge_history_empty">Няма история на зарежданията</string>
   <string name="recharge_input_phone_title">Въведете телефонен номер(China mobile, China Unicom, или China Telecom)</string>
+  <string name="recharge_my_phone_number">Моят номер</string>
   <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">ID на поръчка：</string>
   <string name="recharge_order_original_price">RMB%s</string>
@@ -115,6 +121,7 @@
   <string name="recharge_select_money_title">Моля, изберете сума за зареждане</string>
   <string name="recharge_status_description">Статус:</string>
   <string name="recharge_title">Зареждане</string>
+  <string name="recharge_unknown_number">Неизвестен</string>
   <string name="recharge_user_confirm_summary">"Вие ще заредите %1$s с %2$s юана! 
 Обща сума: %3$s юана"</string>
   <string name="recharge_user_confirm_title">Потвърдете</string>

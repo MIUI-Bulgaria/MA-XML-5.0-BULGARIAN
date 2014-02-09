@@ -181,19 +181,26 @@
   <string name="screenshot_saving_text">Снимката на екрана се записва.</string>
   <string name="screenshot_saving_ticker">Записване на снимката...</string>
   <string name="screenshot_saving_title">Записване на снимката...</string>
+  <string name="settings_advanced">Разширени настройки</string>
   <string name="settings_all_app_display_loading">Зареждане, моля изчакайте...</string>
+  <string name="settings_basic_settings">Основни настройки</string>
+  <string name="settings_custom_carrier">Промени името на оператора</string>
   <string name="settings_custom_notification">Персонализиране на известията</string>
   <string name="settings_expandable_under_fullscreen">Пълноекранни приложения</string>
   <string name="settings_expandable_under_fullscreen_summary">Възможност за достъп до лентата с известия при работа с приложения на цял екран</string>
   <string name="settings_expandable_under_keyguard">При заключен екран</string>
   <string name="settings_expandable_under_keyguard_summary">Възможност за достъп до лентата с известия при заключен екран (работи само когато няма парола за заключване)</string>
   <string name="settings_expanded_view">Показване на статус лентата</string>
+  <string name="settings_no_carrier">Без име</string>
   <string name="settings_notification_bar">Лента с известия</string>
   <string name="settings_notification_icon">Известия в ленатата с известия</string>
   <string name="settings_screenshot_notification_disabled">Без известия за снимки на екрана</string>
+  <string name="settings_show_carrier">Показвай името на оператора</string>
+  <string name="settings_show_carrier_summary">Само на заключен екран</string>
   <string name="settings_show_flow_info">Показвай трафика</string>
   <string name="settings_show_network_speed">Показвай скоростта на мрежата</string>
   <string name="settings_show_notificationBar_notification">Показвай в лентата с известия</string>
+  <string name="settings_show_screenshot_notification">Показвай известия за екр. снимки</string>
   <string name="settings_show_statusBar_notification">Показвай в статус лентата</string>
   <string name="settings_status_bar">Статус лента</string>
   <string name="settings_statusbar_style">Настройка на статус лентата</string>
@@ -208,6 +215,7 @@
   <string name="settings_toggle_position_divider_page">%1$d превключватели, разположени над лентата са активни</string>
   <string name="settings_toggle_position_reset">Нулиране на превключвателите</string>
   <string name="share">Сподели</string>
+  <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
   <string name="status_bar_date_format">"EEEE 
 d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>

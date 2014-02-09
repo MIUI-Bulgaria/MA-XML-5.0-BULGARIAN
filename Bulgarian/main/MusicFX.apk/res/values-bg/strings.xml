@@ -4,8 +4,8 @@
   <string name="bass_boost_strength">Усилване на басите</string>
   <string name="ci_extreme">FX усилвател</string>
   <string name="eq_dialog_title">Еквалайзер</string>
-  <string name="headset_plug">Включете слушалките за активиране на тези ефекти.</string>
-  <string name="main_toggle_effects_title">Звукови ефекти</string>
+  <string name="headset_plug">Включете слушалки за тези ефекти.</string>
+  <string name="main_toggle_effects_title">Аудиоефекти</string>
   <string name="no_effects">Ефектите не са достъпни</string>
   <string name="picker_title">Управление на звукови ефекти</string>
   <string name="pr_dialog_title">Ехо (по подразбиране)</string>
@@ -13,5 +13,5 @@
   <string name="pr_title">Ехо:</string>
   <string name="setup">Настройка</string>
   <string name="user">Потребител</string>
-  <string name="virtualizer_strength">Съраунд звук</string>
+  <string name="virtualizer_strength">Триизмерен ефект</string>
 </resources>

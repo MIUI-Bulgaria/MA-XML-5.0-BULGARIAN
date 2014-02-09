@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Бележките могат да бъдат синхронизирани с Xiaomi профила Ви. Влизане сега?</string>
+  <string name="add_account_desc">Ще синхронизирате ли вашите бележки с Mi профила си?</string>
   <string name="alert_action_edit_anyway">Продължи</string>
   <string name="alert_edit_action_delete">Изтрий</string>
   <string name="alert_edit_action_update">Обнови</string>
@@ -25,7 +25,7 @@
   <string name="dlg_desc_confirm_alarm_silent">След изключване, сигналите от аларми и бележки няма да се чуват.</string>
   <string name="dlg_title_confirm_alarm_silent">Искате ли да заглушите алармите в тих режим?</string>
   <string name="enable_sync">Синхронизация</string>
-  <string name="enable_sync_desc">Бележките могат да бъдат синхронизирани с вашия Xiaomi профил %1$s. Да синхронизирам ли сега?</string>
+  <string name="enable_sync_desc">Ще синхронизирате ли вашите бележки с Mi профила си (%1$s)?</string>
   <string name="error_contact_not_exist">Контактът не съществува</string>
   <string name="error_note_empty_for_clock">За съжаление, не можете да настроите часа на празни бележки</string>
   <string name="error_note_empty_for_send_to_desktop">Празни бележки не могат да се изпращат на началния екран</string>

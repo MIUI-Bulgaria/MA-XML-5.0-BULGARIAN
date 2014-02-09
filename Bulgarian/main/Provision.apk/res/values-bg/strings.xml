@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Продължи</string>
-  <string name="data_usage_summary">Ако нямате предплатен мобилен интернет, се препоръчва да изключите данните. В противен случай, те могат значително да увеличат Вашите такси.</string>
-  <string name="default_gprs_sim_name">Моля, въведете лимита за данни на \"%s\"</string>
+  <string name="data_usage_summary">Ако вашият месечен план не включва мобилни данни, оператора може да ви таксува допълнително за използването им.</string>
+  <string name="default_gprs_sim_name">Въведете лимита за данни на \"%s\"</string>
   <string name="input_method">Метод на въвеждане</string>
   <string name="input_method_category">Изберете метод на въвеждане по подразбиране</string>
   <string name="next">Следващ</string>
   <string name="other_service_google_location">Google услуга за местоположения</string>
   <string name="other_service_google_location_use">Местоположение и Google търсене</string>
-  <string name="other_service_google_location_use_help">"Позволете услугите на Google да събират данни за местоположението Ви. Събирането на данни ще се извършва във фонов режим.
-За да регулирате тази настройка, отидете на Настройки > Местоположение."</string>
+  <string name="other_service_google_location_use_help">Позволете услугите на Google да събират данни за местоположението ви. Събирането на данни ще се извършва, дори и приложенията да не са стартирани.</string>
   <string name="other_service_google_location_use_summary">Позволете Google да използва местоположението за подобряване на резултатите от търсенето и други услуги</string>
   <string name="other_service_label">Други услуги</string>
   <string name="other_service_location">Услуги за местоположение</string>
@@ -17,15 +16,15 @@
   <string name="other_service_permission_manager">Мениджър на разрешения</string>
   <string name="other_service_permission_manager_summary">Наблюдение на приложенията с цел сигурност и конфиденциалност</string>
   <string name="other_service_user_experience">Изпращане на отзиви</string>
-  <string name="other_service_user_experience_summary0">"Ние сме щастливи, че използвате нашите продукти и се надяваме, че ще ни помогнете да ги подобрим чрез изпращане на отзив."</string>
-  <string name="other_service_user_experience_summary1">Политика на поверителност</string>
-  <string name="setup_complete_info">При проблеми и въпроси посетете MIUI.bg</string>
+  <string name="other_service_user_experience_summary0">"Ние сме щастливи, че използвате нашите продукти и се надяваме, че ще ни помогнете да ги подобрим чрез изпращане на отзив. "</string>
+  <string name="other_service_user_experience_summary1">(Политика на поверителност)</string>
+  <string name="setup_complete_info" />
   <string name="setup_complete_label">Благодарим Ви</string>
   <string name="setup_complete_start">Започнете да използвате</string>
   <string name="setup_complete_summary">Настройката завърши! Насладете се на MIUI!</string>
   <string name="shutdown">Изключване</string>
   <string name="sim_card_detection_dialog_message">Търсене на SIM карта...</string>
-  <string name="sim_card_detection_info">"Нуждаете се от SIM карта, за да използвате всички наши услуги, като синхронизиране на контакти, снимки и т.н."</string>
+  <string name="sim_card_detection_info" />
   <string name="sim_card_detection_label">Търсене на SIM карта</string>
   <string name="sim_card_detection_status_absent">SIM картата не е намерена!</string>
   <string name="traffic_protection_label">Контрол на трафика на данни</string>
