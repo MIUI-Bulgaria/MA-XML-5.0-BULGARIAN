@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки за лиценз</string>
+    <string name="license_settings_title">Настройки за лиценз</string>
+    <string name="expiry_reminder">Напомняне за изтичащ срок</string>
+    <string name="roaming_network">Мрежа на роуминг</string>
+    <string name="roaming_network_summary">Авто изтегляне</string>
+    <string name="roaming_option_auto_download">Авто изтегляне</string>
+    <string name="roaming_option_manual">Ръчно</string>
+    <string name="roaming_option_always_reject">Винаги отхвърляй</string>
+    <string name="roaming_network_dialog_title">Мрежа на роуминг</string>
+    <string name="dialog_cancel_button">Отказ</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="dialog_deregistration_button">OK</string>
+    <string name="dialog_registration_button">OK</string>
+    <string name="dialog_cancel_registration_button">Отказ</string>
+    <string name="dialog_ok_registration_button">OK</string>
+    <string name="expiry_reminder_summary">Авто изтегляне</string>
+    <string name="divx_registration_summary">Процес за регистриране за DivX</string>
+    <string name="clear_license">Изчисти лицензите</string>
+    <string name="clear_license_summary">Изтриване на всички DRM лицензи</string>
+    <string name="unable_to_remove_license">Лицензите не може да се изчистят</string>
+    <string name="all_licenses_are_clearing">Изтриване...</string>
+    <string name="all_licenses_are_removed">Изтрито</string>
+    <string name="clear_license_popup">"Съдържание, което изисква лицензи, трябва да се получи отново, ако искате да го използвате.
+Желаете ли да изтриете лицензите?"</string>
+    <string name="divx_vod">DivX® VOD</string>
+    <string name="divx_registration">Регистриране</string>
+    <string name="divx_deregistration">Дерегистриране</string>
+    <string name="divx_registration_info">Трябва да регистрирате устройството си, за да възпроизвежда защитено DivX видео</string>
+    <string name="divx_registration_code">Код за регистриране: %s</string>
+    <string name="divx_register_website">Регистриране в %s</string>
+    <string name="divx_deregistration_code">Код за дерегистриране: %s</string>
+    <string name="divx_deregister_website">Дерегистриране в %s</string>
+    <string name="divx_deregistration_info">Продължаване на регистрирането?</string>
+    <string name="dialog_deregister_confirmation_message">Устройството ви е вече регистрирано. Наистина ли искате да дерегистрирате?</string>
+</resources>

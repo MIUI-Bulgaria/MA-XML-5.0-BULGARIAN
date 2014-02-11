@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTP приложение</string>
+    <string name="error_title">Внимание</string>
+    <string name="bluetooth_running">Активирането на режим USB ще деактивира Bluetooth. Продължаване?</string>
+    <string name="alert_dialog_yes">Да</string>
+    <string name="alert_dialog_no">Не</string>
+    <string name="animation_initializing">Инициализиране…</string>
+    <string name="animation_connected">Свързан</string>
+    <string name="animation_synchronizing">Синхронизиране…</string>
+    <string name="animation_downloading">Смъкване…</string>
+    <string name="animation_sending">Изпращ…</string>
+    <string name="notification_mtp_connected">MTP е свързан</string>
+    <string name="notification_usb_connected">USB устройството е свързано</string>
+    <string name="notification_mtp_initialization">Инициализиране на MTP</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Отказ</string>
+    <string name="non_idle_toast">Връзката с компютър е достъпна само в неактивен режим. Затворете стартираните приложения</string>
+    <string name="media_scanner_running">Протича сканиране за мултимедия…</string>
+    <string name="media_scanner_finished">Сканирането за мултимедия е завършено</string>
+    <string name="kies_software_check">Проверка за Samsung Kies (софтуер за връзка с компютър)…</string>
+    <string name="security_policy_restriction">Правилата за защита ограничават използването на връзка PC връзката</string>
+    <string name="resume_to_call">Поднови разговора</string>
+    <string name="store_add_popup">MTP приложението ще се рестартира, за да подготви SD картата. Продължаване?</string>
+</resources>

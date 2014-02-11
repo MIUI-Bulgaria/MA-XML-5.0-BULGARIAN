@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Грешка</string>
+    <string name="app_name">Грешка</string>
+    <string name="ok">OK</string>
+    <string name="sms_fdn_title">Грешка</string>
+    <string name="sms_fdn_body">FDN номер ограничен</string>
+    <string name="sms_fdn_restricted">FDN номер ограничен</string>
+    <string name="sim_not_inserted">Поставете SIM карта</string>
+    <string name="sdcard_copy_err">Неуспешно копиране</string>
+    <string name="data_copy_err">Грешка при копиране на данни</string>
+    <string name="sim_crash_title">Срив в SIM картата</string>
+    <string name="sim_crash_text">Проверете SIM картата си или се свържете с обслужването на клиенти</string>
+    <string name="unknown_err">Неизвестна грешка</string>
+    <string name="sim_removed_text">SIM картата е извадена. Рестартирайте телефона</string>
+    <string name="sim_removed_title">SIM картата е извадена</string>
+    <string name="sim_permernent_title">SIM карта - неуспех</string>
+    <string name="sim_permernent_blocked">PUK блокиран</string>
+    <string name="perso_blocked_title">Възникна грешка при отключване на мрежата</string>
+    <string name="perso_blocked_text">Кодът за отключване на мрежата е блокиран</string>
+    <string name="dialog_ok">OK</string>
+</resources>
