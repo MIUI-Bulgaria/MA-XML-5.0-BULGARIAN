@@ -1114,6 +1114,10 @@
   <string name="yellowPageNavigationIconLabel">Директория</string>
   <string name="yellowPageNavigationLabel">Директория</string>
   <string name="yellowpage_navigation_menu_order">Моята поръчка</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение според мрежата</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Списъкът на номера на услуги и магазини, според местоположението ви, може да се подобри с тази функция.</string>
+  <string name="yellowpage_navigation_network_location_enable">Разреши</string>
+  <string name="yellowpage_navigation_network_location_enable_later">По-късно</string>
   <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
   <string name="yellowpage_navigation_search_hint">Търси</string>

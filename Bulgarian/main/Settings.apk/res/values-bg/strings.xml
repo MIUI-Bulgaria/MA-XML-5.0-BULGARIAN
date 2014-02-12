@@ -2568,6 +2568,8 @@ for MAC"</li>"
   <string name="title_mms_yes">Филтрирането на съобщения е включено</string>
   <string name="title_permission_no">Монитора на разрешения е изключен</string>
   <string name="title_permission_yes">Монитора на разрешения е включен</string>
+  <string name="title_show_notification_yes">Показването в лентата с известия е изкл.</string>
+  <string name="title_show_notification_no">Показването в лентата с известия е вкл.</string>
   <string name="title_usb_no">Отстр. USB грешки е включено</string>
   <string name="title_usb_yes">Отстр. USB грешки е изключено</string>
   <string name="title_virus_no">Открит е вирус</string>

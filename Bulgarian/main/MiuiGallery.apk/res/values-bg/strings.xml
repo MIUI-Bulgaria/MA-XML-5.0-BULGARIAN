@@ -189,6 +189,7 @@
   <string name="error_should_not_select_image">Внимание: не избирайте снимка.</string>
   <string name="error_should_not_select_video">Внимание: не избирайте видео.</string>
   <string name="error_socket_timeout">Грешка в мрежата. Моля опитайте по-късно</string>
+  <string name="error_share_with_creator">Вече сте член на този албум</string>
   <string name="error_unknown_host">Мрежата не е намерена.</string>
   <string name="exit">Изход</string>
   <string name="exit_share">Затвори албума</string>
