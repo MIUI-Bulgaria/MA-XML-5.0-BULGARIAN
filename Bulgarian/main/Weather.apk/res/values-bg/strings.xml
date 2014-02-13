@@ -86,9 +86,9 @@
     <string name="button_not_allow">Забрани</string>
     <string name="location_allow_err">Неуспешно позициониране</string>
     <string name="format_date_wmd">dd.MM. EEEE</string>
-    <string name="format_date_md">dd.MN. kk:mm</string>
+    <string name="format_date_md">dd.MM. kk:mm</string>
     <string name="format_date_week">EEE</string>
-    <string name="format_date_trend_md">dd.MN.</string>
+    <string name="format_date_trend_md">dd.MM.</string>
     <string name="act_weather_aqi_title">Индекс качество на въздуха</string>
     <string name="act_weather_main_aqi_index">Качество на въздуха: %s</string>
     <string name="act_weather_aqi_share">Сподели</string>
