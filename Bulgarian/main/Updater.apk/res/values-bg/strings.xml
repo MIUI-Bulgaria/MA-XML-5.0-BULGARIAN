@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">Информация за телефона</string>
   <string name="active_xiaomi_account">Активиране</string>
@@ -14,8 +14,8 @@
   <string name="apply_update_dialog_update_button">Актуализация</string>
   <string name="apply_update_fail">Системата не успя да се актуализира</string>
   <string name="apply_update_timer">Актуализацията е завършена，телефонът ще се рестартира след %d секунди</string>
-  <string name="apply_upload_info_message">Натискането на \"Актуализирай\" автоматично ще рестартира телефона за инсталиране на актуализацията</string>
-  <string name="apply_upload_info_message_manually">След изключване, Вие можете ръчно да влезете в Recovery за да приложите %s от SD картата. Ако желаете да архивирате,може да го направите и след това да се върнете към системната актуализация.</string>
+  <string name="apply_upload_info_message">За прилагането на актуализацията и рестартиране на телефона, натиснете \"Актуализирай\".</string>
+  <string name="apply_upload_info_message_manually">След рестартиране, можете ръчно да влезете в режим Recovery за да приложите актуализацията (<xliff:g id="FILE">%s</xliff:g>) ръчно. Ако желаете да създадете резервно копие на данните си, трябва да го направите преди прилагане на актуализацията.</string>
   <string name="applying_rom_message">Инсталиране на актуализацията</string>
   <string name="applying_update">Инсталиране на актуализацията... %s</string>
   <string name="best_update">2.Най-добра актуализация</string>
@@ -35,8 +35,8 @@
   <string name="comment_upload_success">Коментара е изпратен успешно!</string>
   <string name="confirm_download_cancelation_dialog_message">Сигурни ли сте, че искате да прекратите изтеглянето?</string>
   <string name="copy_install_log">Копирай в буферната памет</string>
-  <string name="current_version_text">Текуща версия\u0020</string>
-  <string name="current_version_update_monthly_build">Текуща версия (Актуализация на месечната версия)</string>
+  <string name="current_version_text">"Текуща версия"</string>
+  <string name="current_version_update_monthly_build">Версия (актуализация на месечната версия)</string>
   <string name="daily_build">Дневна версия</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_ok">ОК</string>
@@ -136,13 +136,13 @@
   <string name="submit_fail">Неуспешно изпращане</string>
   <string name="submit_progress">Изпращане...</string>
   <string name="submit_success">Изпратено. Благодарим Ви!</string>
-  <string name="system_backup_apply_helper">Устройството автоматично ще се рестартира за инсталиране на актуализацията</string>
-  <string name="system_backup_ask">Питай отново</string>
-  <string name="system_backup_button_text">Създай резервно копие на системата</string>
-  <string name="system_backup_cancel_text">Актуализирай</string>
-  <string name="system_backup_download_helper">Устройството автоматично ще се рестартира след като изтегли актуализацията</string>
-  <string name="system_backup_error_message">Не е открито резервно копие на MIUI, моля създайте ново</string>
-  <string name="system_backup_helper">Актуализация няма да премахне личните ви данни и файлове. Въпреки това Ви препоръчваме да си направите резервно копие преди да започнете актуализацията</string>
+  <string name="system_backup_apply_helper">Ще направите ли резервно копие на данните си преди прилагане на актуализацията?</string>
+  <string name="system_backup_ask">Питай всеки път</string>
+  <string name="system_backup_button_text">Резервно копие</string>
+  <string name="system_backup_cancel_text">Актуализиране</string>
+  <string name="system_backup_download_helper">Ще направите ли резервно копие на данните си преди прилагане на актуализацията?</string>
+  <string name="system_backup_error_message">Не може да се открие системното MIUI приложение за резервно копие.</string>
+  <string name="system_backup_helper"></string>
   <string name="system_backup_ok_text">Резервно копие</string>
   <string name="top_secret_build">Тайна версия</string>
   <string name="unstable_build">Нестабилна версия</string>
@@ -162,8 +162,8 @@
   <string name="upgrade_close">Затвори</string>
   <string name="upgrade_kernel">Ядрото трябва да се актуализира</string>
   <string name="upgrade_kernel_msg">"Текущото ядро не е подходящо за MIUI ROM. Трябва да обновите ядрото ръчно. Следвайте ръководството:"</string>
-  <string name="verify_and_apply_dialog_message">Проверка на MD5 checksum...</string>
-  <string name="verify_and_apply_dialog_title">Проверка целостта на файла</string>
+  <string name="verify_and_apply_dialog_message">Проверка на източника на актуализацията\u2026</string>
+  <string name="verify_and_apply_dialog_title">Проверка\u2026</string>
   <string name="view_install_log">Преглед на регистъра с грешки</string>
   <string name="view_upgrade_tutorial">Покажи ръководството</string>
   <string name="weekly_build">Седмична версия</string>
