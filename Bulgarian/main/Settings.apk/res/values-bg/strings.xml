@@ -769,7 +769,7 @@
   <string name="debug_app_set">Приложение за отстр. на грешки: %1$s</string>
   <string name="debug_applications_category">Приложения</string>
   <string name="debug_debugging_category">Отстраняване на грешки</string>
-  <string name="debug_drawing_category">Рисуване</string>
+  <string name="debug_drawing_category">Начертаване</string>
   <string name="debug_input_category">Въвеждане</string>
   <string name="debug_intent_sender_label">Отстр. на intent sender грешки</string>
   <string name="debug_layout">Покажи границите</string>
@@ -2953,7 +2953,7 @@ for MAC"</li>"
   <string name="vpn_type">Тип</string>
   <string name="vpn_username">Потребителско име</string>
   <string name="wait_for_debugger">Изчакване на debugger</string>
-  <string name="wait_for_debugger_summary">Приложението, на което се отстраняват грешки, изчакава да се прикачи debugger преди изпълнение</string>
+  <string name="wait_for_debugger_summary">Прил. изчаква инстр. за отстраняване на грешки да се прикачи преди изпълнение</string>
   <string name="wallpaper_settings_fragment_title">Изберете тапет от</string>
   <string name="wallpaper_settings_title">Тапет</string>
   <string name="wfd_available_devices">Налични устройства</string>
