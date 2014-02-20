@@ -31,7 +31,7 @@
     <string name="act_find_city_hint">Въведете град</string>
     <string name="act_set_city_find_side_on">Текуща позиция</string>
     <string name="act_set_city_find_side">Откриване на позицията…</string>
-    <string name="local_city">Местни градове</string>
+    <string name="local_city" />
     <string name="act_set_city_re_find_side">Локализиране…</string>
     <string name="act_set_city_find_side_error">Неуспешно определяне на позицията</string>
     <string name="act_city_find_gps_error">Изберете ръчно град от списъка</string>

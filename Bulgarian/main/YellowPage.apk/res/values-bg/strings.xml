@@ -77,6 +77,7 @@
   <string name="nearby_no_yellow_page">Няма резултати наблизо</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Мрежата е недостъпна! Моля, проверете настройките на мрежата.</string>
+  <string name="no_more_result">Няма повече резултати</string>
   <string name="order_empty_hint">Няма поръчки</string>
   <string name="order_id">ID на поръчка: %s</string>
   <string name="order_merchant_title">Моите поръчки - %s</string>

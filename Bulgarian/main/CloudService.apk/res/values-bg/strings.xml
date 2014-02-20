@@ -1,10 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Мениджър на профили Xiaomi</string>
   <string name="find_device">Намери телефона</string>
   <string name="find_device_stop_noise">Натиснете \"OK\", за да спрете алармата</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизирай снимките по Wi-Fi за спестяване на мобилни данни</string>
   <string name="pref_title_sync_contacts_title">Синхронизация на контакти</string>
+  <string name="pref_title_sync_my_profile_title">Синхр. моят профил</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Само по Wi-Fi</string>
   <string name="sub_sync_item_sms_summary">Синхронизирай съобщенията по Wi-Fi за спестяване на мобилни данни</string>
   <string name="sub_sync_item_sms_title_wifi_only">Само по Wi-Fi</string>

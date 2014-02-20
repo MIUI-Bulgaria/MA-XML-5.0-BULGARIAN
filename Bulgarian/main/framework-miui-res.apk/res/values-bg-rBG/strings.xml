@@ -264,7 +264,7 @@
   <string name="delete">Изтрий</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Redmi</string>
-  <string name="device_xiaomi">Телефон Xiaomi</string>
+  <string name="device_xiaomi">Xiaomi</string>
   <string name="emergency_call_string">Спешно повикване</string>
   <string name="err_resource_leak">За съжаление, приложението %1$s спря.</string>
   <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>

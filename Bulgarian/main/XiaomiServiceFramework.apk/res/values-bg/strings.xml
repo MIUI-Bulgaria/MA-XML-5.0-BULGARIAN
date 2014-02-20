@@ -121,6 +121,7 @@
     <string name="login_failed">Грешно име или парола.</string>
     <string name="login_instead_reg">Влизане с този телефонен номер</string>
     <string name="login_notice">Влизане…</string>
+    <string name="logout_failed">Неуспешно отписване</string>
     <string name="master_alert_notif_dspt" formatted="false">"%s контакти, %s SMS, %s снимки, %s бележки и други данни не бяха синхронизирани."</string>
     <string name="master_alert_notif_title">Данните не са синхронизирани от %s дни</string>
     <string name="micloud_account">Xiaomi</string>

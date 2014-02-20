@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_detail">"Xiaomi профил:
 %1$s"</string>
@@ -157,7 +157,7 @@
   <string name="hfb_retry_receive">Опитайте пак</string>
   <string name="hfb_return">Назад</string>
   <string name="hfb_sms1_progress_label">SMS се изпраща. Моля, изчакайте...</string>
-  <string name="hfb_sms2_progress_label">Плащането беше потвърдено. Моля, изчакайтеt...</string>
+  <string name="hfb_sms2_progress_label">Плащането беше потвърдено. Моля, изчакайте...</string>
   <string name="hfb_sms_error">SMS не се изпрати!</string>
   <string name="hfb_sms_pay">"Бележка: Натиснете 'Потвърждаване на плащане' и пратете SMS на 10658008 за да завършите поръчката. Плащанията се такусват само по местни цени."</string>
   <string name="hfb_succ_label">Покупката е завършена</string>
@@ -347,10 +347,10 @@
   <string name="msg_telecom_order_denom_label">Сума:</string>
   <string name="msg_telecom_order_goods">%1s MiКредити</string>
   <string name="msg_telecom_order_goods_label">За поръчката:</string>
-  <string name="msg_telecom_picker_hint_1_1">След като натиснете Потвърди покупката, Вашият телефон</string>
-  <string name="msg_telecom_picker_hint_1_2">автоматично ще изпрати съобщение до доставчика на услуги."</string>
-  <string name="msg_telecom_picker_hint_2_1">Успешно изпратено!</string>
-  <string name="msg_telecom_picker_hint_2_2">Скоро ще получите текстово потвърждение</string>
+  <string name="msg_order_hint_1_1">След като натиснете Потвърди покупката, вашия телефон</string>
+  <string name="msg_order_hint_1_2">автоматично ще изпрати съобщение до доставчика на услуги..</string>
+  <string name="msg_progress_hint_2_1">Успешно изпратено!</string>
+  <string name="msg_progress_hint_2_2">Скоро ще получите текстово потвърждение.</string>
   <string name="msg_telecom_sending">Свързване с оператора…</string>
   <string name="next">Напред</string>
   <string name="onemore_click_exit">Докоснете още веднъж за изход</string>
@@ -460,4 +460,8 @@
   <string name="voucher_error_password">Грешен код за ваучер!</string>
   <string name="voucher_error_password_empty">Кодът е празен.</string>
   <string name="voucher_input_password_prompt">Въведете кода</string>
+  <string name="error_cert_date_title">Certificate date error</string>
+  <string name="error_cert_date_summary">"Certificate date error. 
+Please check your local date and try again."</string>
+  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
 </resources>

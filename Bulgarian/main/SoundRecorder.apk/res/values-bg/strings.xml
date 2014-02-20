@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Желаете ли да изтриете избрания звукозапис?</string>
   <string name="app_name">Звукозапис</string>
@@ -74,7 +74,7 @@
   <string name="sound_recorder_settings">Настройки на звукозаписа</string>
   <string name="start_recording">Започни записване</string>
   <string name="status_bar_anti_disturb">Звукът е заглушен. Настройте звука, за да продължите.</string>
-  <string name="status_bar_back">Настиснете, за да отворите приложението</string>
+  <string name="status_bar_back" />	
   <string name="status_bar_recording">Записване...</string>
   <string name="status_bar_recording_pause">"Записването е сложено на пауза. "</string>
   <string name="stop_recording">Спри записването</string>
