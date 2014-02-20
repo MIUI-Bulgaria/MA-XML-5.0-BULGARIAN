@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авт. CDMA/EvDo</item>
+        <item>Авт. GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM/WCDMA</item>
+    </string-array>
+</resources>
