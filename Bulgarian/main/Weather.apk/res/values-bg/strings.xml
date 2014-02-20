@@ -79,7 +79,7 @@
     <string name="tip_weather">Известие от Времето MIUI</string>
     <string name="tip_weather_info_title_1">%1$s очакват се разлики от %2$d градуса</string>
     <string name="tip_weather_info_content_1">Облечете се подходящо!</string>
-    <string name="tip_weather_info_title_2">В %1$s температурата днес ще е %2$s</string>
+    <string name="tip_weather_info_title_2">В %1$s температурата ще е около %2$s</string>
     <string name="alert_provider_title">Известие за местоположението</string>
     <string name="alert_provider_message">Трябва да позволите досъп до местоположението ви чрез мобилната мрежа.</string>
     <string name="button_allow">Позволи</string>
@@ -119,6 +119,6 @@
     <string name="act_init_dialog_finish">Добавени са глобални данни за времето.</string>
     <string name="loading_weather">Зареждане…</string>
     <string name="act_weather_cycle_link_china">WeatherChina</string>
-    <string name="menu_add">Добавяне на градове</string>
+    <string name="menu_add">Добавяне на места</string>
     <string name="menu_more">Детайли</string>
 </resources>

@@ -38,7 +38,7 @@
   <string name="backup_report">Отчет</string>
   <string name="backup_update">Обнови</string>
   <string name="batch_delete_backup_confirm">\nСигурни ли сте, че искате да изтриете избраното резервно копие?</string>
-  <string name="button_abandon">Прекъсни</string>
+  <string name="button_abandon">Презапиши</string>
   <string name="button_backup">Ново резервно копие</string>
   <string name="button_cancel">Отказ</string>
   <string name="button_continue">Продължи</string>
@@ -170,7 +170,7 @@
   <string name="mms_title">MMS съобщения</string>
   <string name="multi_select_title">Избрани %1$s елемент(и)</string>
   <string name="my_phone">Моят телефон</string>
-  <string name="no_encrypt_password">Паролите не се кодират</string>
+  <string name="no_encrypt_password">Няма парола</string>
   <string name="no_network">Грешка при свързване. \n Моля, проверете връзката и опитайте отново</string>
   <string name="note_title">Бележки</string>
   <string name="nothing_searched">Нищо не е намерено</string>
