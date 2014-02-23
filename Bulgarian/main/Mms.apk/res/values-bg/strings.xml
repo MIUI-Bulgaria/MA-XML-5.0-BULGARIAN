@@ -154,7 +154,7 @@
   <string name="group_message_failed_title">Неуспешно изпращане до %d контакта</string>
   <string name="group_resend_message">Повт. изпращане (%d)</string>
   <string name="guild_add_attachments">Натиснете за добавяне на емотикони или медиа в съобщението</string>
-  <string name="guild_add_recipients">Натиснете тук за добавяне на получатели от адесната книга</string>
+  <string name="guild_add_recipients">Натиснете тук за добавяне на получатели от адресната книга</string>
   <string name="has_invalid_recipient">%1$s невалидни получатели</string>
   <string name="hidden_sender_address">Скрит адрес на изпращача</string>
   <string name="hint_search_sms">%d SMS</string>
