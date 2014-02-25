@@ -300,7 +300,7 @@
   <string name="dialerKeyboardHintText">За набиране използвайте клавиатурата</string>
   <string name="dialer_addAnotherCall">Добави повикване</string>
   <string name="dialer_empty_text_loading">Зареждане...</string>
-  <string name="dialer_empty_text_no_call_log">Списъка с повиквания е празен</string>
+  <string name="dialer_empty_text_no_call_log">Списъкът с повиквания е празен</string>
   <string name="dialer_empty_text_no_search_result">Не са намерени контакти</string>
   <string name="dialer_returnToInCallScreen">Обратно към разговора</string>
   <string name="dialer_useDtmfDialpad">Използвай тоналната клавиатура</string>
