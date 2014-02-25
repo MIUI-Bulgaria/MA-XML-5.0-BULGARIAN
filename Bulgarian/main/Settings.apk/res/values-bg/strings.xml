@@ -542,7 +542,7 @@
   <string name="button_text_done">Готово</string>
   <string name="button_text_fix">Поправи</string>
   <string name="button_text_quick_scan">Сканирай</string>
-  <string name="button_text_security">Безопасност</string>
+  <string name="button_text_security">OK</string>
   <string name="button_text_view">Преглед</string>
   <string name="cache_garbage">Кеш файлове</string>
   <string name="cache_header_label">Кеш</string>
