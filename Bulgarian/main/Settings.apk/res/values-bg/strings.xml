@@ -2872,7 +2872,7 @@ for MAC"</li>"
   <string name="virus_scanner_lib_updating">Актуализиране на дефинициите…</string>
   <string name="virus_scanner_manual_update">Ръчно актуализиране</string>
   <string name="virus_scanner_module">Tencent</string>
-  <string name="virus_scanner_provider">Обеспечава се от %s</string>
+  <string name="virus_scanner_provider">С подкрепата на %s</string>
   <string name="virus_scanner_scan">Сканиране</string>
   <string name="virus_scanner_scanning">Антивирус</string>
   <string name="virus_scanner_select_Cancel">Отказ</string>
