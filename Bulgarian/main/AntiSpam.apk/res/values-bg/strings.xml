@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Антиспам</string>
-  <string name="bl_block_info" formatted="false">Блокирани: Брой %d, Детайли %d</string>
+  <string name="bl_block_info" formatted="false">Обаждания: %d | Съобщения: %d</string>
   <string name="bl_no_blacklist">Черният списък е празен</string>
   <string name="bl_no_block_call">Всички блокирани повиквания ще бъдат тук</string>
   <string name="bl_no_block_sms">Всички блокирани съобщения ще бъдат тук</string>
@@ -31,10 +31,10 @@
   <string name="dlg_retore">Сигурни ли сте, че искате да възстановите това съобщение?</string>
   <string name="dlg_retore_ok">Възстанови</string>
   <string name="fw_blocked">Антиспам статистика</string>
-  <string name="fw_blocked_count" formatted="false">Блокирани: %d Повиквания и %d Съобщения</string>
+  <string name="fw_blocked_count" formatted="false">Блокирани %d обаждания и %d съобщения</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d потребители го отбелязаха като</string>
-  <string name="marked_by_user">Вие го отбелязахте като</string>
+  <string name="marked_by_others">"%d потребители отбелязаха като "</string>
+  <string name="marked_by_user">"Отбелязахте като "</string>
   <string name="menu_add">Добави</string>
   <string name="menu_add_into_contact">Добави към съществуващ контакт</string>
   <string name="menu_add_new_contact">Нов контакт</string>
@@ -99,7 +99,7 @@
   <string name="st_call_group">Повикване</string>
   <string name="st_common_setting_group">Бърз преглед</string>
   <string name="st_filter_keywords_setting_summary1">Съобщенията от непознати номера ще бъдат блокирани.</string>
-  <string name="st_filter_keywords_setting_summary2">Добавете няколко ключови думи, разделени със запетая.</string>
+  <string name="st_filter_keywords_setting_summary2">Може да разделите ключовите думи със запетая.</string>
   <string name="st_filter_keywords_setting_title">Задайте филтър с ключови думи</string>
   <string name="st_filter_keywords_title">Филтър за съобщения с ключови думи</string>
   <string name="st_filter_sms_button">Филтър за спам съобщения</string>
@@ -118,7 +118,7 @@
   <string name="tab_title">Антиспам</string>
   <string name="toast_keyword_blank">Няма ключови думи</string>
   <string name="toast_keyword_exist">Ключовата дума: %s вече съществува</string>
-  <string name="toast_keyword_invalid">Невалидна ключова дума</string>
+  <string name="toast_keyword_invalid">Въведената ключова дума е невалидна</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

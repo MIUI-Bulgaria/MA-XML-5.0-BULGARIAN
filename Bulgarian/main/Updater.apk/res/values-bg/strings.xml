@@ -12,12 +12,12 @@
   <string name="apply_unable_to_reboot_toast">Невъзможно е рестартирането в режим recovery</string>
   <string name="apply_update_dialog_cancel_button">Отказ</string>
   <string name="apply_update_dialog_update_button">Актуализация</string>
-  <string name="apply_update_fail">Системата не успя да се актуализира</string>
+  <string name="apply_update_fail">Актуализирането е неуспешно</string>
   <string name="apply_update_timer">Актуализацията е завършена，телефонът ще се рестартира след %d секунди</string>
   <string name="apply_upload_info_message">За прилагането на актуализацията и рестартиране на телефона, натиснете \"Актуализирай\".</string>
   <string name="apply_upload_info_message_manually">След рестартиране, можете ръчно да влезете в режим Recovery за да приложите актуализацията %s ръчно. Ако желаете да създадете резервно копие на данните си, трябва да го направите преди прилагане на актуализацията.</string>
   <string name="applying_rom_message">Инсталиране на актуализацията</string>
-  <string name="applying_update">Инсталиране на актуализацията... %s</string>
+  <string name="applying_update">Протича актуализация... %s</string>
   <string name="best_update">2.Най-добра актуализация</string>
   <string name="boot_recovery">Рестартиране в режим \"recovery\"</string>
   <string name="cancel_download_buton_text">Отказ</string>
@@ -34,7 +34,7 @@
   <string name="comment_upload_not_logined">Трябва да влезете преди да изпратите своя коментар</string>
   <string name="comment_upload_success">Коментара е изпратен успешно!</string>
   <string name="confirm_download_cancelation_dialog_message">Сигурни ли сте, че искате да прекратите изтеглянето?</string>
-  <string name="copy_install_log">Копирай в буферната памет</string>
+  <string name="copy_install_log">Копиране</string>
   <string name="current_version_text">"Текуща версия"</string>
   <string name="current_version_update_monthly_build">Версия (актуализация на месечната версия)</string>
   <string name="daily_build">Дневна версия</string>
@@ -56,7 +56,7 @@
   <string name="finish">Готово</string>
   <string name="finish_download">Изтеглянето е завършено</string>
   <string name="fourgrid_hint_text">Благодарим Ви, че използвате версията за разработчици на MIUI. Моля, кажете ни какво мислите и помогнете да направим MIUI един по-добър Android ROM!</string>
-  <string name="fourgrid_no_notificaiont">"Не показвай в статус лентата"</string>
+  <string name="fourgrid_no_notificaiont">Не показвай в статус лентата</string>
   <string name="fourgrid_notificaiont">Показвай в статус лентата</string>
   <string name="get_update_error">Грешка при получаване на информацията</string>
   <string name="install_email">Инсталирайте Имейл приложение</string>
@@ -71,7 +71,7 @@
   <string name="later">По-късно</string> 
   <string name="loading">Свързване с MIUI сървъра</string>
   <string name="md5_check_cancelled">MD5 проверката е отменена</string>
-  <string name="mione_update_fail_description">Моля, актуализирайте отново</string>
+  <string name="mione_update_fail_description">Опитайте отново</string>
   <string name="mione_update_fail_title">Актуализацията е неуспешна</string>
   <string name="mione_update_success_title">Актуализацията е успешна</string>
   <string name="monthly_build">Месечна версия</string>
@@ -170,4 +170,5 @@
   <string name="wifi_not_available_body">Препоръчително е да използвате Wi-Fi връзка за да изтеглите актуализациите, поради големия им размер. В момента не сте свързани към Wi-Fi, искате ли да продължите?</string>
   <string name="wifi_not_available_title">Wi-Fi не е свързан</string>
   <string name="worst_update">3.Най-лоша актуализация</string>
+  <string name="new_update_content_notification_shade" />
 </resources>

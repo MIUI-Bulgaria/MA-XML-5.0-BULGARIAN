@@ -49,6 +49,7 @@
   <string name="cleanup_complete">Готово</string>
   <string name="cleanup_stopped">Почистването спря</string>
   <string name="close">Затвори</string>
+  <string name="colon">": "</string>
   <string name="compress_fail">Грешка при архивиране, файлът вече съществува</string>
   <string name="compress_message">Име на архива:</string>
   <string name="compress_title">Създаване на архив</string>

@@ -269,4 +269,8 @@
   <string name="gadget_photo_label">Фоторамка</string>
   <string name="gadget_weather_title">Времето</string>
   <string name="settings_shortcut">Пряк път настройки</string>
+  <string name="apply_as_lock_wallpaper">Прилагане</string>
+  <string name="apply_as_lock_wallpaper_message">Тапетът да се приложи ли също и на закл. екран?</string>
+  <string name="lock_screen_failed_message">Неуспешно прилагане</string>
+  <string name="lock_screen_success_message">Приложен</string>
 </resources>
