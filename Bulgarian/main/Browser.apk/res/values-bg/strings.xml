@@ -327,7 +327,7 @@
   <string name="open_all_bookmarks">Отвори всички</string>
   <string name="open_all_in_new_window">Отвори всички в нови раздели</string>
   <string name="open_bookmark">Отвори</string>
-  <string name="open_history_group_in_new_window">Отвори всички раздели от историята %s в нов прозорец</string>
+  <string name="open_history_group_in_new_window">Отвори историята в нови раздели (%s страници)</string>
   <string name="open_history_most_visited_group_in_new_window">Отвори всички най-посещавани страници</string>
   <string name="other_bookmarks">Други отметки</string>
   <string name="page_info">Информация за страницата</string>

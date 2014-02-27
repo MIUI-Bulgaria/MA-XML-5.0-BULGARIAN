@@ -130,7 +130,7 @@
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">Изисква се ROOT достъп</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Не се предлага в стабилните версии на MIUI</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s приложения имат ROOT достъп</string>
+  <string name="HIPS_Perm_ROOT_Hint">Няма приложения</string>
   <string name="HIPS_Perm_ROOT_Title">да получи ROOT досъп</string>
   <string name="HIPS_Perm_RejectAll">Забрани на всички</string>
   <string name="HIPS_Perm_SMS">SMS</string>
