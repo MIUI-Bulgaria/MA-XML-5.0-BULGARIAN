@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
+    <string name="import_from_sim">Импортиране от SIM карта 1</string>
+    <string name="import_from_sim2">Импортиране от SIM карта 2</string>
+    <string name="callrecordview_menu_show_sim">%s обаждания</string>
+    <string name="callrecordview_menu_delete_sim">Изчисти списъка с повиквания на %s</string>
+    <string name="menu_dial_ip_number">Набери IP обаждане</string>
+    <string name="export_to_sim">Експортиране в SIM карта 1</string>
+    <string name="export_to_sim2">Експортиране в SIM карта 2</string>
+    <string name="no_connection_dialog_title">Неуспешно свързване чрез Bluetooth</string>
+    <string name="imei_invalid">Невалиден IMEI</string>
+    <string name="sim_capacity">Вижте капацитета на SIM картата</string>
+    <string name="has_double_phone_number">Този тип номер вече съществува</string>
+    <string name="phone_book_busy">Телефонният указател е зает в момента, опитайте по-късно.</string>
+    <string name="sim_invalid">Невъзможен запис на контакт при невалидна SIM карта.</string>
+    <string name="cannot_insert_null_number">Невъзможен запис на контакт с празен номер.</string>
+    <string name="AirPlane_mode_on">Невъзможен запис на контакт в режим Полет.</string>
+    <string name="FDNEnabled">Невъзможен запис на контакт при активиран FDN.</string>
+    <string name="sim_invalid_number">Невъзможен запис на невалиден номер.</string>
+    <string name="email_invalid">Невъзможен запис на невалиден имейл.</string>
+    <string name="email_2g_invalid">Невъзможен запис на имейл в 2G SIM, изберете 3G SIM за записа.</string>
+    <string name="sim_invalid_fix_number">Невъзможен запис на невалиден фиксиран номер.</string>
+    <string name="AirPlane_mode_on_edit">Невъзможна редакция на контакт в режим Полет.</string>
+    <string name="msg_loading_sim_contacts_toast">Зареждане на контакти от SIM във фонов режим…</string>
+    <string name="fix_number_too_long">Фиксираният номер е твърде дълъг.</string>
+    <string name="name_too_long">Името е твърде дълго.</string>
+    <string name="storage_full">Паметта е пълна</string>
+    <string name="number_too_long">Номерът е твърде дълъг</string>
+    <string name="generic_failure">Обща неизправност</string>
+    <string name="email_too_long">Имейлът е твърде дълъг</string>
+    <string name="error_save_usim_contact_email_lost">Неуспешно записване на имейл адрес поради препълнена USIM памет за имейли.</string>
+    <string name="sim_contact_existing">Контактът вече съществува</string>
+    <string name="sim_contact_invalid">Невалиден SIM контакт</string>
+    <string name="sim_error_not_ready">Зареждане на SIM контакти…</string>
+</resources>

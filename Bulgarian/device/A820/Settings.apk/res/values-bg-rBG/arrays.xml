@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="overlay_display_devices_entries">
+        <item>Няма</item>
+        <item>720x480</item>
+        <item>1280x720</item>
+        <item>1920x1080</item>
+        <item>1280x720 и 1920x1080</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Няма</item>
+        <item>Logcat</item>
+        <item>Systrace (Графика)</item>
+        <item>Извикване на стека при glGetError</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Силен</item>
+        <item>Среден</item>
+        <item>Слаб</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Първите 4 цифри</item>
+        <item>Последните 4 цифри</item>
+        <item>Не показвай</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Един път</item>
+        <item>Винаги</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом.)</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Автоматично</item>
+        <item>Ръчно</item>
+        <item>Винаги питай</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Само дом. мрежа</item>
+        <item>Дом. и роуминг мрежа</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Използване на часа, предоставен от мрежата</item>
+        <item>Час по GPS</item>
+        <item>Изкл.</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Авто</item>
+        <item>720P</item>
+        <item>480P</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries_8193">
+        <item>Авто</item>
+        <item>720p 60Hz</item>
+        <item>720p 50Hz</item>
+        <item>1080p 24Hz</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Широкоекранно</item>
+        <item>Най-добро пасване</item>
+        <item>Оригинален размер</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(неопределен)</item>
+        <item>SIM карта 1</item>
+        <item>SIM карта 2</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Автоматично</item>
+        <item>WEP ASCII</item>
+        <item>WEP шестнадесетичнo</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Винаги</item>
+        <item>Изключи след 5 мин. неактивност</item>
+        <item>Изключи след 10 мин. неактивност</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 и IPv6</item>
+    </string-array>
+    <string-array name="usb_tether_type_entries">
+        <item>Windows(RNDIS)</item>
+        <item>Linux/Mac OS(EEM)</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>WPS бутон</item>
+        <item>Клиентски PIN код</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 свързан</item>
+        <item>2 свързани</item>
+        <item>3 свързани</item>
+        <item>4 свързани</item>
+        <item>5 свързани</item>
+        <item>6 свързани</item>
+        <item>7 свързани</item>
+        <item>8 свързани</item>
+    </string-array>
+</resources>
