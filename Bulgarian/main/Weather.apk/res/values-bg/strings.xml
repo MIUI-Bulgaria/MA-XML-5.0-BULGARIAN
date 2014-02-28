@@ -33,7 +33,7 @@
     <string name="act_set_city_find_side">Откриване на позицията…</string>
     <string name="local_city" />
     <string name="act_set_city_re_find_side">Локализиране…</string>
-    <string name="act_set_city_find_side_error">Неуспешно определяне на позицията</string>
+    <string name="act_set_city_find_side_error">Не може да се определи позицията ви</string>
     <string name="act_city_find_gps_error">Изберете ръчно град от списъка</string>
     <string name="act_weather_main_data_null">Няма данни за времето, докоснете за обновяване</string>
     <string name="act_weather_cycle_update">Обновяване…</string>
@@ -95,7 +95,7 @@
     <string name="aqi_quality_index_pure">отлично</string>
     <string name="aqi_quality_index_good">добро</string>
     <string name="aqi_quality_index_moderate">умерено</string>
-    <string name="aqi_quality_index_light_pollution">светлинно замърсяване</string>
+    <string name="aqi_quality_index_light_pollution">" предпазливо"</string>
     <string name="aqi_quality_index_unhealthy">нездравословно</string>
     <string name="aqi_quality_index_dangerous">опасно</string>
     <string name="aqi_quality_index_hazardous">рисково</string>

@@ -74,7 +74,7 @@
   <string name="sound_recorder_settings">Настройки на звукозаписа</string>
   <string name="start_recording">Започни записване</string>
   <string name="status_bar_anti_disturb">Звукът е заглушен. Настройте звука, за да продължите.</string>
-  <string name="status_bar_back" />	
+  <string name="status_bar_back">За да се върнете назад, докоснете тук</string>
   <string name="status_bar_recording">Записване...</string>
   <string name="status_bar_recording_pause">"Записването е сложено на пауза. "</string>
   <string name="stop_recording">Спри записването</string>
