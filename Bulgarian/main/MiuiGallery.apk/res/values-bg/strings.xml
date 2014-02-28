@@ -100,7 +100,7 @@
   <string name="cloud_gallery_space_full">Грешка при изпращането! Хранилището на облака е пълно</string>
   <string name="cloud_media_set_set">Албуми на облака</string>
   <string name="cloud_owner_album_share_guide">Може да споделите този албум с ваши приятели</string>
-  <string name="cloud_screenshots_display_name">Снимки на екарана</string>
+  <string name="cloud_screenshots_display_name">Екранни снимки</string>
   <string name="cloud_share_guide_message">"Можете да споделите вашият MiCloud албум с
 приятели. Вие и Вашите приятели можете
 заедно да преглеждате и добавяте снимки 
@@ -254,7 +254,7 @@
   <string name="initializing_cloud">Създаване на албум на облака...</string>
   <string name="input_cloudfolder_name">Име на облачния албум</string>
   <string name="internal_camera_folder_display_name">Снимки от камерата</string>
-  <string name="internal_miui_capture_screen_folder_display_name">Снимки на екрана</string>
+  <string name="internal_miui_capture_screen_folder_display_name">Екранни снимки</string>
   <string name="internal_sd_card">Вътрешна памет</string>
   <string name="internal_sd_card_hm">Вътрешна памет</string>
   <string name="invalid_invition_url">Невалидна връзка на поканата.</string>
@@ -302,7 +302,7 @@
   <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">MIME шрифт</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
-  <string name="miui_capture_screen_folder_display_name">Снимки на екрана</string>
+  <string name="miui_capture_screen_folder_display_name">Екранни снимки</string>
   <string name="model">Модел</string>
   <string name="modify_allow_hint">Добавянето на нови снимки към албума е разрешено</string>
   <string name="modify_disallow_hint">Добавянето на нови снимки към албума е забранено</string>
