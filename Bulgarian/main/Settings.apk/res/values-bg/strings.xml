@@ -3521,8 +3521,8 @@ for MAC"</li>"
   <string name="notification_title_of_garbage_cleanup">Предупреждение за кеш</string>
   <string name="notification_summary_of_garbage_cleanup">Вашите остатъчни файлове достигнаха %s. Необходимо е почистване.</string>
   <string name="item_garbage_time_daily">Ежедневно</string>
-  <string name="item_garbage_time_3d">На всеки 3 дни</string>
-  <string name="item_garbage_time_7d">На всеки 3 дни</string>
+  <string name="item_garbage_time_3d">На 3 дни</string>
+  <string name="item_garbage_time_7d">На 7 дни</string>
   <string name="item_garbage_time_never">Никога</string>
   <string name="item_garbage_size_100m">100 МБ</string>
   <string name="item_garbage_size_300m">300 МБ</string>
