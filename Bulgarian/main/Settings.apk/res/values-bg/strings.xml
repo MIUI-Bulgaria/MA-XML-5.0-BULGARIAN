@@ -190,7 +190,7 @@
   <string name="app_factory_reset_dlg_text">Всички актуализации на това приложение ще бъдат деинсталирани.</string>
   <string name="app_factory_reset_dlg_title">Ще деинсталирате ли актуализациите?</string>
   <string name="app_floating_window_dlg_disable">"Изключването на настройката за изскачащи прозорци от %1$s ще спре приложението принудително. Ще ги изключите ли?"</string>
-  <string name="app_floating_window_dlg_enable">"За включването на настройката за изскачащи прозорци от %1$s е необходим рестарт на приложемието. Ще ги включите ли?"</string>
+  <string name="app_floating_window_dlg_enable">"За включването на настройката за изскачащи прозорци от %1$s е необходим рестарт на приложението. Ще ги включите ли?"</string>
   <string name="app_forward_locked">Приложението има защита за копиране.</string>
   <string name="app_install_location_summary">Променете предпочитаното място за инсталиране на нови приложения</string>
   <string name="app_install_location_title">Предпочитано място за инсталиране</string>
@@ -239,7 +239,7 @@
   <string name="auto_startup_dialog_msg">"Системата ще позволи на приложението да се стартира автоматично. Това може да доведе до увеличаване на потреблението на енергия и данни. 
   Разрешавате ли Автостарт？"</string>
   <string name="automatic_brightness">Автоматична яркост</string>
-  <string name="available_size">%s (Свободни)</string>
+  <string name="available_size">Свободни %s</string>
   <string name="awake">Време за събуждане на устройството</string>
   <string name="back_key">Бутон Назад</string>
   <string name="background_data">Фонов режим</string>
