@@ -104,7 +104,7 @@
   <string name="callrecordview_menu_delete_accepted">Изтрий списъка с входящи повиквания</string>
   <string name="callrecordview_menu_delete_all">Изтрий целия списък с повиквания</string>
   <string name="callrecordview_menu_delete_called">Изтрий списъка с изходящи повиквания</string>
-  <string name="callrecordview_menu_delete_confirm">Ще изтриете ли %s?</string>
+  <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Изтрий списъка с пропуснати повиквания</string>
   <string name="callrecordview_menu_delete_new">Изтрий списъка с повиквания от нови контакти</string>
   <string name="callrecordview_menu_delete_one">Премахни от списъка</string>
@@ -136,7 +136,7 @@
   <string name="chat_skype">Чат по Skype</string>
   <string name="chat_yahoo">Чат по Yahoo</string>
   <string name="check_unsynchronized_accounts">Проверка за несинхронизирани контакти</string>
-  <string name="checkhint">Проверете на друг телефон</string>
+  <string name="checkhint">Проверете на другият телефон</string>
   <string name="clearCallLogConfirmation">Списъкът с всички Ваши повиквания ще бъде изтрит.</string>
   <string name="clearCallLogConfirmation_title">Изчистване на списъка с повиквания</string>
   <string name="clearCallLogProgress_title">Изчистване на списъка с повиквания...</string>
@@ -178,7 +178,7 @@
   <string name="contact_detail_calllog_call_record_tips">Запис на повикване</string>
   <string name="contact_directory_description">Директория %1$s</string>
   <string name="contact_edit_title_edit">Редактирай контакт</string>
-  <string name="contact_edit_title_insert">Създай контакт %s</string>
+  <string name="contact_edit_title_insert">Добави %s контакти</string>
   <string name="contact_edit_title_readonly">Контакт само за четене</string>
   <string name="contact_editor_prompt_multiple_accounts">Изберете профил, в който да запазите контакта</string>
   <string name="contact_editor_prompt_one_account">Новият контакт ще бъде синхронизиран с профила Ви в %1$s</string>
@@ -314,7 +314,7 @@
   <string name="dialog_voicemail_not_ready_message">За да настроите гласовата поща, отидете в Меню > Настройки.</string>
   <string name="directory_search_label">Директория</string>
   <string name="dirty_contacts_notification_description">%d промени по Вашите контакти не са синхронизирани с профила</string>
-  <string name="dirty_contacts_notification_message">(Може да изключите напомнянето от настройки на контакти)</string>
+  <string name="dirty_contacts_notification_message">(Можете да изключите напомнянето от настройките)</string>
   <string name="dirty_contacts_notification_title">Ще синхронизирате ли контактите?</string>
   <string name="display_all_contacts">Всички контакти</string>
   <string name="display_more_groups">Други групи...</string>
@@ -351,8 +351,8 @@
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
   <string name="export_sim_contact_finish_failure">Паметта на SIM картата е пълна.Копирани: %1$d Недовършени: %2$d</string>
-  <string name="export_sim_contact_finish_success">Копирани %d контакт(а) на SIM картата</string>
-  <string name="export_sim_contacts_dialog_message">Вашата SIM карта има памет за %d контакта. Сигурни ли сте, че ще продължите?</string>
+  <string name="export_sim_contact_finish_success">Копирани са %d контакта</string>
+  <string name="export_sim_contacts_dialog_message">Вашата SIM карта има памет за %d контакти. Сигурни ли сте, че ще продължите?</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
   <string name="export_to_sim_title">Експортиране…</string>
@@ -361,7 +361,7 @@
 Причина: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Неуспешно експортиране"</string>
   <string name="exporting_contact_list_message">Вашите контактни данни се експортират във файла: %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s от %s контакта</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s от %s контакти</string>
   <string name="exporting_contact_list_title">Експортиране на данни за контакт</string>
   <string name="exporting_vcard_canceled_title">Експортирането на %s е отменено.</string>
   <string name="exporting_vcard_finished_title">Експортирането на %s завърши.</string>
@@ -554,7 +554,7 @@
   <string name="menu_splitAggregate">Раздели</string>
   <string name="menu_sync_remove">Премахни синхронизацията за групата</string>
   <string name="menu_viewContact">Преглед на контакт</string>
-  <string name="merge_contact_message">%1$d контакта с частично дублирани данни</string>
+  <string name="merge_contact_message">%1$d контакти с частично дублирани данни</string>
   <string name="messageShortcutActivityTitle">Изберете номер за изпращане на съобщение</string>
   <string name="missing_name">(без име)</string>
   <string name="move_and_resize">Промяна на размера и позицията</string>
@@ -652,7 +652,7 @@
   <string name="phone_primary">Основен</string>
   <string name="photoPickerNotFoundText">Няма изображения.</string>
   <string name="photo_package_activity_title">Фото пакет</string>
-  <string name="pick_favorites_contacts_list_title">Общо %1$d любими контакта</string>
+  <string name="pick_favorites_contacts_list_title">Общо %1$d любими контакти</string>
   <string name="pick_favorites_list_title">Общо %1$d любими номера на контакти</string>
   <string name="pick_new_photo">Изберете нова снимка от галерия</string>
   <string name="pick_photo">Избери снимка от галерия</string>
@@ -716,7 +716,7 @@
   <string name="preference_phone_more_title">Разширени настройки на телефон</string>
   <string name="preference_remove_duplicate">Обединяване на дубликати</string>
   <string name="preference_simple_mode_description">В списъка няма да се показват снимки и данни за контакт</string>
-  <string name="preference_simple_mode_title">Скрий снимки и контактни данни</string>
+  <string name="preference_simple_mode_title">Скрий снимки и данни</string>
   <string name="preference_smart_group_company_summary">Групиране на контакти по информация за фирма</string>
   <string name="preference_smart_group_company_title">По фирма</string>
   <string name="preference_smart_group_frequency_summary">Групиране по последни повиквания или SMS-и</string>
@@ -740,7 +740,7 @@
   <string name="profile_name_photo">Аз</string>
   <string name="progress_notifier_message" formatted="false">Импортиране %s/%s: %s</string>
   <string name="quickcontact_missing_app">Няма приложение, което да изпълни действието.</string>
-  <string name="quit_dialog_confirm_title">Не сте обединявали контакти.</string>
+  <string name="quit_dialog_confirm_title">Не сте обединявали контакти</string>
   <string name="readOnlyContactDeleteConfirmation">Този контакт съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
   <string name="readOnlyContactWarning">Не можете да изтривате контакти, достъпни само за четене от профила си, но можете да ги скриете в списъка с контакти.</string>
@@ -979,7 +979,7 @@
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Облачно съобщение)</string>
-  <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет.</string>
+  <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Размаркирай всички</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Избери всички</string>
@@ -994,7 +994,7 @@
   <string name="sim_error_storage_full">Паметта на SIM картата е пълна</string>
   <string name="sim_error_text_too_long">Името е прекалено дълго!</string>
   <string name="sim_export_loading">Изтегляне на контакти от SIM картата, моля изчакайте…</string>
-  <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна. Стойността трябва да бъде между %2$d и %3$d</string>
+  <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна. Позицията трябва да бъде между %2$d и %3$d</string>
   <string name="sim_no_contact">Няма контакти на SIM картата</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Няма членове на групата</string>
@@ -1059,7 +1059,7 @@
   <string name="toast_copying">Копиране, моля изчакайте...</string>
   <string name="toast_displaying_all_contacts">Показване на всички контакти</string>
   <string name="toast_finish_delete_call_log">Списъкът с повиквания е изтрит</string>
-  <string name="toast_finish_delete_selected_call_log">Избраният списък с повиквания е изтрит</string>
+  <string name="toast_finish_delete_selected_call_log">Списъкът с повиквания е изтрит</string>
   <string name="toast_for_failed_saving_nickname">Грешка при запазване на псевдоним!</string>
   <string name="toast_for_saving_nickname">Псевдонимът е запазен</string>
   <string name="toast_join_with_empty_contact">Именувайте контакта, преди обединяването му с друг.</string>
@@ -1113,14 +1113,13 @@
   <string name="wipe_data">Изчисти данни</string>
   <string name="yellowPageNavigationIconLabel">Директория</string>
   <string name="yellowPageNavigationLabel">Директория</string>
-  <string name="yellowpage_navigation_menu_order">Моята поръчка</string>
+  <string name="yellowpage_navigation_menu_order">Моите поръчки</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение според мрежата</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Списъкът на номера на услуги и магазини, според местоположението ви, може да се подобри с тази функция.</string>
   <string name="yellowpage_navigation_network_location_enable">Разреши</string>
   <string name="yellowpage_navigation_network_location_enable_later">По-късно</string>
   <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
-  <string name="yellowpage_navigation_search_hint">Търси</string>
   <string name="yellowpage_navigation_search_offline_hint">Вие не сте на линия</string>
   <string name="yellowpage_navigation_search_result_network_error">"Не може да се свърже към мрежата"</string>
   <string name="yellowpage_navigation_search_result_no_more">Няма повече резултати</string>

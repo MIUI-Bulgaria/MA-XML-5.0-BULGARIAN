@@ -22,7 +22,8 @@
     <string name="app_love_sms_title">Съдържание на SMS</string>
     <string name="app_love_view_title">Преглед</string>
     <string name="app_love_font_lng">%s</string>
-    <string name="app_nohave_net">Няма връзка с мрежата</string>
+    <string name="network_unavailable">Няма връзка с мрежата</string>
+    <string name="weather_data_unreachable">Не може да се получи информация за времето. Моля, опитайте отново.</string>
     <string name="app_unquiet_net">Лоша връзка с мрежата</string>
     <string name="widget_loading">Няма данни за времето</string>
     <string name="act_find_city_hot_title">Популярни градове</string>

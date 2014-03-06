@@ -45,7 +45,7 @@
   <string name="default_alarm_title">Мелодия по подразбиране</string>
   <string name="default_label">Аларма</string>
   <string name="default_ringtone_setting_title">Мелодия по подразбиране</string>
-  <string name="delelte_selected_timezone">Сигурни ли сте, че искате да изтриете избраната часова зона?</string>
+  <string name="delelte_selected_timezone">Да се изтрият ли избраните часови зони?</string>
   <string name="delete">Изтрий</string>
   <string name="delete_alarm">Изтрий аларма</string>
   <string name="delete_alarm_confirm">Ще изтриете ли тази аларма?</string>
@@ -112,7 +112,7 @@
   <string name="time">Време</string>
   <string name="timer_alert_alert_silenced">Таймера спира след %d минути.</string>
   <string name="timer_continue">Продължи</string>
-  <string name="timer_got_it">Затвори</string>
+  <string name="timer_got_it">ОК</string>
   <string name="timer_hour">ч</string>
   <string name="timer_message">%1$d минути</string>
   <string name="timer_message_with_hour">%1$d часа и %2$d минути</string>
@@ -129,6 +129,6 @@
   <string name="weather_fetch_failure">"Информацията за времето в момента не е на разположение."</string>
   <string name="weekend_alarm_clock">През уикендите</string>
   <string name="workday_alarm_clock">През делничните дни</string>
-  <string name="worldclock_empty_text">Няма св. часовници</string>
+  <string name="worldclock_empty_text">Няма часовници</string>
   <string name="worldclock_title">Часовници</string>
 </resources>

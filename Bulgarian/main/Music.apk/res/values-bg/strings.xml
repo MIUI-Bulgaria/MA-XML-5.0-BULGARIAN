@@ -308,6 +308,7 @@
   <string name="sort_by_album">Албуми</string>
   <string name="sort_by_artist">Изпълнители</string>
   <string name="sort_by_track">Песни</string>
+  <string name="source_from">Източник: %1$s</string>
   <string name="start_to_download_album">Изтегляне обложки на албумите...</string>
   <string name="start_to_download_avatar">Изтегляне на аватар на изпълнителя...</string>
   <string name="streamloadingtext">Свързване към %s</string>

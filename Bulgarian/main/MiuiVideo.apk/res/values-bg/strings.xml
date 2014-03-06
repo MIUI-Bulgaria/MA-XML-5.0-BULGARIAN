@@ -77,7 +77,7 @@
     <string name="count_ge">"Файлове: %d "</string>
     <string name="count_ji_quan">Всичко %d еп.</string>
     <string name="count_myfavorite">" любими"</string>
-    <string name="day">Ден</string>
+    <string name="day">". "</string>
     <string name="declaration">Условия за ползване</string>
     <string name="declaration_content">Приемате ли условията за употреба, определени от Sohu Video, iQiyi и другите доставчици на видео?</string>
     <string name="delete">Изтрий</string>
@@ -188,7 +188,7 @@
     <string name="menu_wh_item_using_16_9_label">Съотношение 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Съотношение 4:3</string>
     <string name="minute">мин.</string>
-    <string name="month">Месец</string>
+    <string name="month">"."</string>
     <string name="movie_comment">Коментари</string>
     <string name="music">Музика</string>
     <string name="mycamera">Мои видеота</string>
@@ -230,6 +230,7 @@
     <string name="offline_select_better_source">Превключено на достъпен източник</string>
     <string name="offline_setting">Офлайн медиа</string>
     <string name="ok">OK</string>
+    <string name="online_video">Онлайн</string>
     <string name="open_camera">Камера</string>
     <string name="other_setting">Други</string>
     <string name="others">Други</string>
@@ -276,6 +277,7 @@
     <string name="souhu">Souhu</string>
     <string name="special_subject">Специални</string>
     <string name="start_download">Изтегли</string>
+    <string name="start_time">Начало</string>
     <string name="subchannel_all">Всички</string>
     <string name="success_add_myfavorite">Добавено в любими</string>
     <string name="success_cancel_myfavorite">Премахнато от любими</string>
@@ -294,7 +296,7 @@
     <string name="toast_message_continue_play_minute">мин.</string>
     <string name="toast_message_continue_play_second_and_play">сек.</string>
     <string name="toast_message_set_misound">Настройка на звук...</string>
-    <string name="today">Днес</string>
+    <string name="today">"Днес "</string>
     <string name="top_status_local_media">Локално</string>
     <string name="top_status_online_media">Онлайн</string>
     <string name="tudou">Tudou</string>
@@ -328,7 +330,7 @@
     <string name="write_comment">Коментирайте</string>
     <string name="xiaomi_account_type_unsupported">Системата не поддържа Xiaomi профили</string>
     <string name="xiaomi_user">Xiaomi потребител</string>
-    <string name="year">Година</string>
+    <string name="year">.</string>
     <string name="yestorday">Вчера</string>
     <string name="yinyuetai">YinYueTai</string>
     <string name="youku">Youku</string>

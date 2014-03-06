@@ -154,4 +154,5 @@
   <string name="turn_on_speaker_phone">Включи високоговорителя</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Списък със станции</string>
+  <string name="toast_fm_recorder_access_error">Не може да се записва в режим Гост</string>
 </resources>

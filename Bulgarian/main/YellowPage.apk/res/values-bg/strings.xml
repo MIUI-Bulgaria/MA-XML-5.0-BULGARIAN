@@ -156,4 +156,7 @@
   <string name="yellow_page_call_log_title">Списък с повиквания</string>
   <string name="yellow_page_detail_title">За програмата</string>
   <string name="yellow_page_website">Официален сайт</string>
+  <string name="notify_connect_every_time">Питай за достъп до мрежата всеки път</string>
+  <string name="do_not_remind_me">Не ми напомняй</string>
+  <string name="recharge_phone_number_empty">Телефонният номер не може да бъде празен</string>
 </resources>

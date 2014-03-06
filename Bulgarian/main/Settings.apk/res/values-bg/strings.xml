@@ -3530,4 +3530,7 @@ for MAC"</li>"
   <string name="item_garbage_size_1000m">1 ГБ</string>
   <string name="item_title_garbage_time">Период на известяване</string>
   <string name="item_title_garbage_size">Максимален размер</string>
+  <string name="menu_item_force_stop">Затваряне</string>
+  <string name="menu_item_uninstall">Деинсталиране</string>
+  <string name="menu_item_app_details">Детайли</string>
 </resources>
