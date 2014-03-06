@@ -108,5 +108,5 @@
   <string name="sync_records">Синхр. с Mi Cloud</string>
   <string name="sync_only_in_wifi">Синхр. само по Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Приложението ще използва мобилни данни за изтегляне и изпращане на записи когато опцията е изключена</string>
-  <string name="sync_only_in_wifi_alert">Изключването на тази опция може да увеличи употребата на мобилни данни (това може да ви струва пари).</string
+  <string name="sync_only_in_wifi_alert">Изключването на тази опция може да увеличи употребата на мобилни данни (това може да ви струва пари).</string>
 </resources>
