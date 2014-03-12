@@ -844,7 +844,6 @@
   <string name="disable_power_key_long_press_under_keyguard">Изключи бутон за захранване</string>
   <string name="disable_text">Изключи</string>
   <string name="disabled">Изключено</string>
-  <string name="disconnect">Прекъсване на връзката</string>
   <string name="display_font_size_label">Размер на шрифта:</string>
   <string name="display_label">Екран</string>
   <string name="display_order_text">Подреждане по:</string>
@@ -943,7 +942,6 @@
   <string name="empty_list_msg">Нямате инсталирани приложения от трети страни.</string>
   <string name="emptylist_fwlog_call">Блокираните обаждания ще бъдат тук</string>
   <string name="emptylist_fwlog_ms">Всички блокирани текстови и MMS съобщения ще бъдат тук</string>
-  <string name="enableNetwork">Включване на мрежата</string>
   <string name="enable_adb">Отстр. USB грешки</string>
   <string name="enable_adb_debug_summary">Ако сте свързан чрез USB, използвайте ADB командите</string>
   <string name="enable_adb_debug_title">Включи отстр. USB грешки</string>
@@ -1193,7 +1191,7 @@
   <string name="immediately_destroy_activities_summary">Унищожавай всяка дейност при напускане от потребителя</string>
   <string name="ims_reg_required_off">Изключи задължителна регистрация за IMS</string>
   <string name="ims_reg_required_on">Включи задължителна регистрация за IMS</string>
-  <string name="incoming_call_vibrate_abbreviation">Повиквания</string>
+  <string name="incoming_call_vibrate_abbreviation">"Обаждания "</string>
   <string name="incoming_call_volume_title">Мелодия</string>
   <string name="input_method">Метод на въвеждане</string>
   <string name="input_method_selector">Избери метод на въвеждане</string>
@@ -2426,7 +2424,7 @@ for MAC"</li>"
   <string name="skip_button_label">Отказ</string>
   <string name="skip_label">Пропусни</string>
   <string name="skip_step">Пропусни тази стъпка</string>
-  <string name="slot_status_title">IMEI</string>
+  <string name="slot_status_title">Информация за IMEI</string>
   <string name="small_font">Малък</string>
   <string name="smart_antispam">Разпознаване на непознати номера</string>
   <string name="sms_delivered_sound_dialog_title">Избери звук за доставени съобщения</string>
@@ -2578,7 +2576,7 @@ for MAC"</li>"
   <string name="toast_qucik_scan_list_empty">Няма нужда от почистване!</string>
   <string name="toast_shortcut_install">Прекият път е създаден</string>
   <string name="toast_shortcut_uninstall">Прекият път е пренахнат</string>
-  <string name="total_size">%s общо</string>
+  <string name="total_size">Общо %s</string>
   <string name="total_size_label">Общо</string>
   <string name="track_frame_time">Профилиране на GPU</string>
   <string name="track_frame_time_summary">Измерване на времето за изобр. в adb shell dumpsys gfxinfo</string>
@@ -3052,7 +3050,7 @@ for MAC"</li>"
   <string name="wifi_menu_more_options">Още опции</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Сканиране</string>
-  <string name="wifi_menu_wfd">Wi-Fi Дисплей</string>
+  <string name="wifi_menu_wfd">Wi-Fi дисплей</string>
   <string name="wifi_menu_wps_pbc">Бутон WPS</string>
   <string name="wifi_menu_wps_pin">Въвеждане на WPS PIN</string>
   <string name="wifi_more">Още</string>
@@ -3097,7 +3095,7 @@ for MAC"</li>"
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">Отворена</string>
+  <string name="wifi_security_none">Няма</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
