@@ -529,9 +529,9 @@
   <string name="bluetooth_visibility_timeout_summary">Задайте времето, през което устройството ще бъде видимо</string>
   <string name="breathing_light_color_menu_title">Цвят</string>
   <string name="breathing_light_color_summary">Цвят на светодиода за известия</string>
-  <string name="breathing_light_color_title">" (цвят)"</string>
+  <string name="breathing_light_color_title">" - Цвят на LED"</string>
   <string name="breathing_light_freq_summary">Интервал за мигане на светодиода</string>
-  <string name="breathing_light_freq_title">Честота на мигане</string>
+  <string name="breathing_light_freq_title">" - Честота на премигване"</string>
   <string name="brightness">Яркост</string>
   <string name="brightness_auto_adjust_off">Яркостта може да се регулира с помощта на плъзгача. Яркостта на екрана няма да се променя спрямо околната среда.</string>
   <string name="brightness_auto_adjust_on">Автоматичната яркост може да се регулира с помощта на плъзгача. Яркостта на екрана ще варира в зависимост от вашите настройки и околната среда.</string>
