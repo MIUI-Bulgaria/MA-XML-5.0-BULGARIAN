@@ -394,7 +394,7 @@
   <string name="never">Никога</string>
   <string name="new_years_day">Нова година</string>
   <string name="no_sim">Няма SIM карта</string>
-  <string name="open_wifi_settings">Отвори Wi-Fi настройки</string>
+  <string name="open_wifi_settings">Настройки на мрежата</string>
   <string name="partys_day"/>
   <string name="payphone">Уличен телефон</string>
   <string name="peace_day">""</string>
@@ -481,7 +481,7 @@
   <string name="user_agreement5">Натискайки OK, Вие се съгласявате с гореизложеното. Натиснете Отказ, за да излезете.</string>
   <string name="v5_date_time_picker_dialog_title">Време на известието</string>
   <string name="v5_deselect_all">Размаркирай всички</string>
-  <string name="v5_edit_mode_title_empty">Маркирай елементи</string>
+  <string name="v5_edit_mode_title_empty">0 избрани</string>
   <string name="v5_icon_menu_bar_more_item_label">Още</string>
   <string name="v5_select_all">Маркирай всички</string>
   <string name="v5_time_picker_label_hour"/>

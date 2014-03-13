@@ -444,7 +444,7 @@
   <string name="to_send_wrapper">Ще бъде изпратено в %s</string>
   <string name="toast_description_required">Описанието не може да бъде празно</string>
   <string name="toast_feedback_finish">Вашият отзив ще бъде изпратен, когато се свържете с Wi-Fi мрежа</string>
-  <string name="toast_feedback_max">Може да изпращате максимум 3 отзива на ден</string>
+  <string name="toast_feedback_max">Не може да изпращате повече от 3 отзива на ден</string>
   <string name="toast_feedback_start">Събиране на данни…</string>
   <string name="too_many_attachments">Има ограничение за %1$s прикачени файла. Ще бъде прикачен: %2$s.</string>
   <string name="too_many_recipients">Съобщението има твърде много получатели (%1$s). Максимум: %2$s получатели.</string>

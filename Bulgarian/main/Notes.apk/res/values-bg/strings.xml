@@ -8,7 +8,6 @@
   <string name="alert_message_delete_folders_notes">Ще изтриете ли избраните папки %1$s и бележки %2$s?</string>
   <string name="alert_message_delete_note">Искате ли да изтриете тази бележка?</string>
   <string name="alert_message_delete_notes">Искате ли да изтриете избраните бележки %1$s?</string>
-  <string name="alert_message_discard_changes">Ще отмените ли всички промени?</string>
   <string name="alert_message_edit_anyway">Тази бележка съдържа неподдържани данни. Тяхната редакция може да доведе до загуба на данни.</string>
   <string name="alert_title_delete">Изтриване на избраните бележки</string>
   <string name="alert_title_discard">Ще отмените ли промените?</string>
@@ -30,17 +29,9 @@
   <string name="error_note_empty_for_clock">За съжаление, не можете да настроите часа на празни бележки</string>
   <string name="error_note_empty_for_send_to_desktop">Празни бележки не могат да се изпращат на началния екран</string>
   <string name="error_note_not_exist">Бележката не съществува</string>
-  <string name="error_sdcard_export">Неуспешно експортиране, моля проверете SD картата</string>
-  <string name="error_sdcard_unmounted">SD картата е заета или недостъпна</string>
   <string name="error_unsupport_content">Тази бележка съдържа неподдържани данни, натиснете за актуализиране на системата</string>
   <string name="error_widget_exist_for_send_to_desktop">Тази бележка вече съществува на началния екран</string>
-  <string name="failed_sdcard_export">Неуспешно експортиране</string>
-  <string name="file_name_txt_format">notes_%s.txt</string>
-  <string name="file_path">/MIUI/notes/</string>
   <string name="folder_exist">Папката %1$s вече съществува, моля изберете различно име</string>
-  <string name="format_date_ymd">ddMMyyyy</string>
-  <string name="format_datetime_mdhm">MMMd kk:mm</string>
-  <string name="format_exported_file_location">Бележките са експортирани във файл (%1$s) в папка (%2$s) на SD картата</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">Бележките %1$ са преместени в папка %2$s</string>
   <string name="hint_foler_name">Въведете име на папка</string>
@@ -48,7 +39,6 @@
   <string name="login_sync">Вход и синхронизация</string>
   <string name="menu_create_folder">Нова папка</string>
   <string name="menu_delete">Изтрий</string>
-  <string name="menu_discard">Отмени</string>
   <string name="menu_folder_change_name">Преименувай папка</string>
   <string name="menu_font_size">Размер на шрифта</string>
   <string name="menu_move">Премести в папка</string>
@@ -67,11 +57,9 @@
   <string name="note_link_tel">Обаждане</string>
   <string name="note_link_web">Отвори браузъра</string>
   <string name="notealert_enter">Покажи</string>
-  <string name="notealert_ok">Готово</string>
+  <string name="notealert_ok">Игнорирай</string>
   <string name="notelist_menu_new">Добави бележка</string>
   <string name="notelist_string_info">...</string>
-  <string name="notify_alarm_action_mute">Без звук</string>
-  <string name="notify_alarm_action_view">Преглед</string>
   <string name="notify_alarm_title">Напомняне</string>
   <string name="pref_desc_alarm_when_silent">Сигналите от аларми и бележки ще се чуват в тих режим</string>
   <string name="pref_desc_mode_grid">Мрежа</string>
@@ -79,11 +67,11 @@
   <string name="pref_title_alarm_when_silent">Аларми в тих режим</string>
   <string name="pref_title_common">Общи настройки</string>
   <string name="pref_title_data_export">Експортиране на данни</string>
-  <string name="pref_title_data_export_to_sdcard">Експортиране в SD картата</string>
   <string name="pref_title_font_size">Размер на шрифта</string>
   <string name="pref_title_note_style">Стил на бележки</string>
   <string name="preferences_bg_random_appear_title">Случаен цвят на бележки</string>
   <string name="preferences_title">Настройки</string>
+  <string name="redo">Възстанови</string>
   <string name="search">Бележки</string>
   <string name="search_hint">Намери бележки</string>
   <string name="search_label">Търсене на бележки</string>
@@ -91,14 +79,13 @@
   <string name="select_account_prompt">Активирайте синхронизиране на бележки</string>
   <string name="snippet_image_stub">[Изображение]</string>
   <string name="snippet_image_template">[%1$s]</string>
-  <string name="success_sdcard_export">Експортирането е успешно</string>
-  <string name="time_picker_dialog_title">Задаване време за напомняне</string>
   <string name="toast_folder_privacy_mode">В защитен режим, не можете да редактирате папката</string>
   <string name="toast_message_add_image_fail">Вмъкването на изображение е неуспешно!</string>
   <string name="toast_note_privacy_mode">В защитен режим, не можете да редактирате бележката</string>
   <string name="toast_privacy_mode">Не мога да редактирам бележка в защитен режим</string>
   <string name="toast_reach_text_limit_attachment">Съдържанието на бележката е твърде дълго за нови прикачвания.</string>
   <string name="toast_reach_text_limit_truncate">"Съдържанието на бележката ще се намали автоматично, защото е много дълго."</string>
+  <string name="undo">Отмени</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="widget_under_visit_mode">Защитен режим，не може да видите съдържанието</string>
 </resources>

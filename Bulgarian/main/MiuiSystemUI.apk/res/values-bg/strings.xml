@@ -76,6 +76,8 @@
   <string name="compat_mode_help_header">Мащаб и съвместимост</string>
   <string name="compat_mode_off">Разпъване – запълва екрана</string>
   <string name="compat_mode_on">Мащаб – запълва екрана</string>
+  <string name="cust_carrier_label_text_title">Персонализиране на името на оператора</string>
+  <string name="cust_carrier_label_title">Промени името на оператора</string>
   <string name="data_usage_disabled_dialog">"Достигнахте определеното ограничение за използване на данни.
 
 Ако ги активирате отново, е възможно да бъдете таксувани от оператора."</string>
@@ -310,6 +312,4 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_notification">Ново известие，плъзнете надолу за да видите повече информация.</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
   <string name="user_guide_for_toggle_list">Управление на превключвателите</string>
-  <string name="cust_carrier_label_title">Промени името на оператора</string>
-  <string name="cust_carrier_label_text_title">Персонализиране на името на оператора</string>
 </resources>

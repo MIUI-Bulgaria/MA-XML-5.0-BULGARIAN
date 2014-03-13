@@ -32,6 +32,7 @@
   <string name="bankcall_province">Провинция</string>
   <string name="bankcall_saved_card_info">%1$s - карта номер %2$s</string>
   <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Beijing)</string>
+  <string name="btn_agree">Приемам</string>
   <string name="btn_back">Назад</string>
   <string name="btn_call">Позвъни</string>
   <string name="btn_count_down_auto">Запитване след %1$s секунди</string>
@@ -87,6 +88,9 @@
   <string name="error_auth_summary">Грешка при влизането в профила, опитайте отново.</string>
   <string name="error_auth_title">Грешка при влизане</string>
   <string name="error_bankcard_verify_summary">Неуспешно потвърждаване на картата.</string>
+  <string name="error_cert_date_summary">"Certificate date error. 
+Please check your local date and try again."</string>
+  <string name="error_cert_date_title">Certificate date error</string>
   <string name="error_common_summary">Системна грешка. Моля, опитайте по-късно.</string>
   <string name="error_common_title">Системна грешка</string>
   <string name="error_expired_summary">Поръчката Ви е изтекла</string>
@@ -120,6 +124,8 @@
   <string name="giftcard_denom_frozen">Замразени МiКредит(и)</string>
   <string name="giftcard_empty">Няма ваучери за подаръци.</string>
   <string name="giftcard_expire">%1$s е с изтекъл срок</string>
+  <string name="giftcard_expire_notification_prime_title">Вашият промоционален код изтича скоро...</string>
+  <string name="giftcard_expire_notification_sub_title">Вашият Mi Кредит ваучер за подарък изтича на %1$s</string>
   <string name="giftcard_hint">На ваучера за подарък ще бъдат преведени МiКредити.
 След определен срок те ще бъдат недействителни.</string>
   <string name="giftcard_push_notification_prime_title">Получихте ваучер за подарък</string>
@@ -328,18 +334,20 @@
   <string name="lockscreen_forgot_pattern_button_text"><u>Забравих фигурата</u></string>
   <string name="login">Вход</string>
   <string name="memu_refresh">Обнови</string>
-  <string name="mibi_license_message">Натиснете OK , ако сте съгласни с правилата и условията, описани в  %1$s.</string>
+  <string name="mibi_license_message">Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s.</string>
   <string name="mibi_license_message_span">Условия за ползване на МiКредити</string>
-  <string name="mibi_license_title">Условия за ползване</string>
+  <string name="mibi_license_title">Правила и условия </string>
   <string name="mili_center">MiКредит</string>
   <string name="msg_denomination_type">MiКредит</string>
   <string name="msg_error">Грешка при зареждане</string>
+  <string name="msg_order_hint_1_1">След като натиснете Потвърди покупката, вашия телефон</string>
+  <string name="msg_order_hint_1_2">автоматично ще изпрати съобщение до доставчика на услуги..</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Зареждането чрез SMS може да е по-скъпо от другите начини 2юана (0,48лв) = 1 MiКредит</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">За всяко зареждане се събира такса в размер на %1$s юана</string>
-  <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Максимално месечно зареждане: %1$s юана</string>
+  <string name="msg_progress_hint_2_1">Успешно изпратено!</string>
+  <string name="msg_progress_hint_2_2">Скоро ще получите текстово потвърждение.</string>
   <string name="msg_send_no_net_error">"Неуспешно изпращане: няма връзка с мрежовия оператор."</string>
   <string name="msg_send_no_sim_error">Неуспешно изпращане: опитайте се да поставите SIM картата отново.</string>
   <string name="msg_send_send_fail_error">Неуспешно изпращане</string>
@@ -347,10 +355,6 @@
   <string name="msg_telecom_order_denom_label">Сума:</string>
   <string name="msg_telecom_order_goods">%1s MiКредити</string>
   <string name="msg_telecom_order_goods_label">За поръчката:</string>
-  <string name="msg_order_hint_1_1">След като натиснете Потвърди покупката, вашия телефон</string>
-  <string name="msg_order_hint_1_2">автоматично ще изпрати съобщение до доставчика на услуги..</string>
-  <string name="msg_progress_hint_2_1">Успешно изпратено!</string>
-  <string name="msg_progress_hint_2_2">Скоро ще получите текстово потвърждение.</string>
   <string name="msg_telecom_sending">Свързване с оператора…</string>
   <string name="next">Напред</string>
   <string name="onemore_click_exit">Докоснете още веднъж за изход</string>
@@ -374,6 +378,8 @@
   <string name="prepaid_error_carrier">Изберете оператор (само за Китай)</string>
   <string name="prepaid_error_denomination">Изберете сума</string>
   <string name="prepaid_error_password">Грешна парола на карта.</string>
+  <string name="prepaid_grid_carrier_hint">Изберете оператор</string>
+  <string name="prepaid_grid_denomination_hint">Изберете сума</string>
   <string name="prepaid_number_edit_hint">Номер</string>
   <string name="prepaid_password_edit_hint">Парола</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
@@ -381,8 +387,6 @@
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">Изберете номиналната стойност на вашата предплатена карта. Избирането да друга стойност ще анулира картата. Това действие не може да бъде отменено.</string>
   <string name="prepaid_picker_hint_2_2_b">Ако сумата на предплатената карта не е %1$s юана, ще предизвикате грешка, след която картата ще бъде празна.</string>
-  <string name="prepaid_picker_title_default">Изберете сума за зареждане</string>
-  <string name="prepaid_picker_title_selected">сума за зареждане</string>
   <string name="progress_bankcall_card_creating">Създаване на поръчка…</string>
   <string name="progress_bankcall_card_querying">Определяне на вида сметка…</string>
   <string name="progress_creating">Зареждане на информация за поръчката…</string>
@@ -435,6 +439,7 @@
   <string name="recharge_voucher_title">Ваучер</string>
   <string name="scan_prompt_number">Сканирай номера на предплатената карта %1$s</string>
   <string name="scan_prompt_password">Сканирай паролата на предплатената карта %1$s</string>
+  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">Сканирай паролата на ваучера</string>
   <string name="security_setting">Сигурност</string>
   <string name="summary_lockpattern">Изисква фигура за отключване за MiКредит</string>
@@ -460,8 +465,4 @@
   <string name="voucher_error_password">Грешен код за ваучер!</string>
   <string name="voucher_error_password_empty">Кодът е празен.</string>
   <string name="voucher_input_password_prompt">Въведете кода</string>
-  <string name="error_cert_date_title">Certificate date error</string>
-  <string name="error_cert_date_summary">"Certificate date error. 
-Please check your local date and try again."</string>
-  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
 </resources>

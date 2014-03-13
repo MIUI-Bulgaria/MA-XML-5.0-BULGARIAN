@@ -448,7 +448,7 @@
   <string name="enforce_proximity_title_miui">Приложи датчика за близост</string>
   <string name="enterName">Въведете име:</string>
   <string name="enterNumber">Въведете телефонен номер:</string>
-  <string name="enter_input">Input Required. Try again!!</string>
+  <string name="enter_input">Необходимо е въвеждане. Моля, опитайте отново.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">PIN код за SIM карта:</string>

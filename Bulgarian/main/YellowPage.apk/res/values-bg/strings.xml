@@ -29,6 +29,7 @@
   <string name="custom_mark_category">По избор</string>
   <string name="data_error">Съжаляваме, но в момента услугата е недостъпна. Моля, опитайте отново по-късно.</string>
   <string name="delete">Изтрий</string>
+  <string name="do_not_remind_me">Не ми напомняй</string>
   <string name="express_inqiury_select_logistics">Изберете куриер</string>
   <string name="express_inquiry">Проследяване</string>
   <string name="express_inquiry_button_text">Проследи</string>
@@ -73,11 +74,12 @@
   <string name="navigation_search_no_city_list">Няма данни за градове!</string>
   <string name="navigation_search_positioning">Локализация...</string>
   <string name="navigation_search_positioning_failed">Изберете град</string>
-  <string name="nearby_yellow_page_title">Наблизо</string>
   <string name="nearby_no_yellow_page">Няма резултати наблизо</string>
+  <string name="nearby_yellow_page_title">Наблизо</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Мрежата е недостъпна! Моля, проверете настройките на мрежата.</string>
   <string name="no_more_result">Няма повече резултати</string>
+  <string name="notify_connect_every_time">Питай за достъп до мрежата всеки път</string>
   <string name="order_empty_hint">Няма поръчки</string>
   <string name="order_id">ID на поръчка: %s</string>
   <string name="order_merchant_title">Моите поръчки - %s</string>
@@ -119,6 +121,7 @@
   <string name="recharge_payment_result_ok_summary">Потвърдете, че сумата е добавена към вашата сметка.</string>
   <string name="recharge_payment_result_ok_title">Добавени %s RMB.</string>
   <string name="recharge_payment_result_progress_summary">Проверка на плащането…</string>
+  <string name="recharge_phone_number_empty">Телефонният номер не може да бъде празен</string>
   <string name="recharge_phone_number_error">Невалиден телефонен номер.</string>
   <string name="recharge_select_money_title">Моля, изберете сума за зареждане</string>
   <string name="recharge_status_description">Статус:</string>
@@ -156,7 +159,4 @@
   <string name="yellow_page_call_log_title">Списък с повиквания</string>
   <string name="yellow_page_detail_title">За програмата</string>
   <string name="yellow_page_website">Официален сайт</string>
-  <string name="notify_connect_every_time">Питай за достъп до мрежата всеки път</string>
-  <string name="do_not_remind_me">Не ми напомняй</string>
-  <string name="recharge_phone_number_empty">Телефонният номер не може да бъде празен</string>
 </resources>
