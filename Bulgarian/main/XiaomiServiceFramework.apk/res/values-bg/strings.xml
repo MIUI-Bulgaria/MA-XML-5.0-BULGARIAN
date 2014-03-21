@@ -209,6 +209,7 @@
     <string name="micloud_warn_low_title">Хранилището е почти пълно</string>
     <string name="micloud_web_discription_01">Влезте на i.xiaomi.com</string>
     <string name="micloud_web_discription_02">за съхраняване и достъп до вашите файлове</string>
+    <string name="micloud_upgrade_space">Добавяне на пространство</string>
     <string name="micloud_welcome_skip_login"><u>Пропусни тази стъпка</u></string>
     <string name="mili_center">MiКредити</string>
     <string name="my_xiaomi_account">Моят Xiaomi профил</string>

@@ -109,4 +109,11 @@
   <string name="toast_max_record_time">App: %1$s максимално време за запис %2$s</string>
   <string name="unknown_caller">Непознат номер</string>
   <string name="view_list_of_recordings">Виж звукозаписите</string>
+  <string name="wifi_recommended_title">Предупреждение за трафик</string>
+  <string name="wifi_recommended_body">"Ще започне изтегляне чрез мобилни данни:
+Изтеглянето на файлове чрез мобилни данни може да повиши вашите такси."</string>
+  <string name="button_queue_for_wifi">Чрез Wi-Fi</string>
+  <string name="button_start_now">Изтегляне</string>
+  <string name="notification_title_all_paused">Изтеглянето е на пауза</string>
+  <string name="notification_message_all_paused">Възможно е повишаване на трафика на мобилни данни.</string>
 </resources>
