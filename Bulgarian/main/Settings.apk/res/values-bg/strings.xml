@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Всичко за телефона</string>
   <string name="about_settings_summary">Показва правна информация, статус и версия на софтуера</string>
@@ -3599,4 +3599,10 @@ for MAC"</li>"
   <string name="notification_summary_of_low_memory">При малко памет да не се инсталират приложения</string>
   <string name="garbage_white_list_empty_content">Няма изключения</string>
   <string name="toast_garbage_cleanup_success">Почистването е успешно</string>
+  <string name="pref_summary_expand_cache_group">Групите в списъка ще бъдат разширени</string>
+  <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>
+  <string name="Settings_title_network_assistants">Настройка на Монитор</string>
+  <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
+  <string name="Settings_title_power_center">Настройка на Batérie</string>
+  <string name="Settings_title_anti_virus">Настройка на Антивирус</string>
 </resources>
