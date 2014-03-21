@@ -3603,6 +3603,6 @@ for MAC"</li>"
   <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>
   <string name="Settings_title_network_assistants">Настройка на Монитор</string>
   <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
-  <string name="Settings_title_power_center">Настройка на Batérie</string>
+  <string name="Settings_title_power_center">Настройка на Батерия</string>
   <string name="Settings_title_anti_virus">Настройка на Антивирус</string>
 </resources>
