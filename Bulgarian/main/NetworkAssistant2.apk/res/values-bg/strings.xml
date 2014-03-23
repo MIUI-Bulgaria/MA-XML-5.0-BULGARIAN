@@ -79,6 +79,8 @@
     <string name="main_traffic_used_text">%s\nИзползвани</string>
     <string name="manual_input_free_traffic">Set off-peak data usage</string>
     <string name="manual_input_traffic">Задайте лимит за трафика</string>
+    <string name="network_assistant_upgraded_title">Актуализацията завърши</string>
+    <string name="network_assistant_upgraded_body">Докоснете за ограничаване на трафика.</string>
     <string name="network_control">Контрол на трафика</string>
     <string name="notification_content_title">Използвани %1$s по време на закл.</string>
     <string name="notification_title">%1$s-%2$s: около %3$s използвани</string>
