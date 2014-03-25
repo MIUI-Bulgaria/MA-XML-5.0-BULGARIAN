@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Профил</string>
   <string name="account_delete_dlg_instructions_fmt">Профилът \"%s\" ще бъде премахнат от Имейл приложението.</string>
@@ -256,7 +256,7 @@
   <string name="dialog_sync_all_server_error">Проблем при комуникацията със сървъра. Моля, опитайте отново по-късно.</string>
   <string name="disable_admin_warning">"ВНИМАНИЕ! Деактивирането на администраторските права на Имейл приложението за устройството Ви ще изтрие всички профили, които ги изискват, заедно с елктронната им поща, контакти, календари и други данни."</string>
   <string name="discard_action">Отказ</string>
-  <string name="done">Обратно</string>
+  <string name="done">Напред</string>
   <string name="done_action">Готово</string>
   <string name="edit_quick_response_dialog">Редактирай бърз отговор</string>
   <string name="eml_view_title">Преглед на файл %s</string>
@@ -420,7 +420,7 @@
   <string name="message_view_status_attachment_saved">Приложения файл е записан като %s.</string>
   <string name="message_view_subject_label">Тема:</string>
   <string name="message_view_to_label">До:</string>
-  <string name="more_string">%1$s още...</string>
+  <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_action">Премести</string>
   <string name="move_to_folder_dialog_title">Премести в</string>

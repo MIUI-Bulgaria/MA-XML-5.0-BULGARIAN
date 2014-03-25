@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">Добави участник</string>
   <string name="accessibility_add_reminder">Добави напомняне</string>
@@ -72,7 +72,7 @@
   <string name="dismiss_all_label">Отхвърляне на всички</string>
   <string name="do_not_check">Не проверявай -></string>
   <string name="does_not_repeat">Еднократно събитие</string>
-  <string name="done">Обратно</string>
+  <string name="done">Напред</string>
   <string name="edit_event_all_day_label">През целия ден</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_from_label">От</string>
@@ -150,7 +150,7 @@
   <string name="monthly">Ежемесечно</string>
   <string name="monthly_on_day">Ежемесечно (за ден %s)</string>
   <string name="monthly_on_day_count">Ежемесечно (всеки %1$s %2$s)</string>
-  <string name="more_string">Още %1$s ...</string>
+  <string name="more_string">+%1$s</string>
   <string name="new_event_dialog_label">Ново събитие</string>
   <string name="new_event_dialog_option">Ново събитие</string>
   <string name="no_calendars_found">Добавянето на събитие е възможно само във видим календар, свързан с Google профил. Кликнете на "Добави профил", а ако вече сте добавили профил, изчакайте синхронизацията му да завърши и опитайте отново. Или кликнете на "Отказ" и направете видим поне един календар.</string>

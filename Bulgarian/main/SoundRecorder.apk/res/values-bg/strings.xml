@@ -6,9 +6,11 @@
   <string name="audio_db_album_name">Звукозаписи</string>
   <string name="audio_db_artist_name">Вашите записи</string>
   <string name="audio_db_playlist_name">Моите записи</string>
-  <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="audio_db_title_format">dd-MM.yyyy HH:mm:ss</string>
   <string name="back">Назад</string>
   <string name="button_ok">OK</string>
+  <string name="button_queue_for_wifi">Чрез Wi-Fi</string>
+  <string name="button_start_now">Изтегляне</string>
   <string name="call_record">Записване на разговор (%d)</string>
   <string name="call_record_or">или</string>
   <string name="cloud_record">Записване в облака (%d)</string>
@@ -26,11 +28,12 @@
   <string name="duration_format_second">%s сек</string>
   <string name="error_app_internal">Вътрешна грешка</string>
   <string name="error_app_internal_title">Грешка при звукозапис</string>
+  <string name="error_filename_illegal_char">Името на файла съдържа невалидни символи.</string>
   <string name="error_filename_too_long">Името на файла е твърде дълго</string>
   <string name="error_mediadb_new_record">Звукозаписът не може да се съхрани</string>
   <string name="error_sdcard_access">Няма достъп до външното или вътрешното място за съхранение</string>
   <string name="fm_record">FM звукозапис (%d)</string>
-  <string name="hour" formatted="false">%d час(а)</string>
+  <string name="hour">%d час(а)</string>
   <string name="insert_sd_card">Нужна е SD карта</string>
   <string name="loading_recording">Зареждане на записите</string>
   <string name="low_battery_error">Остава по-малко от 5% батерия. Звукозаписът беше спрян и съхранен, за да се избегне загуба.</string>
@@ -41,16 +44,20 @@
   <string name="menu_settings">Настройки</string>
   <string name="menu_view_record_list">Виж записите</string>
   <string name="message_file_size_error">Звукозаписът достигна максималната поддържана от %s дължина</string>
-  <string name="minute" formatted="false">%d минути</string>
+  <string name="minute">%d минути</string>
   <string name="no_file">Няма звукозаписи</string>
+  <string name="notification_message_all_paused">Възможно е повишаване на трафика на мобилни данни.</string>
   <string name="notification_playback">Пускане на звукозаписа...</string>
   <string name="notification_recording">Записване...</string>
   <string name="notification_stopped">Звукозаписът спря</string>
-  <string name="notification_warning" formatted="false">Малко място (по-малко от %d минути)...</string>
+  <string name="notification_title_all_paused">Изтеглянето е на пауза</string>
+  <string name="notification_warning">Малко място (по-малко от %d минути)...</string>
   <string name="open_file_explorer">Отвори Файловия мениджър</string>
-  <string name="overwrite_dialog_message" formatted="false">%s вече съществува. Желаете ли да го презапишете?</string>
+  <string name="overwrite_dialog_message">%s вече съществува. Желаете ли да го презапишете?</string>
   <string name="pause">Пауза</string>
   <string name="play_record">Пусни</string>
+  <string name="preference_enable_earpiece_summary">Използване на изхода за слушалки за възпроизвеждане на външно устройство</string>
+  <string name="preference_enable_earpiece_title">Външен изход</string>
   <string name="preference_led_indicator">Индикатор за записване при заключен екран</string>
   <string name="preference_led_indicator_prompt">По време на звукозапис индикирай с LED и в лентата на състоянието, когато екранът е заключен</string>
   <string name="preference_record_scenes_dialog_title">Избор на сцена</string>
@@ -58,7 +65,6 @@
   <string name="preference_record_type_title">Вид звукозапис</string>
   <string name="preference_scenes">Настройки на сцените</string>
   <string name="preference_silent_mode">Тих звукозапис</string>
-  <string name="preference_silent_mode_summary">Включване на звукозапис при тих режим</string>
   <string name="record_download">Изтегляне от Mi Cloud</string>
   <string name="record_download_activity">Изтегляне на записи</string>
   <string name="record_download_complete">Завършено</string>
@@ -90,7 +96,7 @@
   <string name="retry">Нов опит</string>
   <string name="sd_card_not_available">SD картата е недостъпна</string>
   <string name="search_for_recordings_in_folders">Търсене на звукозаписи в папки</string>
-  <string name="second" formatted="false">%d секунди</string>
+  <string name="second">%d секунди</string>
   <string name="send_to">Изпращане</string>
   <string name="sound_recorder_settings">Настройки на звукозаписа</string>
   <string name="start">Възобновяване</string>
@@ -107,13 +113,10 @@
   <string name="sync_records">Синхр. с Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s максимално време за запис %2$s</string>
+  <string name="toast_uninstall_fileexplorer">Не е инсталиран файлов мениджър</string>
   <string name="unknown_caller">Непознат номер</string>
   <string name="view_list_of_recordings">Виж звукозаписите</string>
-  <string name="wifi_recommended_title">Предупреждение за трафик</string>
   <string name="wifi_recommended_body">"Ще започне изтегляне чрез мобилни данни:
 Изтеглянето на файлове чрез мобилни данни може да повиши вашите такси."</string>
-  <string name="button_queue_for_wifi">Чрез Wi-Fi</string>
-  <string name="button_start_now">Изтегляне</string>
-  <string name="notification_title_all_paused">Изтеглянето е на пауза</string>
-  <string name="notification_message_all_paused">Възможно е повишаване на трафика на мобилни данни.</string>
+  <string name="wifi_recommended_title">Предупреждение за трафик</string>
 </resources>

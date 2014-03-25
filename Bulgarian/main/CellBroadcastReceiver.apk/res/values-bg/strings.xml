@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Клетъчни излъчвания</string>
     <string name="sms_cb_settings">Настройки на клетъчното излъчване</string>
@@ -82,4 +82,23 @@
     <string name="cmas_certainty_likely">Вероятно</string>
     <string name="notification_multiple">%s непрочетени сигнала.</string>
     <string name="notification_multiple_title">Нови сигнали</string>
+    <string name="menu_view_details">Преглед на подробностите</string>
+    <string name="view_details_title">Подробности за сигнала</string>
+    <string name="alert_reminder_interval_title">Напомняне за сигнал</string>
+    <string name="alert_reminder_interval_summary" />
+    <string name="enable_alert_vibrate_title">Вибриране</string>
+    <string name="enable_alert_vibrate_summary">Вибриране при сигнал</string>
+    <string name="delivery_time_heading">Получено:</string>
+    <string name="show_cmas_opt_out_summary">Извеждане на диалогов прозорец за отказване след показването на първия сигнал чрез системата за сигнали чрез моб. мрежи (разл. от сигнала от президента).</string>
+    <string name="show_cmas_opt_out_title">Показване на диал. прозорец за отказване</string>
+    <string name="cmas_opt_out_dialog_text">Понастоящем получавате спешни сигнали. Искате ли да продължите да ги получавате?</string>
+    <string name="cmas_opt_out_button_yes">Да</string>
+    <string name="cmas_opt_out_button_no">Не</string>
+    <string name="cell_broadcast_sms_title">Клетъчно излъчване</string>
+    <string name="category_brazil_settings_title_sub">Настройки за Бразилия</string>
+    <string name="cb_settings_sel_sub">Избор на абонамент</string>
+    <string name="summary_manage_subscriptions">Управление на настройките за кл. излъчвания за всеки абонамент</string>
+    <string name="select_subscription_title">Избор на абонамент</string>
+    <string name="subscription1_title">Абонамент 1</string>
+    <string name="subscription2_title">Абонамент 2</string>
 </resources>

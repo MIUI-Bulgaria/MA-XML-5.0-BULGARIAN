@@ -1381,7 +1381,7 @@
   <string name="link_speed_label">"Скорост: "</string>
   <string name="list_sub_view_item_backup_uninstall">Архивиране и деинст.</string>
   <string name="list_sub_view_item_clean">Изчисти</string>
-  <string name="list_sub_view_item_install">Инсталация</string>
+  <string name="list_sub_view_item_install">Инсталиране</string>
   <string name="list_sub_view_item_lock">Игнориране</string>
   <string name="list_sub_view_item_uninstall">Деинст.</string>
   <string name="list_sub_view_item_unlock">Игнориране</string>
@@ -3605,4 +3605,17 @@ for MAC"</li>"
   <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
   <string name="Settings_title_power_center">Настройка на Батерия</string>
   <string name="Settings_title_anti_virus">Настройка на Антивирус</string>
+  <string name="power_20s_enter_mode">Режим %2$s за %1$d секунди</string>
+  <string name="power_notify_lowbattery">Зарядът е по-малко от %1$d%%</string>
+  <string name="power_recovery_mode">Връщане към %1$s режим</string>
+  <string name="power_subtitle_lowbattery">Икономия при слаба батерия</string>
+  <string name="power_subtitle_ontime">Икономия на енергия по график</string>
+  <string name="power_exitlowbattery_whencharge">Изход при зареждане</string>
+  <string name="power_button_delete">Изтрий</string>
+  <string name="power_mode_my_mode">Мой режим</string>
+  <string name="power_mode_my_mode_summary">Авт. запазване на ежедневното състояние на употреба</string>
+  <string name="power_apply_toast">Превключи на %s режим и запази текущото състояние</string>
+  <string name="power_customize_giveup_change">Не променяй?</string>
+  <string name="pref_category_title_securitycenter_settings">Настройки на Оптимизация</string>
+  <string name="pref_category_title_module_settings">Настройки на модулите</string>
 </resources>

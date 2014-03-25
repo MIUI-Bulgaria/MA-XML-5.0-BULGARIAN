@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Импорт</string>
   <string name="access_sd_fail">Няма достъп до USB хранилището.</string>
@@ -99,7 +99,7 @@
   <string name="find_other_qrcode">Открит QR код</string>
   <string name="find_qq_qrcode">Открит е QQ QR код</string>
   <string name="find_web_qrcode">Открит QR код на уебсайт</string>
-  <string name="find_weixin_qrcode">Търсене в WeiXin по QR код</string>
+  <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
   <string name="find_wifi_qrcode">Открит е Wi-Fi QR код</string>
   <string name="flash">Светкавица</string>
   <string name="flash_off">Светкавица изкл.</string>
@@ -235,9 +235,6 @@
   <string name="pref_camera_movie_solid_entry_off">Изкл.</string>
   <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
   <string name="pref_camera_movie_solid_title">Стабилизация на изображението</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">Изкл.</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">Вкл.</string>
-  <string name="pref_camera_multiple_face_beauty_title">Разкрасяване на лица</string>
   <string name="pref_camera_panoramamode_title">Панорама</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -274,7 +271,6 @@
   <string name="pref_camera_redeyereduction_title">Премахване на червени очи</string>
   <string name="pref_camera_referenceline_entry_off">Изкл.</string>
   <string name="pref_camera_referenceline_entry_on">Вкл.</string>
-  <string name="pref_camera_referenceline_title">Базова линия</string>
   <string name="pref_camera_saturation_entry_level0">Ниво 0</string>
   <string name="pref_camera_saturation_entry_level1">Ниво 1</string>
   <string name="pref_camera_saturation_entry_level10">Ниво 10</string>
@@ -454,7 +450,7 @@
   <string name="web_url_apk_warning">Това приложение идва от неизвестен източник и може да бъде опасно. Инсталирайте приложения само от сигурни източници.</string>
   <string name="web_url_warning">Връзката към уеб страницата идва от неизвестен източник и може да бъде риск за сигурността ви.</string>
   <string name="website_details">"Интернет страница: "</string>
-  <string name="weixin_details">"Weixin: "</string>
+  <string name="wechat_details">WeChat:</string>
   <string name="white_balance">Баланс на бялото</string>
   <string name="width">Ширина</string>
   <string name="wifi_connect_not_found">"Няма достъпна Wi-Fi мрежа"</string>
