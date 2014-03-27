@@ -64,7 +64,7 @@
   <string name="day_view_new_event_hint">Създай събитие</string>
   <string name="default_reminder_mode">Напомняне по подразбиране</string>
   <string name="delete_label">Изтрий</string>
-  <string name="delete_recurring_event_title">Ще изтриете ли %s?</string>
+  <string name="delete_recurring_event_title">Да се изтрие ли %s?</string>
   <string name="delete_this_event_title">Ще изтриете ли това събитие?</string>
   <string name="description_label">Описание</string>
   <string name="directory_searching_fmt">Търсене в %s...</string>
@@ -248,4 +248,28 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
+  <string name="online_calendar_activity_label">Вписване</string>
+  <string name="tab_local">Локално</string>
+  <string name="tab_online">Онлайн</string>
+  <string name="add_calendar">Добавяне</string>
+  <string name="exist_calendar">Календарът вече съществува</string>
+  <string name="delete_calendar">Изтриване</string>
+  <string name="delete_topic_dialog_title">Да се изтрие ли „%s“?</string>
+  <string name="add_topic_success">Добавянето на „%s“ е успешно</string>
+  <string name="delete_topic_success">Изтрихте „%s“</string>
+  <string name="calendar_server_error">Грешка на сървъра</string>
+  <string name="label_recent_events">Последни събития</string>
+  <string name="no_local_calendar">Няма добавени календари</string>
+  <string name="no_network">Нямате връзка с интернет</string>
+  <string name="refresh">Обнови</string>
+  <string name="movable_list_header_label">Описание</string>
+  <string name="today_weather_unavailable">Не може да получи информация за времето</string>
+  <string name="subscribe_all">Вписване</string>
+  <string name="enter_calendar">Календар</string>
+  <string name="pref_title_no_remind">Няма напомняне</string>
+  <string name="pref_title_notification_remind">Напомняне</string>
+  <string name="pref_title_alert_remind">Изскачащ прозорец</string>
+  <string name="huangli_label">Huang Li</string>
+  <string name="holiday_label">Празник</string>
+  <string name="action_bar_today">Д</string>
 </resources>

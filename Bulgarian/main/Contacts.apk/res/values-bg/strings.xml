@@ -522,6 +522,7 @@
   <string name="menu_create_contact_shortcut">Добави на Начален екран</string>
   <string name="menu_deleteContact">Изтрий</string>
   <string name="menu_deleteGroup">Изтрий</string>
+  <string name="menu_dial_ip_number">IP обаждане</string>
   <string name="menu_dialpad_text">Клавиатура</string>
   <string name="menu_discard">Отхвърли</string>
   <string name="menu_display_all">Покажи всички</string>
