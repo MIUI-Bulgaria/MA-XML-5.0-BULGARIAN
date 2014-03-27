@@ -685,7 +685,7 @@
   <string name="pref_key_photo_word_title">Автоматична снимка на контакт</string>
   <string name="pref_key_rebuild_t9_index_message">Актуализиране на търсенето на контакти</string>
   <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
-  <string name="pref_key_sim_manage">Конфигуриране на SIM карта</string>
+  <string name="pref_key_sim_manage">Управление на SIM карта</string>
   <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Xiaomi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
   <string name="pref_title_card_format">Формат за споделяне на карта</string>
@@ -986,7 +986,7 @@
   <string name="sim_contact_search_error">Възникна грешка при търсене на контакти на SIM карта</string>
   <string name="sim_contacts">SIM Контакти</string>
   <string name="sim_error_anr_full">Хранилището за номера е пълно!</string>
-  <string name="sim_error_email_full">Хранилището за Имейл адреси е пълно!</string>
+  <string name="sim_error_email_full">Хранилището за имейл адреси е пълно!</string>
   <string name="sim_error_email_too_long">Имейл адресът е прекалено дълъг.</string>
   <string name="sim_error_generic_failure">Неуспех.</string>
   <string name="sim_error_number_too_long">Номерът е прекалено дълъг!</string>
@@ -1128,4 +1128,15 @@
   <string name="yellowpage_navigation_search_select_city">Изберете град</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
+  <string name="import_from_sim2">Импортиране от SIM карта 2</string>
+  <string name="eventTypeCustom">По избор</string>
+  <string name="callrecordview_menu_show_sim">%s обаждания</string>
+  <string name="callrecordview_menu_delete_sim">Изчисти списъка с повиквания на %s</string>
+  <string name="export_to_sim2">Експортиране в SIM карта 2</string>
+  <string name="pref_key_sim_manage2">Управление на SIM карта 2</string>
+  <string name="account_sim2">SIM карта %d</string>
+  <string name="sim_contact_number_missing">Грешен номер на SIM контакт.</string>
+  <string name="imei_invalid">Невалиден IMEI</string>
+  <string name="meid_invalid">Невалиден MEID</string>
+  <string name="sim_error_not_ready">Зареждане на SIM контакти…</string>
 </resources>

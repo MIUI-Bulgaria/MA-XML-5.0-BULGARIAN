@@ -3618,4 +3618,6 @@ for MAC"</li>"
   <string name="power_customize_giveup_change">Не променяй?</string>
   <string name="pref_category_title_securitycenter_settings">Настройки на Оптимизация</string>
   <string name="pref_category_title_module_settings">Настройки на модулите</string>
+  <string name="dialog_title_load_cleanup_engine_error">Грешка</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Модулът за почистване е повреден, трябва да преинсталирате ROM-а!</string>
 </resources>
