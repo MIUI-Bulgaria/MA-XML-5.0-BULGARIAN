@@ -119,4 +119,5 @@
   <string name="wifi_recommended_body">"Ще започне изтегляне чрез мобилни данни:
 Изтеглянето на файлове чрез мобилни данни може да повиши вашите такси."</string>
   <string name="wifi_recommended_title">Предупреждение за трафик</string>
+  <string name="toast_file_is_downloading">Файлът се изтегля, моля изчакайте</string>
 </resources>

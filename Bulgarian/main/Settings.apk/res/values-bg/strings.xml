@@ -1122,7 +1122,7 @@
   <string name="force_stop_dlg_title">Спирате ли го принудително?</string>
   <string name="forget_wifi_message">Вашият телефон ще спре да се свързва автоматично към тази мрежа.</string>
   <string name="free_ram">Памет</string>
-  <string name="free_wifi_confirm">Потвърди</string>
+  <string name="free_wifi_confirm">Разбирам</string>
   <string name="free_wifi_connect">Свързване</string>
   <string name="free_wifi_connect_dialog_summary">Тази безплатна Wi-Fi мрежа %1$s е предоставена от %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Достъпна е безплатна Wi-Fi мрежа</string>
@@ -3066,7 +3066,7 @@ for MAC"</li>"
   <string name="virus_scan_app_waiting">Изчакване…</string>
   <string name="virus_scan_can_use_wifi">Използвай онлайн база данни за вируси</string>
   <string name="virus_scan_clean_dialog_message">Почистване…</string>
-  <string name="virus_scan_clear">Почисти</string>
+  <string name="virus_scan_clear">Чисто</string>
   <string name="virus_scan_dangerous">Риск</string>
   <string name="virus_scan_description">"Това приложение е риск за вашата безопасност."</string>
   <string name="virus_scan_file_type_risk_apk">Подозрително приложение (.apk пакет)</string>

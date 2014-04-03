@@ -45,8 +45,8 @@
         <item quantity="one">%d песен е избрана</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">В SD картата има %d песни</item>
-        <item quantity="one">В SD картата има %d песен</item>
+        <item quantity="other">В хранилището има %d песни</item>
+        <item quantity="one">В хранилището има %d песен</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d песни, добавени към плейлиста.</item>

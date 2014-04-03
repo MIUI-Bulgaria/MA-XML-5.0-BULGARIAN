@@ -269,7 +269,7 @@
   <string name="err_resource_leak">За съжаление, приложението %1$s спря.</string>
   <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>
   <string name="error_not_acceptable">Грешки в сървъра. Синхронизацията е изключена.</string>
-  <string name="error_title">Синхронизационна грешка на %s</string>
+  <string name="error_title">Грешка при синхронизация</string>
   <string name="error_unauthorized">Синхронизацията е изключена, поради твърде много опити за влизане.</string>
   <string name="every_day">Всеки ден</string>
   <string name="experimental_validate">Проверете</string>

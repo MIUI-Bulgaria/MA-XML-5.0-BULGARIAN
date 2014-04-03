@@ -176,7 +176,7 @@
   <string name="resource_preview">Преглед</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Безплатни</string>
-  <string name="resource_price_unit">МiКредити</string>
+  <string name="resource_price_unit">" МiКредити"</string>
   <string name="resource_purchase_getting_order">Получаване на данни за поръчката…</string>
   <string name="resource_purchase_verifying_payment">Проверка на плащането…</string>
   <string name="resource_purchase_waiting_payment">Изчакване за проверка на плащането…</string>

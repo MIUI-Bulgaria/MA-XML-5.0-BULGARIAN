@@ -158,7 +158,7 @@
     <string name="traffic_protection_label">Предупреждение при превишаване</string>
     <string name="traffic_protection_next">Напред</string>
     <string name="traffic_protection_summary">Настройка на съобщенията при превишен лимит</string>
-    <string name="traffic_protection_text_hint">Задаване на лимит за трафика на данни</string>
+    <string name="traffic_protection_text_hint">Задаване на лимит за трафика на %s</string>
     <string name="traffic_protection_unknown"><u>Задаване по-късно</u></string>
     <string name="traffic_protection_use_data">Данните са включени</string>
     <string name="traffic_setting_fragment_area">Местно</string>
