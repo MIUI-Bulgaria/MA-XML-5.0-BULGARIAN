@@ -19,7 +19,7 @@
         <item>1 седмица</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Няма</item>
+        <item>Без напомняне</item>
         <item>0 минути</item>
         <item>5 минути</item>
         <item>10 минути</item>
