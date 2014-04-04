@@ -725,8 +725,8 @@
   <string name="preference_smart_group_location_summary">Групиране по телефонен код</string>
   <string name="preference_smart_group_location_title">По местоположение</string>
   <string name="preference_smart_group_title">Смарт групиране</string>
-  <string name="preference_telocation_summary_countrycode_off">Не добавяй автоматично кода на държавата</string>
-  <string name="preference_telocation_summary_countrycode_on">Добавяй автоматично кода на държавата</string>
+  <string name="preference_telocation_summary_countrycode_off">не добавяй автоматично кода на държавата</string>
+  <string name="preference_telocation_summary_countrycode_on">добавяй автоматично кода на държавата</string>
   <string name="preference_telocation_summary_teloc_off">Скривай местоположение</string>
   <string name="preference_telocation_summary_teloc_on">Показвай местоположение</string>
   <string name="preference_telocation_title">Местоположение на обаждането</string>

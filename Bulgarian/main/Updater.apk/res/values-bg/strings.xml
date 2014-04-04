@@ -69,7 +69,7 @@
   <string name="kernel_upgrade_link"/>
   <string name="kernel_upgrade_version"/>
   <string name="later">По-късно</string> 
-  <string name="loading">Свързване с MIUI сървъра</string>
+  <string name="loading">Свързване с MIUI сървъра...</string>
   <string name="md5_check_cancelled">MD5 проверката е отменена</string>
   <string name="mione_update_fail_description">Опитайте отново</string>
   <string name="mione_update_fail_title">Актуализацията е неуспешна</string>
