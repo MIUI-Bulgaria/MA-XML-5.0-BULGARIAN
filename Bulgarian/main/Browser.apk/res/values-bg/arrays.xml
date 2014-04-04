@@ -7,7 +7,6 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Начална страница</item>
-        <item>Най-посещавани сайтове</item>
         <item>По избор</item>
     </string-array>
     <string-array name="pref_text_size_choices">
