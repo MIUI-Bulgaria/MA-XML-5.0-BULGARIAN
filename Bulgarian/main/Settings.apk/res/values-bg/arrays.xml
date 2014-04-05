@@ -388,13 +388,6 @@
         <item>Бял</item>
         <item>Лилав</item>
     </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунди</item>
         <item>1 секунда</item>
