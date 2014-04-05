@@ -342,7 +342,6 @@
   <string name="battery_stats_charging_label">Зарежда се</string>
   <string name="battery_stats_duration">%1$s от изключване на зареждането</string>
   <string name="battery_stats_gps_on_label">Включен GPS</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s на батерия</string>
   <string name="battery_stats_phone_signal_label">Сигнал на мобилна мрежа</string>
   <string name="battery_stats_screen_on_label">Включен екран</string>
