@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Обработват се прекалено много заявки. Моля, опитайте отново по-късно.</string>
   <string name="ack_record">Запис с потвърждения</string>
@@ -9,7 +9,6 @@
   <string name="auth_notif_message">Въведете ключа за сдвояване с %1$s</string>
   <string name="auth_notif_ticker">OBEX-заявка за удостоверяване</string>
   <string name="auth_notif_title">Ключ за сдвояване</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">Времето за въвеждане на ключ за сдвояване с %1$s изтече</string>
   <string name="bpp_cancel">Отмени</string>
   <string name="bpp_main">Печат чрез Bluetooth</string>
@@ -118,9 +117,7 @@
   <string name="permlab_bluetoothShareManager">Достъп до Файлове за изтегляне.</string>
   <string name="permlab_bluetoothWhitelist">Бял списък с bluetooth устройства.</string>
   <string name="permlab_handoverStatus">Приемане BT handover transfer broadcasts.</string>
-  <string name="process"/>
   <string name="share_prepare">Подготовка за споделяне чрез Bluetooth</string>
-  <string name="sharedUserId"/>
   <string name="start_server">Стартирай TCP сървър</string>
   <string name="status_bpp_aborted_by_printer">Отпечатването е спряно от принтера</string>
   <string name="status_bpp_canceled_by_user">Отпечатването е отменено от потребителя</string>

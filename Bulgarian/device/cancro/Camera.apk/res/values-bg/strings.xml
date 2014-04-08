@@ -29,9 +29,6 @@
 Излезте от обзора на камерата за известно време"</string>
   <string name="camera_disabled">Камерата беше деактивирана.</string>
   <string name="camera_error_title">Грешка на камерата</string>
-  <string name="camera_face_beauty_default">i:0</string>
-  <string name="camera_face_beauty_simple_mode_close">i:0</string>
-  <string name="camera_face_beauty_simple_mode_open">i:2</string>
   <string name="camera_label">Камера</string>
   <string name="camera_settings_label">Настройки на камерата</string>
   <string name="can_not_play_video">За възпроизвеждане отключете екрана</string>

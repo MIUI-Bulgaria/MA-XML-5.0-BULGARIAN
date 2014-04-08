@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Начална страница</string>
   <string name="accessibility_button_addbookmark">Добави страницата в Отметки</string>
@@ -488,7 +488,6 @@
   <string name="pref_setting_title">Настройки на страница</string>
   <string name="pref_text_zoom">Мащаб на текста</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Потребителски агент</string>
   <string name="pref_ua_title">Управление на потребителски агент</string>
   <string name="pref_use_instant_search">Google Динамично търсене</string>

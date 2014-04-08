@@ -158,9 +158,6 @@
   <string name="no_title_label">(Неозаглавен)</string>
   <string name="not_synced">Не е синхронизиран</string>
   <string name="pengzu"/>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
   <string name="preferences_about_title">За програмата</string>
   <string name="preferences_alerts_popup_title">Изскачащо известие</string>
