@@ -128,7 +128,7 @@
     <string name="pref_package_traffic_settings">Лимит за мобилни данни</string>
     <string name="pref_pkg_begin_date">Дата за нулиране на сметката</string>
     <string name="pref_setting_operators_message">Редактиране на съобщението, което устройството изпраща до оператора за синхр. на статистиките за вашия трафик</string>
-    <string name="pref_show_mobile_traffic">При отключване на устройството, показвай трафика за периода, когато то е било заключено (при повече от 3 мин.)</string>
+    <string name="pref_show_mobile_traffic">При отключване на устройството, показвай трафика за периода, когато то е било заключено (при повече от 5 мин.)</string>
     <string name="pref_special_traffic_exceed_limit">Съобщете, когато използваните данни достигнат лимита</string>
     <string name="pref_special_traffic_limit_warn">Праг на предупреждение</string>
     <string name="pref_specified_adjust">Лимит за данни по избор</string>

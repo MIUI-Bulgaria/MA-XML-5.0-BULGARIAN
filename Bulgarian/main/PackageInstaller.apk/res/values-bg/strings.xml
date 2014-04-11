@@ -77,4 +77,5 @@
   <string name="virus_scan_install">" "<u>Продължи</u>" "</string>
   <string name="virus_scan_is_risk">Това приложение е рисково!</string>
   <string name="virus_scan_is_virus">Това приложение е ВИРУС!</string>
+  <string name="virus_scan_caller_unknown">Неизвестно</string>
 </resources>

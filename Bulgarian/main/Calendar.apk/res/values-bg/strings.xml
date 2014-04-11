@@ -269,4 +269,7 @@
   <string name="huangli_label">Huang Li</string>
   <string name="holiday_label">Празник</string>
   <string name="action_bar_today">Д</string>
+  <string name="event_date_format">dd.MM EEEE</string>
+  <string name="event_full_date_format">dd.MM.yyyy</string>
+  <string name="pref_title_alarm_remind">Звуково напомняне</string>
 </resources>
