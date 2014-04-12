@@ -71,5 +71,5 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Свържете MiKey</string>
-    <string name="task_title_prefix">"Действие: "</string>
+    <string name="task_title_prefix">"Действие N: "</string>
 </resources>
