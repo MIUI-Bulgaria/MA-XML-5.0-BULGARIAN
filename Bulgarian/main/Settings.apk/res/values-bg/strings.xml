@@ -917,7 +917,7 @@
   <string name="dndm_dlg_remove_ok">Премахни</string>
   <string name="dndm_dlg_remove_vip">Ще премахнете ли от списъка с изключения?</string>
   <string name="dndm_menu_add_vip_custom">Добави изключение</string>
-  <string name="dndm_mute_all">Заглуши обаждания и съобщения</string>
+  <string name="dndm_mute_all">Заглушени са обаждания и съобщения</string>
   <string name="dndm_notification">Режим Не безпокойте е включен.</string>
   <string name="dndm_open">Режим Не безпокойте</string>
   <string name="dndm_repeated_call_setting_title">Повтарящи се обаждания</string>
@@ -1111,7 +1111,7 @@
   <string name="font_size_preview_text">Примерен текст на MIUI ROM за България :)</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Малък</string>
-  <string name="font_size_summary">Задайте размер на шрифта за приложения като: Телефон, Съобщения, контакти и др.</string>
+  <string name="font_size_summary">Задайте размер на шрифта за приложения като: Телефон, Съобщения, Контакти и др.</string>
   <string name="force_hw_ui">Ускоряване работата на GPU</string>
   <string name="force_hw_ui_summary">Използване на 2D хардуерно ускорение в приложенията</string>
   <string name="force_msaa">Задаване на 4x MSAA</string>
@@ -1710,7 +1710,7 @@ for MAC"</li>"
   <string name="no_notification_listeners">Не са инсталирани приложения с достъп до известията.</string>
   <string name="no_running_services">Нищо не работи</string>
   <string name="no_services">Няма активни услуги</string>
-  <string name="noise_suppression">Потискане на шума</string>
+  <string name="noise_suppression">Подтискане на шума</string>
   <string name="normal_date_format">По подразбиране (%s)</string>
   <string name="not_installed">Не е инсталирано</string>
   <string name="notification_listener_security_warning_summary">%1$s ще може да чете всички известия, публикувани от системата или някое от инсталираните приложения. Известията понякога съдържат лични данни, като имена на контакти или текст на съобщения, които получавате. Приложението също ще може да отхвърля известия или да натиска бутони за действие в тях.</string>
@@ -1984,7 +1984,7 @@ for MAC"</li>"
   <string name="permission_mgr">Разрешения</string>
   <string name="permissions_label">Разрешения</string>
   <string name="personal_data_section_title">Лични данни</string>
-  <string name="phone_call_noise_suppression">Потискане на шума при разговори</string>
+  <string name="phone_call_noise_suppression">Подтискане на шума при разговори</string>
   <string name="phone_info_label">Всичко за телефона</string>
   <string name="phone_language">Език</string>
   <string name="phone_language_summary"/>
@@ -2435,7 +2435,7 @@ for MAC"</li>"
   <string name="screen_key_long_press_action">Функция на бутоните</string>
   <string name="screen_key_long_press_timeout">Време на задържане</string>
   <string name="screen_never_timeout_title">Никога</string>
-  <string name="screen_on_proximity_sensor_summary">Предотвратете случайната употреба, докато телефона Ви е в джоба (според сензора за близост).</string>
+  <string name="screen_on_proximity_sensor_summary">Предотвратете случайната употреба, докато телефона ви е в джоба (според сензора за близост).</string>
   <string name="screen_on_proximity_sensor_title">Избягване на случайна употреба</string>
   <string name="screen_saturation">Наситеност на цветовете</string>
   <string name="screen_saturation_adjust">Регулирайте наситеността на цветовете</string>
