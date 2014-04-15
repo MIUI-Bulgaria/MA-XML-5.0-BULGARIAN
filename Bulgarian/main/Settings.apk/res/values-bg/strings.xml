@@ -1013,7 +1013,7 @@
   <string name="enable_firewall">Блокирай нежеланите повиквания</string>
   <string name="enable_opengl_traces_title">Трасирания на OpenGL: Акт.</string>
   <string name="enable_service_title">Ще използвате ли %1$s?</string>
-  <string name="enable_snapshot_screenlock">Вкл. камера с дълго натискане на бутон Назад</string>
+  <string name="enable_snapshot_screenlock">Вкл. камера от бутон Назад</string>
   <string name="enable_text">Включи</string>
   <string name="enable_traces_dialog_title">Изберете проследявания</string>
   <string name="enable_traces_summary_all">Всички</string>
@@ -3082,8 +3082,8 @@ for MAC"</li>"
   <string name="virus_scan_judge_is_virus">Проверявай приложението преди инсталириране</string>
   <string name="virus_scan_last_risk">По време на последната проверка са намерени съмнителни приложения, които все още не са отстранени.</string>
   <string name="virus_scan_last_scan_date">Последната проверка беше преди %d дни</string>
-  <string name="virus_scan_last_scan_today">"Последна проверка: Днес"</string>
-  <string name="virus_scan_last_scan_yesterday">"Последна проверка: Вчера"</string>
+  <string name="virus_scan_last_scan_today">"Последна проверка: Днес "</string>
+  <string name="virus_scan_last_scan_yesterday">"Последна проверка: Вчера "</string>
   <string name="virus_scan_last_time">Последна проверка: %s</string>
   <string name="virus_scan_last_virus">Открити са вируси при последната проверка.</string>
   <string name="virus_scan_lib_unknow">Последна актуализация: неизвестна</string>
