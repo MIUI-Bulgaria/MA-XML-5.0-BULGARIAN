@@ -63,6 +63,8 @@
     <string name="lock_screen_traffic_warn_title">Предупреждение за трафик</string>
     <string name="main_alert_message_no_imsi">SIM картата не е открита</string>
     <string name="main_alert_message_no_mobile_package">Не е зададен лимит за мобилни данни</string>
+    <string name="main_alert_message_slot_no_data_connection">"Този слот за SIM карта не поддържа
+интернет връзка чрез мобилни данни"</string>
     <string name="main_button_idel_traffic">Off-peak</string>
     <string name="main_button_normal_traffic">Peak</string>
     <string name="main_button_usage_adjust">Настройка на трафика</string>

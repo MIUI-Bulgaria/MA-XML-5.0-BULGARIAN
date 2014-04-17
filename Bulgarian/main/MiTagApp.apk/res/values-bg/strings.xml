@@ -107,6 +107,10 @@
   <string name="open_web">Отваряне на връзката</string>
   <string name="open_xiaomi_web">Отваряне на Xiaomi.com</string>
   <string name="password_preference">Парола на маркера</string>
+  <string name="personal">Лични</string>
+  <string name="gps">GPS</string>
+  <string name="data">Данни</string>
+  <string name="data_net">Мобилна мрежа</string>
   <string name="phone">Телефон</string>
   <string name="phone_call">Обаждане</string>
   <string name="phone_to_tag">За да редактирате маркера,</string>
