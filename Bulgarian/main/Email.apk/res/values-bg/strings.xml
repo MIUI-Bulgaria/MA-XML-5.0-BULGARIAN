@@ -14,7 +14,6 @@
     <string name="abc_searchview_description_voice">Гласово търсене</string>
     <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
     <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">Вече използвате това потребителско име за профила „%s“.</string>
     <string name="account_duplicate_dlg_title">Дублиращ профил</string>
     <string name="account_folder_list_summary_drafts">Чернови</string>
@@ -190,7 +189,6 @@
     <string name="always_bcc_myself">Използване винаги на скрито копие</string>
     <string name="always_show_images">Снимки от този подател: Показване винаги</string>
     <string name="always_show_images_toast">Снимките от този подател ще се показват автоматично.</string>
-    <string name="annex_size">attachments</string>
     <string name="app_name">Имейл</string>
     <string name="archive">Архив</string>
     <string name="archived">Архивирана</string>
@@ -247,8 +245,6 @@
     <string name="clear_display_images_whitelist_title">Изчистване на одобренията за снимки</string>
     <string name="collapse_recipient_details">Свиване на подробностите за получателя</string>
     <string name="compose">Ново съобщение</string>
-    <string name="compose_help_context">compose</string>
-    <string name="confirm">confirm</string>
     <string name="confirm_discard_text">Да се отхвърли ли това съобщение?</string>
     <string name="confirm_response">Отговорът се изпраща…</string>
     <string name="confirm_send_message">Да се изпрати ли това съобщение?</string>
@@ -274,7 +270,6 @@
     <string name="contextmenu_send_mail">Изпращане на имейл</string>
     <string name="contextmenu_sharelink">Споделяне на връзката</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Преместено в/ъв „%1$s“</string>
     <string name="conversation_photo_welcome_text">Докоснете изображението на подателя, за да изберете съответната кореспонденция.</string>
     <string name="copy_email">Копиране на имейл адреса</string>
@@ -285,14 +280,9 @@
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Днес, %1$s</string>
     <string name="date_message_received_yesterday">Вчера, %1$s</string>
-    <string name="debug_clear_webview_cache">Clear WebView cache</string>
-    <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
-    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-    <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
-    <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
-    <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
-    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
     <string name="debug_title">Отстраняване на грешки</string>
+    <string name="default_">СТАНДАРТНО</string>
+    <string name="default_setup">СТАНДАРТНИ НАСТРОЙКИ</string>
     <string name="delete">Изтриване</string>
     <string name="deleted">Изтрита</string>
     <string name="device_admin_description">Активира определени от сървъра защитни правила</string>
@@ -327,7 +317,6 @@
     <string name="exception_cancel">Това събитие от %s е анулирано</string>
     <string name="exception_updated">Подробностите за това събитие са променени за: %s</string>
     <string name="exchange_name">Фирмен</string>
-    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Разгъване на подробностите за получателя</string>
     <string name="failed">Изображ. не можа да се зареди</string>
     <string name="feedback">Изпращане на отзиви</string>
