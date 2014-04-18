@@ -337,7 +337,6 @@
     <string name="forward_attribution_no_headers">---------- Препратено съобщение ----------</string>
     <string name="forward_download_failed_ticker">Един или повече прикачени файла не можаха да се препратят.</string>
     <string name="forward_download_failed_title">Прикаченото не бе препратено</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="from">От</string>
     <string name="from_heading">"От: "</string>
     <string name="general_preference_confirm_delete_label">Потвърждаване преди изтр.</string>
