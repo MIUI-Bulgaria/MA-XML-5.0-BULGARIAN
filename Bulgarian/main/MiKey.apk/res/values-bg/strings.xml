@@ -15,6 +15,7 @@
     <string name="action_open_flashlight">Фенерче</string>
     <string name="action_open_other_app">Приложение</string>
     <string name="action_open_camera">Камера</string>
+    <string name="action_open_camera2">Снимка</string>
     <string name="action_screen_shot">Екранна снимка</string>
     <string name="action_clear_sms_inbox">Изчистване на SMS-ите</string>
     <string name="action_clear_call_list">Изчистване на обажданията</string>
@@ -27,6 +28,8 @@
     <string name="action_share_to_wechat">Споделяне чрез WeChat</string>
     <string name="action_share_to_moment">Споделяне чрез WeChat</string>
     <string name="action_share_to_weibo">Споделяне чрез Weibo</string>
+    <string name="action_share_to_miliao">MiTalk</string>
+    <string name="action_share_to_miliao_wall">MiTalk</string>
     <string name="action_send_text_message">Изпращане на SMS</string>
     <string name="action_phone">Телефон</string>
     <string name="category_app">Приложения</string>
@@ -71,5 +74,12 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Свържете MiKey</string>
+    <string name="default_action_title">Действие по подразбиране</string>
+    <string name="action_home">НАЧАЛО</string>
+    <string name="message_photo_end">Снимката е запазена</string>
+    <string name="select_camera">Изберете камера</string>
+    <string name="front_camera">Предна камера</string>
+    <string name="back_camera">Задна камера</string>
+    <string name="write_pic_fail">Грешка при запазване на снимката!</string>
     <string name="task_title_prefix">"Действие N: "</string>
 </resources>
