@@ -2175,20 +2175,6 @@ for MAC"</li>"
   <string name="pref_button_light_summary">Бутоните Меню, Начало и Назад</string>
   <string name="pref_category_title_auto_update_cleanup_db">Настройки на базата с данни за почистване</string>
   <string name="pref_category_title_garbage_cleanup_check">Настройки на почистване</string>
-  <string name="pref_key_last_check_canceled">last_check_canceled</string>
-  <string name="pref_key_last_scan_data">lastScanDate</string>
-  <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-  <string name="pref_key_need_update_app_count">need_update_app_count</string>
-  <string name="pref_key_package_synced">package_synced</string>
-  <string name="pref_key_risk_amount">riskAmount</string>
-  <string name="pref_key_scan_type">scanType</string>
-  <string name="pref_key_virus_amount">virusAmount</string>
-  <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-  <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-  <string name="pref_key_virus_cloud">virusScanCloud</string>
-  <string name="pref_key_virus_install">virusScanInstall</string>
-  <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-  <string name="pref_key_virus_lib_version">virusLibVersion</string>
   <string name="pref_operational_key">Контролни бутони</string>
   <string name="pref_summary_auto_update_cleanup_db">Обновяване: %s</string>
   <string name="pref_summary_garbage_cleanup_check_size">Известяване, когато отпадъците достигнат определен размер</string>
@@ -2321,7 +2307,7 @@ for MAC"</li>"
   <string name="radio_info_neighboring_location_label">Съседен идентификатор CID:</string>
   <string name="radio_info_network_type_label">Тип мобилна мрежа:</string>
   <string name="radio_info_phone_number_label">Телефонен номер:</string>
-  <string name="radio_info_ping_hostname">Хост за пинг-тест(www.google.bg):</string>
+  <string name="radio_info_ping_hostname">Хост за пинг-тест (www.google.bg):</string>
   <string name="radio_info_ping_ipaddr">Употреба на пинг-тест за IP-адрес:</string>
   <string name="radio_info_ppp_received_label">Получени PPP протоколи:</string>
   <string name="radio_info_ppp_resets_label">Брой на нулирани PPP протоколи от стартиране:</string>
@@ -2392,7 +2378,7 @@ for MAC"</li>"
   <string name="roaming">Данни при роуминг</string>
   <string name="roaming_disable">Свързване с услуги за данни при роуминг</string>
   <string name="roaming_enable">Свързване с услуги за данни при роуминг</string>
-  <string name="roaming_reenable_message">You have lost data connectivity because you left your home network with data roaming turned off.</string>
+  <string name="roaming_reenable_message">Изгубихте връзката за данни, защото сте излезли от домашната си мрежа при изключен роуминг.</string>
   <string name="roaming_reenable_title">Разрешавате ли данните при роуминг?</string>
   <string name="roaming_turn_it_on_button">Включи</string>
   <string name="roaming_warning">Разрешавате ли данните при роуминг? Това може да доведе до висока такса за роуминг!</string>
@@ -2471,7 +2457,7 @@ for MAC"</li>"
   <string name="sd_memory">USB хранилище</string>
   <string name="sd_mount">Монтиране на USB хранилище</string>
   <string name="sd_mount_summary"/>
-  <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
+  <string name="sdcard_changes_instructions">Промените влизат в сила, когато USB кабелът се свърже отново.</string>
   <string name="sdcard_format">Изтрий USB хранилище</string>
   <string name="sdcard_setting">USB хранилище</string>
   <string name="sdcard_settings_available_bytes_label">Налична памет (байта):</string>
@@ -2588,7 +2574,7 @@ for MAC"</li>"
   <string name="show_hw_screen_updates">Покажи актуализациите на GPU</string>
   <string name="show_hw_screen_updates_summary">Примигв. на изгледи в прозорците при начертаване с GPU</string>
   <string name="show_magnifier_when_input">Показвай лупа</string>
-  <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
+  <string name="show_non_rect_clip">Отстраняване на грешки при неправоъгълно изрязване</string>
   <string name="show_notification">Показвай известия</string>
   <string name="show_owner_info_on_lockscreen_label">Покажи собственика на заключен екран</string>
   <string name="show_password">Показвай паролите</string>
