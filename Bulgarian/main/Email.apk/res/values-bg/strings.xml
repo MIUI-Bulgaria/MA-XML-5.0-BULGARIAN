@@ -333,7 +333,7 @@
     <string name="folder_shortcut_widget_label">Папка „Имейл“</string>
     <string name="forward">Препращане</string>
     <string name="forward_attachment">Препращане</string>
-    <string name="forward_attribution">---------- Препратено съобщение ----------&lt;br>От: %1$s&lt;br>Дата: %2$s&lt;br>Тема: %3$s&lt;br>До: %4$s&lt;br></string>
+    <string name="forward_attribution">---------- Препратено съобщение ---------- От: %1$s, Дата: %2$s, Тема: %3$s, До: %4$s,</string>
     <string name="forward_attribution_no_headers">---------- Препратено съобщение ----------</string>
     <string name="forward_download_failed_ticker">Един или повече прикачени файла не можаха да се препратят.</string>
     <string name="forward_download_failed_title">Прикаченото не бе препратено</string>

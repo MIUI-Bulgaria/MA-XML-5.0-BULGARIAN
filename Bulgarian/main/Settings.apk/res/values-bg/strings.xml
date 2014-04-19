@@ -1570,7 +1570,7 @@
   <string name="menu_item_notification_antispam_text_normal">Спам</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Грешка</string>
-  <string name="menu_item_notification_power_text">Производителност</string>
+  <string name="menu_item_notification_power_text">Енергия</string>
   <string name="menu_item_notification_title">Показвай в лентата с известия</string>
   <string name="menu_item_settings_title">Настройки</string>
   <string name="menu_item_shortcut">Създай пряк път</string>
@@ -2156,7 +2156,7 @@ for MAC"</li>"
   <string name="power_settings_category_title">Индикатор за батерия</string>
   <string name="power_settings_number">Процентно</string>
   <string name="power_settings_shape">Графично</string>
-  <string name="power_settings_title">Режим на производителност</string>
+  <string name="power_settings_title">Енергиен режим</string>
   <string name="power_settings_top">Горна лента</string>
   <string name="power_usage_history">Използване на батерията</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
