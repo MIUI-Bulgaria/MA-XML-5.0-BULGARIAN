@@ -29,32 +29,32 @@
         <item quantity="one">Звездата се премахва от %1$d кореспонденция.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Спряхте &amp;lt;b>%1$d&amp;lt;/b&amp;amp;gt.</item>
-        <item quantity="one">Спряхте &amp;lt;b>%1$d&amp;lt;/b&amp;amp;gt.</item>
+        <item quantity="other">Спряхте %1$d.</item>
+        <item quantity="one">Спряхте %1$d.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Подадохте сигнал за спам за &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Подадохте сигнал за спам за &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Подадохте сигнал за спам за %1$d.</item>
+        <item quantity="one">Подадохте сигнал за спам за %1$d.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Подадохте сигнал „Не е спам“ за &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Подадохте сигнал „Не е спам“ за &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Подадохте сигнал „Не е спам“ за %1$d.</item>
+        <item quantity="one">Подадохте сигнал „Не е спам“ за %1$d.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Означихте &amp;lt;b>%1$d&amp;lt;/b&amp;amp; като маловажни.</item>
-        <item quantity="one">Означихте &amp;lt;b>%1$d&amp;lt;/b&amp;amp; като маловажна.</item>
+        <item quantity="other">Означихте %1$d като маловажни.</item>
+        <item quantity="one">Означихте %1$d като маловажна.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Подадохте сигнал за фишинг за &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Подадохте сигнал за фишинг за &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Подадохте сигнал за фишинг за %1$d.</item>
+        <item quantity="one">Подадохте сигнал за фишинг за %1$d.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Архивирахте &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Архивирахте &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Архивирахте %1$d.</item>
+        <item quantity="one">Архивирахте %1$d.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Изтрихте &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Изтрихте &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Изтрихте %1$d.</item>
+        <item quantity="one">Изтрихте %1$d.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Променихте папките.</item>
