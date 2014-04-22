@@ -390,8 +390,8 @@
     <string name="mark_important">Означаване като важно</string>
     <string name="mark_not_important">Означаване като маловажно</string>
     <string name="mark_not_spam">Подаване на сигнал „Не е спам“</string>
-    <string name="mark_read">Означаване като прочетено</string>
-    <string name="mark_unread">Означаване като непрочетено</string>
+    <string name="mark_read">Прочетено</string>
+    <string name="mark_unread">Непрочетено</string>
     <string name="me_object_pronun">аз</string>
     <string name="me_subject_pronun">аз</string>
     <string name="meeting_accepted">Прието: %s</string>
