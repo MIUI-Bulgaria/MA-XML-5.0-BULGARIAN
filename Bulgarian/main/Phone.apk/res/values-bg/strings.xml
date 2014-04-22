@@ -18,7 +18,6 @@
   <string name="administrative_disable">Администраторските права са деактивирани</string>
   <string name="administrative_enable">Администраторските права са активирани</string>
   <string name="advanced_settings">Разширени настройки</string>
-  <string name="advanced_settings_container">Незадължителни настройки</string>
   <string name="advanced_settings_hide">▽ Докоснете за скриване на всички</string>
   <string name="advanced_settings_show">▷ Докоснете за показване на всички</string>
   <string name="advertisements_disable">Рекламите са деактивирани</string>
@@ -57,7 +56,6 @@
   <string name="audio_mode_earpiece">Телефонна слушалка</string>
   <string name="audio_mode_speaker">Говорител</string>
   <string name="audio_mode_wired_headset">Слушалки с кабел</string>
-  <string name="auth_username">Удостоверяване с потребителско име</string>
   <string name="auth_username_summary">Потребителско име, използвано за удостоверяване</string>
   <string name="auth_username_title">Потребителско име за удостов.</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10 сек.</string>
@@ -382,10 +380,8 @@
   <string name="disable_pin_ok">PIN кодът за SIM картата бе деактивиран</string>
   <string name="disable_sim_pin">Деактивиране на PIN кода за SIM карта</string>
   <string name="disable_sim_pin_miui">Деактивиране на PIN кода за SIM</string>
-  <string name="display_name">Екранно име</string>
   <string name="display_name_summary">&lt;Същото като потребителското име&gt;</string>
   <string name="display_name_title">Екранно име</string>
-  <string name="domain_address">SIP домейн</string>
   <string name="domain_address_title">Сървър</string>
   <string name="doneButton">Готово</string>
   <string name="dtmf_tone_enable_title">Тонове при докосване</string>
@@ -770,7 +766,6 @@
 Опитайте отново или се обадете за отдела за обслужване на клиенти за още опции."</string>
   <string name="other_settings">Други настройки за обаждане</string>
   <string name="other_settings_miui">Други настройки</string>
-  <string name="password">Парола</string>
   <string name="password_changed">Паролата е променена успешно</string>
   <string name="password_title">Парола</string>
   <string name="pause_prompt_no">Не</string>
@@ -811,7 +806,6 @@
   <string name="place_a_call1">Абонамент 1</string>
   <string name="place_a_call2">Абонамент 2</string>
   <string name="place_a_call3">Абонамент 3</string>
-  <string name="port">Порт</string>
   <string name="port_title">Номер на порта</string>
   <string name="pref_custom_location_summary_miui">Настройка и брой на цифрите на регионалните префикси</string>
   <string name="pref_custom_location_title_miui">Персонализиране на локализацията</string>
@@ -863,7 +857,6 @@
   <string name="progress_dialog_exiting_ecm">Излизане от режим на обратно обаждане при спешност</string>
   <string name="prompt">Известие</string>
   <string name="prompt_user">Да се иска потвърждение от потребителя</string>
-  <string name="proxy_address">Прокси адрес</string>
   <string name="proxy_address_title">Адрес на изходящ прокси сървър</string>
   <string name="pstn_phone">Обаждане по клетъчен телефон</string>
   <string name="puk2_blocked">PUK2 е блокиран перманентно.</string>
@@ -966,8 +959,7 @@
 Изберете автоматичен избор на предпочитана мрежа."</string>
   <string name="sendSms">Изпрати текстово съобщение</string>
   <string name="send_button">Изпращане</string>
-  <string name="send_keepalive">SendKeepAlive</string>
-  <string name="send_keepalive_title">Изпрати на съобщ. за проверка</string>
+  <string name="send_keepalive_title">Изпращане на съобщение за проверка на връзката</string>
   <string name="send_keepalive_summary">Изпращане на съобщения от SIP за проверка на връзката</string>
   <string name="separate_from_conference_miui">Единично обаждане</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Избирането на вида на предпочитана мрежа е активно само когато мобилните данни са изключени</string>
@@ -1020,10 +1012,7 @@
   <string name="sip_accounts">Профили за интернет обаждания</string>
   <string name="sip_accounts_title">Профили</string>
   <string name="sip_add_account_tip_text">Добавете SIP профил, за да ползвате интернет обаждане</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Да се изпращат винаги</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">За всички обаждания, когато е налице мрежа за данни</string>
   <string name="sip_call_options_entry_2">Само интернет обаждания</string>
   <string name="sip_call_options_entry_3">Да се пита за всяко обаждане</string>
@@ -1126,7 +1115,6 @@
   <string name="throttle_time_frame_subtext">"%1$d٪ от периода изтече.
 Следващият период започва след %2$d дни (%3$s)"</string>
   <string name="title_data_settings">Настройки за данни</string>
-  <string name="transport">Протокол</string>
   <string name="transport_title">Тип транспорт</string>
   <string name="tty_mode_entries_full_miui">Пълен TTY режим</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1156,7 +1144,6 @@
   <string name="use_ims_default">UseImsDefault</string>
   <string name="use_ims_default_summary">Използвай IMS за всички гласови повиквания</string>
   <string name="use_ims_default_title">Винаги използвай IMS</string>
-  <string name="username">Потребителско име</string>
   <string name="username_title">Потребителско име</string>
   <string name="ussdRunning">USSD кодът се изпълнява…</string>
   <string name="vibrate_on_ring_title">Вибриране при звънене</string>

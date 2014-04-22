@@ -47,8 +47,4 @@
         <item>Само GSM</item>
         <item>Предпочита се GSM/WCDMA</item>
     </string-array>
-    <string-array name="absent_num">
-        <item>ABSENT NUMBER</item>
-        <item>ABSENTNUMBER</item>
-    </string-array>
 </resources>
