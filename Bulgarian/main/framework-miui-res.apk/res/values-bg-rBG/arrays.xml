@@ -65,7 +65,7 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
-    <string-array name="contact_entries">
+     <string-array name="contact_entries">
         <item>Име</item>
         <item>Псевдоним</item>
         <item>Телефон</item>
@@ -77,5 +77,5 @@
         <item>Уеб сайт</item>
         <item>Адрес</item>
         <item>Бележка</item>
-    </string-array>
+     </string-array>
 </resources>
