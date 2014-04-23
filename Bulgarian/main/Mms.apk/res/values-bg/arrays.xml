@@ -41,7 +41,7 @@
         <item>Рожден ден</item>
         <item>Уеб сайт</item>
         <item>Адрес</item>
-        <item>Бележки</item>
+        <item>Бележка</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Време на получаване</item>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Имейл</item>
+        <item>Фирма</item>
+        <item>IM</item>
+        <item>Интернет номер</item>
+        <item>Рожден ден</item>
+        <item>Уеб сайт</item>
+        <item>Адрес</item>
+        <item>Бележка</item>
+    </string-array>
+</resources>
