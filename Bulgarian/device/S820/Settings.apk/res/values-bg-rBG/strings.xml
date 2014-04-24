@@ -47,7 +47,6 @@
     <string name="wifi_p2p_delete_group_message">Да се забрави ли тази група?</string>
     <string name="wifi_tether_starting">Точката за достъп се включва…</string>
     <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="screensaver_settings_title">Мечта</string>
     <string name="screensaver_settings_summary_either_long">При свързване с докинг станция или при спящ режим и зареждане</string>
     <string name="screensaver_settings_summary_either_short">И в двата случая</string>

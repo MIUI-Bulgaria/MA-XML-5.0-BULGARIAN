@@ -430,8 +430,6 @@
   <string name="bluetooth_enter_passkey_msg">"За сдвояване с:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Въведете паролата на устройството:"</string>
   <string name="bluetooth_enter_passkey_other_device">Възможно е да има нужда от въвеждане на тази парола и на другото устройство.</string>
   <string name="bluetooth_enter_pin_msg">"За сдвояване с:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Въведете PIN кода на устройството:"</string>
-  <string name="bluetooth_enter_pin_msg_hs">"
-Въведете PIN код за сдвояване с \"%1$s\". [Включен е режим на повишена сигурност: Необходим е код от 16 символа]"</string>
   <string name="bluetooth_enter_pin_other_device">Възможно е да има нужда от въвеждане на PIN код и на другото устройство.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s иска достъп до вашите файлове и папки. Разрешавате ли достъп %2$s?</string>
@@ -2189,8 +2187,6 @@ for MAC"</li>"
   <string name="process_manage_title">Почистване на %1$d процеса за освобождаване на %2$s</string>
   <string name="process_manager_actionbar_title">Използване на паметта</string>
   <string name="process_mediaserver_label">Медиен сървър</string>
-  <string name="process_provider_in_use_description">%1$s се използва.</string>
-  <string name="process_service_in_use_description">%1$s се използва.</string>
   <string name="profile_info_settings_title">Информация за профила</string>
   <string name="progress_scanning">Търсене</string>
   <string name="protection_adb">Отстр. USB грешки</string>
@@ -2721,7 +2717,6 @@ for MAC"</li>"
   <string name="tether_settings_title_wifi">Мобилна точка за достъп</string>
   <string name="tethering_help_button_text">Помощ</string>
   <string name="time_picker_title">Време</string>
-  <string name="time_zone_auto_stub">Избери часова зона</string>
   <string name="timezone_settings">Часова зона</string>
   <string name="title_app_update_no">%d приложения имат актуализация</string>
   <string name="title_app_update_yes">Всички приложения са актуални</string>
@@ -3567,7 +3562,7 @@ for MAC"</li>"
   <string name="bluetooth_map_acceptance_dialog_text">%1$s иска достъп до съобщенията ви. Ще предоставите ли достъп до %2$s?</string>
   <string name="security_enable_widgets_title">Приспособления: Акт.</string>
   <string name="security_enable_widgets_disabled_summary">Деактивирано от администратора</string>
-  <string name="bluetooth_enter_pin_msg_hs">За сдвояване с: %1$s въведете PIN код, който устройствта изискват (16 или повече символа):</string>
+  <string name="bluetooth_enter_pin_msg_hs">За сдвояване с: %1$s въведете PIN код, който устройствата изискват (16 или повече символа):</string>
   <string name="bluetooth_profile_map">Достъп до съобщенията</string>
   <string name="bluetooth_map_profile_summary_connected">Има връзка с MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Да се използва за MAP</string>
