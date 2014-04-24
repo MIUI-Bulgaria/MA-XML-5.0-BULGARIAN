@@ -112,7 +112,6 @@
   <string name="ext_media_unmountable_notification_title">Повредено USB хранилище</string>
   <string name="filter_item_description">Можете да изберете типа и показването на известията от това приложение</string>
   <string name="filter_item_preview_image">Преглед</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Местоположението е зададено от GPS</string>
   <string name="gps_notification_searching_text">Търси се GPS</string>
   <string name="headset_custom">Персонализиране</string>

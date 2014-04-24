@@ -41,7 +41,6 @@
   <string name="express_inquiry_delivered">Доставено</string>
   <string name="express_inquiry_history">История</string>
   <string name="express_inquiry_indication">Номер за проследяване</string>
-  <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_logistics_indication">Куриерска фирма</string>
   <string name="express_inquiry_no_history">Няма история</string>
   <string name="express_inquiry_no_result">Няма резултати.</string>
