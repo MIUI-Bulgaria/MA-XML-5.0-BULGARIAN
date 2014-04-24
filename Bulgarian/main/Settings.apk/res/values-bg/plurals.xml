@@ -44,4 +44,12 @@
         <item quantity="other">Паролата трябва да съдържа поне %d символа различни от буква.</item>
         <item quantity="one">Паролата трябва да съдържа поне 1 символ различен от буква.</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Неправилен ПИН код за SIM картата – остава ви %d опит, преди да трябва да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Намерени са %1$s принтера</item>
+        <item quantity="one">Намерен е %1$s принтер</item>
+    </plurals>
 </resources>

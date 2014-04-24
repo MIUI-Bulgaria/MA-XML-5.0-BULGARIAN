@@ -421,7 +421,7 @@
   <string name="bluetooth_dun_connection_permission_request">Dun: заявка за връзка</string>
   <string name="bluetooth_dun_profile_summary_connected">Свързан към DUN сървър</string>
   <string name="bluetooth_dun_profile_summary_not_connected">Не е свързан към DUN сървър</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Използва се за достъп до Dial-up мрежа</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Да се използва за достъп до Dial-up мрежа</string>
   <string name="bluetooth_dun_remember_choice">"Не питай отново"</string>
   <string name="bluetooth_dun_request">DUN заявка</string>
   <string name="bluetooth_empty_list_bluetooth_off">Включете Bluetooth, за да видите устройствата.</string>
@@ -502,7 +502,7 @@
   <string name="bluetooth_sap_connection_permission_request">Заявка за Sap връзка</string>
   <string name="bluetooth_sap_profile_summary_connected">Свързан към сървър за достъп до SIM</string>
   <string name="bluetooth_sap_profile_summary_not_connected">Не е свързан към сървър за достъп до SIM</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Използва се за достъп до SIM картата</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Да се използва за достъп до SIM картата</string>
   <string name="bluetooth_sap_remember_choice">"Не питай отново"</string>
   <string name="bluetooth_sap_request">SAP заявка</string>
   <string name="bluetooth_scan_for_devices">Търсене на устройства</string>
@@ -535,9 +535,8 @@
   <string name="brightness_auto_adjust_off">Яркостта може да се регулира с помощта на плъзгача. Яркостта на екрана няма да се променя спрямо околната среда.</string>
   <string name="brightness_auto_adjust_on">Автоматичната яркост може да се регулира с помощта на плъзгача. Яркостта на екрана ще варира в зависимост от вашите настройки и околната среда.</string>
   <string name="brightness_summary">Регулиране на яркостта на екрана</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Разрешете наблюдението на Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Запишете всички Bluetooth HCI пакети към файл</string>
+  <string name="bt_hci_snoop_log_summary">Заснемане на всички Bluetooth HCI пакети във файла</string>
   <string name="bt_trace_log">Разрешете Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Разрешете Bluetooth Trace log</string>
   <string name="bugreport_in_power">Сигнали за програмни грешки в менюто за захранване</string>
@@ -634,7 +633,6 @@
   <string name="common_settings">Бързи настройки</string>
   <string name="complete_settings">Пълни настройки</string>
   <string name="computing_size">Изчисляване…</string>
-  <string name="config_list_label">Конфигурирани мрежи</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -1210,8 +1208,6 @@
   <string name="gadget_toggle_wifi">Актуализиране на настройките за Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Игрови контролер</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Настройката засяга всички потребители на този телефон.</string>
   <string name="global_font_change_title">Промяна на размера на шрифта</string>
   <string name="global_locale_change_title">Промяна на езика</string>
@@ -1258,22 +1254,6 @@
   <string name="heavy_weight_stop_description">Това приложение не може да бъде безопасно прекратено. Това може да доведе до загуба на сегашната Ви работа.</string>
   <string name="hello_world">Здравей Свят!</string>
   <string name="help_label">Помощ</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_dreams"/>
-  <string name="help_url_location_access"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_security"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_users"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Скрити SSID:</string>
   <string name="history_details_title">Подробности за историята</string>
   <string name="home_key">Бутон Начало</string>
   <string name="ime_security_warning">%1$s може да записва всеки въведен текст, включително лични данни (напр. пароли или номера на кредитни карти). Ще използвате ли този метод на въвеждане?</string>
@@ -1319,7 +1299,6 @@
   <string name="internal_storage">Системно хранилище</string>
   <string name="invalid_location">Невалидно място за инсталиране.</string>
   <string name="invalid_size_value">Не може да определи размера на пакета.</string>
-  <string name="ipaddr_label">"IP адрес: "</string>
   <string name="item_app_permission">Разрешения на приложение</string>
   <string name="item_garbage_size_1000m">1 ГБ</string>
   <string name="item_garbage_size_100m">100 МБ</string>
@@ -1377,7 +1356,6 @@
   <string name="license_title">Лиценз</string>
   <string name="line_breaking_summary">Оптимизирай пренасянето на текста</string>
   <string name="line_breaking_title">Оптимизиране на текст в абзац</string>
-  <string name="link_speed_label">"Скорост: "</string>
   <string name="list_sub_view_item_backup_uninstall">Архивиране и деинст.</string>
   <string name="list_sub_view_item_clean">Изчисти</string>
   <string name="list_sub_view_item_install">Инсталиране</string>
@@ -1477,7 +1455,6 @@
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Деактивирайте lte ram dump</string>
   <string name="lte_ram_dump_on">Активирайте lte ram dump</string> 
-  <string name="macaddr_label">"MAC адрес: "</string>
   <string name="main_running_process_description">Използва се основният процес.</string>
   <string name="man_add_application">Добави приложения за авт. стартиране</string>
   <string name="manage_device_admin">Администратори на устройството</string>
@@ -1690,8 +1667,6 @@ for MAC"</li>"
   <string name="network_assistant">Монитор за данни</string>
   <string name="network_detail">Детайли за мрежа %s</string>
   <string name="network_settings_title">Мобилни мрежи</string>
-  <string name="network_state_label">Състояние на мрежа:</string>
-  <string name="networkid_label">ID на мрежата:</string>
   <string name="networks">Избор на оператор</string>
   <string name="new_backup_pw_prompt">Въведете новата парола за пълни резервни копия.</string>
   <string name="new_bw_list_button">Добави контакт</string>
@@ -2347,12 +2322,14 @@ for MAC"</li>"
   <string name="reset_app_preferences">Нулиране на предпочитанията за приложения</string>
   <string name="reset_app_preferences_button">Нулиране на приложения</string>
   <string name="reset_app_preferences_desc">"Това ще нулира всички предпочитания за:
-"<li>деактивирани приложения,</li>"
-"<li>деактивирани известия от приложения,</li>"
-"<li>приложения, използвани по подразбиране за определени действия,</li>"
-"<li>ограниченията за данните във фонов режим за приложения.</li>"
 
-Данните на приложенията няма да бъдат изтрити."</string>
+ "<li>деактивираните приложения;</li>"
+ "<li>известията за деактивирани приложения;</li>"
+ "<li>стандартните приложения за действия;</li>"
+ "<li>ограниченията за данни на заден план за приложенията;</li>"
+ "<li>ограниченията за всички разрешения.</li>"
+
+ Няма да загубите данни от приложенията."</string>
   <string name="reset_app_preferences_title">Ще нулирате ли предпочитанията за приложения?</string>
   <string name="residual_cancel">Отказ</string>
   <string name="residual_clean">Почисти</string>
@@ -2385,7 +2362,6 @@ for MAC"</li>"
   <string name="roaming_warning_multiuser">"Разрешаването на роуминг на данни може да доведе до високи такси!
 
 Настройката засяга всички потребители на този телефон."</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Почистване на системата</string>
   <string name="running_process_item_removed_user_label">Премахнат потребител</string>
   <string name="running_process_item_user_label">Потребител: %1$s</string>
@@ -2402,7 +2378,6 @@ for MAC"</li>"
   <string name="runningservices_settings_title">Изпълнявани услуги</string>
   <string name="save_button">Запиши</string>
   <string name="scan_done">Сканирането завърши</string>
-  <string name="scan_list_label">Резултати от сканирането:</string>
   <string name="scanning_prefix">Сканиране: %s</string>
   <string name="scanning_start_hints">Подготовка…</string>
   <string name="scanning_virus">Сканиране…</string>
@@ -2648,7 +2623,6 @@ for MAC"</li>"
   <string name="spellchecker_quick_settings">Настройки</string>
   <string name="spellchecker_security_warning">Проверката на правописа е функция на приложението %1$s. Чрез нея е възможно да събира въведения текст, включително лични данни, пароли и номера на кредитни карти. Продължавате ли?</string>
   <string name="spellcheckers_settings_title">Проверка на правописа</string>
-  <string name="ssid_label">SSID:</string>
   <string name="start_checking_memory">Започва проверка на състоянието на паметта…</string>
   <string name="start_checking_protection">Започва проверка на защитата в реално време…</string>
   <string name="start_checking_trash">Започва проверка на кеша на приложенията…</string>
@@ -2700,14 +2674,12 @@ for MAC"</li>"
   <string name="subscription_02_summary">Задаване на опции за настройките на мрежата SUB2</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Изберете мрежов оператор</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Проверявай приложенията за вируси преди инсталиране</string>
   <string name="summary_mms">Филтрирай нежеланите съобщения (реклами, спам и др.)</string>
   <string name="summary_permission">Защитавай поверителността ми пред приложения от трети страни</string>
   <string name="summary_usb">Избягвай вируси, изпратени чрез USB връзка</string>
   <string name="summary_virus">Намерени вируси: %2$d</string>
   <string name="summary_virus_update">Обновявай вирусните дефиниции автоматично, когато има връзка с Wi-Fi</string>
-  <string name="supplicant_state_label">Състояние:</string>
   <string name="sync_active">Синхронизацията е активна</string>
   <string name="sync_automatically">Синхронизирай данните на приложение</string>
   <string name="sync_calendar">Календар</string>
@@ -2742,7 +2714,6 @@ for MAC"</li>"
   <string name="testing_phone_info">Информация за теелефона</string>
   <string name="testing_sim_toolkit">Инструменти на SIM</string>
   <string name="testing_usage_stats">Статистики на използването</string>
-  <string name="testing_wifi_info">Информация за Wi-Fi</string>
   <string name="tether_settings_title_all">Тетъринг и преносима т.достъп</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-тетъринг</string>
   <string name="tether_settings_title_usb">USB тетъринг</string>
@@ -3218,12 +3189,10 @@ for MAC"</li>"
   <string name="wifi_advanced_settings_label">IP настройки</string>
   <string name="wifi_advanced_titlebar">Разширени настройки за Wi-Fi</string>
   <string name="wifi_and_mobile_skipped_message">ПРЕДУПРЕЖДЕНИЕ: Телефонът няма да може да потвърди, че софтуерът ви е актуален.</string>
-  <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Автоматично свързване</string>
   <string name="wifi_available_title">Свързване към Wi-Fi</string>
   <string name="wifi_cancel">Отказ</string>
   <string name="wifi_certificate">Сертификат</string>
-  <string name="wifi_config_info">Wi-Fi настройки</string>
   <string name="wifi_configured_ap_list">Списък със запаметени AP</string>
   <string name="wifi_connect">Свързване</string>
   <string name="wifi_connect_failed_message">Телефонът не можа да се свърже с тази Wi-Fi мрежа.</string>
@@ -3257,9 +3226,7 @@ for MAC"</li>"
   <string name="wifi_display_summary_off">Изкл.</string>
   <string name="wifi_display_summary_on">Вкл.</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_dont_skip">Без пропускане</string>
   <string name="wifi_eap_anonymous">Анонимна идентичност</string>
   <string name="wifi_eap_ca_cert">CA сертификат</string>
@@ -3278,11 +3245,9 @@ for MAC"</li>"
   <string name="wifi_failed_save_message">Неуспешно записване на мрежата</string>
   <string name="wifi_forget">Забрави</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">В Самолетен режим</string>
   <string name="wifi_install_credentials">Инсталиране на сертификати</string>
   <string name="wifi_ip_address">IP адрес</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP настройки</string>
   <string name="wifi_ip_settings_invalid_dns">Въведете валиден DNS адрес.</string>
   <string name="wifi_ip_settings_invalid_gateway">Въведете валиден gateway адрес.</string>
@@ -3302,7 +3267,6 @@ for MAC"</li>"
   <string name="wifi_menu_wps_pin">Въвеждане на WPS PIN</string>
   <string name="wifi_more">Още</string>
   <string name="wifi_network_prefix_length">Дължина на префикса на мрежата</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Извън обхват</string>
   <string name="wifi_notify_open_networks">Известие за мрежа</string>
   <string name="wifi_notify_open_networks_summary">Известие при налична отворена мрежа</string>
@@ -3454,14 +3418,7 @@ for MAC"</li>"
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Въведете SSID</string>
   <string name="wifi_starting">Включване на Wi-Fi…</string>
-  <string name="wifi_state_disabled">Изключено</string>
-  <string name="wifi_state_disabling">Изключване</string>
-  <string name="wifi_state_enabled">Включено</string>
-  <string name="wifi_state_enabling">Включване</string>
-  <string name="wifi_state_label">Състояние на Wi-Fi:</string>
-  <string name="wifi_state_unknown">Неизвестно</string>
   <string name="wifi_status">Статус</string>
-  <string name="wifi_status_test">Wi-Fi статус</string>
   <string name="wifi_stopping">Изключване на Wi-Fi…</string>
   <string name="wifi_suspend_optimizations">Wi-Fi да се оптимизира</string>
   <string name="wifi_suspend_optimizations_summary">Намаляване на използването на батерията, когато Wi-Fi е включен</string>
@@ -3476,7 +3433,6 @@ for MAC"</li>"
   <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
   <string name="wifi_unchanged">(без промяна)</string>
   <string name="wifi_unspecified">(неопределен)</string>
-  <string name="wifi_update">Обнови статистиката</string>
   <string name="wifi_wapi_as_cert">AS сертификат</string>
   <string name="wifi_wapi_cert_cancel_button">Отказ</string>
   <string name="wifi_wapi_cert_create_subdir">Създайте папка</string>
@@ -3605,4 +3561,187 @@ for MAC"</li>"
   <string name="pref_category_title_module_settings">Настройки на модулите</string>
   <string name="dialog_title_load_cleanup_engine_error">Грешка</string>
   <string name="dialog_msg_load_cleanup_engine_error">Модулът за почистване е повреден, трябва да преинсталирате ROM-а!</string>
+  <string name="bluetooth_connected_no_map">Има връзка (няма достъп до съобщенията)</string>
+  <string name="bluetooth_remember_choice">Без повторно питане</string>
+  <string name="bluetooth_map_request">Заявка за достъп до съобщенията</string>
+  <string name="bluetooth_map_acceptance_dialog_text">%1$s иска достъп до съобщенията ви. Ще предоставите ли достъп до %2$s?</string>
+  <string name="security_enable_widgets_title">Приспособления: Акт.</string>
+  <string name="security_enable_widgets_disabled_summary">Деактивирано от администратора</string>
+  <string name="bluetooth_enter_pin_msg_hs">За сдвояване с: %1$s въведете PIN код, който устройствта изискват (16 или повече символа):</string>
+  <string name="bluetooth_profile_map">Достъп до съобщенията</string>
+  <string name="bluetooth_map_profile_summary_connected">Има връзка с MAP</string>
+  <string name="bluetooth_map_profile_summary_use_for">Да се използва за MAP</string>
+  <string name="wifi_display_enable_menu_item">Активиране на безжичния дисплей</string>
+  <string name="wifi_display_status_in_use">Използва се</string>
+  <string name="wifi_display_status_not_available">Не е налице</string>
+  <string name="wifi_disabled_association_rejected">Асоциирането е отхвърлено</string>
+  <string name="home_settings">Начало</string>
+  <string name="sim_pin_change_failed_enable_sim_lock">Активирайте заключването на SIM/RUIM картата преди да промените PIN кода</string>
+  <string name="sim_enable_disable_lock_not_supported">Заключването не се поддържа от тази SIM/RUIM карта</string>
+  <string name="wrong_pin_code_pukked">Неправилен ПИН код за SIM картата – сега трябва да се свържете с оператора си, за да отключите устройството.</string>
+  <string name="pin_failed">Операцията с ПИН кода за SIM картата не бе успешна!</string>
+  <string name="sms_application_title">Стандартно приложение за SMS</string>
+  <string name="sms_change_default_dialog_title">Да се промени ли приложението за SMS?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Да се използва ли %s вместо %s като приложение за SMS?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Да се използва ли %s като приложение за SMS?</string>
+  <string name="location_mode_title">Режим</string>
+  <string name="location_mode_high_accuracy_title">Висока точност</string>
+  <string name="location_mode_battery_saving_title">Запазване на батерията</string>
+  <string name="location_mode_sensors_only_title">Само на устройството</string>
+  <string name="location_mode_location_off_title">Местоположението е изключено</string>
+  <string name="location_category_recent_location_requests">Скорошни заявки за местопол.</string>
+  <string name="location_no_recent_apps">Нито едно приложение не е заявило достъп до местоположението наскоро</string>
+  <string name="location_category_location_services">Услуги за местоположение</string>
+  <string name="location_high_battery_use">Висок разход на батерията</string>
+  <string name="location_low_battery_use">Нисък разход на батерията</string>
+  <string name="location_mode_screen_title">Режим за местоположението</string>
+  <string name="location_mode_high_accuracy_description">Използване на GPS, Wi-Fi и мобилни мрежи за установяване на местоположението</string>
+  <string name="location_mode_battery_saving_description">Използване на Wi-Fi и мобилни мрежи за установяване на местоположението</string>
+  <string name="location_mode_sensors_only_description">Използване на GPS за установяване на местоположението ви</string>
+  <string name="location_loading_injected_setting">Извлича се…</string>
+  <string name="location_category_enhanced_location">Подобрено местоположение</string>
+  <string name="app_ops_settings_summary">Управление на разрешенията на приложението</string>
+  <string name="select_runtime_title">Избор на изпълним модул</string>
+  <string name="select_runtime_dialog_title">Избор на изпълним модул</string>
+  <string name="select_runtime_warning_message">Да се рестартира ли за промяна на изпълнимия модул от „%1$s“ на „%2$s“?</string>
+  <string name="wifi_display_certification">Сертифициране на безжичния дисплей</string>
+  <string name="wifi_display_certification_summary">Показване на опциите за сертифициране на безжичния дисплей</string>
+  <string name="enable_quickboot_title">Активиране на QuickBoot режим</string>
+  <string name="enable_quickboot_summary">Поставяне на устройството в QuickBoot режим вместо нормално изключване.</string>
+  <string name="enable_terminal_summary">Актив. на прил. за терминал с достъп до локалния команден ред</string>
+  <string name="enable_terminal_title">Локален терминал</string>
+  <string name="accessibility_captioning_title">Надписи</string>
+  <string name="captioning_background_color">Цвят на фона</string>
+  <string name="captioning_background_opacity">Плътност на фона</string>
+  <string name="captioning_custom_options_title">Персонализирани опции</string>
+  <string name="captioning_edge_color">Цвят на контура</string>
+  <string name="captioning_edge_type">Тип на контура</string>
+  <string name="captioning_foreground_color">Цвят на текста</string>
+  <string name="captioning_locale">Език</string>
+  <string name="captioning_preset">Стил на надписите</string>
+  <string name="captioning_preview_characters">Aa</string>
+  <string name="captioning_preview_text">Надписите ще изглеждат така</string>
+  <string name="captioning_preview_title">Визуализация</string>
+  <string name="captioning_standard_options_title">Стандартни опции</string>
+  <string name="captioning_text_size">Размер на текста</string>
+  <string name="captioning_typeface">Семейство шрифтове</string>
+  <string name="locale_default">По подразбиране</string>
+  <string name="color_black">Черен</string>
+  <string name="color_blue">Син</string>
+  <string name="color_cyan">Синьозелен</string>
+  <string name="color_gray">Сив</string>
+  <string name="color_green">Зелен</string>
+  <string name="color_magenta">Пурпурен</string>
+  <string name="color_none">Без</string>
+  <string name="color_red">Червен</string>
+  <string name="color_white">Бял</string>
+  <string name="color_yellow">Жълт</string>
+  <string name="print_blocked_state_title_template">Принтерът блокира при „%1$s“</string>
+  <string name="print_cancel">Отказ</string>
+  <string name="print_cancelling_state_title_template">„%1$s“ се анулира</string>
+  <string name="print_failed_state_title_template">Грешка в принтера при „%1$s“</string>
+  <string name="print_feature_state_off">Изключено</string>
+  <string name="print_feature_state_on">Включено</string>
+  <string name="print_job_summary">"%1$s
+%2$s"</string>
+  <string name="print_menu_item_add_printer">Добавяне на принтер</string>
+  <string name="print_menu_item_add_printers">Добавяне на принтери</string>
+  <string name="print_menu_item_add_service">Добавяне на услуга</string>
+  <string name="print_menu_item_search">Търсене</string>
+  <string name="print_menu_item_settings">Настройки</string>
+  <string name="print_no_printers_found">Няма намерени принтери</string>
+  <string name="print_no_services_installed">Няма инсталирани услуги</string>
+  <string name="print_print_job">Задание за отпечатване</string>
+  <string name="print_print_jobs">Задания за отпечатване</string>
+  <string name="print_printing_state_title_template">„%1$s“ се отпечатва</string>
+  <string name="print_restart">Рестартиране</string>
+  <string name="print_search_box_hidden_utterance">Полето за търсене е скрито</string>
+  <string name="print_search_box_shown_utterance">Полето за търсене е показано</string>
+  <string name="print_searching_for_printers">Търсят се принтери</string>
+  <string name="print_service_disabled">Услугата е деактивирана</string>
+  <string name="print_service_security_warning_summary">По пътя към принтера документът ви може да премине през един или повече сървъри.</string>
+  <string name="print_service_security_warning_title">Да се използва ли %1$s?</string>
+  <string name="print_settings">Отпечатване</string>
+  <string name="print_settings_title">Услуги за отпечатване</string>
+  <string name="usage_type_data_wifi_recv">Данните през Wi-Fi са получени</string>
+  <string name="usage_type_data_wifi_send">Данните през Wi-Fi са изпратени</string>  
+  <string name="process_provider_in_use_description">Доставчикът %1$s се използва.</string>
+  <string name="process_service_in_use_description">Услугата %1$s се използва.</string>
+  <string name="process_stats_avg_ram_use">Средно използване на RAM</string>
+  <string name="process_stats_max_ram_use">Максимално използване на RAM</string>
+  <string name="process_stats_memory_status">Понастоящем състоянието на паметта на устройството е %1$s</string>
+  <string name="process_stats_run_time">Време на използване</string>
+  <string name="process_stats_summary">Подробни статистически данни за изпълняващите се процеси</string>
+  <string name="process_stats_summary_title">Статистика на процесите</string>
+  <string name="process_stats_total_duration">Приложения (%1$s) за %2$s</string>
+  <string name="process_stats_type_background">заден план</string>
+  <string name="process_stats_type_cached">кеширани</string>
+  <string name="process_stats_type_foreground">преден план</string>
+  <string name="app_memory_use">Използвана памет</string>
+  <string name="services_subtitle">Услуги</string>
+  <string name="menu_proc_stats_duration">Продължителност</string>
+  <string name="menu_proc_stats_type">Тип статистически данни</string>
+  <string name="menu_proc_stats_type_background">Заден план</string>
+  <string name="menu_proc_stats_type_cached">Кеширани</string>
+  <string name="menu_proc_stats_type_foreground">Преден план</string>
+  <string name="menu_duration_12h">12 часа</string>
+  <string name="menu_duration_1d">1 ден</string>
+  <string name="menu_duration_3h">3 часа</string>
+  <string name="menu_duration_6h">6 часа</string>
+  <string name="menu_show_system">Показване на системните процеси</string>
+  <string name="menu_use_uss">Използване на USS</string>
+  <string name="tts_lang_not_selected">Езикът не е избран</string>
+  <string name="tts_default_sample_string">Това е пример за синтезиране на говор</string>
+  <string name="tts_status_title">Състояние на основния език</string>
+  <string name="tts_status_ok">%1$s се поддържа напълно</string>
+  <string name="tts_status_requires_network">За %1$s се изисква връзка с мрежа</string>
+  <string name="tts_status_not_supported">%1$s не се поддържа</string>
+  <string name="tts_status_checking">Проверява се...</string>
+  <string name="gadget_location">Местоположение</string>
+  <string name="debug_hw_overdraw">Отстран. на проблеми, свързани с преизчертаване от ГП</string>
+  <string name="force_rtl_layout_all_locales">Принуд. оформл. отдясно наляво</string>
+  <string name="force_rtl_layout_all_locales_summary">Принуд. оформл. на екрана отдясно наляво за вс. локали</string>
+  <string name="data_usage_tab_slot">SIM </string>
+  <string name="no_sim_info">"Информацията за SIM картата не е налична.
+Менюто е недостъпно"</string>
+  <string name="subs_settings">Статут на абонамент</string>
+  <string name="set_priority_sub_error">Не може да настроите приоритет на абонамента, абонамента е неактивен</string>
+  <string name="prompt">Prompt</string>
+  <string name="prompt_user">Prompt User</string>
+  <string name="ssl_ca_cert_warning">Мрежата може да се наблюдава</string>
+  <string name="ssl_ca_cert_warning_message">"Трета страна може да наблюдава активността ви в мрежата, включително имейлите, приложенията и защитените уебсайтове.
+
+Това е възможно благодарение на инсталирани на устройството ви надеждни идентификационни данни."</string>
+  <string name="done_button">Готово</string>
+  <string name="ssl_ca_cert_dialog_title">Наблюдение на мрежата</string>
+  <string name="ssl_ca_cert_info_message">"Това устройство се управлява от:
+%s
+
+Администраторът ви може да наблюдава активността ви в мрежата, включително имейлите, приложенията и защитените уебсайтове.
+
+За повече информация се свържете с него."</string>
+  <string name="ssl_ca_cert_settings_button">Проверка на надеждните идентификационни данни</string>
+  <string name="tune_away_title">Tune Away</string>
+  <string name="tune_away_enabled">TuneAway е активиран!</string>
+  <string name="tune_away_disabled">TuneAway е деактивиран!</string>
+  <string name="priority_sub_title">Priority Subscription</string>
+  <string name="priority_sub_summary">Select Priority Subscription</string>
+  <string name="home_app_uninstall_button">Деинсталиране на това приложение</string>
+  <string name="only_one_home_message">Настройките за началния екран ще бъдат скрити, докато не инсталирате друго приложение за него.</string>
+  <string name="nfc_payment_learn_more">Научете повече</string>
+  <string name="nfc_payment_menu_item_add_service">Намиране на приложения</string>
+  <string name="nfc_payment_no_apps">Платете само с едно докосване</string>
+  <string name="nfc_payment_set_default">Винаги ли да се използва %1$s с функцията „докоснете и платете“?</string>
+  <string name="nfc_payment_set_default_instead_of">Винаги ли да се използва %1$s вместо %2$s с функцията „докоснете и платете“?</string>
+  <string name="nfc_payment_set_default_label">Да се зададе ли като ваше предпочитание?</string>
+  <string name="nfc_payment_settings_title">Докоснете и платете</string>
+  <string name="restriction_settings_title">Ограничения</string>
+  <string name="restriction_menu_change_pin">Промяна на ПИН кода</string>
+  <string name="restriction_menu_reset">Oграничения: Премахване</string>
+  <string name="incoming_call_breathing_light_freq_title">Честота на премигване при обаждания</string>
+  <string name="notification_breathing_light_freq_title">Честота на премигване при известия</string>
+  <string name="mms_breathing_light_freq_title">Честота на премигване при съобщения</string>
+  <string name="incoming_call_breathing_light_color_title">Цвят на LED за обаждания</string>
+  <string name="notification_breathing_light_color_title">Цвят на LED за известия</string>
+  <string name="mms_breathing_light_color_title">Цвят на LED за съобщения</string>
 </resources>
