@@ -3739,4 +3739,7 @@ for MAC"</li>"
   <string name="incoming_call_breathing_light_color_title">Цвят на LED за обаждания</string>
   <string name="notification_breathing_light_color_title">Цвят на LED за известия</string>
   <string name="mms_breathing_light_color_title">Цвят на LED за съобщения</string>
+  <string name="battery_history_days_no_seconds">%1$d д %2$d ч %3$d мин</string>
+  <string name="battery_history_hours_no_seconds">%1$d ч %2$d мин</string>
+  <string name="battery_history_minutes_no_seconds">%1$d мин</string>
 </resources>

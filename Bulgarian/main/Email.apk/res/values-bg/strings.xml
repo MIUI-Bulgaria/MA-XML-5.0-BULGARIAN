@@ -684,4 +684,5 @@
 е с размер, превишаващ лимита за получаване"</string>
     <string name="outbox_alert_button_confirm">Редактиране</string>
     <string name="blank_feedback_toast">Отзивът е празен, моля въведете отзив!</string>
+    <string name="contact_select">Изберете контакти</string>
 </resources>
