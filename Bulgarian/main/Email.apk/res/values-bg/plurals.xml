@@ -97,4 +97,8 @@
         <item quantity="other">Избрани: %d</item>
         <item quantity="one">Избрани: 1</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Избрани: %d</item>
+        <item quantity="one">1 избран</item>
+    </plurals>
 </resources>

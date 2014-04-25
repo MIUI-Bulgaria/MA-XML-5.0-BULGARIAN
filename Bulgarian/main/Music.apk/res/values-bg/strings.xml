@@ -232,7 +232,7 @@
   <string name="pay_service_guide_new">Достъпна е музика с високо качество</string>
   <string name="payment_fail">Плащането се провали!</string>
   <string name="payment_success">Успешно плащане!</string>
-  <string name="play_all">Възпроизведи всички</string>
+  <string name="play_all">Пусни всички</string>
   <string name="play_and_download">Слушайте и изтегляйте</string>
   <string name="play_and_download_summary">Автоматично изтегляне на песни, прослушани онлайн</string>
   <string name="play_selection">Възпроизведи</string>
@@ -341,4 +341,11 @@
   <string name="vip_recommend_title">Музика с по-високо качество</string>
   <string name="where_is_barcode">"Къде е QR кодът?"</string>
   <string name="xiaomi_account_setting">Xiaomi профил</string>
+  <string name="load_recommend_in_process">Зарежда се…</string>
+  <string name="load_recommend_failed">Неуспешно зареждане на списъка</string>
+  <string name="click_to_play_all">Пусни всички</string>
+  <string name="collect_topic_success">Албумът е добавен към любими</string>
+  <string name="collect_bill_success">Сметката е добавена към любими</string>
+  <string name="collect_fm_success">Добавено към любими</string>
+  <string name="uncollect_success">Премахнато от любими</string>
 </resources>

@@ -465,7 +465,7 @@
     <string name="no_mails">Няма имейли</string>
     <string name="no_matched_attachment">Няма съвпадащи прик. файлове!</string>
     <string name="non_synced_folder_description">За да видите кореспонденциите, синхронизирайте тази папка.</string>
-    <string name="not_subject">Няма тема</string>
+    <string name="not_subject">(Няма тема)</string>
     <string name="not_synced_title">Профилът не е синхронизиран</string>
     <string name="not_updated_yet">Не е обновено</string>
     <string name="notification_action_archive">Архивиране</string>
@@ -675,4 +675,13 @@
     <string name="wrong_password">Грешна парола!</string>
     <string name="yes">Да</string>
     <string name="zip_viewer_no_file">Няма файлове!</string>
+    <string name="request_entity_large">Файлът е твърде голям!</string>
+    <string name="conversation_item_mark_read">Прочетено</string>
+    <string name="conversation_item_mark_unread">Непрочетено</string>
+    <string name="default_signature">Изпратено чрез MIUI</string>
+    <string name="outbox_alert_title_sent_failed">Неуспешно изпращане</string>
+    <string name="outbox_alert_description_sent_failed">"Причина: Прикаченият файл
+е с размер, превишаващ лимита за получаване"</string>
+    <string name="outbox_alert_button_confirm">Редактиране</string>
+    <string name="blank_feedback_toast">Отзивът е празен, моля въведете отзив!</string>
 </resources>

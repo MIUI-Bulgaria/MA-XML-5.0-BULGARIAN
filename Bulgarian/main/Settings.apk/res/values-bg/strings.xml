@@ -1335,14 +1335,14 @@
   <string name="language_settings">Език и въвеждане</string>
   <string name="language_settings_category">Езикови настройки</string>
   <string name="large_font">Голям</string>
-  <string name="last_check_canceled">Препоръчва се сканиране: Предишното сканиране е прекъснато преди да завърши</string>
+  <string name="last_check_canceled">Предишното сканиране е прекъснато преди да завърши</string>
   <string name="last_check_date_today">Последно сканиране: Днес</string>
   <string name="last_check_date_yesterday">Последно сканиране: Вчера</string>
   <string name="last_check_never_checked">Препоръчва се сканиране (за първи път)</string>
   <string name="last_checked_date">Препоръчва се сканиране: Последното сканиране беше преди повече от 30 дни</string>
   <string name="last_checked_date2">Последното сканиране беше преди %d дни</string>
   <string name="last_checked_date_mark">Точки</string>
-  <string name="last_checked_default">Препоръчва се сканиране: Последното сканиране беше преди %s дни</string>
+  <string name="last_checked_default">Последното сканиране беше преди %s дни</string>
   <string name="last_synced">Последна синхронизация %1$s</string>
   <string name="launch_count_label">Брой</string>
   <string name="launcher_settings_title">MIUI launcher</string>

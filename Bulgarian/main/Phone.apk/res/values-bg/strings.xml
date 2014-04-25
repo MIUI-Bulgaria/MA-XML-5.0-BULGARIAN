@@ -1194,4 +1194,6 @@
   <string name="xdivert_sub_absent">И двата абонамента трябва да бъдат активни, за да ползвате X-Divert</string>
   <string name="xdivert_summary">Настройки на CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="callwait_open_hint">\"Изчакващо повикване\" е услуга, която се предоставя от вашия оператор. Ако видите съобщение \"Грешен MMI код\", обърнете се към оператора за помощ.</string>
+  <string name="open_miui">Отваряне</string>
 </resources>

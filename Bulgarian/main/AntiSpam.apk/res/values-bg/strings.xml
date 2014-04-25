@@ -139,7 +139,7 @@
   <string name="info_unantispam_phone">Приемане на обаждания</string>
   <string name="info_unantispam_phone_sms">Приемане на обаждания и съобщения</string>
   <string name="st_antispam_delete">Изтриване</string>
-  <string name="baidu_thanks">С подкрепата на Baidu</string>
+  <string name="baidu_thanks"/>
   <string name="note_list_none">Няма списък за редактиране</string>
   <string name="note_sms_none">Няма съобщения за редактиране</string>
   <string name="note_call_none">Нама списък с повиквания за редактиране</string>
