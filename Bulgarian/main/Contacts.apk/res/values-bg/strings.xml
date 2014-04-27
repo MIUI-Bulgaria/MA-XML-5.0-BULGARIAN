@@ -10,7 +10,6 @@
   <string name="account_unactivated">Профилът не е активиран.</string>
   <string name="actionIncomingCall">Входящи повиквания</string>
   <string name="action_menu_overflow_description">Допълнителни опции</string>
-  <string name="activity_not_found_uri">Не е намерено поддържащо приложение!</string>
   <string name="activity_title_confirm_add_detail">Добави към контакт</string>
   <string name="activity_title_contacts_filter">Контакти за показване</string>
   <string name="activity_title_settings">Настройки</string>
@@ -24,7 +23,6 @@
   <string name="add_new_account">Добави нов профил</string>
   <string name="add_new_entry_for_section">Добави</string>
   <string name="add_organization">Добави организация</string>
-  <string name="add_slide_before">Добавяне на слайд (отпред)</string>
   <string name="add_to_my_contacts">Добави в \"Моите контакти\"</string>
   <string name="add_wait">Добави пауза</string>
   <string name="add_xiaomi_account_dialog_btn">Използвайте Xiaomi профил</string>
@@ -152,13 +150,9 @@
   <string name="composer_failed_to_get_database_infomation">"Базата данни е недостъпна."</string>
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика Ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
@@ -198,7 +192,6 @@
   <string name="contacts_unavailable_add_account">Влезте в профила си</string>
   <string name="contacts_unavailable_create_contact">Създай нов контакт</string>
   <string name="contacts_unavailable_import_contacts">Импортиране на контакти от файл</string>
-  <string name="context_menu_add_to_browser_favorite">Добави към Любими в браузъра</string>
   <string name="copy_text">Копирай в буферната памет</string>
   <string name="createContactShortcutSuccessful">Добавена е икона за този контакт на началния екран.</string>
   <string name="create_group_dialog_title">Създаване на нова група</string>
@@ -383,7 +376,6 @@
   <string name="favoritesFrequentCalled">Често набирани</string>
   <string name="favoritesFrequentContacted">Често контактувани</string>
   <string name="favorites_list_empty">Няма любими</string>
-  <string name="forward_from">Прехвърлен от:</string>
   <string name="foundTooManyContacts">Открити са повече от %d.</string>
   <string name="frequency_none">Никога</string>
   <string name="frequency_three_days">На всеки 3 дни</string>
@@ -452,7 +444,6 @@
   <string name="import_weibo_error_unknown">Обновяване контакти: неизвестна грешка</string>
   <string name="import_weibo_error_user_cancel">Обновяване контакти: отменено от потребителя</string>
   <string name="import_weibo_fetch_followers">Изтегляне на Sina Weibo последователи…</string>
-  <string name="import_weibo_notification_title">Импортиране на Sina weibo контакти…</string>
   <string name="import_weibo_notification_title_done">Импортирането завърши</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -680,7 +671,6 @@
   <string name="postal_postcode">Пощенски код</string>
   <string name="postal_region">Област</string>
   <string name="postal_street">Улица</string>
-  <string name="pref_forward_title">Прехвърляне</string>
   <string name="pref_key_photo">Снимка</string>
   <string name="pref_key_photo_word_summary">Автоматично избиране на снимка за контакти без снимка.</string>
   <string name="pref_key_photo_word_title">Автоматична снимка на контакт</string>
@@ -689,11 +679,7 @@
   <string name="pref_key_sim_manage">Управление на SIM карта</string>
   <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Xiaomi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
-  <string name="pref_title_card_format">Формат за споделяне на карта</string>
-  <string name="pref_title_fwd_sender_info">Инф. за подателя на прехвърлянето</string>
   <string name="pref_title_import_from_account">Копирай в Xiaomi профил</string>
-  <string name="pref_title_miui_card">Изпрати чрез MiCard</string>
-  <string name="pref_title_vcard">Изпрати чрез vCard</string>
   <string name="preference_auto_ip_summary_disable">Не е разрешено</string>
   <string name="preference_auto_ip_summary_on">"IP на оператора: %s"</string>
   <string name="preference_auto_ip_title">Автоматично IP</string>
@@ -735,11 +721,9 @@
   <string name="preview_contact_card_title">Импортиране на визитка…</string>
   <string name="previous">назад</string>
   <string name="private_num">Частен номер</string>
-  <string name="processing">Обработка...</string>
   <string name="profile_display_name">Настройка на моя профил</string>
   <string name="profile_name">Моят профил</string>
   <string name="profile_name_photo">Аз</string>
-  <string name="progress_notifier_message" formatted="false">Импортиране %s/%s: %s</string>
   <string name="quickcontact_missing_app">Няма приложение, което да изпълни действието.</string>
   <string name="quit_dialog_confirm_title">Не сте обединявали контакти</string>
   <string name="readOnlyContactDeleteConfirmation">Този контакт съдържа информация от няколко профила. Информацията от профилите, които са само за четене ще бъде скрита от списъка с контакти, но няма да е изтрита.</string>
@@ -922,19 +906,16 @@
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Изчакване...</string>
   <string name="restore_nickname">Възстанови</string>
-  <string name="restore_to_phone_memory_failed">Не може да възстановите в паметта на телефона!</string>
-  <string name="restored_to_phone_memory">Възстановено в паметта на телефона!</string>
-  <string name="ret_sign">" "</string>
+  <string name="ret_sign">"
+"</string>
   <string name="returnCall">Обратно повикване</string>
   <string name="ringLabelsGroup">Мелодия</string>
   <string name="ringtone_volume_mute">Звукът е изключен.</string>
   <string name="save">Запиши</string>
   <string name="save_photo_progress">Записване на снимката…</string>
-  <string name="save_to_sim_failed">Не е съхранено в SIM картата! restored_to_phone_memory </string>
-  <string name="saved_to_sim">Съхранено в SIM картата!</string>
   <string name="savingContact">Записване на контакт…</string>
   <string name="savingDisplayGroups">Записване настройките на изгледа…</string>
-  <string name="scan">сканиране на устройство</string>
+  <string name="scan">Сканиране</string>
   <string name="scan_duplicate_message">Контакти с изцяло дублиращи се данни: %1$d</string>
   <string name="scan_merge">Търсене за дублиращи се контакти…</string>
   <string name="scanning">Сканиране…</string>
@@ -943,13 +924,13 @@
   <string name="sdcard_not_mounted_dialog_message">"Поставете SD карта."</string>
   <string name="sdcard_not_mounted_dialog_title">Не е открита SD карта</string>
   <string name="sdcard_status_changed_dialog_message">"Прекъснато! Моля, отворете приложението отново, за да актуализирате ресурсите."</string>
-  <string name="sdcard_status_changed_dialog_title">Статуса на SD картата е променен</string>
+  <string name="sdcard_status_changed_dialog_title">Статусът на SD картата е променен</string>
   <string name="searchHint">Търсене на контакти</string>
   <string name="search_results_searching">Търсене…</string>
   <string name="search_settings_description">Имена на вашите контакти</string>
   <string name="searching_vcard_message">Търсене на визитки в паметта…</string>
   <string name="select_all">Избери всички</string>
-  <string name="select_device">Изберете устройство за свързване</string>
+  <string name="select_device">Изберете устройство</string>
   <string name="select_groups">Избери групи</string>
   <string name="select_new_photo_from_photo_package">Избор на нова снимка от пакета</string>
   <string name="select_none">Нищо не е избрано, операцията е невалидна</string>
@@ -963,7 +944,6 @@
   <string name="service_provider">Доставчик на услугата</string>
   <string name="set_default">По подразбиране</string>
   <string name="set_photo_failed_msg">Грешка при задаване на аватар</string>
-  <string name="set_smsc_address_title_miui">Задай номер на SMS център</string>
   <string name="share_error">Този контакт не може да бъде споделен</string>
   <string name="share_via">Споделяне чрез</string>
   <string name="share_visible_contacts">Сподели контакти</string>
@@ -977,9 +957,6 @@
   <string name="simContacts_emptyLoading">Зареждане на контакти от SIM картата…</string>
   <string name="simContacts_title">Контакти на SIM карта</string>
   <string name="sim_capacity_content" formatted="false">Общо %d, използвано %d</string>
-  <string name="sim_card1">SIM 1</string>
-  <string name="sim_card2">SIM 2</string>
-  <string name="sim_card_cloud">%s (Облачно съобщение)</string>
   <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Размаркирай всички</string>
@@ -1046,7 +1023,6 @@
   <string name="strequentList">Любими</string>
   <string name="success_message_import_from_account">Успешно импортиране</string>
   <string name="summary_kind_title">Инфо:</string>
-  <string name="t9_search_guide">Въведи номер или намери контакти с помощта на Т9</string>
   <string name="t9_search_guide_pinyin">Въведете 32 за търсене на Димитър Бербатов</string>
   <string name="t9_search_guide_zhuyin">Въведете 32 за търсене на Димитър Бербатов</string>
   <string name="take_new_photo">Направи нова снимка</string>
@@ -1071,7 +1047,6 @@
   <string name="type_missed">Пропуснато обаждане</string>
   <string name="type_mx_msg">Облачно съобщения</string>
   <string name="type_outgoing">Изходящо обаждане</string>
-  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Гласова поща</string>
   <string name="unknown">Неизвестно</string>
   <string name="unknown_contact_name">Неизвестен контакт</string>
@@ -1140,4 +1115,7 @@
   <string name="imei_invalid">Невалиден IMEI</string>
   <string name="meid_invalid">Невалиден MEID</string>
   <string name="sim_error_not_ready">Зареждане на SIM контакти…</string>
+  <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
+  <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
+  <string name="sim_contact_invalid">Невалиден SIM контакт</string>
 </resources>

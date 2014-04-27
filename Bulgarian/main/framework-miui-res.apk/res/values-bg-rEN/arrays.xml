@@ -13,4 +13,14 @@
         <item>Адрес</item>
         <item>Бележка</item>
     </string-array>
+    <string-array name="alarm_in_future">
+        <item>Аларма след по-малко от минута</item>
+        <item>Аларма след %1$s</item>
+        <item>Аларма след %2$s</item>
+        <item>Аларма след %1$s %2$s</item>
+        <item>Аларма след %3$s</item>
+        <item>Аларма след %1$s %3$s</item>
+        <item>Аларма след %2$s %3$s</item>
+        <item>Аларма след %1$s %2$s %3$s</item>
+    </string-array>
 </resources>

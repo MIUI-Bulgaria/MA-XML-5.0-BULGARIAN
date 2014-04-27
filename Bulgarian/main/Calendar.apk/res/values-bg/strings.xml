@@ -174,7 +174,7 @@
   <string name="preferences_default_reminder_title">Време за напомняне</string>
   <string name="preferences_general_title">Настройки на изгледа на календар</string>
   <string name="preferences_hide_declined_title">Скрий отменени събития</string>
-  <string name="preferences_home_tz_default">Europe/Sofia</string>
+  <string name="preferences_home_tz_default">Europe/Athens</string>
   <string name="preferences_home_tz_title">Часови пояс</string>
   <string name="preferences_reminder_title">Настройки на напомняния</string>
   <string name="preferences_show_week_num_title">Показване номера на седмицата</string>
