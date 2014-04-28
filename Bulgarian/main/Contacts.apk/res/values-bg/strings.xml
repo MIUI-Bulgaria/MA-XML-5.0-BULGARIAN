@@ -150,10 +150,6 @@
   <string name="composer_failed_to_get_database_infomation">"Базата данни е недостъпна."</string>
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика Ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
   <string name="confirm_delete_sim_entry_miui">Ще изтриете ли избраните контакти от SIM картата (%d бр.)?</string>
@@ -381,7 +377,6 @@
   <string name="frequency_three_days">На всеки 3 дни</string>
   <string name="frequency_weekly">Всяка седмица</string>
   <string name="frequentList">Често използвани</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Име</string>
   <string name="generic_no_account_prompt">Запазете своите контакти в безопасност дори ако загубите телефона си: синхронизирайте ги с онлайн услуга.</string>
   <string name="generic_no_account_prompt_title">Добави профил</string>

@@ -800,7 +800,6 @@
   <string name="debug_drawing_category">Начертаване</string>
   <string name="debug_hw_drawing_category">Хардуерно ускорение на начертаването</string>
   <string name="debug_input_category">Въвеждане</string>
-  <string name="debug_intent_sender_label">Отстр. на intent sender грешки</string>
   <string name="debug_layout">Покажи границите</string>
   <string name="debug_layout_summary">Покажи границите, полетата и др.</string>
   <string name="debug_log">Регистър за отстр. на грешки</string>
@@ -3317,19 +3316,9 @@ for MAC"</li>"
   <string name="wifi_security">Защита</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Няма</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">При настройването на чеатотната лента възникна проблем.</string>
   <string name="wifi_setting_frequency_band_summary">Моля, посочете работния честотен диапазон</string>
   <string name="wifi_setting_frequency_band_title">Честотна лента на Wi-Fi</string>
