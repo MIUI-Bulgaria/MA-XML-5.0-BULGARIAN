@@ -180,7 +180,7 @@
     <string name="micloud_intro_03_part_02">Локализиране, заключване или изтриване на съдържанието на телефона от i.xiaomi.com</string>
     <string name="micloud_is_what">Какво е Mi Cloud?</string>
     <string name="micloud_more">Научете повече</string>
-    <string name="micloud_none">Никой</string>
+    <string name="micloud_none">Няма</string>
     <string name="micloud_password_confirm_hint">Потвърдете паролата</string>
     <string name="micloud_password_error_inconsistent">Паролите не съвпадат</string>
     <string name="micloud_password_req_notice">8~16 символа, числа, букви от азбуката, главни и малки букви</string>
