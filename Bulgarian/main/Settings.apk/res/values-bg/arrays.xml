@@ -26,9 +26,9 @@
         <item>Никога</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Производителност</item>
+        <item>Производително</item>
         <item>Балансирано</item>
-        <item>Балансирано</item>
+        <item>Икономично</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Никога</item>
