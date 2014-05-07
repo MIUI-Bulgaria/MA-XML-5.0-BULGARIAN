@@ -6,7 +6,7 @@
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_city_find_gps_error">Изберете ръчно град от списъка</string>
     <string name="act_find_city_hint">Въведете град</string>
-    <string name="act_find_city_hot_title">Популярни градове</string>
+    <string name="act_find_city_hot_title">Добавяне</string>
     <string name="act_find_city_null_data">Няма съвпадения</string>
     <string name="act_find_city_title">Добавяне на град</string>
     <string name="act_init_dialog_finish">Добавени са глобални данни за времето.</string>
@@ -68,7 +68,7 @@
     <string name="location_management">Градове</string>
     <string name="location_notification">Известия за времето</string>
     <string name="menu_about">За програмата</string>
-    <string name="menu_add">Добавяне на места</string>
+    <string name="menu_add">Добавяне</string>
     <string name="menu_around">Наоколо</string>
     <string name="menu_delete">Изтрий</string>
     <string name="menu_location">Градове</string>
@@ -80,7 +80,7 @@
     <string name="menu_send_sms">Изпращане</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_share">Сподели</string>
-    <string name="menu_trend">Седмично</string>
+    <string name="menu_trend">Тенденция</string>
     <string name="network_unavailable">Няма връзка с мрежата</string>
     <string name="save_screen_shot_failed">Неуспешно запазване на екр. снимка</string>
     <string name="selected_format">Избрани: %d</string>
@@ -122,4 +122,13 @@
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
     <string name="widget_loading">Няма данни за времето</string>
+    <string name="location_tag">Локализиране</string>
+    <string name="act_weather_find_city_no_result">Няма резултати</string>
+    <string name="act_weather_find_city_added">Мястото е добавено</string>
+    <string name="act_weather_find_city_net_no_good">Не можа да се свърже с мрежата</string>
+    <string name="act_weather_find_city_click_retry">Опитай отново</string>
+    <string name="button_abandon">Отмени промените</string>
+    <string name="act_weather_cycle_no_forcast">Неизвестно</string>
+    <string name="edit_city">Редактиране</string>
+    <string name="gps_hint">Текуща позиция</string>
 </resources>

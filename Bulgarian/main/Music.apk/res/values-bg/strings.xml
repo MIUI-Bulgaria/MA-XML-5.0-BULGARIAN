@@ -348,4 +348,14 @@
   <string name="collect_bill_success">Сметката е добавена към любими</string>
   <string name="collect_fm_success">Добавено към любими</string>
   <string name="uncollect_success">Премахнато от любими</string>
+  <string name="dirac_mode_general_earbuds">Обикновени слушалки</string>
+  <string name="dirac_mode_general_inear">Тип \"тапи за уши\"</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
+  <string name="sync_alert_title">Синхр. на музиката</string>
+  <string name="sync_alert_message">Синхронизирайте любими ви песни между устройствата си с помощта на вашия Xiaomi профил.</string>
+  <string name="not_now">Не сега</string>
+  <string name="sync_disable_toast">Можете да активирате синхронизацията по-късно от Настройки > Профили > MiCloud</string>
+  <string name="login_and_enable">Вписване и синхрон</string>
+  <string name="sync_enable_toast">Можете да промените тази опция от Настройки > Профили > MiCloud</string>
 </resources>

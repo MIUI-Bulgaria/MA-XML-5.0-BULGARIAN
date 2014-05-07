@@ -78,8 +78,7 @@
   <string name="select_all">Избери всички</string>
   <string name="select_operation_items">Моля изберете елементи</string>
   <string name="selected_count">Избрани %1$d от %2$d</string>
-  <string name="xunlei_brand">Осигурява се от Xunlei</string>
-  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_brand"/>
   <string name="xunlei_switch">Xunlei изтегляне</string>
   <string name="turn_off_xunlei_title">Деактивиране на Xunlei изтегляне</string>
   <string name="turn_off_xunlei_message">Може да предизвика по-бавна скорост на изтегляне.</string>

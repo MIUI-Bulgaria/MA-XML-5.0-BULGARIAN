@@ -685,4 +685,10 @@
     <string name="outbox_alert_button_confirm">Редактиране</string>
     <string name="blank_feedback_toast">Отзивът е празен, моля въведете отзив!</string>
     <string name="contact_select">Изберете контакти</string>
+    <string name="wait_for_sync_body_txt_array_1">Exchange сървърът ще ви подкани в рамките на</string>
+    <string name="wait_for_sync_body_txt_array_2">1–30</string>
+    <string name="wait_for_sync_body_txt_array_3">секунди. Потвърдете настройките за защита и активиране. Изчакайте</string>
+    <string name="wait_for_sync_body_txt_array_4">известието на системата</string>
+    <string name="wait_for_sync_body_txt_array_5">.</string>
+    <string name="wait_for_sync_note">Плъзнете от горния край на екрана, за да видите известието. Натиснете, за да завършите.</string>
 </resources>

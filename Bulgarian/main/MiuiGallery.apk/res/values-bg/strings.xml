@@ -531,4 +531,20 @@
   <string name="widget_type_shuffle">Разбъркай всички снимки</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
+  <string name="bigscreen_video_quit">Докоснете за да спрете видеото</string>
+  <string name="confirm_delete_home_merge_item">Да се изтрият ли %s снимки от устройството и облака?</string>
+  <string name="deselect_all">Размаркирай всички</string>
+  <string name="device_model">Устройство</string>
+  <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>
+  <string name="error_not_acceptable">Грешки в сървъра. Синхронизацията е изключена.</string>
+  <string name="error_title">Грешка при синхронизация</string>
+  <string name="error_unauthorized">Синхронизацията е изключена, поради твърде много опити за влизане.</string>
+  <string name="fail_to_download_n_items">Изтеглянето на %s е неуспешно</string>
+  <string name="home_page_tab_cloud">Облак</string>
+  <string name="home_page_tab_local">Локално</string>
+  <string name="home_page_tab_photo">Снимки</string>
+  <string name="modified_time">Променено на</string>
+  <string name="photo_size">Размер</string>
+  <string name="taken_time">Заснето на</string>
+  <string name="yellow_page">Папка</string>
 </resources>

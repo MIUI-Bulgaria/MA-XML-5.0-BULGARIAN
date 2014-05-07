@@ -285,4 +285,19 @@
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Не могат да се изпращат съобщения в защитен режим</string>
+  <string name="sync_data_merge_warning_desc">Данните на %s във вашето устройство ще бъдат обединени с данните в облака, бъдете внимателни!</string>
+  <string name="sync_data_recover_warning_title">Предупреждение за възстановяване на данни</string>
+  <string name="sync_data_recover_warning_desc">Данните на %s във вашето устройство ще бъдат възстановени от облака, бъдете внимателни!</string>
+  <string name="sync_data_merge_warning_ok">Обединяване</string>
+  <string name="sync_data_merge_warning_cancel">Отказ</string>
+  <string name="sync_data_recover_warning_ok">Възстановяване</string>
+  <string name="sync_data_recover_warning_cancel">Отказ</string>
+  <string name="sync_data_contact">контакти</string>
+  <string name="sync_data_mms">SMS</string>
+  <string name="sync_data_cloud_album">облачни албуми</string>
+  <string name="sync_data_call_log">списъци с обаждания</string>
+  <string name="sync_data_notes">бележки</string>
+  <string name="sync_data_msg_seperate">, </string>
+  <string name="sync_data_loading">Получаване на информация от сървъра</string>
+  <string name="sync_data_merge_warning_title">Предупреждение за обединяване на данни</string>
 </resources>

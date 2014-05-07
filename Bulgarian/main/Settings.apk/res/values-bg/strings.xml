@@ -609,7 +609,7 @@
   <string name="choose_timezone">Избери часова зона</string>
   <string name="clean_confirm_title">Ще изтриете ли избраните файлове?</string>
   <string name="cleaner">Почистване</string>
-  <string name="cleaner_support_hints">С подкрепата на Clean Master</string>
+  <string name="cleaner_support_hints"/>
   <string name="cleanning_prefix">Почистване: %s</string>
   <string name="clear_activities">Изчисти настройките по подразбиране</string>
   <string name="clear_activities_summary">Задайте тази програма по подразбиране за някои действия</string>
@@ -1797,7 +1797,7 @@ for MAC"</li>"
   <string name="perm_check">Провери</string>
   <string name="perm_clean">Изчисти</string>
   <string name="perm_configuration">Настройка</string>
-  <string name="perm_copyright">Предоставено от: LBE Privacy Guard</string>
+  <string name="perm_copyright"/>
   <string name="perm_disable">Изключи</string>
   <string name="perm_enable">Включи монитора на разрешения</string>
   <string name="perm_good">Добре</string>
@@ -1936,7 +1936,7 @@ for MAC"</li>"
   <string name="perm_su_switch">ROOT достъп</string>
   <string name="perm_summary_disabled">Изкл</string>
   <string name="perm_summary_enabled">Вкл</string>
-  <string name="perm_support_hints">Поддръжка: LBE</string>
+  <string name="perm_support_hints"/>
   <string name="perm_sysopt_boost_auto_start">Права за автостарт</string>
   <string name="perm_sysopt_boost_auto_start_group">Автостарт</string>
   <string name="perm_sysopt_boost_auto_start_summary">Разреши автостарт на този процес</string>
@@ -3731,4 +3731,17 @@ for MAC"</li>"
   <string name="battery_history_days_no_seconds">%1$d д %2$d ч %3$d мин</string>
   <string name="battery_history_hours_no_seconds">%1$d ч %2$d мин</string>
   <string name="battery_history_minutes_no_seconds">%1$d мин</string>
+  <string name="dirac_mode_general_earbuds">Обикновени слушалки</string>
+  <string name="dirac_mode_general_inear">Тип \"тапи за уши\"</string>
+  <string name="dirac_mode_piston_1">Xiaomi Piston-1</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
+  <string name="msd_pc_system_install_start_summary_vista">"Под Windows Vista и по-нови версии на Windows, 
+%1$s ще се появи автоматично като USB хранилище"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s ще се появи автоматично като USB хранилище,
+ след като го свържете с компютъра си."</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"След инсталирането на този драйвер
+%1$s ще се появи автоматично като USB хранилище, когато е свързано с компютъра."</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"Под Windows Vista и по-нови версии на Windows,
+музикалния плейър на %1$s ще се появи автоматично на вашия компютър"</string>
 </resources>
