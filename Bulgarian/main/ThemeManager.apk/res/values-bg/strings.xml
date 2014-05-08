@@ -6,7 +6,7 @@
   <string name="all_resources">Всички</string>
   <string name="all_ringtone_resource">Всички</string>
   <string name="app_name">Теми</string>
-  <string name="apply_default_font_tip">Да продължи ли да се използва текущият шрифт на системата?"</string>
+  <string name="apply_default_font_tip">Да продължи ли да се използва текущият шрифт на системата?</string>
   <string name="apply_font_btn_exclude">Приложи без шрифта</string>
   <string name="apply_font_btn_reboot">Приложи и рестартирай</string>
   <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на телефона за прилагането му.</string>
