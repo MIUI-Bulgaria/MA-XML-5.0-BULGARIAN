@@ -507,7 +507,7 @@
   <string name="snapshot_go_live">Обновете</string>
   <string name="ssl_continue">Продължи</string>
   <string name="ssl_date_invalid">Този сертификат е с невалидна дата.</string>
-  <string name="ssl_expired">Този сертификатът е изтекъл.</string>
+  <string name="ssl_expired">Този сертификат е изтекъл.</string>
   <string name="ssl_go_back">Назад</string>
   <string name="ssl_invalid">Този сертификат е невалиден.</string>
   <string name="ssl_mismatch">"Името на страницата не съответства на името в сертификата."</string>
