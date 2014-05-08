@@ -802,6 +802,7 @@
   <string name="resource_comment_upload_success">Коментарът е изпратен! Ще бъде показан само след неговото одобрение.</string>
   <string name="resource_default">Мелодия по подразбиране</string>
   <string name="resource_default_name">Ресурси</string>
+  <string name="resource_delete">Изтриване</string>
   <string name="resource_delete_all">Сигурни ли сте, че искате да изтриете избраните ресурси (%1$d)?</string>
   <string name="resource_delete_confirm">Сигурни ли сте, че искате да изтриете ресурсите?</string>
   <string name="resource_delta_update_failed">Грешка при обновяване, трябва да изтеглите пълния ресурс</string>

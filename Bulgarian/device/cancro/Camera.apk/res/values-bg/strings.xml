@@ -406,6 +406,7 @@
   <string name="pref_scan_qrcode_title">Сканиране на QR код</string>
   <string name="pref_setting_title">Настройки</string>
   <string name="pref_settings_mode">Режим на камерата</string>
+  <string name="pref_touch_down_capture_title">Touch Down Capture</string>
   <string name="pref_video_captrue_ability_title">Снимка по време на запис</string>
   <string name="pref_video_focusmode_entry_auto">Докосване</string>
   <string name="pref_video_focusmode_entry_continuous">Продължителен</string>

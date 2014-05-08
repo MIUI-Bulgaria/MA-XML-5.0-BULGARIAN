@@ -6,6 +6,7 @@
   <string name="all_resources">Всички</string>
   <string name="all_ringtone_resource">Всички</string>
   <string name="app_name">Теми</string>
+  <string name="apply_default_font_tip">Да продължи ли да се използва текущият шрифт на системата?"</string>
   <string name="apply_font_btn_exclude">Приложи без шрифта</string>
   <string name="apply_font_btn_reboot">Приложи и рестартирай</string>
   <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на телефона за прилагането му.</string>
@@ -113,6 +114,7 @@
   <string name="resource_comment_version_name">(версия: %1$s)</string>
   <string name="resource_default">Мелодия по подразбиране</string>
   <string name="resource_default_name">Ресурс</string>
+  <string name="resource_delete">Изтриване</string>
   <string name="resource_delete_all">Сигурни ли сте, че искате да изтриете избраните ресурси (%1$d)?</string>
   <string name="resource_delete_confirm">Сигурни ли сте, че искате да изтриете ресурсите?</string>
   <string name="resource_delta_update_failed">Грешка при обновяване, трябва да изтеглите пълния ресурс</string>
@@ -256,6 +258,7 @@
   <string name="theme_current_using_has_update">Текущата тема беше обновена, натиснете тук за да я приложите</string>
   <string name="theme_description_title_customized">По избор</string>
   <string name="theme_description_title_default">По подразбиране</string>
+  <string name="theme_fresh_man_notifaction">Пробвайте някои нови теми.</string>
   <string name="theme_immediately_apply_tip">Темата беше обновена, ще я приложите ли сега?</string>
   <string name="theme_import_activity_label">Актуализиране на тема</string>
   <string name="theme_import_data">Импортиране на информацията.</string>
@@ -281,12 +284,14 @@
   <string name="theme_importing">Импортиране на теми...</string>
   <string name="theme_is_imported">Темата е импортирана!</string>
   <string name="theme_name">%1$s</string>
+  <string name="theme_no">Не</string>
   <string name="theme_sdcard_importing">Импортиране от SD карта...</string>
   <string name="theme_select_others">Други</string>
   <string name="theme_upgrade_request_cancel">Не</string>
   <string name="theme_upgrade_request_content">Темата трябва да се актуализира, за да работи правилно. Имате нужда от интернет връзка. Искате ли да продължите?</string>
   <string name="theme_upgrade_request_title">Актуализиране на тема</string>
   <string name="theme_upgrade_request_yes">Да</string>
+  <string name="theme_yes">Да</string>
   <string name="third_party_pickers_activity_title">Задай %1$s</string>
   <string name="title_component">Компоненти</string>
   <string name="title_local">Локални</string>
