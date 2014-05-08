@@ -504,13 +504,6 @@ phone will open automatically when connected to a computer."</item>
         <item>Google Now</item>
         <item>Затваря текущото приложение</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Никоя</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi и 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Никой</item>
         <item>Logcat</item>

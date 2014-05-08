@@ -315,9 +315,7 @@
   <string name="default_contacts_countrycode_sum_miui">Задаване на код по подразбиране за вашите контакти: %s</string>
   <string name="default_ims_call_type">Гласово</string>
   <string name="default_notification_description">Тон по подразбиране (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Не е настроен&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Изтриване</string>
   <string name="deleteAllSimEntries">Изтрий всички контакти от SIM карта</string>
   <string name="deleteSimContacts">Изтриване на контактите от SIM картата...</string>
@@ -963,7 +961,6 @@
   <string name="send_keepalive_summary">Изпращане на съобщения от SIP за проверка на връзката</string>
   <string name="separate_from_conference_miui">Единично обаждане</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Избирането на вида на предпочитана мрежа е активно само когато мобилните данни са изключени</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Използва се за изходящи обаждания</string>
   <string name="set_primary_title">Задай за осн. профил</string>
   <string name="set_smsc_address_error_miui">Неуспешно задаване на номера на SMS центъра.</string>

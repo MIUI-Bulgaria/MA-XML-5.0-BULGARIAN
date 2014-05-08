@@ -5,13 +5,6 @@
         <item>Скриване на номера</item>
         <item>Номерът да се показва</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Авт. CDMA / EvDo</item>
-        <item>Само WCDMA</item>
-        <item>Само GSM</item>
-        <item>Предпочита се GSM / WCDMA</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
         <item>CDMA</item>
