@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Баркод Скенер</string>
+    <string name="copy">Копиране</string>
+    <string name="name">Име:</string>
+    <string name="nickname">Псевдоним:</string>
+    <string name="company">Фирма:</string>
+    <string name="title">Титла:</string>
+    <string name="phone">Телефон:</string>
+    <string name="email">Имейл:</string>
+    <string name="web">Уеб:</string>
+    <string name="address">Адрес:</string>
+    <string name="birthday">Рожден ден:</string>
+    <string name="note">Бележка:</string>
+    <string name="add_to_contacts">Добави към контакт</string>
+    <string name="recognize">Разпознаване</string>
+    <string name="place_barcode_into_rectangle">Поставете QR кода или баркода вътре в правоъгълника на визьора</string>
+    <string name="open_flash_error">Неуспешно включване на светкавицата</string>
+    <string name="close_flash_error">Неуспешно изключване на светкавицата</string>
+    <string name="scan_fail">Неуспешно сканиране на кода</string>
+    <string name="vcard_prompt">Не може да се добави в контакти защото името липсва</string>
+    <string name="copy_succeed">Копирано</string>
+    <string name="fail_generate_barcode">Неуспешно генериране на QR или баркод</string>
+    <string name="scan_result">Резултати</string>
+    <string name="flash_lable">Светкавица</string>
+    <string name="picker_lable">Галерия</string>
+</resources>
