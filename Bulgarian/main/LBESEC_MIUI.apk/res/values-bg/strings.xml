@@ -223,4 +223,7 @@
   <string name="HIPS_Perm_RecordAudio">Запис на аудио</string>
   <string name="HIPS_Perm_RecordVideo">Запис на видео</string>
   <string name="HIPS_Perm_Picture">Фотографии</string>
+  <string name="HIPS_Perm_DisableKeyguard">Откл. на екрана</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Отключване на екрана</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s приложения могат да отключват екрана</string>
 </resources>

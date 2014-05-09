@@ -668,4 +668,8 @@ phone will open automatically when connected to a computer."</item>
         <item>Показване на областите за деутеранопия</item>
         <item>Показване на брояча на преизчертаване</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Разрешаване</item>
+        <item>Отказване</item>
+    </string-array>
 </resources>

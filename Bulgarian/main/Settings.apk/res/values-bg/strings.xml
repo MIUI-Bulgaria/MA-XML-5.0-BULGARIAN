@@ -3744,4 +3744,7 @@ for MAC"</li>"
 %1$s ще се появи автоматично като USB хранилище, когато е свързано с компютъра."</string>
   <string name="msd_pc_system_install_finish_summary_vista">"Под Windows Vista и по-нови версии на Windows,
 музикалния плейър на %1$s ще се появи автоматично на вашия компютър"</string>
+  <string name="dialog_title_auto_start_tips">За авт. стартиране</string>
+  <string name="dialog_message_auto_start_tips">Някои защитни приложения може погрешно да показват, че MIUI не им разрешава да стартират. За да проверите разрешенията на всяко приложение поотделно, отидете на Настройки > Приложения.</string>
+  <string name="button_text_known">Знам това</string>
 </resources>

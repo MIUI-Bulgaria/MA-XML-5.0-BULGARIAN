@@ -351,4 +351,5 @@
     <string name="micloud_error_invalid_phone_num">Невалиден телефонен номер</string>
     <string name="phone_num_hint_text">Телефонен номер</string>
     <string name="sim_unactivated_title">Вашата SIM карта не е активирана</string>
+    <string name="find_device_notice_p4">Когато SIM картата е променена, е възможно да бъде изпратено регистрационно SMS съобщение, за да продължи проследяването на устройството</string>
 </resources>
