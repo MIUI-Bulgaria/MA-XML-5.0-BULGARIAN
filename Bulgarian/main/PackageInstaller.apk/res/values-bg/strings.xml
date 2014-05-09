@@ -48,7 +48,7 @@
   <string name="perm_privacy_app_installed">Инсталирането завърши</string>
   <string name="perm_privacy_app_launch">Отвори</string>
   <string name="perm_privacy_app_trust">Вярвам на това приложение</string>
-  <string name="perm_privacy_app_trust_summary">MIUI ще следи това приложение</string>
+  <string name="perm_privacy_app_trust_summary">MIUI няма да следи това приложение</string>
   <string name="perm_sysopt_boost_auto_start">Разреши автостарт</string>
   <string name="perm_sysopt_boost_auto_start_summary">Приложението ще стартира автоматично</string>
   <string name="privacy_relative">Достъп до личните данни</string>

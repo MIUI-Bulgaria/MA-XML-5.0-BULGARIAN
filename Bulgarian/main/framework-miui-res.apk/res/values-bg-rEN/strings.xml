@@ -202,7 +202,7 @@
   <string name="sd_not_available_use_internal_storage">SD картата е недостъпна, записано във вътрешната памет</string>
   <string name="select">Избери</string>
   <string name="select_all">Избери всички</string>
-  <string name="send">Изпрати</string>
+  <string name="send">Сподели</string>
   <string name="send_sms_for_sync_notice">Ще бъде изпратено SMS съобщение за активиране. Продължи?</string>
   <string name="send_sms_for_sync_title">Изпрати SMS за активиране на Синхронизация</string>
   <string name="share">Сподели</string>
