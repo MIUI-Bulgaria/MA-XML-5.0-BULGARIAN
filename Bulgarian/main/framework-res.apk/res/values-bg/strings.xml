@@ -728,6 +728,9 @@
     <string name="keyguard_password_enter_password_code">Въведете парола, за да отключите</string>
     <string name="keyguard_password_enter_pin_password_code">Въведете ПИН, за да отключите</string>
     <string name="keyguard_password_wrong_pin_code">Неправилен ПИН код.</string>
+    <string name="keyguard_password_pin_failed">PIN операцията е неуспешна!</string>
+    <string name="keyguard_password_puk_failed">PUK операцията е неуспешна!</string>
+    <string name="keyguard_password_wrong_puk_code">Неправилен PUK!</string>
     <string name="keyguard_label_text">За да отключите, натиснете „Меню“ и после 0.</string>
     <string name="emergency_call_dialog_number_for_display">Спешен номер</string>
     <string name="lockscreen_carrier_default">Няма покритие.</string>
@@ -750,6 +753,16 @@
     <string name="lockscreen_missing_sim_instructions">Поставете SIM карта.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM картата липсва или е нечетлива. Поставете SIM карта.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM картата е Perso блокирана</string>
+    <string name="lockscreen_sim_pin_blocked">PIN1 е блокиран! Въведете PUK1, за да деблокирате PIN1.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 е блокиран! Въведете PUK1, за да деблокирате PIN1.</string>
+    <string name="lockscreen_sim_error_message_short">Невалидна карта.</string>
+    <string name="lockscreen_sim_error_message">SIM картата е невалидна.</string>
+    <string name="managed_roaming_dialog_cancel_button">Не</string>
+    <string name="managed_roaming_dialog_content">Открита е мрежа с ограничени услуги. Искате ли да предприемете търсене на мрежи?</string>
+    <string name="managed_roaming_dialog_ok_button">Да</string>
+    <string name="managed_roaming_title">Роуминг</string>
+    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
 Свържете се с оператора на безжичната си връзка, за да получите друга."</string>
     <string name="lockscreen_transport_prev_description">Бутон за предишния запис</string>
