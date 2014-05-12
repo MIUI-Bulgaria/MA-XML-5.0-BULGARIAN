@@ -136,12 +136,6 @@
         <item>Блокирано</item>
         <item>Временно избягване на лоши връзки</item>
     </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>ПАРОЛА</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Бутон</item>
         <item>ПИН от съответното устройство</item>
@@ -282,14 +276,6 @@
         <item>Най-много 2 процеса</item>
         <item>Най-много 3 процеса</item>
         <item>Най-много 4 процеса</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>VPN с PPTP</item>
