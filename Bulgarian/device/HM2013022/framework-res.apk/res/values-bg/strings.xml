@@ -1319,10 +1319,11 @@
     <string name="storage_external_usb">Външно USB хранилище</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Гласово отключване.</string>
     <string name="sd_accessing_swtich_user_title">Ще превключите ли потребителя?</string>
-    <string name="sd_accessing_swtich_user_message">Всички несъхранени данни в профила на собственика ще бъдат загубени или повредени.
+    <string name="sd_accessing_swtich_user_message">Всички несъхранени данни в профила на собственика ще бъдат загубени или повредени.</string>
     <string name="reboot_title">Рестарт</string>
     <string name="reboot_confirm">Да се рестартира ли телефонът?</string>
+    <string name="global_action_reboot">Рестарт</string>
     <string name="global_action_reboot_summary">Затворете всички приложения и рестартирайте телефона</string>
     <string name="gps_assistance_enable_title">Предупреждение</string>
-    <string name="gps_assistance_enable_message">Активиран е AGPS, за да се ускори работата на GPS.</string></string>
+    <string name="gps_assistance_enable_message">Активиран е AGPS, за да се ускори работата на GPS.</string>
 </resources>
