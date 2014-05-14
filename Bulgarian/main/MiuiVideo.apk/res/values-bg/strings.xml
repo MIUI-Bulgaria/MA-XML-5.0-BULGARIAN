@@ -334,4 +334,22 @@
     <string name="yestorday">Вчера</string>
     <string name="yinyuetai">YinYueTai</string>
     <string name="youku">Youku</string>
+    <string name="visit_postfix">| visited recently</string>
+    <string name="success_add_waitfornewset">follow success</string>
+    <string name="live_tabs_my">My Channel</string>
+    <string name="receive_ad_notify">Message notification/push function</string>
+    <string name="receive_ad_notify_summary">After the opening, to receive the latest and popular video notice</string>
+    <string name="download_delete">remove task</string>
+    <string name="cnlive">cnlive</string>
+    <string name="check_network">cannot connect to network, please check the network</string>
+    <string name="null_category">unknown</string>
+    <string name="null_videoname">unknown</string>
+    <string name="top_null_videoname">unknown videoname</string>
+    <string name="vp_select_ci">Select</string>
+    <string name="vp_offline">Offline</string>
+    <string name="vp_next_ci">Next</string>
+    <string name="vp_standard_definition">SD</string>
+    <string name="vp_high_definition">HD</string>
+    <string name="vp_super_definition">Super</string>
+    <string name="vp_full_high_definition">1080P</string>
 </resources>
