@@ -180,12 +180,6 @@
         <item>Брой стартирания</item>
         <item>Име на приложението</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>ПАРОЛА</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Няма</item>
         <item>PAP</item>
@@ -491,10 +485,10 @@ phone will open automatically when connected to a computer."</item>
         <item>Затваря текущото приложение</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Никой</item>
+        <item>Без</item>
         <item>Logcat</item>
-        <item>Systrace (графики)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Графика)</item>
+        <item>Извикване на стека при glGetError</item>
     </string-array>
     <string-array name="preferred_app_entries">
        <item>Launcher</item>

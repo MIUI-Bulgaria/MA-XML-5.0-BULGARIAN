@@ -1070,8 +1070,6 @@
   <string name="external_data_size_label">Данни в USB хранилище</string>
   <string name="factory_reset_summary">Може да изтриете личните си данни, или да изтриете избрани инсталирани приложения и да форматирате SD картата за да възстановите настройките по подразбиране.</string>
   <string name="failed_to_open_app_settings_toast">Неуспешно отваряне на настройките за %1$s</string>
-  <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-  <string name="fancy_icon_power_center">com.miui.powercenter</string>
   <string name="fcc_equipment_id">ID оборудване</string>
   <string name="filter">Филтър</string>
   <string name="filter_apps_all">Всички</string>
