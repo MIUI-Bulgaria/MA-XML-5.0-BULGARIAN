@@ -5,13 +5,13 @@
         <item>Всички приложения</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Браузър</item>
-	<item>Галерия</item>
-	<item>Диспечър на разрешения</item>
-	<item>Камера</item>
-	<item>Асистент за мобилни мрежи</item>
-	<item>История на Времето</item>
-	<item>Времето</item>
+        <item>Браузър</item>
+        <item>Галерия</item>
+        <item>Разрешения</item>
+        <item>Камера</item>
+        <item>Монитор на моб. данни</item>   
+        <item>Данни за времето</item>
+        <item>Времето</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакти</item>
