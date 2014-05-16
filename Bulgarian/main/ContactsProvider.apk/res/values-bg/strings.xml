@@ -19,7 +19,7 @@
   <string name="read_write_all_voicemail_label">Достъп до всички гласови съобщения</string>
   <string name="send_sms">Изпрати съобщение</string>
   <string name="sharedUserLabel">Приложения на ядрото на Android</string>
-  <string name="third_party_delete_contact_info">\"%s\" изтрива Ваши Xiaomi контакти! Моля използвайте системното приложение \"Контакти"\ за безопасното им премахване.</string>
+  <string name="third_party_delete_contact_info">\"%s\" изтрива Ваши Mi контакти! Моля използвайте системното приложение \"Контакти"\ за безопасното им премахване.</string>
   <string name="upgrade_msg">Обновяване на база данни с контакти.</string>
   <string name="upgrade_out_of_memory_notification_text">Изберете, за да завършите актуализацията.</string>
   <string name="upgrade_out_of_memory_notification_ticker">За актуализирането на контакта е нужна повече памет</string>

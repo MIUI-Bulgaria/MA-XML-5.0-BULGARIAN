@@ -179,7 +179,7 @@
   <string name="load_channel_in_process">Зареждане на списък с канали...</string>
   <string name="loading">Зареждане</string>
   <string name="login">Вход</string>
-  <string name="login_first">Първо влезте в Xiaomi профила си</string>
+  <string name="login_first">Първо влезте в Mi профила си</string>
   <string name="lrc_progress_modify">Задайте скоростта на текста на песента</string>
   <string name="lrc_progress_modify_helper">Регулиране скоростта на преминаване на текста на песента с плъзгане нагоре или надолу</string>
   <string name="lrc_search_failed">Текстът на песента не е намерен!</string>
@@ -343,7 +343,7 @@
   <string name="volume_alert_playback_alert_title">Предупреждение</string>
   <string name="volume_alert_playback_message">Продължителното слушане при висока сила на звука може да увреди слуха ви.</string>
   <string name="where_is_barcode">"Къде е QR кодът?"</string>
-  <string name="xiaomi_account_setting">Xiaomi профил</string>
+  <string name="xiaomi_account_setting">Mi профил</string>
   <string name="load_recommend_in_process">Зарежда се…</string>
   <string name="load_recommend_failed">Неуспешно зареждане на списъка</string>
   <string name="click_to_play_all">Пусни всички</string>
@@ -356,7 +356,7 @@
   <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="dirac_mode_piston_youth">Xiaomi Piston-youth</string>
   <string name="sync_alert_title">Синхр. на музиката</string>
-  <string name="sync_alert_message">Синхронизирайте любими ви песни между устройствата си с помощта на вашия Xiaomi профил.</string>
+  <string name="sync_alert_message">Синхронизирайте любими ви песни между устройствата си с помощта на вашия Mi профил.</string>
   <string name="not_now">Не сега</string>
   <string name="sync_disable_toast">Можете да активирате синхронизацията по-късно от Настройки > Профили > MiCloud</string>
   <string name="login_and_enable">Вписване и синхрон</string>

@@ -176,7 +176,7 @@
   <string name="resource_downloaded_title">Изтеглени ресурси</string>
   <string name="resource_downloading">Изтегляне...</string>
   <string name="resource_get_auth_checking">Проверка на оторизацията...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на телефона с този Xiaomi профил. С един профил може да влезете от максимум 10 устройства на година. Моля, пробвайте с друг Xiaomi профил</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на телефона с този Mi профил. С един профил може да влезете от максимум 10 устройства на година. Моля, пробвайте с друг Mi профил</string>
   <string name="resource_get_auth_exceed_max_limit_title">Превишен лимит на оторизации!</string>
   <string name="resource_get_auth_missing">Тази тема не е от официалния маркет.</string>
   <string name="resource_get_auth_retrieving">Проверка на DRM разрешение...</string>

@@ -47,7 +47,7 @@
   <string name="experimental_validate_username">Xiaomi ID</string>
   <string name="experimental_validate_warning">Всяко ваше проучване помага на MIUI да стане по-добър!</string>
   <string name="find_device_check_sim">Проверка на SIM…</string>
-  <string name="find_device_sim_change_instructions">"Вашето устройство е заключено. Моля, изкарайте SIM картата или въведете паролата от Xiaomi профила Ви"</string>
+  <string name="find_device_sim_change_instructions">"Вашето устройство е заключено. Моля, изкарайте SIM картата или въведете паролата от Mi профила Ви"</string>
   <string name="find_device_sim_change_instructions_no_network">"Вашето устройство е заключено.
  Моля, поставете оригиналната SIM карта."</string>
   <string name="find_device_turn_off_flight_mode">Изключете самолетен режим</string>
@@ -100,7 +100,7 @@
   <string name="lockscreen_access_pattern_detected">Фигурата е завършена</string>
   <string name="lockscreen_access_pattern_start">Фигурата е започната</string>
   <string name="lockscreen_emergency_call">Спешно повикване</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Въведохте %d пъти грешна парола. Остават %d неуспешни опита. След това ще бъдете помолени да отключите телефона си, като въведете Вашия Xiaomi профил.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Въведохте %d пъти грешна парола. Остават %d неуспешни опита. След това ще бъдете помолени да отключите телефона си, като въведете Вашия Mi профил.
 
 Опитайте отново след %d секунди."</string>
   <string name="lockscreen_forgot_pattern_button_text">Забравихте фигурата?</string>

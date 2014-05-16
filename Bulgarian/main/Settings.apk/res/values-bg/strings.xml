@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Натиснете [icon] за изход</string>
   <string name="access_control_password_title">Задайте парола</string>
   <string name="access_control_recording_intro_header">Начертайте фигура за отключване</string>
-  <string name="access_control_reset_by_account">За отключване трябва да влезете във вашия Xiaomi профил</string>
+  <string name="access_control_reset_by_account">За отключване трябва да влезете във вашия Mi профил</string>
   <string name="accessibility_enable">Позволи достъп</string>
   <string name="accessibility_feature_state_off">Изкл.</string>
   <string name="accessibility_feature_state_on">Вкл.</string>
@@ -2178,7 +2178,7 @@ for MAC"</li>"
   <string name="privacy_settings_title">Архив и възстановяване</string>
   <string name="private_sms_need_to_unlock">Въведете паролата за лични SMS-и</string>
   <string name="private_sms_recording_intro_header">Начертайте фигура за създаване на ключ</string>
-  <string name="private_sms_reset_by_account">Влезте в Xiaomi профила си за възстановяване на паролата</string>
+  <string name="private_sms_reset_by_account">Влезте в Mi профила си за възстановяване на паролата</string>
   <string name="process_kernel_label">Android ОС</string>
   <string name="process_list_empty_hints">Няма процеси.</string>
   <string name="process_manage_title">Почистване на %1$d процеса за освобождаване на %2$s</string>
@@ -3361,7 +3361,7 @@ for MAC"</li>"
   <string name="wifi_share">Сподели защитена Wi-Fi мрежа</string>
   <string name="wifi_share_action_turn_off">Спри Wi-Fi споделянето</string>
   <string name="wifi_share_action_turn_on">Сподели публична Wi-Fi мрежа</string>
-  <string name="wifi_share_action_turn_on_summary">Моля, влезте с името и паролата на вашия Xiaomi профил</string>
+  <string name="wifi_share_action_turn_on_summary">Моля, влезте с името и паролата на вашия Mi профил</string>
   <string name="wifi_share_add">Сподели моя публична Wi-Fi мрежа</string>
   <string name="wifi_share_add_summary">"Когато споделяте ваши публични Wi-Fi мрежи
 , можете да използвате друга мрежа"</string>
@@ -3461,7 +3461,7 @@ for MAC"</li>"
   <string name="wps_category">WPS Сигурност</string>
   <string name="wps_connect_summary">Уверете се, че рутера поддържа WPS режим</string>
   <string name="wps_connect_title">Свързване чрез WPS</string>
-  <string name="xiaomi_account">Xiaomi профил</string>
+  <string name="xiaomi_account">Mi профил</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit център</string>
   <string name="yes">OK</string>

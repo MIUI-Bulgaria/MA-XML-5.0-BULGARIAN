@@ -2,8 +2,8 @@
 <resources>
   <string name="about_device">Информация за телефона</string>
   <string name="active_xiaomi_account">Активиране</string>
-  <string name="active_xiaomi_account_msg">"Моля посетете MIUI форума за активиране на своя Xiaomi профил:"</string>
-  <string name="active_xiaomi_account_title">Активиране на Xiaomi профил</string>
+  <string name="active_xiaomi_account_msg">"Моля посетете MIUI форума за активиране на своя Mi профил:"</string>
+  <string name="active_xiaomi_account_title">Активиране на Mi профил</string>
   <string name="app_name">Актуализация</string>
   <string name="apply_buddy_update_info_message">Натиснете \"Актуализирай\", за да започне процеса на актуализиране</string>
   <string name="apply_existing_update_md5error_title">MD5 подписът не съвпада</string>
@@ -120,7 +120,7 @@
   <string name="share_update">Сподели</string>
   <string name="share_update_content_sign">Актуализирах MIUI до %1$s! Ранг на актуализацията %2$s. За подробен списък с изменения моля посетете %3$s</string>
   <string name="share_update_content_unsign">Актуализирах MIUI до %1$s! За подробен списък с изменения моля посетете %2$s</string>
-  <string name="sign_in_add_account">Моля активирайте вашия Xiaomi профил</string>
+  <string name="sign_in_add_account">Моля активирайте вашия Mi профил</string>
   <string name="sign_in_add_account_helper">На вашия телефон няма активен MIUI профил, моля добавете такъв</string>
   <string name="sign_in_info">"Вашият ранг на актуализацията е %1$s %2$s потребители са оценили MIUI %3$s</string>
   <string name="sign_in_info_rank_more">Вашият ранг на актуализацията е %1$s. Още %2$s потребители са инсталирали MIUI %3$s</string>

@@ -163,7 +163,7 @@
     <string name="loading_video_netplay_label">Зареждане, моля изчакайте...</string>
     <string name="loading_video_netplay_label_v5">Зареждане, моля изчакайте...</string>
     <string name="local_count_ji">PRC %d Ep.</string>
-    <string name="login_tip_content">Влезте с вашия Xiaomi профил, за синхронизация и обновяване на съдържанието, което следвате.</string>
+    <string name="login_tip_content">Влезте с вашия Mi профил, за синхронизация и обновяване на съдържанието, което следвате.</string>
     <string name="login_tip_title">Вписване</string>
     <string name="manage">Управление</string>
     <string name="media_source_unavailable">Източникът е недостъпен</string>
@@ -200,7 +200,7 @@
     <string name="no_comment_tip">Не може да изпратите празен коментар</string>
     <string name="no_favorite">Няма любими</string>
     <string name="no_filter_media">"Няма съвпадения."</string>
-    <string name="no_login_xiaomi_account">Влезте в Xiaomi профила си, преди да коментирате.</string>
+    <string name="no_login_xiaomi_account">Влезте в Mi профила си, преди да коментирате.</string>
     <string name="no_media">Празно</string>
     <string name="no_myfavorite">Няма любими</string>
     <string name="no_myfavorite_advice">Препоръчани</string>
@@ -328,7 +328,7 @@
     <string name="wasu">Wasu</string>
     <string name="will_live_status">На живо</string>
     <string name="write_comment">Коментирайте</string>
-    <string name="xiaomi_account_type_unsupported">Системата не поддържа Xiaomi профили</string>
+    <string name="xiaomi_account_type_unsupported">Системата не поддържа Mi профили</string>
     <string name="xiaomi_user">Xiaomi потребител</string>
     <string name="year">.</string>
     <string name="yestorday">Вчера</string>

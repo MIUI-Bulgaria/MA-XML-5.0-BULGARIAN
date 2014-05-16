@@ -64,7 +64,7 @@
   <string name="resource_account_current">Профил: %1$s</string>
   <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
   <string name="resource_account_login">Вход</string>
-  <string name="resource_account_login_before_action">Моля, влезте в Xiaomi профила си.</string>
+  <string name="resource_account_login_before_action">Моля, влезте в Mi профила си.</string>
   <string name="resource_account_login_title">Вход</string>
   <string name="resource_account_switch">Превключи профила</string>
   <string name="resource_alarm_default">Будилник</string>
@@ -79,7 +79,7 @@
   <string name="resource_comment_3_star">***</string>
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
-  <string name="resource_comment_account_need_activitied">Активирайте Вашият Xiaomi профил.</string>
+  <string name="resource_comment_account_need_activitied">Активирайте Вашият Mi профил.</string>
   <string name="resource_comment_all_comments">Всички</string>
   <string name="resource_comment_average_score">Средно</string>
   <string name="resource_comment_bad_comments">Негативни</string>
@@ -153,7 +153,7 @@
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
   <string name="resource_get_auth_checking">Проверка...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Xiaomi профил.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
   <string name="resource_get_auth_missing">Тази тема не е изтеглена от официалния магазин.</string>
   <string name="resource_get_auth_retrieving">Получаване на разрешение...</string>
@@ -297,7 +297,7 @@
   <string name="title_local">Локални</string>
   <string name="title_online">Онлайн</string>
   <string name="title_system_resource">Системни ресурси</string>
-  <string name="to_activate_the_account">Активирайте Вашият Xiaomi профил</string>
+  <string name="to_activate_the_account">Активирайте Вашият Mi профил</string>
   <string name="wallpaper_crop">Подрежи</string>
   <string name="wallpaper_decoded_error">Грешка</string>
   <string name="wallpaper_loading_text">Зарежда се...</string>

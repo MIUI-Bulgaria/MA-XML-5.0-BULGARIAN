@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">"Xiaomi профил:
+  <string name="account_detail">"Mi профил:
 %1$s"</string>
   <string name="app_name">Плащания</string>
   <string name="balance">Баланс: %1$s МiКредити</string>
@@ -82,7 +82,7 @@
   <string name="detail_recharge_order">Поръчка номер:</string>
   <string name="detail_recharge_time">Време</string>
   <string name="detail_recharge_title">Зареждания</string>
-  <string name="error_account_changed_summary">"Вашият Xiaomi профил беше актуализиран.
+  <string name="error_account_changed_summary">"Вашият Mi профил беше актуализиран.
 Моля, проверете Вашите данни и опитайте отново."</string>
   <string name="error_account_changed_title">Профилът е актуализиран</string>
   <string name="error_auth_summary">Грешка при влизането в профила, опитайте отново.</string>

@@ -65,13 +65,13 @@
     <string name="checking_account">Потвърждаване на профила…</string>
     <string name="checking_input">Проверка...</string>
     <string name="cloud_messaging">Облачни съобщения</string>
-    <string name="cmcc_data_sync_notice">Използвайте вашият Xiaomi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
+    <string name="cmcc_data_sync_notice">Използвайте вашият Mi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
     <string name="cmcc_micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на телефона ви и споделяне на съдържание с приятели.</string>
     <string name="completed">Готово</string>
     <string name="confirm">Потвърди</string>
     <string name="current_account">Текущ профил</string>
     <string name="data_keep_in_phone">Запази на това устройство</string>
-    <string name="data_sync_notice">Използвайте вашият Xiaomi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
+    <string name="data_sync_notice">Използвайте вашият Mi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
     <string name="data_wipe_from_phone">Изтрий от това устройство</string>
     <string name="dirty_contacts_count">контакти: %d</string>
     <string name="dirty_mms_count">съобщения: %d</string>
@@ -129,19 +129,19 @@
     <string name="micloud_account_label">Профил: %1$s</string>
     <string name="micloud_account_name">Xiaomi</string>
     <string name="micloud_account_not_actived">Профилът ви не беше активиран</string>
-    <string name="micloud_activate_account_fail_notify_title">Грешка при активиране на Xiaomi профила</string>
-    <string name="micloud_activate_account_success_notify_title">Активирането на вашият Xiaomi профил е успешно</string>
+    <string name="micloud_activate_account_fail_notify_title">Грешка при активиране на Mi профила</string>
+    <string name="micloud_activate_account_success_notify_title">Активирането на вашият Mi профил е успешно</string>
     <string name="micloud_activate_back_btn">Отказ</string>
     <string name="micloud_activate_retry_btn">Опитай отново</string>
-    <string name="micloud_activating_account_notify_info">Активирате вашият Xiaomi профил</string>
-    <string name="micloud_activating_account_notify_title">Активиране на вашия Xiaomi профил…</string>
+    <string name="micloud_activating_account_notify_info">Активирате вашият Mi профил</string>
+    <string name="micloud_activating_account_notify_title">Активиране на вашия Mi профил…</string>
     <string name="micloud_active_alert_title">Активиране на профила</string>
     <string name="micloud_active_email_sent_1">"Връзката за активиране е изпратена на адрес: "</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_active_email_visit">Проверете входящата поща на %s</string>
     <string name="micloud_activing_account">Активиране на профила…</string>
     <string name="micloud_activing_account_delayed">Довършване на активацията, моля изчакайте…</string>
-    <string name="micloud_activing_account_failed">Неуспешно активиране на Xiaomi профила</string>
+    <string name="micloud_activing_account_failed">Неуспешно активиране на Mi профила</string>
     <string name="micloud_app_data">Архиви на приложения</string>
     <string name="micloud_click_email">"
 
@@ -189,7 +189,7 @@
     <string name="micloud_resend_active_email">Изпрати отново имейл за активиране</string>
     <string name="micloud_space_full_influence"><u>Какво става ако свърши мястото?</u></string>
     <string name="micloud_storage_space">Mi Cloud хранилище</string>
-    <string name="micloud_summary">За синхронизиране на контакти, снимки и много други, влезте в Xiaomi профила си.</string>
+    <string name="micloud_summary">За синхронизиране на контакти, снимки и много други, влезте в Mi профила си.</string>
     <string name="micloud_title_dspt" formatted="false">"Общо %s 
 Заето %s | Свободно %s"</string>
     <string name="micloud_title_full_dspt">Хранилището ви е пълно!</string>
@@ -212,7 +212,7 @@
     <string name="micloud_upgrade_space">Добавяне на пространство</string>
     <string name="micloud_welcome_skip_login"><u>Пропусни тази стъпка</u></string>
     <string name="mili_center">MiКредити</string>
-    <string name="my_xiaomi_account">Моят Xiaomi профил</string>
+    <string name="my_xiaomi_account">Моят Mi профил</string>
     <string name="next">Следващ</string>
     <string name="nobind">Не е свързан</string>
     <string name="noRemind">Не напомняй</string>
@@ -310,9 +310,9 @@
     <string name="activate_popup_desc_new_mixed_sim_cards">Вашите SIM карти са променени. Ще бъде изпратено 1 обикновено и 1 международно SMS съобщение за активиране на новите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_sim_card">Вашата SIM карта е променена. Ще бъде изпратено SMS съобщение за активиране на новата SIM карта, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Вашата SIM карта е променена. Моля, въведете номера на SIM картата ви, с цел включване на функции като %s</string>
-    <string name="activate_popup_desc_register_account">Ще бъде изпратено SMS съобщение за регистриране на вашия Xiaomi профил</string>
-    <string name="activate_popup_desc_register_account_downlink">Моля, въведете номера на вашата SIM карта, с цел регистриране на Xiaomi профила ви</string>
-    <string name="activate_popup_desc_register_account_intl">Ще бъде изпратено международно SMS съобщение за регистриране на вашия Xiaomi профил</string>
+    <string name="activate_popup_desc_register_account">Ще бъде изпратено SMS съобщение за регистриране на вашия Mi профил</string>
+    <string name="activate_popup_desc_register_account_downlink">Моля, въведете номера на вашата SIM карта, с цел регистриране на Mi профила ви</string>
+    <string name="activate_popup_desc_register_account_intl">Ще бъде изпратено международно SMS съобщение за регистриране на вашия Mi профил</string>
     <string name="activate_popup_desc_sim_card">Ще бъде изпратено SMS съобщение за активиране на вашата SIM карта, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_sim_card_downlink">Моля, въведете номера на вашата SIM карта, с цел включване на функции като %s</string>
     <string name="activate_popup_title_failed_phone_error">Активирането е неуспешно</string>
@@ -323,8 +323,8 @@
     <string name="activate_popup_title_manual">Активиране на SIM карта</string>
     <string name="activate_popup_title_new_sim_card">Активиране на нова SIM карта</string>
     <string name="activate_popup_title_register_account">Регистриране на профил</string>
-    <string name="activate_status_desc_checking_xiaomi_account">Проверка на Xiaomi профила на сървъра</string>
-    <string name="activate_status_desc_checking_xiaomi_account_server_error">Възникна грешка на сървъра по време на проверката на Xiaomi профила</string>
+    <string name="activate_status_desc_checking_xiaomi_account">Проверка на Mi профила на сървъра</string>
+    <string name="activate_status_desc_checking_xiaomi_account_server_error">Възникна грешка на сървъра по време на проверката на Mi профила</string>
     <string name="activate_status_desc_getting_sim_info_fail">Не може да получи информация за SIM картата</string>
     <string name="activate_status_desc_query_activation_info">Заявяване на информация за активиране от сървъра</string>
     <string name="activate_status_desc_query_activation_info_downlink_sms_error">Сървърът не успя да изпрати активиращ SMS до вашия телефон</string>
@@ -332,8 +332,8 @@
     <string name="activate_status_desc_query_activation_info_server_error">Възникна грешка на сървъра по време на заявяването на информация за активиране</string>
     <string name="activate_status_desc_registering_sim_account">Регистриране на SIM картата на сървъра</string>
     <string name="activate_status_desc_registering_sim_account_server_error">Възникна грешка на сървъра по време на регистриране на SIM картата</string>
-    <string name="activate_status_desc_registering_xiaomi_account">Регистриране на Xiaomi профила на сървъра</string>
-    <string name="activate_status_desc_registering_xiaomi_account_server_error">Възникна грешка на сървъра по време на регистриране на Xiaomi профила</string>
+    <string name="activate_status_desc_registering_xiaomi_account">Регистриране на Mi профила на сървъра</string>
+    <string name="activate_status_desc_registering_xiaomi_account_server_error">Възникна грешка на сървъра по време на регистриране на Mi профила</string>
     <string name="activate_status_desc_registration">Регистриране на SIM карта</string>
     <string name="activate_status_desc_registration_server_error">Възникна грешка на сървъра по време на регистриране на SIM картата</string>
     <string name="activate_status_desc_request_activation_sms">Изискване от сървъра на активиращ SMS до вашия телефон</string>
