@@ -579,4 +579,8 @@
   <string name="webview_today">Днес</string>
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
+  <string name="pref_content_cloud_speedup">Активиране на ускоряване на облака</string>
+  <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="ssl_certificate">Сертификат за сигурност</string>
+  <string name="ssl_certificate_is_valid">Този сертификат е валиден.</string>
 </resources>

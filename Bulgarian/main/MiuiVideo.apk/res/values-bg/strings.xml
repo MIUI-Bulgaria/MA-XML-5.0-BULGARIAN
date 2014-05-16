@@ -155,11 +155,11 @@
     <string name="load_failed_to_try">Неуспешно зареждане</string>
     <string name="load_file_fail">Файлът е повреден</string>
     <string name="load_offline_file_fail">Файлът е повреден, изтеглете го отново</string>
-    <string name="loading">" "<CDATA>Зареждане </CDATA>" "</string>
+    <string name="loading"><CDATA>Зареждане </CDATA></string>
     <string name="loading_review"><CDATA>Зареждане </CDATA></string>
     <string name="loading_review_failed">Неуспешно зареждане на коментар</string>
-    <string name="loading_tv">" "<CDATA>Зареждане </CDATA>" "</string>
-    <string name="loading_video">" "<CDATA>Зареждане </CDATA>" "</string>
+    <string name="loading_tv"><CDATA>Зареждане </CDATA></string>
+    <string name="loading_video"><CDATA>Зареждане </CDATA></string>
     <string name="loading_video_netplay_label">Зареждане, моля изчакайте...</string>
     <string name="loading_video_netplay_label_v5">Зареждане, моля изчакайте...</string>
     <string name="local_count_ji">PRC %d Ep.</string>
@@ -266,7 +266,7 @@
     <string name="search">Търсене</string>
     <string name="search_result_recommend_hint">Няма съвпадения</string>
     <string name="search_result_recommend_title">Всички гледат</string>
-    <string name="searching">" "<CDATA>Търсене </CDATA>" "</string>
+    <string name="searching"><CDATA>Търсене </CDATA></string>
     <string name="seconds">сек.</string>
     <string name="select_all">Избери всички</string>
     <string name="select_media_source">Изберете източник на видео</string>
@@ -352,4 +352,12 @@
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Super HD</string>
     <string name="vp_full_high_definition">Full HD</string>
+    <string name="no_favoritehistory">Няма любими канали</string>
+    <string name="download_add_sucess">задачата е добавена</string>
+    <string name="click_to_list">вижте детайлите</string>
+    <string name="btnplayerfavorite">Любими</string>
+    <string name="btnplayerfullscreen">цял екран</string>
+    <string name="btnplayerdefault">стандартно</string>
+    <string name="makeappointment">make appointment</string>
+    <string name="cancelappointment">cancel appointment</string>
 </resources>

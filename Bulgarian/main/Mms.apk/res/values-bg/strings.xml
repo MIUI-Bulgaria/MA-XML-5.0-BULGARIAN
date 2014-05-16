@@ -332,6 +332,7 @@
   <string name="private_settings">Настройки на частни съобщения</string>
   <string name="processing">Обработка...</string>
   <string name="prvate_contact">Частни контакти</string>
+  <string name="quick_reply">Отговори</string>
   <string name="rate_limit_surpassed">Потвърди</string>
   <string name="received_label">"Получени: "</string>
   <string name="recipient_editor_count_format">%d</string>

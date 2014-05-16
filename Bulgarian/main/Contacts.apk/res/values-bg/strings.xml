@@ -25,8 +25,8 @@
   <string name="add_organization">Добави организация</string>
   <string name="add_to_my_contacts">Добави в \"Моите контакти\"</string>
   <string name="add_wait">Добави пауза</string>
-  <string name="add_xiaomi_account_dialog_btn">Използвайте Xiaomi профил</string>
-  <string name="add_xiaomi_account_dialog_msg">За най-голямо удобство, можете да използвате Xiaomi профила за синхронизиране и архивиране на вашите контакти.</string>
+  <string name="add_xiaomi_account_dialog_btn">Използвайте Mi профил</string>
+  <string name="add_xiaomi_account_dialog_msg">За най-голямо удобство, можете да използвате Mi профила за синхронизиране и архивиране на вашите контакти.</string>
   <string name="add_xiaomi_account_dialog_title">Изберете профил</string>
   <string name="aggregation_suggestion_edit_dialog_message">Да превключа ли ли на редактиране на дублиращи се контакти? Информацията, съдържаща се до момента ще бъде копирана.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Редактирай избраните контакти</string>
@@ -302,7 +302,7 @@
   <string name="dialog_voicemail_airplane_mode_message">За обаждане до гласова поща, изключете самолетен режим.</string>
   <string name="dialog_voicemail_not_ready_message">За да настроите гласовата поща, отидете в Меню > Настройки.</string>
   <string name="directory_search_label">Директория</string>
-  <string name="dirty_contacts_notification_description">%d промени по Вашите контакти не са синхронизирани с профила</string>
+  <string name="dirty_contacts_notification_description">%d промени по вашите контакти не са синхронизирани с Mi профила</string>
   <string name="dirty_contacts_notification_message">(Можете да изключите напомнянето от настройките)</string>
   <string name="dirty_contacts_notification_title">Ще синхронизирате ли контактите?</string>
   <string name="display_all_contacts">Всички контакти</string>
@@ -429,13 +429,13 @@
   <string name="import_to_xiaomi_account_confirm">Трансфер</string>
   <string name="import_to_xiaomi_account_progress_finish">Успешно прехвърляне!</string>
   <string name="import_to_xiaomi_account_progress_message">Прехвърляне…</string>
-  <string name="import_to_xiaomi_account_progress_title">Прехвърляне на контакти в Xiaomi профил</string>
-  <string name="import_to_xiaomi_account_title">Искате ли да прехвърлите контактите към профила си в Xiaomi?</string>
+  <string name="import_to_xiaomi_account_progress_title">Прехвърляне на контакти в Mi профил</string>
+  <string name="import_to_xiaomi_account_title">Искате ли да прехвърлите контактите към профила си в Mi?</string>
   <string name="import_vcard_description">Импортиране на контакти от SD карта</string>
   <string name="import_weibo_dialog_title">Импортиране на Sina weibo контакти</string>
   <string name="import_weibo_error_no_matched_contacts">Обновяване контакти: няма съвпадения</string>
   <string name="import_weibo_error_no_network">Обновяване контакти: проблем с връзката</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Обновяване контакти: няма телефони в Xiaomi профил</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Обновяване контакти: няма телефони в Mi профилa</string>
   <string name="import_weibo_error_unknown">Обновяване контакти: неизвестна грешка</string>
   <string name="import_weibo_error_user_cancel">Обновяване контакти: отменено от потребителя</string>
   <string name="import_weibo_fetch_followers">Изтегляне на Sina Weibo последователи…</string>
@@ -567,8 +567,8 @@
   <string name="nickname_picker_name_column">Име на контакт</string>
   <string name="nickname_picker_nickname_column">Име</string>
   <string name="noAccounts">За създаване на групи е нужен профил.</string>
-  <string name="noContactHelpTextAccountsInfo">Синхронизирай контакти с Xiaomi, Google, Exchange.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Възстанови контакти от резервно копие в профил Xiaomi и MiTalk</string>
+  <string name="noContactHelpTextAccountsInfo">Синхронизиране на контакти с Mi, Google, Exchange.</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Възстановяване на контакти чрез Mi профила</string>
   <string name="noContacts">Няма контакти</string>
   <string name="noContactsHelpText">"Няма контакти за показване.
 
@@ -672,9 +672,9 @@
   <string name="pref_key_rebuild_t9_index_message">Актуализиране на търсенето на контакти</string>
   <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
   <string name="pref_key_sim_manage">Управление на SIM карта</string>
-  <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Xiaomi</string>
+  <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Mi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
-  <string name="pref_title_import_from_account">Копирай в Xiaomi профил</string>
+  <string name="pref_title_import_from_account">Импортиране от Mi профилa</string>
   <string name="preference_auto_ip_summary_disable">Не е разрешено</string>
   <string name="preference_auto_ip_summary_on">"IP на оператора: %s"</string>
   <string name="preference_auto_ip_title">Автоматично IP</string>
@@ -756,7 +756,7 @@
   <string name="resource_account_current">Профил: %1$s</string>
   <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
   <string name="resource_account_login">Вход</string>
-  <string name="resource_account_login_before_action">Моля, влезте в Xiaomi профила си.</string>
+  <string name="resource_account_login_before_action">Моля, влезте в Mi профила си.</string>
   <string name="resource_account_login_title">Вход</string>
   <string name="resource_account_switch">Превключи профила</string>
   <string name="resource_alarm_default">Будилник</string>
@@ -771,7 +771,7 @@
   <string name="resource_comment_3_star">***</string>
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
-  <string name="resource_comment_account_need_activitied">Активирайте Вашият Xiaomi профил.</string>
+  <string name="resource_comment_account_need_activitied">Активирайте вашият Mi профил.</string>
   <string name="resource_comment_all_comments">Всички</string>
   <string name="resource_comment_average_score">Средно</string>
   <string name="resource_comment_bad_comments">Негативни</string>
@@ -841,7 +841,7 @@
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
   <string name="resource_get_auth_checking">Проверка...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Xiaomi профил.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
   <string name="resource_get_auth_missing">Тази тема не е изтеглена от официалния магазин.</string>
   <string name="resource_get_auth_retrieving">Получаване на разрешение...</string>
@@ -1026,7 +1026,7 @@
   <string name="titleJoinContactDataWith">Обедини контакти</string>
   <string name="title_other_devices">Други налични устройства</string>
   <string name="title_paired_devices">Сдвоени устройства</string>
-  <string name="to_activate_the_account">Активирайте Вашият Xiaomi профил</string>
+  <string name="to_activate_the_account">Активирайте вашият Mi профил</string>
   <string name="toast_call_detail_error">"Не можете да прочетете подробности за повикването."</string>
   <string name="toast_copy_done">Копирането завърши успешно</string>
   <string name="toast_copying">Копиране, моля изчакайте...</string>

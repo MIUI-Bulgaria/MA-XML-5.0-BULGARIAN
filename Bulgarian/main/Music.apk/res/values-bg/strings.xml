@@ -145,7 +145,7 @@
   <string name="higher_quality_music">Музика с високо качество</string>
   <string name="higher_quality_music_summary">Слушайте и изтегляйте музика с високо качество</string>
   <string name="hot_artists">Популярни изпълнители</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">Знам това</string>
   <string name="id3_edit">Редактирай ID3 информация</string>
   <string name="id3_edit_failed">Неуспешно редактиране на ID3</string>
   <string name="id3_modify_confirm_check">Потвърждавате ли ID3 промените?</string>
@@ -291,6 +291,7 @@
   <string name="search_suggestion">Търсене:</string>
   <string name="search_title">Търсене</string>
   <string name="select_all">Всички</string>
+  <string name="select_device">Изберете устройство</string>
   <string name="select_folder">Изберете папка</string>
   <string name="select_quit_time">Време до изключване (в минути)</string>
   <string name="send_to">Изпрати до</string>
@@ -339,6 +340,8 @@
   <string name="vip_recommend_sub_title">Само 5 Юан на месец</string>
   <string name="vip_recommend_summary">Стриймвайте или изтегляйте любимите си изпълнители от Baidu Music с качество 320 kbps.</string>
   <string name="vip_recommend_title">Музика с по-високо качество</string>
+  <string name="volume_alert_playback_alert_title">Предупреждение</string>
+  <string name="volume_alert_playback_message">Продължителното слушане при висока сила на звука може да увреди слуха ви.</string>
   <string name="where_is_barcode">"Къде е QR кодът?"</string>
   <string name="xiaomi_account_setting">Xiaomi профил</string>
   <string name="load_recommend_in_process">Зарежда се…</string>

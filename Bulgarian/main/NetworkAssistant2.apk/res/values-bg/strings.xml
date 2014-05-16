@@ -8,7 +8,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Актуализирано вчера в %s</string>
     <string name="adjust_traffic_data">Задаване на употребата на данни</string>
     <string name="app_detail">Детайли</string>
-    <string name="app_mobile">2G/3G</string>
+    <string name="app_mobile">Мобилни данни</string>
     <string name="app_name">Монитор</string>
     <string name="app_version">Версия</string>
     <string name="app_wifi">Wi-Fi</string>

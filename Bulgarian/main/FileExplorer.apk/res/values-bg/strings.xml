@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Прехвърляне на потребителски данни.
-Вашият профил ще бъде временно недостъпен,
-моля изчакайте..."</string>
+  <string name="account_bind_prompt">Прехвърляне на потребителски данни… Операцията може да отнеме няколко минути.</string>
   <string name="add_task">Добави задача</string>
   <string name="adding_upload_tasks">Добавяне на файлове за изпращане.</string>
   <string name="already_signin_description">Можете да влезете само веднъж на ден, опитайте отново утре.</string>
@@ -16,10 +14,10 @@
   <string name="background">Изтегляне във фонов режим</string>
   <string name="big5_summary">Кодирането по подразбиране е на Windows с традиционен китайски</string>
   <string name="big5_title">BIG5</string>
-  <string name="bind_account">Свързване с MiDrive профил</string>
-  <string name="bind_account_summary">Ако вече имате MiDrive профил, може да го добавите и да изтеглите Вашите лични данни</string>
-  <string name="binded_accout_description">Профилите са обединени. Независимо дали влизате с Xiaomi профил или с MiDrive профил, ще имате достъп до вашите данни</string>
-  <string name="binded_accout_title">MiDrive профил</string>
+  <string name="bind_account">Свързване със съществуващ профил</string>
+  <string name="bind_account_summary">Ако вече имате KuaiPan профил, може да го добавите и да изтеглите вашите лични данни</string>
+  <string name="binded_accout_description">Профилите са обединени. Независимо дали влизате с Mi профил или с KuaiPan профил, ще имате достъп до вашите данни</string>
+  <string name="binded_accout_title">Профилите са свързани</string>
   <string name="cache_size_label">Кеш</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_app_garbage_cleanup">Отмени почистване на приложения</string>
@@ -156,8 +154,8 @@
   <string name="menu_item_sort_name">По име</string>
   <string name="menu_item_sort_size">По размер</string>
   <string name="menu_item_sort_type">По тип</string>
-  <string name="migrate_announcement_msg">Ако вече имате профил, можете да го обвържете от настройки</string>
-  <string name="migrate_announcement_title">Обвързване на профил</string>
+  <string name="migrate_announcement_msg">Синхронизирайте съществуващ KuaiPan профил с вашия Mi профил от настройки на KuaiPan профила.</string>
+  <string name="migrate_announcement_title">Прехвърлянето завърши</string>
   <string name="move_failed">Грешка при преместване</string>
   <string name="multi_select_title">Избрани %1$s елемент(и)</string>
   <string name="name_illegal">Файлът трябва да има име</string>
@@ -309,6 +307,6 @@
   <string name="waiting_for_scanning">В очакване за сканиране</string>
   <string name="wangpan_root_path">Моят диск</string>
   <string name="wifi_state">Wi-Fi статус</string>
-  <string name="xiaomi_account">Xiaomi профил</string>
+  <string name="xiaomi_account">Mi профил</string>
   <string name="yes">Да</string>
 </resources>

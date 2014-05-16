@@ -596,7 +596,7 @@
     <string name="security_notification_content_unsupported_title">Неизпълнени правила за сигурност</string>
     <string name="security_notification_content_update_title">Актуализирайте за сигурност</string>
     <string name="security_unsupported_ticker_fmt">Профилът „%s“ не може да бъде синхронизиран поради изискванията за сигурност.</string>
-    <string name="select_attachment_type">Избор на тип прикачен файл</string>
+    <string name="select_attachment_type">Изберете източник на прик. файл</string>
     <string name="select_no_file">Не е избран прикачен файл за споделяне</string>
     <string name="send">Изпращане</string>
     <string name="send_failed">Съобщ. не бе изпратено.</string>
@@ -610,7 +610,7 @@
     <string name="sharing">Сподели</string>
     <string name="shortcut_name_title">Наименуване на пряк път към папка</string>
     <string name="show_elided">▶ Показване на цитирания текст</string>
-    <string name="show_images">Показване на снимките</string>
+    <string name="show_images">Изтегляне и показване на снимките</string>
     <string name="show_n_more_folders">Показване на още %1$s папки</string>
     <string name="signature">"
 
@@ -691,4 +691,39 @@
     <string name="wait_for_sync_body_txt_array_4">известието на системата</string>
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">Плъзнете от горния край на екрана, за да видите известието. Натиснете, за да завършите.</string>
+    <string name="compose_send">Изпрати</string>
+    <string name="compose_sent">Изпратено</string>
+    <string name="confirm_save_message_title">Да се запази ли като чернова?</string>
+    <string name="confirm_save_message_yes">Да</string>
+    <string name="confirm_save_message_no">Не</string>
+    <string name="empty_account_tip">Не бе открит профил</string>
+    <string name="search_txt_size_limit_prompt">Заявката за търсене трябва да е от 3 или повече символа.</string>
+    <string name="downlaod_nonWifi_confirm_message">Изтеглянето ще консумира трафик на данни, моля потвърдете</string>
+    <string name="account_name_toast">Името съществува, използвайте друго</string>
+    <string name="parase_setup_data">Получаване на данни...</string>
+    <string name="allread">Всичко е прочетено</string>
+    <string name="eas_template">домейн\\име</string>
+    <string name="upgrade_network_error">Грешка на мрежата</string>
+    <string name="checking_message">Проверява се…</string>
+    <string name="no_update">Няма нови версии</string>
+    <string name="upgrade_check">Провери</string>
+    <string name="no_display_this_version">Не напомняй за тази версия</string>
+    <string name="now_version">Текуща версия:</string>
+    <string name="new_version">Нова версия:</string>
+    <string name="new_feature_desc">Описание на промените:</string>
+    <string name="new_down_desc1">Съвети:</string>
+    <string name="new_down_desc2">Данните от предишната версия ще бъдат запазени</string>
+    <string name="new_down_desc3">Изтеглянето генерира трафик, препоръчваме използването на Wi-Fi</string>
+    <string name="download_now">Изтегляне сега</string>
+    <string name="start_download">Изтегляне</string>
+    <string name="donot_download">Не сега</string>
+    <string name="upgrade_now">Актуализирай</string>
+    <string name="donot_upgrade">Не сега</string>
+    <string name="downloading">Изтегляне...</string>
+    <string name="upgrade_title">Актуализация</string>
+    <string name="download_complete_title">Успешно изтеглено</string>
+    <string name="no_enough_space">Няма достатъчно място</string>
+    <string name="no_sdcard">Няма SD карта</string>
+    <string name="download_complete_message">Изтеглянето завърши!</string>
+    <string name="file_size">Размер на файла</string>
 </resources>
