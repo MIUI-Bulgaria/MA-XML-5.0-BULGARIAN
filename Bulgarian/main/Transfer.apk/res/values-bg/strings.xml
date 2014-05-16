@@ -99,7 +99,7 @@
   <string name="notify_after_download">Ще бъдете известен, когато изтеглянето завърши</string>
   <string name="notify_after_restore">Ще бъдете известен, когато възстановяването завърши</string>
   <string name="ok">Потвърди</string>
-  <string name="online_file">MiDrive</string>
+  <string name="online_file">KuaiPan</string>
   <string name="only_support_single_share">Можете да споделяте едновременно само 1 файл</string> 
   <string name="open">Отвори</string>
   <string name="operation_delete">Изтрий</string>
@@ -139,7 +139,7 @@
   <string name="retry">Повтори</string>
   <string name="retry_in_good_network">Опитайте отново когато имате стабилна интернет връзка</string>
   <string name="retry_to_load_file_info">Ще обновите ли информацията за файла?</string>
-  <string name="save_to_kuaipan">Запази в MiDrive</string>
+  <string name="save_to_kuaipan">Запази в KuaiPan</string>
   <string name="scan_2d_code">Сканирай 2D код</string>
   <string name="scan_file">Файлове</string>
   <string name="scan_tip">Уверете се, че получателя е активирал връзката си и може да получава файлове.</string>

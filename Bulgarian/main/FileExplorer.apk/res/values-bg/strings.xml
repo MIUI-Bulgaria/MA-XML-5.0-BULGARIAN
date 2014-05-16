@@ -85,7 +85,7 @@
   <string name="dlg_error_unmount_text">"Не можете да изключите USB-паметта. Моля, опитайте отново по-късно."</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Грешка при изтегляне!</string>
-  <string name="download_link_completed">Аз споделих %1$s чрез MiDrive. Натиснете линка долу за преглед:</string>
+  <string name="download_link_completed">Аз споделих %1$s чрез KuaiPan. Натиснете линка долу за преглед:</string>
   <string name="downloading">Изтегляне...</string>
   <string name="empty_dir_cleanup_indication">%s ненужни файлове</string>
   <string name="empty_dir_title">Празни папки</string>
@@ -134,9 +134,9 @@
   <string name="instruction">Въведете адреса във вашия FTP клиент:</string>
   <string name="instruction_pre">Използва се за прехвърляне на файлове между телефона и компютъра с помощта на FTP протокол.</string>
   <string name="item_name">Без име</string>
-  <string name="kuaipan_label">MiDrive</string>
-  <string name="kuaipan_over_space">Вашият MiDrive вече няма свободно място.</string>
-  <string name="kuaipan_prompt">MiDrive помощ</string>
+  <string name="kuaipan_label">KuaiPan</string>
+  <string name="kuaipan_over_space">Вашият KuaiPan вече няма свободно място.</string>
+  <string name="kuaipan_prompt">KuaiPan помощ</string>
   <string name="kuaipan_prompt_message">"
 Сървърът е недостъпен, моля опитайте по-късно
 "</string>
@@ -144,8 +144,8 @@
   <string name="load_err">Грешка при зареждане</string>
   <string name="loading">Зареждане…</string>
   <string name="local_cache_size">Размер на локалния кеш: %s</string>
-  <string name="login_reg_content">MiDrive Ви помага да съхранявате файлове и да ги синхронизирате между различни устройства.</string>
-  <string name="login_reg_content0">MiDrive е Вашият облак</string>
+  <string name="login_reg_content">KuaiPan Ви помага да съхранявате файлове и да ги синхронизирате между различни устройства.</string>
+  <string name="login_reg_content0">KuaiPan е Вашият облак</string>
   <string name="menu_item_cleanup">Почистване</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Търсене</string>
@@ -216,7 +216,7 @@
   <string name="operation_send">Изпрати</string>
   <string name="operation_show_sys">Покажи системните файлове</string>
   <string name="operation_unfavorite">Премахни от любими</string>
-  <string name="pan_settting">MiDrive настройки</string>
+  <string name="pan_settting">KuaiPan настройки</string>
   <string name="paused">На пауза</string>
   <string name="pull_to_signin">Плъзнете надолу, за да влезете и да получите безплатно дисково пространство</string>
   <string name="query_bind_state">Зареждане на статуса на връзката, моля изчакайте...</string>
@@ -233,8 +233,8 @@
   <string name="sd_size_label">Хранилище в SD карта</string>
   <string name="search_hint">Въведете цялото или част от името на файла</string>
   <string name="search_title">Търсене на документи</string>
-  <string name="send_to_midrive">MiDrive</string>
-  <string name="send_to_midrive_failed_message">Този вид файлове не се поддържат от MiDrive.</string>
+  <string name="send_to_midrive">KuaiPan</string>
+  <string name="send_to_midrive_failed_message">Този вид файлове не се поддържат от KuaiPan.</string>
   <string name="server_control_advanced_settings">Разширени настройки</string>
   <string name="server_control_charset">Кодиране при пренос</string>
   <string name="server_control_settings">Настройка</string>
@@ -259,7 +259,7 @@
   <string name="sys_size">Обща памет %1$s</string>
   <string name="sys_size_title">Общ капацитет на хранилището</string>
   <string name="tab_category">Преглед</string>
-  <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_phone">Телефон</string>
   <string name="temp_file_cleanup_indication">%s временни файлове</string>
   <string name="temp_file_title">Временни файлове</string>
@@ -291,11 +291,11 @@
   <string name="uploading">Изпращане...</string>
   <string name="used">Заето:</string>
   <string name="user_guide">Ръководство</string>
-  <string name="user_guide_download_other_version">"Можете да изтеглите MiDrive на вашия компютър"</string>
-  <string name="user_guide_kuaipan_copy">"Използвайте MiDrive за споделяне на файловете Ви между различни устройства"</string>
-  <string name="user_guide_other_version">Изтеглете алтернативни версии на MiDrive</string>
-  <string name="user_guide_summary">Как да използвате MiDrive</string>
-  <string name="user_guide_upload_to_kuaipan">"Просто копирайте и поставете в MiDrive"</string>
+  <string name="user_guide_download_other_version">"Можете да изтеглите KuaiPan на вашия компютър"</string>
+  <string name="user_guide_kuaipan_copy">"Използвайте KuaiPan за споделяне на файловете Ви между различни устройства"</string>
+  <string name="user_guide_other_version">Изтеглете алтернативни версии на KuaiPan</string>
+  <string name="user_guide_summary">Как да използвате KuaiPan</string>
+  <string name="user_guide_upload_to_kuaipan">"Просто копирайте и поставете в KuaiPan"</string>
   <string name="utf8_summary">Тип кодиране по подразбиране</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">версия %1$s</string>
