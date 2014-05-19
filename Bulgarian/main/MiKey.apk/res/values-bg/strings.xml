@@ -16,6 +16,7 @@
     <string name="action_open_sound_recorder">Звукозапис</string>
     <string name="action_open_wechat">WeChat</string>
     <string name="action_phone">Телефон</string>
+    <string name="action_qrcode">Сканиране на QR код</string>
     <string name="action_screen_shot">Екранна снимка</string>
     <string name="action_send_text_message">Изпращане на SMS</string>
     <string name="action_share_to_miliao">MiTalk</string>
@@ -23,6 +24,7 @@
     <string name="action_share_to_moment">Споделяне чрез WeChat</string>
     <string name="action_share_to_wechat">Споделяне чрез WeChat</string>
     <string name="action_share_to_weibo">Споделяне чрез Weibo</string>
+    <string name="action_toolbox">Кутия с инструменти</string>
     <string name="action_zero_volume">Заглушаване</string>
     <string name="add">Добавяне</string>
     <string name="app_name">MiKey</string>
@@ -59,6 +61,7 @@
     <string name="earphone">Слушалки</string>
     <string name="file_delimiter">/</string>
     <string name="front_camera">Предна камера</string>
+    <string name="goto_update">Актуализация</string>
     <string name="input_phone">Телефонен номер</string>
     <string name="long_click">Продължително натискане</string>
     <string name="message_photo_end">Снимката е запазена</string>
@@ -80,6 +83,9 @@
     <string name="setting_keeplive_desc">Разрешаване на приложението да стартира на заден план и бързо да реагира на вашите команди. Възможно е да повиши консумацията на батерия</string>
     <string name="setting_keeplive_text">Стартиране на заден план</string>
     <string name="setting_silent_mode">Тих режим</string>
+    <string name="setting_silent_mode_default">Режим слушалки (Изключено MiKey)</string>
+    <string name="setting_silent_mode_desc">Винаги избирайте режим слушалки при изключено MiKey, в противен случай звуците от телефона ще бъдат заглушени.</string>
+    <string name="setting_silent_mode_dust_cap">Тапа против прах (MiKey)</string>
     <string name="setting_speed_desc">Скорост на натискането на бутона</string>
     <string name="setting_speed_quick">Бърза</string>
     <string name="setting_speed_slow">Бавна</string>
@@ -87,16 +93,16 @@
     <string name="setting_vibrate_desc">Вибриране за обратна връзка при изпълнение на функциите</string>
     <string name="setting_vibrate_text">Вибриране</string>
     <string name="settings">Настройки</string>
-    <string name="short_click_1">1x</string>
-    <string name="short_click_10">10x</string>
-    <string name="short_click_2">2x</string>
-    <string name="short_click_3">3x</string>
-    <string name="short_click_4">4x</string>
-    <string name="short_click_5">5x</string>
-    <string name="short_click_6">6x</string>
-    <string name="short_click_7">7x</string>
-    <string name="short_click_8">8x</string>
-    <string name="short_click_9">9x</string>
+    <string name="short_click_1">1 натискане</string>
+    <string name="short_click_10">10 натискания</string>
+    <string name="short_click_2">2 натискания</string>
+    <string name="short_click_3">3 натискания</string>
+    <string name="short_click_4">4 натискания</string>
+    <string name="short_click_5">5 натискания</string>
+    <string name="short_click_6">6 натискания</string>
+    <string name="short_click_7">7 натискания</string>
+    <string name="short_click_8">8 натискания</string>
+    <string name="short_click_9">9 натискания</string>
     <string name="showSlip">Показване в лентата с известия</string>
     <string name="silent_mode_tip_main">Тихият режим е активиран</string>
     <string name="silent_mode_tip_sub"/>
@@ -105,6 +111,9 @@
     <string name="sms_to">Изпращане на SMS</string>
     <string name="splash_tip">Свържете MiKey</string>
     <string name="task_title_prefix">"Действие N: "</string>
+    <string name="test_user_entry">Тест</string>
     <string name="times">пъти</string>
+    <string name="toolbox_outer_desc">Изберете допълнителна или съществуваща функция</string>
+    <string name="update_message">Актуализация!</string>
     <string name="write_pic_fail">Грешка при запазване на снимката!</string>
 </resources>
