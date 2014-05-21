@@ -266,7 +266,6 @@
   <string name="move_to_up_folder">Едно ниво нагоре</string>
   <string name="name">Етикет</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Достъпна е Wi-Fi мрежа. Ще се свържете ли с нея?</string>
-  <string name="network_show_wifi_setting_tip_dialog_notshow">Запомни избора</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Напомняне за налична Wi-Fi мрежа</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Ако използвате мобилни данни за достъп до Интернет, MIUI ще Ви извести за наличие наоколо на свободна Wi-Fi мрежа"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Достъпна Wi-Fi мрежа</string>
@@ -579,9 +578,12 @@
   <string name="webview_today">Днес</string>
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
-  <string name="pref_content_cloud_speedup">Активиране на ускоряване на облака</string>
+  <string name="pref_content_cloud_speedup">По-бързо зареждане на съдържанието чрез proxy сървъри</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="ssl_certificate">Сертификат за сигурност</string>
   <string name="ssl_certificate_is_valid">Този сертификат е валиден.</string>
   <string name="snapshot_successed">Записано за четене офлайн</string>
+  <string name="dont_remind_again">Запомняне на избора</string>
+  <string name="use_cellular_network_alert_title">Предупреждение</string>
+  <string name="use_cellular_network_alert_message">Не е достъпна Wi-Fi мрежа, да се използват ли мобилни данни?</string>
 </resources>
