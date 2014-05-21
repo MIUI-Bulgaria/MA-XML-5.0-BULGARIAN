@@ -583,4 +583,5 @@
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="ssl_certificate">Сертификат за сигурност</string>
   <string name="ssl_certificate_is_valid">Този сертификат е валиден.</string>
+  <string name="snapshot_successed">Записано за четене офлайн</string>
 </resources>

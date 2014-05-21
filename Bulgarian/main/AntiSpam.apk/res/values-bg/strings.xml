@@ -130,7 +130,7 @@
   <string name="st_antispam_des_anti">Блокиране</string>
   <string name="st_antispam_des_smart_anti">Смарт блокиране</string>
   <string name="st_antispam_des_permit">Приемане</string>
-  <string name="st_antispam_des_uesless">Без действие</string>
+  <string name="st_antispam_des_uesless">Деактивирано</string>
   <string name="st_antispam_des_permit_nokeyword">Приемане(с изкл. на ключови думи)</string>
   <string name="info_antispam_sms">Блокиране на съобщения</string>
   <string name="info_antispam_phone">Блокиране на обаждания</string>
@@ -140,13 +140,13 @@
   <string name="info_unantispam_phone_sms">Приемане на обаждания и съобщения</string>
   <string name="st_antispam_delete">Изтриване</string>
   <string name="baidu_thanks"/>
-  <string name="note_list_none">Няма списък за редактиране</string>
-  <string name="note_sms_none">Няма съобщения за редактиране</string>
-  <string name="note_call_none">Нама списък с повиквания за редактиране</string>
-  <string name="note_keyword_none">Няма ключови думи за редактиране</string>
+  <string name="note_list_none">Празно</string>
+  <string name="note_sms_none">Празно</string>
+  <string name="note_call_none">Празно</string>
+  <string name="note_keyword_none">Празно</string>
   <string name="note_preference_delete">Този режим е активен и не може да бъде изтрит</string>
-  <string name="block_message_number">Спам съобщения: %d</string>
-  <string name="block_phone_number">Спам обаждания: %d</string>
+  <string name="block_message_number">Съобщения: %d</string>
+  <string name="block_phone_number">Обаждания: %d</string>
   <string name="fw_blocked_count_call">%d обаждания и</string>
   <string name="fw_blocked_count_sms">%d съобщения</string>
   <string name="wl_no_whitelist">Няма номера</string>
@@ -248,4 +248,13 @@
   <string name="ad_update_title">Авт. актуализация</string>
   <string name="ad_update_time">Актуализирано: %s</string>
   <string name="ad_update_time_unKnown">Актуализирано: Неизвестно</string>
+  <string name="ACaddnumcontent">Въведете началото на номера, системата автоматично ще добави *</string>
+  <string name="Call_DEFAULT">Смарт блокиране</string>
+  <string name="NACaddnumcontent">Телефонен номер</string>
+  <string name="SMS_DEFAULT">Смарт блокиране</string>
+  <string name="backsound_set_hint">Настройте звука за %s?</string>
+  <string name="call_delete_hint">Да се изтрият ли всички блокирани обаждания от избрания номер?</string>
+  <string name="dlg_remove_blacklist_ing">Премахва се от блокирани…</string>
+  <string name="dlg_remove_whitelist_ing">Премахва се от изключения…</string>
+  <string name="sms_delete_hint">Да се изтрият ли всички блокирани съобщения от избрания номер?</string>
 </resources>
