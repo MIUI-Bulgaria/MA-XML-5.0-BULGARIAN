@@ -27,7 +27,7 @@
   <string name="check_code_title">Стойност за целостта</string>
   <string name="context_menu_remove_account">Премахване</string>
   <string name="copy_to_clipboard">Копиране в буфера</string>
-  <string name="correct_enter_password">Въведете правилната парола</string>
+  <string name="correct_enter_password">Правилна парола</string>
   <string name="correct_enter_update_password">Паролата е правилна</string>
   <string name="counter_pin">Получаване на код</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Данните ви бяха импортирани успешно от оттегленото приложение Xiaomi Удостоверител. Вече можете безопасно да деинсталирате предишната му версия, като кликнете по-долу.</string>
