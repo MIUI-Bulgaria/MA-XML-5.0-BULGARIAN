@@ -284,7 +284,7 @@
     <string name="activate_desc_2_intl_sim_cards">Ще бъдат изпратени 2 международни SMS съобщения за активиране на вашите 2 SIM карти</string>
     <string name="activate_desc_2_sim_cards">Ще бъдат изпратени 2 SMS съобщения за активиране на вашите 2 SIM карти</string>
     <string name="activate_desc_intl_sim_card">Ще бъде изпратено международно SMS съобщение за активиране на вашата SIM карта</string>
-    <string name="activate_desc_mixed_sim_cards">Ще бъде изпратено 1 обикновено и 1 международно SMS съобщение за активиране на вашите 2 SIM карти</string>
+    <string name="activate_desc_mixed_sim_cards">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на вашите 2 SIM карти</string>
     <string name="activate_desc_sim_card">Ще бъде изпратено SMS съобщение за активиране на вашата SIM карта</string>
     <string name="activate_feature_call_log_sync">Синхр. на списъци с обаждания</string>
     <string name="activate_feature_find_device">Намиране на устройството</string>
@@ -303,11 +303,11 @@
     <string name="activate_popup_desc_failed_send_sms">Не можа да се изпрати активиращ SMS. Уверете се, че SIM карта ви е в експлоатация.</string>
     <string name="activate_popup_desc_failed_server">Грешка на сървъра. Моля, проверете вашата интернет връзка.</string>
     <string name="activate_popup_desc_intl_sim_card">Ще бъде изпратено международно SMS съобщение за активиране на вашата SIM карта, с цел включване на функции като %s (таксува се от оператора)</string>
-    <string name="activate_popup_desc_mixed_sim_cards">Ще бъде изпратено 1 обикновено и 1 международно SMS съобщение за активиране на вашите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
+    <string name="activate_popup_desc_mixed_sim_cards">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на вашите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Вашите SIM карти са променени. Ще бъдат изпратени 2 международни SMS съобщения за активиране на новите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_2_sim_cards">Вашите SIM карти са променени. Ще бъдат изпратени 2 SMS съобщения за активиране на новите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_intl_sim_card">Вашата SIM карта е променена. Ще бъде изпратено международно SMS съобщение за активиране на новата SIM карта, с цел включване на функции като %s (таксува се от оператора)</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">Вашите SIM карти са променени. Ще бъде изпратено 1 обикновено и 1 международно SMS съобщение за активиране на новите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">Вашите SIM карти са променени. Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на новите 2 SIM карти, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_sim_card">Вашата SIM карта е променена. Ще бъде изпратено SMS съобщение за активиране на новата SIM карта, с цел включване на функции като %s (таксува се от оператора)</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Вашата SIM карта е променена. Моля, въведете номера на SIM картата ви, с цел включване на функции като %s</string>
     <string name="activate_popup_desc_register_account">Ще бъде изпратено SMS съобщение за регистриране на вашия Mi профил</string>
@@ -352,4 +352,9 @@
     <string name="phone_num_hint_text">Телефонен номер</string>
     <string name="sim_unactivated_title">Вашата SIM карта не е активирана</string>
     <string name="find_device_notice_p4">Когато SIM картата е променена, е възможно да бъде изпратено регистрационно SMS съобщение, за да продължи проследяването на устройството</string>
+    <string name="sync_sub_1_intl_sms">Ще бъде изпратено международно SMS съобщение за активиране на вашата SIM карта</string>
+    <string name="sync_sub_1_sms">Ще бъде изпратено SMS съобщение за активиране на вашата SIM карта</string>
+    <string name="sync_sub_1_sms_1_intl_sms">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на вашите SIM карти</string>
+    <string name="sync_sub_2_intl_sms">Ще бъдат изпратени 2 международни SMS съобщения за активиране на вашите SIM карти</string>
+    <string name="sync_sub_2_sms">Ще бъдат изпратени 2 SMS съобщения за активиране на вашите SIM карти</string>
 </resources>

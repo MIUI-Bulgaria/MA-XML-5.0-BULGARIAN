@@ -464,4 +464,5 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
 </resources>
