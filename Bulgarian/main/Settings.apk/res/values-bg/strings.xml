@@ -3746,4 +3746,19 @@ for MAC"</li>"
   <string name="dialog_message_auto_start_tips">Някои защитни приложения може погрешно да показват, че MIUI не им разрешава да стартират. За да проверите разрешенията на всяко приложение поотделно, отидете на Настройки > Приложения.</string>
   <string name="button_text_known">Знам това</string>
   <string name="translation_contributors_title">Преводачи</string>
+  <string name="double_click_tip">Щракнете два пъти тук</string>
+  <string name="double_click_title">Скорост двойно щракване</string>
+  <string name="international_roaming_summary_title">Roaming settings</string>
+  <string name="mouse_primary_button_dialog_title">Включване на първичен бутон</string>
+  <string name="mouse_primary_button_title">Превключване на първичен и вторичен бутон</string>
+  <string name="nfc_card_emulation">Емулиране на карта</string>
+  <string name="nfc_card_emulation_category_title">режим емулиране на карта</string>
+  <string name="not_show_again">Не показвай отново.</string>  
+  <string name="sip_call_summary">Задайте мелодия на звънене за SIP повиквания</string>
+  <string name="sip_call_title">SIP повиквания</string>
+  <string name="usb_tethering_select_version">Изберете версия на компютърната система</string>
+  <string name="wfd_change_resolution_menu_title">Промяна на разрешителна способност</string>
+  <string name="wifi_hotspot_select_band_title">Изберете работния обхват</string>
+  <string name="wifi_hotspot_suspend_optimizations">Оптимизация на Wi-Fi точка</string>
+  <string name="wifi_hotspot_suspend_optimizations_summary">Минимизиране разхода на батерията при включена Wi-Fi точка</string>
 </resources>

@@ -1193,4 +1193,10 @@
   <string name="xdivert_title">X-Divert</string>
   <string name="callwait_open_hint">\"Изчакващо повикване\" е услуга, която се предоставя от вашия оператор. Ако видите съобщение \"Грешен MMI код\", обърнете се към оператора за помощ.</string>
   <string name="open_miui">Отваряне</string>
+  <string name="cipher_indication_notification_message">Криптирането на глас е изключено от мрежата</string>
+  <string name="cipher_indication_notification_title">Няма криптиране на глас</string>
+  <string name="confirm_save_info_saved_to">Записът е запаметен на</string>  
+  <string name="dual_mic_summary">Подтискане на фоновия шум по време на разговор</string>
+  <string name="minutereminder_summary">Напомняне на 50-та сек от всяка минута</string>
+  <string name="not_show_again">Не показвай отново.</string>  
 </resources>
