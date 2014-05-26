@@ -721,7 +721,7 @@
   <string name="onscreenSwitchText">Превкл. абонамента</string>
   <string name="onscreen_add_call_text_miui">Добавяне на обаждане</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
-  <string name="onscreen_audio_mode_handset_miui">Свобдни ръце</string>
+  <string name="onscreen_audio_mode_handset_miui">Свободни ръце</string>
   <string name="onscreen_audio_mode_headset_miui">Слушалки</string>
   <string name="onscreen_audio_mode_miui">Отговор чрез</string>
   <string name="onscreen_audio_mode_speaker_miui">Високоговорител</string>
