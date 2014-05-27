@@ -334,7 +334,9 @@ Please check your local date and try again."</string>
   <string name="lockscreen_forgot_pattern_button_text"><u>Забравих фигурата</u></string>
   <string name="login">Вход</string>
   <string name="memu_refresh">Обнови</string>
-  <string name="mibi_license_message">Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s.</string>
+  <string name="mibi_license_message">Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s.
+
+You need an internet connection to use Mi Credit."</string>
   <string name="mibi_license_message_span">Условия за ползване на МiКредити</string>
   <string name="mibi_license_title">Правила и условия </string>
   <string name="mili_center">MiКредит</string>
@@ -465,4 +467,19 @@ Please check your local date and try again."</string>
   <string name="voucher_error_password">Грешен код за ваучер!</string>
   <string name="voucher_error_password_empty">Кодът е празен.</string>
   <string name="voucher_input_password_prompt">Въведете кода</string>
+  <string name="label_giftcard">Giftcard:</string>
+  <string name="title_bind_phone">Binding mobile phone No.</string>
+  <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
+  <string name="button_sms_code">Confirm</string>
+  <string name="title_sms_code">Please enter the mobile phone verification code</string>
+  <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+  <string name="sms_code_hint">Mobile phone verification code</string>
+  <string name="sms_code_error">Mobile phone verification code error, please get again</string>
+  <string name="button_bind_phone">Bind now</string>
+  <string name="button_count_down_reget">Gets the verification code(%1$s)</string>
+  <string name="button_reget">Gets the verification code</string>
+  <string name="giftcard_payment">%1$s MiCredits</string>
+  <string name="partner_giftcard_payment">%1$sMiCredits（Only for %2$s）</string>
+  <string name="prepaid_error_not_choose_carrier">No carrier selected.</string>
+  <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
 </resources>

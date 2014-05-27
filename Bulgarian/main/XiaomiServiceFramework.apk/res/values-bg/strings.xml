@@ -124,7 +124,7 @@
     <string name="logout_failed">Неуспешно отписване</string>
     <string name="master_alert_notif_dspt" formatted="false">"%s контакти, %s SMS, %s снимки, %s бележки и други данни не бяха синхронизирани."</string>
     <string name="master_alert_notif_title">Данните не са синхронизирани от %s дни</string>
-    <string name="micloud_account">Xiaomi</string>
+    <string name="micloud_account">Mi профил</string>
     <string name="micloud_account_details">Детайли на профила</string>
     <string name="micloud_account_label">Профил: %1$s</string>
     <string name="micloud_account_name">Xiaomi</string>
@@ -196,7 +196,7 @@
     <string name="micloud_use_existing">Вход</string>
     <string name="micloud_user_base_info">Обща информация</string>
     <string name="micloud_user_email">Имейл</string>
-    <string name="micloud_user_id">Xiaomi ID</string>
+    <string name="micloud_user_id">Потребителско ID</string>
     <string name="micloud_user_name">Име</string>
     <string name="micloud_user_phone">Телефонен номер</string>
     <string name="micloud_user_space_usage">Използвано</string>
@@ -273,7 +273,7 @@
  с"</string>
     <string name="vcode">Код за потвърждение</string>
     <string name="vcode_notification_title">Проверката на вашето влизане не е завършила</string>
-    <string name="vcode_prompt_long">Моля, въведете код за потвърждение, генериран от системата за сигурност на Xiaomi</string>
+    <string name="vcode_prompt_long">Моля, въведете код за потвърждение, генериран от системата за сигурност на Mi</string>
     <string name="wipe_data_dialog_msg">%s не са синхронизирани (тези данни ще бъдат изгубени ако продължите).</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Някои елементи не са синхронизирани.</string>
