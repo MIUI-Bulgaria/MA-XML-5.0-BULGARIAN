@@ -84,7 +84,7 @@
   <string name="email_picker_label">E-mail на</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Празни събития не се създават.</string>
-  <string name="event_account">Календар за акаунт</string>
+  <string name="event_account">Профил</string>
   <string name="event_all_day_label">Цял ден</string>
   <string name="event_create">Ново събитие</string>
   <string name="event_delete">Изтрий събитие</string>
@@ -225,7 +225,7 @@
   <string name="timezone_label">Часови пояс</string>
   <string name="today">Днес</string>
   <string name="today_at_time_fmt">Днес в %s</string>
-  <string name="today_no_events">Днес няма събития</string>
+  <string name="today_no_events">Няма събития</string>
   <string name="tomorrow">Утре</string>
   <string name="tomorrow_at_time_fmt">Утре в %s</string>
   <string name="view_event_calendar_label">Календар:</string>
@@ -272,4 +272,6 @@
   <string name="event_date_format">dd.MM EEEE</string>
   <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="pref_title_alarm_remind">Звуково напомняне</string>
+  <string name="pref_error_no_ringtone_select">Няма избрана</string>
+  <string name="view_all_matches">Преглед на всички</string>
 </resources>
