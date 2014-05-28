@@ -586,4 +586,6 @@
   <string name="dont_remind_again">Запомняне на избора</string>
   <string name="use_cellular_network_alert_title">Предупреждение</string>
   <string name="use_cellular_network_alert_message">Не е достъпна Wi-Fi мрежа, да се използват ли мобилни данни?</string>
+  <string name="date_picker_dialog_other_button_label">Друго</string>
+  <string name="copy_to_clipboard_failure_message">Копирането в буфера бе неуспешно</string>
 </resources>

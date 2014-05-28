@@ -3761,4 +3761,22 @@ for MAC"</li>"
   <string name="wifi_hotspot_select_band_title">Изберете работния обхват</string>
   <string name="wifi_hotspot_suspend_optimizations">Оптимизация на Wi-Fi точка</string>
   <string name="wifi_hotspot_suspend_optimizations_summary">Минимизиране разхода на батерията при включена Wi-Fi точка</string>
+  <string name="bluetooth_unlock_add_device">Добавяне на устройство</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Старото устройство ще бъде заменено с новото, искате ли да продължите?</string>
+  <string name="bluetooth_unlock_change_matched_device">Избор на друго устройство</string>
+  <string name="bluetooth_unlock_confirm_device_text">Докоснете устройството, за да потвърждаване</string>
+  <string name="bluetooth_unlock_delete_device">Изтриване на устройството</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Да се изтрие ли това устройство?</string>
+  <string name="bluetooth_unlock_device_matched_text">Ползване на това устройство за отключване</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Все още няма достъпни устройства</string>
+  <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Ползване за</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Отключване</string>
+  <string name="bluetooth_unlock_title">Отключване чрез bluetooth устройство</string>
+  <string name="bluetooth_unlock_turned_off">Изкл.</string>
+  <string name="bluetooth_unlock_turned_on">Вкл.</string>
+  <string name="security_keyguard_category_name">Заключване</string>
+  <string name="security_password_category_name">Парола</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
 </resources>

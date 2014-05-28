@@ -1114,4 +1114,7 @@
   <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
   <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
   <string name="sim_contact_invalid">Невалиден SIM контакт</string>
+  <string name="account_msim">SIM %d</string>
+  <string name="export_to_sim1">Експортиране в SIM 1</string>
+  <string name="import_from_sim1">Импортиране от SIM 1</string>
 </resources>

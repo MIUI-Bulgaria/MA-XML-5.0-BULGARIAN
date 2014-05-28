@@ -726,19 +726,19 @@
     <string name="no_sdcard">Няма SD карта</string>
     <string name="download_complete_message">Изтеглянето завърши!</string>
     <string name="file_size">Размер на файла</string>
-    <string name="menu_resend_all">Resend all</string>
-    <string name="outbox_no_mails">No mails in Outbox</string>
-    <string name="device_activity_btn_str">Return To Activate</string>
-    <string name="device_not_activiey_lint1">Device Manager is not activated</string>
-    <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
-    <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
-    <string name="xiaomi_update_dialog_title">%1$s update!</string>
-    <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="menu_resend_all">Препращане на всички</string>
+    <string name="outbox_no_mails">Няма писма</string>
+    <string name="device_activity_btn_str">Връщане за активиране</string>
+    <string name="device_not_activiey_lint1">Диспечера на устройства не е активиран</string>
+    <string name="device_not_activiey_lint2">Пощенската услуга exchange не работи правилно</string>
+    <string name="device_activity_lint_str">Включете пълната актуализация на пощенската услуга и активирайте оборудването за безопасност</string>
+    <string name="xiaomi_update_dialog_title">Актуализация на %1$s!</string>
+    <string name="xiaomi_update_dialog_message">"Нова версия: %1$s
+Размер: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Нова версия: %1$s
+Размер (делта актуал.): %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">Хранилището е недостъпно, моля проверете SD картата.</string>
+    <string name="xiaomi_bytes_unit">%1$s Б</string>
+    <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
+    <string name="xiaomi_megabytes_unit">%1$s МБ</string>
 </resources>
