@@ -188,7 +188,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Авто</string>
   <string name="pref_camera_antibanding_title">Намаляване лентите на екрана</string>
-  <string name="pref_camera_audio_capture_title">Звукозапис</string>
+  <string name="pref_camera_audio_capture_title">Снимане чрез звук</string>
   <string name="pref_camera_auto_focus_title_entry_off">Изкл.</string>
   <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Центрирана</string>
@@ -470,7 +470,7 @@
   <string name="show_images_only">Само снимки</string>
   <string name="show_on_map">Покажи на карта</string>
   <string name="show_videos_only">Само видео</string>
-  <string name="simple_mode_button_text_audio_capture">Спри звукозаписа</string>
+  <string name="simple_mode_button_text_audio_capture">Спри снимането чрез звук</string>
   <string name="simple_mode_button_text_color_effect">Спри филтъра</string>
   <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
   <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
