@@ -2,6 +2,6 @@
 <resources>
     <plurals name="delete_selection">
         <item quantity="other">Ще изтриете ли избраните елементи?</item>
-        <item quantity="one">Ще изтриете ли избрания елемент?</item>
+        <item quantity="one">Ще изтриете ли избраният елемент?</item>
     </plurals>
 </resources>
