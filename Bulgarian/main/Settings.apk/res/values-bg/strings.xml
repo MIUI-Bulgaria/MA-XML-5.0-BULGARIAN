@@ -3779,4 +3779,9 @@ for MAC"</li>"
   <string name="security_password_category_name">Парола</string>
   <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="manage_xiaomi_router">Управление на Xiaomi MiRouter</string>
+  <string name="xiaomi_router_available_notif_summary">Показване</string>
+  <string name="xiaomi_router_available_notif_title">Достъпен е Xiaomi MiRouter</string>
+  <string name="xiaomi_router_notif_summary">Известяване за достъпност до Xiaomi MiRouter</string>
+  <string name="xiaomi_router_notif_title">Известия за Xiaomi MiRouter</string>
 </resources>
