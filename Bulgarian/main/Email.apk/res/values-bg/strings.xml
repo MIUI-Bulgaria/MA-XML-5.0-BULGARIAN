@@ -726,7 +726,7 @@
     <string name="no_sdcard">Няма SD карта</string>
     <string name="download_complete_message">Изтеглянето завърши!</string>
     <string name="file_size">Размер на файла</string>
-    <string name="menu_resend_all">Препращане на всички</string>
+    <string name="menu_resend_all">Изпрати отново</string>
     <string name="outbox_no_mails">Няма писма</string>
     <string name="device_activity_btn_str">Връщане за активиране</string>
     <string name="device_not_activiey_lint1">Диспечера на устройства не е активиран</string>
