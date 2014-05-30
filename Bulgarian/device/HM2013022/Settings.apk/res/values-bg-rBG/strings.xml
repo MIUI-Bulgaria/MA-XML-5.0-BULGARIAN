@@ -70,8 +70,6 @@
     <string name="location_sources_heading">Източници на местоположение</string>
     <string name="regulatory_information">Правна информация</string>
     <string name="activity_not_found">Приложението не е инсталирано на телефона ви.</string>
-    <string name="verify_applications">Приложенията да се потвърдят</string>
-    <string name="verify_applications_summary">Забраняване или предупреждаване преди инсталирането на приложения, които може да причинят вреди</string>
     <string name="uninstall_all_users_text">Деинсталиране за всички потребители</string>
     <string name="install_text">Инсталиране</string>
     <string name="not_installed">Не е инсталирано</string>
@@ -81,8 +79,6 @@
     <string name="running_process_item_removed_user_label">Премахнат потребител</string>
     <string name="bugreport_in_power">Сигнали за програмни грешки в менюто за захранване</string>
     <string name="bugreport_in_power_summary">Включване на опцията за получаване на сигнал за програмна грешка в менюто за захранване</string>
-    <string name="verify_apps_over_usb_title">Прилож. да се потвържд. през USB</string>
-    <string name="verify_apps_over_usb_summary">Проверка на инсталираните чрез ADB/ADT приложения за опасно поведение.</string>
     <string name="accessibility_screen_magnification_title">Жестове за увеличение</string>
     <string name="accessibility_screen_magnification_summary">"Когато тази функция е включена, можете да увеличите или намалите мащаба, като докоснете екрана три пъти.
 
