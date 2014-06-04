@@ -406,7 +406,7 @@
     <string name="meeting_where">Къде: %s</string>
     <string name="megabytes">%s МБ</string>
     <string name="menu_att_mgr">Прикачени файлове</string>
-    <string name="menu_att_mgr_order_default">Стандартно</string>
+    <string name="menu_att_mgr_order_default">Скорошни</string>
     <string name="menu_att_mgr_order_mime">По формат</string>
     <string name="menu_att_mgr_order_name">По име</string>
     <string name="menu_att_mgr_order_rev_date">По време</string>
@@ -741,4 +741,11 @@
     <string name="xiaomi_bytes_unit">%1$s Б</string>
     <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
+    <string name="mail">Поща</string>
+    <string name="dialog_insufficient_space_on_external">Изтеглянето не можа да завърши. Няма достатъчно свободно място на външното хранилище.</string>
+    <string name="dialog_insufficient_space_on_internal">Няма достатъчно свободно място на вътрешното хранилище</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Няма достатъчно място за %s.</string>
+    <string name="dialog_auto_download_failed">Авт. изтегляне не можа да завърши</string>
+    <string name="att_download_failed_title">Изтеглянето на прик. файл е неуспешно</string>
+    <string name="att_download_failed_content">Изтеглянето е неуспешно</string>
 </resources>

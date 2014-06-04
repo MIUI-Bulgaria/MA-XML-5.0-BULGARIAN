@@ -39,7 +39,7 @@
         <item>Показване на архивирането и изтриването</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>По подразбиране</item>
+        <item>Скорошни</item>
         <item>Формат</item>
         <item>Име</item>
         <item>Подател</item>
