@@ -2941,6 +2941,7 @@ for MAC"</li>"
   <string name="user_dict_settings_more_languages">Още езици…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Потребителски речник</string>
+  <string name="user_dict_settings_title">Потребителски речник</string>
   <string name="user_dict_single_settings_title">Личен речник</string>
   <string name="user_discard_user_menu">Отказ</string>
   <string name="user_image_choose_photo">Избери снимка от Галерия</string>
@@ -3784,4 +3785,6 @@ for MAC"</li>"
   <string name="xiaomi_router_available_notif_title">Достъпен е Xiaomi MiRouter</string>
   <string name="xiaomi_router_notif_summary">Известяване за достъпност до Xiaomi MiRouter</string>
   <string name="xiaomi_router_notif_title">Известия за Xiaomi MiRouter</string>
+  <string name="scan_list_label">Открити:</string>
+  <string name="free_wifi_manage_summary">Докоснете за преглед на %1$s.</string>
 </resources>

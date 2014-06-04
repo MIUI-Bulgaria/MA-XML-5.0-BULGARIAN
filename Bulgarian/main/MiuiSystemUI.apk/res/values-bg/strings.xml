@@ -27,6 +27,7 @@
   <string name="accessibility_no_wifi">Няма Wi-Fi</string>
   <string name="accessibility_no_wimax">Няма Wi-MAX</string>
   <string name="accessibility_notifications_button">Известия</string>
+  <string name="accessibility_phone_four_bars">Телефонен сигнал: четири деления</string>
   <string name="accessibility_phone_one_bar">Телефонен сигнал: едно деление</string>
   <string name="accessibility_phone_signal_full">Надежден телефонен сигнал</string>
   <string name="accessibility_phone_three_bars">Телефонен сигнал: три деления</string>
