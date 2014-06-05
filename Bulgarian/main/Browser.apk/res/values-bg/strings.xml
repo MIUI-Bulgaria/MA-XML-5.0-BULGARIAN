@@ -253,10 +253,10 @@
   <string name="miui_content_select_all">Всички</string>
   <string name="miui_content_share">Споделяне</string>
   <string name="miui_content_web_search">Търсене</string>
-  <string name="miui_quicksearch_enable_pref_summary">Бързо търсене в лентата с известия</string>
-  <string name="miui_quicksearch_enable_pref_title">Търсене в лентата</string>
-  <string name="miui_search_notification_message">Отвори бързо търсене в интернет</string>
-  <string name="miui_search_notification_title">Бързо търсене</string>
+  <string name="miui_quicksearch_enable_pref_summary">Позволява показване на търсачката на браузъра в лентата с известия</string>
+  <string name="miui_quicksearch_enable_pref_title">Търсене от лентата с известия</string>
+  <string name="miui_search_notification_message">Докоснете, за да отворите търсенето</string>
+  <string name="miui_search_notification_title">Търсене</string>
   <string name="miuichromium_save_password_message">Искате ли браузърът да запомни тази парола?</string>
   <string name="miuichromium_save_password_never">Никога</string>
   <string name="miuichromium_save_password_notnow">Не сега</string>

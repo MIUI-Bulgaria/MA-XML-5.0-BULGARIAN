@@ -547,4 +547,16 @@
   <string name="photo_size">Размер</string>
   <string name="taken_time">Заснето на</string>
   <string name="yellow_page">Папка</string>
+  <string name="local_time">(Локално)</string>
+  <string name="photo_page_detail_show_in_the_map">Покажи местополжението на картата</string>
+  <string name="start_slide_show">Старт на слайдшоуто</string>
+  <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
+  <string name="sync_in_progress_message">В момента протича синхронизация...</string>
+  <string name="alert_init_merged_title">Всички ваши снимки заедно</string>
+  <string name="alert_init_merged_message">Вече снимките на вашето устройство и снимките, които сте съхранили в Mi Cloud ще се показват заедно.</string>
+  <string name="picker_tab_photo">Снимки</string>
+  <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
+  <string name="ubifocus_data_missing">Някои данни липсват</string>
+  <string name="ubifocus_map_error">Някои данни са грешни</string>
+  <string name="ubifocus_refocus_fail_tip">Не може да се дофокусира поради липсващи или грешни данни</string>
 </resources>
