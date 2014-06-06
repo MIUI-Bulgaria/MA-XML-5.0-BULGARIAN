@@ -477,5 +477,5 @@
   <string name="context_menu_add_calendar">Показване в Календар</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_category_all">Всички съобщения от оператора</string>
-  <string name="sp_category_bank">Няма съобщения от оператора</string>
+  <string name="sp_category_bank">Съобщения от банки</string>
 </resources>
