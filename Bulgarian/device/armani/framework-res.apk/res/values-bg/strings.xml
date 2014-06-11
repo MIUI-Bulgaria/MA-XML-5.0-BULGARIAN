@@ -1077,7 +1077,7 @@
     <string name="usb_accessory_notification_title">Установена е връзка с аксесоар за USB</string>
     <string name="usb_notification_message">Докоснете за други опции за USB.</string>
     <string name="extmedia_format_title">Да се форматира ли SD картата?</string>
-    <string name="extmedia_format_message">Всички файлове, съхранявани в SD картата ви, ще бъдат изтрити. Това действие не може да бъде отменено!</string>
+    <string name="extmedia_format_message">Всички данни на картата ви ще бъдат заличени.</string>
     <string name="extmedia_format_button_format">Форматиране</string>
     <string name="adb_active_notification_title">Отстраняването на грешки през USB е свързано</string>
     <string name="adb_active_notification_message">Докоснете, за да деактивирате отстраняването на грешки през USB.</string>
