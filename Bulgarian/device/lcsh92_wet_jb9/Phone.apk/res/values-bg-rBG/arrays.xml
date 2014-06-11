@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (авт. режим)</item>
-        <item>Само WCDMA</item>
-        <item>Само GSM</item>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>2G</item>
+        <item>3G</item>
+        <item>Dual mode</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_choices_cmcc">
-        <item>GSM/TD-SCDMA (автоматичен режим)</item>
-        <item>Само TD-SCDMA</item>
-        <item>Само GSM</item>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (авт. режим)</item>
+        <item>Само 3G</item>
+        <item>Само 2G</item>
     </string-array>
     <string-array name="umts_network_preferences_choices">
-        <item>GSM/WCDMA (авт. режим)</item>
-        <item>Само WCDMA</item>
-    </string-array>
-    <string-array name="umts_network_preferences_choices_cmcc">
-        <item>GSM/TD-SCDMA (автоматичен режим)</item>
-        <item>Само TD-SCDMA</item>
-    </string-array>
-    <string-array name="call_reject_mode_entries">
-        <item>Изключено</item>
-        <item>Всички номера</item>
-        <item>Списък за автоматично отхвърляне</item>
-    </string-array>
-    <string-array name="call_reject_dialog_array">
-        <item>Контакти</item>
-        <item>Регистри на повикванията</item>
+        <item>2G/3G (авт. режим)</item>
+        <item>Само 3G</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
