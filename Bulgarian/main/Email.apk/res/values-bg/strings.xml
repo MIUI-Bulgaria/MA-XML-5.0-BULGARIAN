@@ -745,7 +745,10 @@
     <string name="dialog_insufficient_space_on_external">Изтеглянето не можа да завърши. Няма достатъчно свободно място на външното хранилище.</string>
     <string name="dialog_insufficient_space_on_internal">Няма достатъчно свободно място на вътрешното хранилище</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Няма достатъчно място за %s.</string>
-    <string name="dialog_auto_download_failed">Авт. изтегляне не можа да завърши</string>
+    <string name="dialog_auto_download_failed">Авт. изтегляне не можа да завърши, опитайте ръчно изтегляне</string>
     <string name="att_download_failed_title">Изтеглянето на прик. файл е неуспешно</string>
     <string name="att_download_failed_content">Изтеглянето е неуспешно</string>
+    <string name="outbox_alert_button_resend">Изпрати отново</string>
+    <string name="outbox_alert_button_no_resend">Не изпращай</string>
+    <string name="outbox_alert_mailbox_not_found">Имейл адресът не е открит</string>
 </resources>
