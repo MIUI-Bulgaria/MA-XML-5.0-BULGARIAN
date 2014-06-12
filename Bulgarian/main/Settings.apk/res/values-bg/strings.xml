@@ -397,7 +397,7 @@
   <string name="bluetooth_device_context_pair_connect">Сдвояване и свързване</string>
   <string name="bluetooth_device_context_unpair">Откажи сдвояване</string>
   <string name="bluetooth_device_details">Настройки на устройството</string>
-  <string name="bluetooth_device_name">Име на устройството</string>
+  <string name="bluetooth_device_name">Име на устройството:</string>
   <string name="bluetooth_device_searchable">Видими устройства</string>
   <string name="bluetooth_devices">Устройства Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Това ще изключи профила:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;от устройство:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -3794,4 +3794,5 @@ for MAC"</li>"
   <string name="system_backup_section_title">Резервно копие</string>
   <string name="local_backup_section_title">Локални рез. копия</string>
   <string name="local_backup_section_summary">Резервно копие на системните настройки, профил и приложения</string>
+  <string name="bluetooth_device_address">Адрес на устройството:</string>
 </resources>
