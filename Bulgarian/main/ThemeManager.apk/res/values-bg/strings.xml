@@ -305,4 +305,8 @@
   <string name="wallpaper_set_as_destop">Начален екран</string>
   <string name="wallpaper_set_as_lockscreen">Заключен екран</string>
   <string name="wallpaper_settings">Настройки на тапетите</string>
+  <string name="resource_connect_network_message">Да се позволи ли на приложението свързване с мрежата?</string>
+  <string name="resource_allow">Разрешаване</string>
+  <string name="resource_remind_another_time">Не ми напомняй</string>
+  <string name="resource_connect_network_settings">Винаги известявай при свързване</string>
 </resources>

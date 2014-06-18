@@ -3795,4 +3795,6 @@ for MAC"</li>"
   <string name="local_backup_section_title">Локални рез. копия</string>
   <string name="local_backup_section_summary">Резервно копие на системните настройки, профил и приложения</string>
   <string name="bluetooth_device_address">Адрес на устройството:</string>
+  <string name="title_font">Шрифт</string>
+  <string name="title_font_current">Текущ</string>
 </resources>

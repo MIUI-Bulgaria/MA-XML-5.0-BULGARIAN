@@ -341,4 +341,6 @@
   <string name="share_box">Споделено</string>
   <string name="share_box_send">Изпратено</string>
   <string name="share_box_receive">Получено</string>
+  <string name="file_not_exist">файлът не съществува</string>
+  <string name="open_file_failed">неуспешно отваряне</string>
 </resources>

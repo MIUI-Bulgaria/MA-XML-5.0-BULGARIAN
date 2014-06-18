@@ -93,13 +93,13 @@
   <string name="event_info_descrip">"Описание: "</string>
   <string name="event_info_organizer">Органайзер:</string>
   <string name="event_info_reminders_label">Напомняния</string>
-  <string name="event_info_repeat">"Повторно: "</string>
+  <string name="event_info_repeat">"Повторение: "</string>
   <string name="event_info_title">Преглед на събития</string>
   <string name="event_info_title_invite">Покана за среща</string>
   <string name="event_info_when">"Кога: "</string>
   <string name="event_info_where">"Къде: "</string>
   <string name="event_lunar_month"/>
-  <string name="event_show_more">Покажи</string>
+  <string name="event_show_more">Още опции</string>
   <string name="event_view">Преглед на събития</string>
   <string name="every_weekday">Всеки делник (Пон-Пт)</string>
   <string name="gadget_no_events">Няма предстоящи събития в календара</string>
@@ -194,7 +194,7 @@
   <string name="quick_response_settings_summary">Редактиране на отговори, когато изпращате Имейл</string>
   <string name="quick_response_settings_title">Промени бърз отговор</string>
   <string name="reminders_label">Добави напомняне</string>
-  <string name="repeats_label">Повтарящ се</string>
+  <string name="repeats_label">Повторение</string>
   <string name="response_maybe">Може би</string>
   <string name="response_no">Не</string>
   <string name="response_yes">Да</string>

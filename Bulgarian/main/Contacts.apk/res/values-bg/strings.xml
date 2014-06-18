@@ -1117,4 +1117,8 @@
   <string name="account_msim">SIM %d</string>
   <string name="export_to_sim1">Експортиране в SIM 1</string>
   <string name="import_from_sim1">Импортиране от SIM 1</string>
+  <string name="resource_connect_network_message">Да се позволи ли на приложението свързване с мрежата?</string>
+  <string name="resource_allow">Разрешаване</string>
+  <string name="resource_remind_another_time">Не ми напомняй</string>
+  <string name="resource_connect_network_settings">Винаги известявай при свързване</string>
 </resources>

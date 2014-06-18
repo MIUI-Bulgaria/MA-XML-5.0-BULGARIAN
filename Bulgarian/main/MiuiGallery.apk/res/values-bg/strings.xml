@@ -559,4 +559,6 @@
   <string name="ubifocus_data_missing">Някои данни липсват</string>
   <string name="ubifocus_map_error">Някои данни са грешни</string>
   <string name="ubifocus_refocus_fail_tip">Не може да се дофокусира поради липсващи или грешни данни</string>
+  <string name="download_refocus_data">Изтегляне на данни за дофокусиране</string>
+  <string name="refocus_data_downloading">Изтеглят се данни за дофокусиране…</string>
 </resources>
