@@ -564,5 +564,5 @@
   <string name="item_not_sync_for_origin_video">Видеото не е синхронизирано с облака и не може да бъде изтеглено</string>
   <string name="item_not_sync_for_origin_image">Снимката не е синхронизирана с облака и оригиналното изображение не може да бъде изтеглено</string>
   <string name="item_not_sync_for_refocus_data">Снимката не е синхронизирана с облака и нейните данни за дофокусиране не могат да се изтеглят</string>
-  <string name="ubifocus_guide_text">Задръжте 0.5 сек. за дофокусиране</string>
+  <string name="ubifocus_guide_text">Задръжте продължително за дофокусиране</string>
 </resources>

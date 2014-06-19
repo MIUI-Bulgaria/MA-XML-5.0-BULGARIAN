@@ -181,4 +181,5 @@
     <string name="usage_sorted_empty_text">Празно</string>
     <string name="usage_sorted_loading_text">Зарежда се…</string>
     <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови прил.</string>
+    <string name="spinner_title">%1$s - Мобилни данни: %2$s</string>
 </resources>

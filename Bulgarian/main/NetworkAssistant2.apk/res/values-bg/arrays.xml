@@ -7,9 +7,9 @@
         <item>ГБ</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Вчера</item>
-        <item>Днес</item>
-        <item>Този месец</item>
+        <item>"Вчера "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Вчера (3G)</item>

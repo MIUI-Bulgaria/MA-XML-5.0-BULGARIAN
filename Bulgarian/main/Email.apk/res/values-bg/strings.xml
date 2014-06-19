@@ -751,4 +751,7 @@
     <string name="outbox_alert_button_resend">Изпрати отново</string>
     <string name="outbox_alert_button_no_resend">Не изпращай</string>
     <string name="outbox_alert_mailbox_not_found">Имейл адресът не е открит</string>
+    <string name="account_setup_incoming_mail_adress_label">Имейл адрес</string>
+    <string name="account_setup_incoming_mail_domain_label">Домейн</string>
+    <string name="account_setup_incoming_mail_domain_hint">Може да не се попълва</string>
 </resources>
