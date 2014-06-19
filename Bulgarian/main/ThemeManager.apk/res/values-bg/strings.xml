@@ -309,4 +309,14 @@
   <string name="resource_allow">Разрешаване</string>
   <string name="resource_remind_another_time">Не ми напомняй</string>
   <string name="resource_connect_network_settings">Винаги известявай при свързване</string>
+  <string name="theme_user_agreement_content1">Прочетете условията внимателно преди да използвате този продукт:</string>
+  <string name="theme_user_agreement_content2">" Потребителско споразумение"</string>
+  <string name="theme_user_agreement_content3">" и "</string>
+  <string name="theme_user_agreement_content4">Политика на поверителност</string>
+  <string name="theme_user_agreement_content5">. Приемате ли изискването за използване на интернет?</string>
+  <string name="theme_user_agreement_title">Декларация</string>
+  <string name="theme_user_agreement_allow">Приемам</string>
+  <string name="theme_user_agreement_remind_never">Не напомняй</string>
+  <string name="theme_user_agreement_remind_again">Известяване при необходимост от интернет</string>
+  <string name="theme_user_agreement_remind_summary">Активира се след рестартиране</string>
 </resources>

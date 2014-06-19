@@ -3797,4 +3797,5 @@ for MAC"</li>"
   <string name="bluetooth_device_address">Адрес на устройството:</string>
   <string name="title_font">Шрифт</string>
   <string name="title_font_current">Текущ</string>
+  <string name="use_network_warning">Xiaomi Service Framework и Облачната услуга изискват интернет връзка</string>
 </resources>

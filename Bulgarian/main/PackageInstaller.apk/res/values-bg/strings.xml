@@ -78,4 +78,9 @@
   <string name="virus_scan_is_risk">Това приложение е рисково!</string>
   <string name="virus_scan_is_virus">Това приложение е ВИРУС!</string>
   <string name="virus_scan_caller_unknown">Неизвестно</string>
+  <string name="ad_relative">Реклами</string>
+  <string name="ad_block_button_title">Блокиране на реклами</string>
+  <string name="adware_title">Рекламен софтуер</string>
+  <string name="adware_hint">Тези приставки се използват за показване на рекламни послания на вашето устройство</string>
+  <string name="adware_count">Съдържа %d приставки</string>
 </resources>

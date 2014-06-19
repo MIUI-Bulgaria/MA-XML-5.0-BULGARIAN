@@ -253,9 +253,12 @@
   <string name="Call_DEFAULT">Смарт блокиране</string>
   <string name="NACaddnumcontent">Код на населеното място</string>
   <string name="SMS_DEFAULT">Смарт блокиране</string>
-  <string name="backsound_set_hint">Настройте звука за %s?</string>
+  <string name="backsound_set_hint">Да се настрои ли звука за %s?</string>
   <string name="call_delete_hint">Да се изтрият ли всички блокирани обаждания от избрания номер?</string>
   <string name="dlg_remove_blacklist_ing">Премахва се от блокирани…</string>
   <string name="dlg_remove_whitelist_ing">Премахва се от изключения…</string>
   <string name="sms_delete_hint">Да се изтрият ли всички блокирани съобщения от избрания номер?</string>
+  <string name="ad_block_hint">%d блокирани</string>
+  <string name="ad_single_block_hint">Блокирано</string>
+  <string name="ad_permission_hint">Блокирането на реклами може да се отрази на нормалната работа и бързина на приложенията.</string>
 </resources>

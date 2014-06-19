@@ -289,4 +289,5 @@
     <string name="sync_sub_1_sms_1_intl_sms">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за обвързване на вашите SIM карти с този профил</string>
     <string name="sync_sub_2_intl_sms">Ще бъдат изпратени 2 международни SMS съобщения за за обвързване на вашите SIM карти с този профил</string>
     <string name="sync_sub_2_sms">Ще бъдат изпратени 2 SMS съобщения за за обвързване на вашите SIM карти с този профил</string>
+    <string name="error_device_id">Не може да се получи IMEI</string>
 </resources>
