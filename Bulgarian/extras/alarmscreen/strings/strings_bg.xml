@@ -1,4 +1,4 @@
 <resources>
-    <string name="slider_text" value=">>> Изключване >>>" />
-    <string name="snooze_message" value="Отложи за %d мин." />
+    <string name="slider_text">>>> Изключване >>></string>
+    <string name="snooze_message">Отложи за %d мин.</string>
 </resources>
