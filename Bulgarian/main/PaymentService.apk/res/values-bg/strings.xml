@@ -482,4 +482,9 @@ Please check your local date and try again."</string>
   <string name="partner_giftcard_payment">%1$s MiКредити (Само за %2$s)</string>
   <string name="prepaid_error_not_choose_carrier">Не е избран оператор.</string>
   <string name="prepaid_card_order_info">Предплатена карта %1$s: %2$s юана</string>
+  <string name="mibi_license_net_prompt_title">Изисква се интернет връзка</string>
+  <string name="mibi_license_net_prompt_message">Използването на Плащания може да увеличи употребата на мобилни данни.</string>
+  <string name="mibi_license_checkbox_prompt">Не напомняй отново</string>
+  <string name="title_prompt">Известия</string>
+  <string name="title_need_prompt">Извести ме при активна интернет връзка</string>
 </resources>

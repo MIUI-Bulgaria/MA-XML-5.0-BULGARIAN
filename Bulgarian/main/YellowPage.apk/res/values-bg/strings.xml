@@ -200,4 +200,8 @@
   <string name="download_failed_file_exists">File already exists</string>
   <string name="download_failed_space">Download failed, insufficient space</string>
   <string name="download_failed_blocked">Download failed, cannot connect to network</string>
+  <string name="turn_on_yellowpage_service_title">Use directory service</string>
+  <string name="notfiy_connect_title">Networking permission</string>
+  <string name="notices_and_terms">Legal notices and terms of use</string>
+  <string name="notify_connect_summary">Ask for networking permission every time</string>
 </resources>

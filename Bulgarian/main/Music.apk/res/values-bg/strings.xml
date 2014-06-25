@@ -365,4 +365,5 @@
   <string name="impunity_declaration_settings">Винаги известявай при използване на интернет</string>
   <string name="impunity_declaration_summary">При отваряне на приложението Музика ще се показва изскачащ прозорец за напомняне</string>
   <string name="take_effect_afater_restart">Приложението Музика трябва да бъде рестартирано, за активиране на настройката</string>
+  <string name="music_filter">Филтриране на файлове</string>
 </resources>
