@@ -15,11 +15,11 @@
   <string name="direction_south">Ю</string>
   <string name="direction_west">З</string>
   <string name="getting_location">Определяне на местоположението...</string>
-  <string name="guide_toast">"Възможни са смущения в магнитното поле. Моля калибрирайте компаса чрез следното движение."</string>
+  <string name="guide_toast">"Възможни са смущения в магнитното поле. Моля, калибрирайте компаса чрез следното движение."</string>
   <string name="latitude">Ширина</string>
   <string name="location_east">И.Д.</string>
-  <string name="location_north">С.Д.</string>
-  <string name="location_south">Ю.Д.</string>
+  <string name="location_north">С.Ш.</string>
+  <string name="location_south">Ю.Ш.</string>
   <string name="location_west">З.Д.</string>
   <string name="longitude">Дължина</string>
   <string name="menu_calibrate">Калибриране</string>
