@@ -274,4 +274,9 @@
   <string name="pref_title_alarm_remind">Звуково напомняне</string>
   <string name="pref_error_no_ringtone_select">Няма избрана</string>
   <string name="view_all_matches">Преглед на всички</string>
+  <string name="cta_notice_title">Напомняне</string>
+  <string name="cta_notice_message">\"Напомняне за рожден ден\" в Календар ще напомня при наближаващ рожден ден на някой от контактите ви. Приемате ли функцията да има достъп до контактите ви?</string>
+  <string name="cta_notice_checkbox">Не показвай повече</string>
+  <string name="cta_notice_ok">Приемам</string>
+  <string name="cta_notify_settings">Напомняне при четене на контакти</string>
 </resources>

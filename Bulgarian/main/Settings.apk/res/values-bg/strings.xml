@@ -3804,4 +3804,6 @@ for MAC"</li>"
   <string name="cta_dialog_msg">Използването на Оптимизация изисква интернет връзка за актуализиране на вирусните дефиниции. Съгласни ли сте с това условие?</string>
   <string name="cta_dialog_title">Внимание</string>
   <string name="cta_settings">Достъп до интернет</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack дава гласово описание на елементи от интерфейса за потребители с влошено зрение. Инсталирайте безплатното приложение от Google Play Store.</string>
+  <string name="accessibility_service_no_apps_confirm">Знам това</string>
 </resources>

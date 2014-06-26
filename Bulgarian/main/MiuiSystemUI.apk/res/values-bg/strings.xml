@@ -187,7 +187,7 @@
   <string name="settings_notification_icon">Известия в ленатата с известия</string>
   <string name="settings_screenshot_notification_disabled">Без известия за екранни снимки</string>
   <string name="settings_show_carrier">Показвай името на оператора</string>
-  <string name="settings_show_carrier_summary">Само на заключен екран</string>
+  <string name="settings_show_carrier_summary">Когато првключвателят е изключен, името на мобилния оператор ще се показва само на заключен екран и в лентата с известия</string>
   <string name="settings_show_flow_info">Показвай трафика</string>
   <string name="settings_show_network_speed">Показвай скоростта на връзката</string>
   <string name="settings_show_notificationBar_notification">Показвай в лентата с известия</string>
@@ -198,7 +198,7 @@
   <string name="settings_toggle">Превключватели</string>
   <string name="settings_toggle_collapse_after_clicked">Свиване при докосване</string>
   <string name="settings_toggle_layout_style">Стил на панела</string>
-  <string name="settings_toggle_layout_style_applying">Прилагане на стил...</string>
+  <string name="settings_toggle_layout_style_applying">Променя се оформлението…</string>
   <string name="settings_toggle_layout_style_compact">Лента</string>
   <string name="settings_toggle_layout_style_single_page">Страница</string>
   <string name="settings_toggle_position">Управление на превключвателите</string>
@@ -206,7 +206,7 @@
   <string name="settings_toggle_position_divider_page">%1$d превключватели над лентата са активни</string>
   <string name="settings_toggle_position_reset">Нулиране на превключвателите</string>
   <string name="share">Сподели</string>
-  <string name="status_bar_and_notification_bar">Лента с известия и статус лента</string>
+  <string name="status_bar_and_notification_bar">Известия</string>
   <string name="status_bar_date_format">"EEEE 
 d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
@@ -288,7 +288,7 @@ d MMMM yyyy"</string>
   <string name="usb_debugging_title">Разрешавате ли отстр. USB грешки?</string>
   <string name="usb_device_confirm_prompt">Да се отвори ли %1$s, когато това USB устройство е свързано?</string>
   <string name="usb_device_permission_prompt">Да се разреши ли на приложението %1$s достъп до USB устройството?</string>
-  <string name="usb_mode_dont_ask">Запомни този избор</string>
+  <string name="usb_mode_dont_ask">Не питай отново</string>
   <string name="usb_mode_mount_storage_title">Ще свържете ли USB хранилището?</string>
   <string name="usb_mode_notification">USB хранилище</string>
   <string name="usb_mtp_text">Файлове</string>

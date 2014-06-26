@@ -25,31 +25,31 @@
         <item>Пътуване:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Ясно</item>
-        <item>Облачно</item>
-        <item>Мъгливо</item>
-        <item>Мъгла</item>
-        <item>Тежки дъждовни бури</item>
-        <item>Дъждовна буря</item>
-        <item>Проливен дъжд</item>
-        <item>Гръмотевична буря</item>
-        <item>Краткотраен дъжд</item>
-        <item>Проливен дъжд</item>
-        <item>Дъжд</item>
-        <item>Ръмеж</item>
-        <item>Суграшица</item>
-        <item>Снежна буря</item>
-        <item>Краткотраен сняг</item>
-        <item>Снеговалеж</item>
-        <item>Сняг</item>
-        <item>Слаб сняг</item>
-        <item>Силна пясъчна буря</item>
-        <item>Пясъчна буря</item>
-        <item>Лека пясъчна буря</item>
-        <item>Пясъчна буря</item>
-        <item>Градушка</item>
-        <item>Прах</item>
-        <item>Лека мъгла</item>
+        <item>ясно</item>
+        <item>облачно</item>
+        <item>мъгливо</item>
+        <item>мъгла</item>
+        <item>проливен дъжд</item>
+        <item>дъжд</item>
+        <item>дъжд</item>
+        <item>буря</item>
+        <item>проливен дъжд</item>
+        <item>проливен дъжд</item>
+        <item>дъжд</item>
+        <item>ръмеж</item>
+        <item>киша</item>
+        <item>сняг</item>
+        <item>сняг</item>
+        <item>сняг</item>
+        <item>сняг</item>
+        <item>сняг</item>
+        <item>буря</item>
+        <item>буря</item>
+        <item>буря</item>
+        <item>буря</item>
+        <item>градушка</item>
+        <item>прах</item>
+        <item>мъгла</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Няма данни</item>

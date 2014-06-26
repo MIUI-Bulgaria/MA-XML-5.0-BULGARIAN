@@ -226,4 +226,19 @@
   <string name="HIPS_Perm_DisableKeyguard">Откл. на екрана</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Отключване на екрана</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s приложения могат да отключват екрана</string>
+  <string name="HIPS_Perm_AutoStart">Авт. стартиране</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Автоматично стартиране при зареждане</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s приложения стартират автоматично при зареждане на системата</string>
+  <string name="HIPS_Perm_Notification">Известия в статус лентата</string>
+  <string name="HIPS_Perm_Notification_Desc">Известия в статус лентата</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s приложения могат да показват известия в статус лентата</string>
+  <string name="HIPS_Perm_Calendar">Достъп до календара</string>
+  <string name="HIPS_Perm_Calendar_Desc">Достъп до календара</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s приложения имат достъп до календара</string>
+  <string name="HIPS_Perm_SystemAlert">Изскачащи прозорци</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Изскачащи прозорци</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s приложения могат да показват изскачащи прозорци</string>
+  <string name="HIPS_Perm_Wakelock">Събуждане на устройството</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Събуждане на устройството</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s приложения могат да събуждат устройството</string>
 </resources>

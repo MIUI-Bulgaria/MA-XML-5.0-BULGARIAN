@@ -123,11 +123,11 @@
   <string name="confirm_delete_folders_including" formatted="false">%s папки (включително %s)</string>
   <string name="confirm_delete_including_null">0 файлове</string>
   <string name="confirm_delete_items">%s файлове</string>
-  <string name="confirm_delete_pictures">%s снимки</string>
+  <string name="confirm_delete_pictures">Изтриване на %s снимки</string>
   <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
-  <string name="confirm_delete_this_picture">Сигурни ли сте, че искате да изтриете избраната снимка?</string>
-  <string name="confirm_delete_this_video">Сигурни ли сте, че искате да изтриете избраното видео?</string>
-  <string name="confirm_delete_videos">%s видео клипове</string>
+  <string name="confirm_delete_this_picture">Да се изтрие ли избраната снимка?</string>
+  <string name="confirm_delete_this_video">Да се изтрие ли избраното видео?</string>
+  <string name="confirm_delete_videos">Изтриване на %s видео клипове</string>
   <string name="confirm_download">"Необходимо е да изтеглите %s. Този съвет няма да се показва отново."</string>
   <string name="confirm_download_video_message">Необходимо е изтегляне на видео! Изтеглянето ще родължи, когато е налична връзка с Wi-Fi.</string>
   <string name="confirm_download_video_title">Изтегли видеото</string>
@@ -558,7 +558,6 @@
   <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
   <string name="ubifocus_data_missing">Някои данни липсват</string>
   <string name="ubifocus_map_error">Някои данни са грешни</string>
-  <string name="ubifocus_refocus_fail_tip">Не може да се дофокусира поради липсващи или грешни данни</string>
   <string name="download_refocus_data">Изтегляне на данни за дофокусиране</string>
   <string name="refocus_data_downloading">Изтеглят се данни за дофокусиране…</string>
   <string name="item_not_sync_for_origin_video">Видеото не е синхронизирано с облака и не може да бъде изтеглено</string>
@@ -578,4 +577,7 @@
   <string name="confirm_delete_has_local_video">Да се изтрият ли %s видеоклипа?</string>
   <string name="skip_hide_special_album">Системните албуми (Камера, Екр. снимки) не могат да се настроят като скрити.</string>
   <string name="bigscreen_slide_playing">Слайдшоуто се възпроизвежда на устройството: %s</string>
+  <string name="ubifocus_refocus_data_missing">Не може да се дофокусира поради липсващи данни</string>
+  <string name="ubifocus_refocus_map_error">Не може да се дофокусира поради грешни данни</string>
+  <string name="ubifocus_refocus_download_tip">Моля, изтеглете данните за дофокусиране, преди да започнете</string>
 </resources>

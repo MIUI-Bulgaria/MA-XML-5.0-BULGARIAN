@@ -1121,5 +1121,11 @@
   <string name="resource_allow">Разрешаване</string>
   <string name="resource_remind_another_time">Не ми напомняй</string>
   <string name="resource_connect_network_settings">Винаги известявай при свързване</string>
-  <string name="yellowpage_navigation_network_location_enabled">Услугата е активна, можете да я деактивирате в Настройки > Местоположение</string>  
+  <string name="yellowpage_navigation_network_location_enabled">Услугата е активна, можете да я деактивирате в Настройки > Местоположение</string>
+  <string name="cta_notice_title">Напомняне</string>
+  <string name="cta_notice_new_contact_message">Съхраняването на контакти в профила \"%s\" изисква интернет връзка. Приемате ли?</string>
+  <string name="cta_notice_photo_message">Редактирането на снимки на контакти с Фото пакет изисква интернет връзка. Приемате ли?</string>
+  <string name="cta_notice_checkbox">Не показвай повече</string>
+  <string name="cta_notice_ok">Приемам</string>
+  <string name="cta_notice_settings">Напомняне при използване на интернет</string>  
 </resources>

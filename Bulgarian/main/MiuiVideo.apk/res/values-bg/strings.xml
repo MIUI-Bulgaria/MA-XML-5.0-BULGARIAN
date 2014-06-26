@@ -388,11 +388,14 @@
     <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
     <string name="failed_text_502">the film you try to play is offline or expired, can not play it</string>
     <string name="sure">Приемам</string>
-    <string name="declaration_content_short">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
-    <string name="ok_no_more">OK and No More Promopts</string>
+    <string name="declaration_content_short">Приемате ли условията за ползване определени от Sohu видео, iQiyi и други видео доставчици на съдържание?</string>
+    <string name="ok_no_more">Да, не питай повече</string>
     <string name="home_net_title">联网提示</string>
     <string name="home_net_content">视频应用将会使用您的网络流量，是否要继续？</string>
     <string name="backkey_remark">*备注：按返回键退出</string>
     <string name="setting_use_network">允许使用网络</string>
     <string name="setting_use_network_summery">视频应用将会使用您的网络流量</string>
+    <string name="info_title">Информация</string>
+    <string name="prex_playcount">Гледания:</string>
+    <string name="post_playcount">пъти</string>
 </resources>

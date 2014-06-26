@@ -305,7 +305,7 @@
   <string name="waiting">В очакване...</string>
   <string name="waiting_for_cleaning">В очакване за почистване</string>
   <string name="waiting_for_scanning">В очакване за сканиране</string>
-  <string name="wangpan_root_path">Моят диск</string>
+  <string name="wangpan_root_path">KuaiPan</string>
   <string name="wifi_state">Wi-Fi статус</string>
   <string name="xiaomi_account">Mi профил</string>
   <string name="yes">Да</string>
@@ -343,4 +343,9 @@
   <string name="share_box_receive">Получено</string>
   <string name="file_not_exist">файлът не съществува</string>
   <string name="open_file_failed">неуспешно отваряне</string>
+  <string name="system_alert">Напомняне</string>
+  <string name="network_connect_confirm_des">Използването на KuaiPan изисква интернет връзка. Приемате ли?</string>
+  <string name="operation_agree">Приемам</string>
+  <string name="never_notify_network_connect">Не показвай повече</string>
+  <string name="connect_network_setting_des">Напомняне при използване на интернет</string>
 </resources>

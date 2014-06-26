@@ -530,4 +530,7 @@
   <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="object_track_enable_toast">Пипнете и задръжте обекта на екрана за начало на следене на обекта.</string>
+  <string name="cannot_move_warning_message">Заснема се снимка, не движете устройството</string>
+  <string name="ubifocus_capture_warning_message">По-добре е когато екрана на визуализацията съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Авто заснемане след стабилизиране</string>
 </resources>
