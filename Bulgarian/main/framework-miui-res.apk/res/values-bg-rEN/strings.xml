@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate">Активирай</string>
-  <string name="activate_fail_notification_title">Моля, активирайте повторно услугата Xiaomi синхронизация</string>
+  <string name="activate_fail_notification_title">Реактивиране на синхр.</string>
   <string name="activating">Активиране...</string>
   <string name="alwaysUsePrompt">Задай по подразбиране (не питай отново)</string>
   <string name="android_lockscreen_glogin_instructions">За отключване влезете в профила си</string>
@@ -44,7 +44,7 @@
   <string name="experimental_validate_password">Парола</string>
   <string name="experimental_validate_progress">Вписване...</string>
   <string name="experimental_validate_thanks">Благодаря!</string>
-  <string name="experimental_validate_username">Xiaomi ID</string>
+  <string name="experimental_validate_username">Потребителско име</string>
   <string name="experimental_validate_warning">Всяко ваше проучване помага на MIUI да стане по-добър!</string>
   <string name="find_device_check_sim">Проверка на SIM…</string>
   <string name="find_device_sim_change_instructions">"Вашето устройство е заключено. Моля, изкарайте SIM картата или въведете паролата от Mi профила Ви"</string>
@@ -111,7 +111,7 @@
   <string name="lockscreen_transport_play_description">Възпроизвеждане</string>
   <string name="lockscreen_transport_prev_description">Предишна песен</string>
   <string name="lockscreen_unlock_sim_via_puk">Въведете PUK код за разблокиране на SIM картата</string>
-  <string name="login_website_in_case_forget_password">Посетете http://i.xiaomi.com за възстановяване на паролата</string>
+  <string name="login_website_in_case_forget_password">Посетете http://i.mi.com за възстановяване на паролата</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -210,8 +210,8 @@
   <string name="short_pukcode_error_msg">Въведете най-малко 8 цифри</string>
   <string name="shutdown_confirm_title">Сигурни ли сте, че искате да изключите телефона?</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_int_notice">Текущата SIM карта не е активирана. Трябва да изпратите международно SMS съобщение, за да активирате Xiaomi синхронизация. Активирай сега?</string>
-  <string name="sim_changed_reactivate_notice">Текущата SIM карта не е активирана. Трябва да изпратите SMS съобщение, за да активирате Xiaomi синхронизация. Активирай сега?</string>
+  <string name="sim_changed_reactivate_int_notice">Текущата SIM карта е деактивирана. Трябва да изпратите международно SMS съобщение за активиране. Възможно е таксуване от оператора.</string>
+  <string name="sim_changed_reactivate_notice">Текущата SIM карта е деактивирана. Трябва да изпратите SMS съобщение за активиране. Възможно е таксуване от оператора.</string>
   <string name="sim_in_airplane_mode">Изключване на Самолетен режим.</string>
   <string name="sim_locked">SIM картата е блокирана</string>
   <string name="sim_not_ready">SIM картата се използва, моля опитайте по-късно.</string>

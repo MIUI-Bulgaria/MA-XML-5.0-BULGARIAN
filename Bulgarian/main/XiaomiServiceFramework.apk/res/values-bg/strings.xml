@@ -68,7 +68,7 @@
     <string name="find_device_error_network">Проверете дали сте включили мобилните данни и опитайте отново</string>
     <string name="find_device_error_server">Възникна грешка в нашите сървъри.</string>
     <string name="find_device_notice_p1">Посетете</string>
-    <string name="find_device_notice_p2">i.xiaomi.com</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">за да намерите, заключите или нулирате вашия телефон дистанционно.</string>
     <string name="find_device_success_title">\"Намиране на устройството\" е включено</string>
     <string name="find_password_on_web_msg">Посетете account.xiaomi.com за възстановяване на вашата парола.</string>
@@ -135,7 +135,7 @@
     <string name="micloud_intro_02_part_01">Мигриране с по-малко усилия</string>
     <string name="micloud_intro_02_part_02">Синхронизирайте контакти, съобщения, снимки и други файлове помежду устройствата ви</string>
     <string name="micloud_intro_03_part_01">Достъп отвсякъде</string>
-    <string name="micloud_intro_03_part_02">Локализиране, заключване или изтриване на съдържанието на телефона от всеки браузър на i.xiaomi.com</string>
+    <string name="micloud_intro_03_part_02">Локализиране, заключване или изтриване на съдържанието на телефона от всеки браузър на i.mi.com</string>
     <string name="micloud_more">Научете повече</string>
     <string name="micloud_none">Няма</string>
     <string name="micloud_password_confirm_hint">Потвърдете паролата</string>
@@ -159,7 +159,7 @@
     <string name="micloud_warn_full_title">MiCloud хранилището е пълно!</string>
     <string name="micloud_warn_low_sum">Използвате вече 90% от хранилището си.</string>
     <string name="micloud_warn_low_title">Хранилището е почти пълно</string>
-    <string name="micloud_web_discription_01">Влезте на i.xiaomi.com</string>
+    <string name="micloud_web_discription_01">Влезте на i.mi.com</string>
     <string name="micloud_web_discription_02">за достъп до файловете, които сте записали в Mi Cloud</string>
     <string name="micloud_upgrade_space">Добавяне на пространство</string>
     <string name="micloud_welcome_skip_login"><u>Пропусни тази стъпка</u></string>

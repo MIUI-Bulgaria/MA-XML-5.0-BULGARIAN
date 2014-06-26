@@ -96,7 +96,7 @@
   <string name="cloud_be_shared_guide_title">Този албум е споделен от ваш приятел</string>
   <string name="cloud_camera_display_name">Снимки</string>
   <string name="cloud_gallery_no_pictures">Няма снимки в MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Кошчето на облака е пълно, моля изчистете го като посетите i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Кошчето на облака е пълно, моля изчистете го като посетите i.mi.com.</string>
   <string name="cloud_gallery_space_full">Грешка при изпращането! Хранилището на облака е пълно</string>
   <string name="cloud_media_set_set">Албуми на облака</string>
   <string name="cloud_owner_album_share_guide">Може да споделите този албум с ваши приятели</string>
@@ -436,7 +436,7 @@
   <string name="set_screensaver_path_title">Скрийнсейвър слайдшоу</string>
   <string name="set_wallpaper">Задава се тапет на нач. екран...</string>
   <string name="settings">Настройки</string>
-  <string name="settings_i_xiaomi_com">Влезте в i.xiaomi.com за преглеждане на Вашите облачни албуми</string>
+  <string name="settings_i_xiaomi_com">Влезте в i.mi.com за преглеждане на вашите облачни албуми</string>
   <string name="shadow">Сенки</string>
   <string name="share_album">Сподели албум</string>
   <string name="share_album_owner">Собственик</string>
