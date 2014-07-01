@@ -533,4 +533,5 @@
   <string name="cannot_move_warning_message">Заснема се снимка, не движете устройството</string>
   <string name="ubifocus_capture_warning_message">По-добре е когато екрана на визуализацията съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>
   <string name="pref_camera_auto_capture_when_stable_title">Авто заснемане след стабилизиране</string>
+  <string name="ubi_focus_capture_fail">Кадърът е неуспешен, моля опитайте отново</string>
 </resources>

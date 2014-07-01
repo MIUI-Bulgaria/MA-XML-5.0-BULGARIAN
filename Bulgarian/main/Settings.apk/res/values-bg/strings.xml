@@ -1115,7 +1115,7 @@
   <string name="force_stop_dlg_title">Спирате ли го принудително?</string>
   <string name="forget_wifi_message">Вашият телефон ще спре да се свързва автоматично към тази мрежа.</string>
   <string name="free_ram">Памет</string>
-  <string name="free_wifi_confirm">Разбирам</string>
+  <string name="free_wifi_confirm">ОК</string>
   <string name="free_wifi_connect">Свързване</string>
   <string name="free_wifi_connect_dialog_summary">Тази безплатна Wi-Fi мрежа %1$s е предоставена от %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Достъпна е безплатна Wi-Fi мрежа</string>
@@ -3764,9 +3764,9 @@ for MAC"</li>"
   <string name="wifi_hotspot_suspend_optimizations">Оптимизация на Wi-Fi точка</string>
   <string name="wifi_hotspot_suspend_optimizations_summary">Минимизиране разхода на батерията при включена Wi-Fi точка</string>
   <string name="bluetooth_unlock_add_device">Добавяне на устройство</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">Старото устройство ще бъде заменено с новото, искате ли да продължите?</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Старото устройство ще бъде заменено с текущото устройство</string>
   <string name="bluetooth_unlock_change_matched_device">Избор на друго устройство</string>
-  <string name="bluetooth_unlock_confirm_device_text">Докоснете устройството, за да потвърждаване</string>
+  <string name="bluetooth_unlock_confirm_device_text">Докоснете устройствата, за отключване</string>
   <string name="bluetooth_unlock_delete_device">Изтриване на устройството</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Да се изтрие ли това устройство?</string>
   <string name="bluetooth_unlock_device_matched_text">Ползване на това устройство за отключване</string>
@@ -3805,5 +3805,6 @@ for MAC"</li>"
   <string name="cta_dialog_title">Внимание</string>
   <string name="cta_settings">Достъп до интернет</string>
   <string name="accessibility_service_no_apps_prompt">TalkBack дава гласово описание на елементи от интерфейса за потребители с влошено зрение. Инсталирайте безплатното приложение от Google Play Store.</string>
-  <string name="accessibility_service_no_apps_confirm">Знам това</string>
+  <string name="accessibility_service_no_apps_confirm">ОК</string>
+  <string name="bluetooth_preference_connected_devices">Свързани устройства</string>
 </resources>

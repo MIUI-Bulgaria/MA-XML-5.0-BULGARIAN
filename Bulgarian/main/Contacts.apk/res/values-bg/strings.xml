@@ -1127,5 +1127,9 @@
   <string name="cta_notice_photo_message">Редактирането на снимки на контакти с Фото пакет изисква интернет връзка. Приемате ли?</string>
   <string name="cta_notice_checkbox">Не показвай повече</string>
   <string name="cta_notice_ok">Приемам</string>
-  <string name="cta_notice_settings">Напомняне при използване на интернет</string>  
+  <string name="cta_notice_settings">Напомняне при използване на интернет</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Изтегля се икона…</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Неуспешно, проверете вашите мрежови настройки</string>
+  <string name="yellowpage_user_profile">Профил</string>
+  <string name="yellowpage_navigation_more_items">Още</string>
 </resources>
