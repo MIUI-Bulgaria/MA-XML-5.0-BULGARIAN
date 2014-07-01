@@ -4,7 +4,7 @@
   <string name="about_preference_title">Информация</string>
   <string name="acknowledge_button">Продължи</string>
   <string name="action_settings">Настройки</string>
-  <string name="activation_page">Кодът а неактивен</string>
+  <string name="activation_page">Кодът e неактивен</string>
   <string name="activation_page_btn_txt">Активиране</string>
   <string name="activation_page_info">Впишете се на account.xiaomi.com</string>
   <string name="add_account_menu_item">Добавяне на профил</string>

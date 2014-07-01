@@ -2705,7 +2705,7 @@ for MAC"</li>"
   <string name="terms_title">Условия за ползване</string>
   <string name="testing">Проверка</string>
   <string name="testing_battery_info">Информация за батерията</string>
-  <string name="testing_phone_info">Информация за теелефона</string>
+  <string name="testing_phone_info">Информация за телефона</string>
   <string name="testing_sim_toolkit">Инструменти на SIM</string>
   <string name="testing_usage_stats">Статистики на използването</string>
   <string name="tether_settings_title_all">Тетъринг и преносима т.достъп</string>
