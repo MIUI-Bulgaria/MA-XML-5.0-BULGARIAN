@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Менеджер изтегляния</string>
+    <string name="app_label">Мениджър изтегляния</string>
     <string name="permlab_downloadManager">Достъп до диспечера за изтегляне.</string>
     <string name="permdesc_downloadManager">Дава на приложението достъп до диспечера за изтегляне и му позволява да го използва за изтегляне на файлове. Злонамерен софтуер може да използва това за прекъсване на изтеглянията и за достъп до лична информация.</string>
     <string name="permlab_downloadManagerAdvanced">Разширени функции на диспечера за изтегляне.</string>
