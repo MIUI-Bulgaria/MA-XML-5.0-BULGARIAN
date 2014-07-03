@@ -132,7 +132,7 @@
   <string name="st_antispam_des_smart_anti">Филтриране</string>
   <string name="st_antispam_des_permit">Приемане</string>
   <string name="st_antispam_des_uesless">Деактивирано</string>
-  <string name="st_antispam_des_permit_nokeyword">Приемане(с изкл. на ключови думи)</string>
+  <string name="st_antispam_des_permit_nokeyword">Приемане</string>
   <string name="info_antispam_sms">Блокиране на съобщения</string>
   <string name="info_antispam_phone">Блокиране на обаждания</string>
   <string name="info_antispam_phone_sms">Блокиране на обаждания и съобщения</string>

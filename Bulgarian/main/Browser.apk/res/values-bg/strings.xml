@@ -623,4 +623,5 @@
   <string name="pref_webapp_settings_savewidth">Да не се изтеглят снимки през мобилен интернет</string>
   <string name="pref_webapp_settings_hidebottombar">Скриване на долният панел</string>
   <string name="pref_content_brightness_setting">Настройки за яркост</string>
+  <string name="enter_developer_mode">Влизане в режим на разработчика</string>
 </resources>

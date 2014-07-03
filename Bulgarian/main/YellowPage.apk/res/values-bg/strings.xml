@@ -304,4 +304,8 @@ Custom service will contact you in a moment"</string>
   <string name="account_updating_device_failed">Login directory failed, please try again</string>
   <string name="quick_yellow_page_tab_phones">Phone</string>
   <string name="quick_yellow_page_tab_call_log">Call log</string>
+  <string name="add_to_favorite">Add to favorites</string>
+  <string name="remove_from_favorite">Remove from favorites</string>
+  <string name="added_to_favorite">Added</string>
+  <string name="removed_from_favorite">Removed</string>
 </resources>

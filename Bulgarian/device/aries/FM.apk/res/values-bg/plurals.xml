@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">Сканирани: %1$d станции</item>
+        <item quantity="one">Сканирани: 1 станция</item>
+    </plurals>
+</resources>

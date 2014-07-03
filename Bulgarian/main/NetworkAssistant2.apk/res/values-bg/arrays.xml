@@ -42,4 +42,15 @@
         <item>Автоматичен шаблон на съобщението</item>
         <item>Ръчно задаване на шаблон на съобщението</item>
     </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>昨天</item>
+        <item>当天</item>
+        <item>当月</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>数据流量</item>
+        <item>WLAN流量</item>
+        <item>节省数据流量</item>
+    </string-array>
+
 </resources>

@@ -104,9 +104,9 @@
   <string name="HIPS_Perm_Location_Desc">Търсене на телефона Ви чрез мрежата или GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s приложения имат права да локализират телефона Ви</string>
   <string name="HIPS_Perm_Location_Monitor">проследяване на позицията Ви</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Източник: Мобилна мрежа</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Източник: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Източник: мрежа</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">проследяване на позицията ви чрез моб. мрежа</string>
+  <string name="HIPS_Perm_Location_Source_GPS">проследяване на позицията ви чрез GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">проследяване на позицията ви чрез мрежата</string>
   <string name="HIPS_Perm_MobileNetwork">Мобилни данни</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Достъп до Интернет чрез мобилни данни (3G и др.)</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения имат достъп до Интернет чрез мобилни данни</string>
