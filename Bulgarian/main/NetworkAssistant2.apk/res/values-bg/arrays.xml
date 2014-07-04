@@ -43,14 +43,14 @@
         <item>Ръчно задаване на шаблон на съобщението</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>昨天</item>
-        <item>当天</item>
-        <item>当月</item>
+        <item>Вчера\u0020</item>
+        <item>Днес\u0020</item>
+        <item>Този месец\u0020</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>数据流量</item>
-        <item>WLAN流量</item>
-        <item>节省数据流量</item>
+        <item>използвано 2G/3G\u0020</item>
+        <item>използвано Wi-Fi\u0020</item>
+        <item>общо\u0020</item>
     </string-array>
 
 </resources>
