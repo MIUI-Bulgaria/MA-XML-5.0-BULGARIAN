@@ -261,4 +261,5 @@
   <string name="ad_block_hint">%d блокирани</string>
   <string name="ad_single_block_hint">Блокирано</string>
   <string name="ad_permission_hint">Блокирането на реклами може да се отрази на нормалната работа и бързина на приложенията.</string>
+  <string name="block_phm_number">%d</string>
 </resources>

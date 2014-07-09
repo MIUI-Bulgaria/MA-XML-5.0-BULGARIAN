@@ -34,23 +34,23 @@
         <item>9 сек.</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>2G/3G</item>
-        <item>Wi-Fi</item>
-        <item>Общо</item>
+        <item>"Употреба на мобилни данни "</item>
+        <item>"Употреба на Wi-Fi "</item>
+        <item>"Спестени данни "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Автоматичен шаблон на съобщението</item>
         <item>Ръчно задаване на шаблон на съобщението</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>Вчера\u0020</item>
-        <item>Днес\u0020</item>
-        <item>Този месец\u0020</item>
+        <item>"Вчера "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>използвано 2G/3G\u0020</item>
-        <item>използвано Wi-Fi\u0020</item>
-        <item>общо\u0020</item>
+        <item>"Мобилни данни "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Спестени данни "</item>
     </string-array>
 
 </resources>

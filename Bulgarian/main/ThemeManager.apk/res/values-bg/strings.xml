@@ -110,7 +110,7 @@
   <string name="resource_comment_upload_hint">Вашият коментар ще бъде показан след одобрение.</string>
   <string name="resource_comment_upload_not_bought">Трябва първо да използвате темата, ако искате да добавите коментар.</string>
   <string name="resource_comment_upload_not_logined">Първо трябва да влезете</string>
-  <string name="resource_comment_upload_success">Коментарът е изпратен! Ще бъде показан само след неговото одобрение.</string>
+  <string name="resource_comment_upload_success">Коментарът ви ще бъде показан след неговото одобрение.</string>
   <string name="resource_comment_version_name">(версия: %1$s)</string>
   <string name="resource_default">Мелодия по подразбиране</string>
   <string name="resource_default_name">Ресурс</string>
@@ -141,8 +141,8 @@
   <string name="resource_exchange_has_used">Посоченият код вече е бил използван.</string>
   <string name="resource_exchange_hint">Въведете код</string>
   <string name="resource_exchange_purchase_unkown_error">Възникна неизвестна грешка. Моля влзте в http://market.xiaomi.com за да да проверите статуса на плащането.</string>
-  <string name="resource_exchange_share_code_content">Вие получихте кодът за темата %1$s. Вашият MiCredit код е: %2$s. Натиснете %3$s за да го използвате сега.</string>
-  <string name="resource_exchange_share_code_dlg_content">Кодът за закупуване на темата %1$s е: %2$s. Ако го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема.</string>
+  <string name="resource_exchange_share_code_content">Получихте подаръчен код (%2$s) за темата %1$s от магазина за теми на MIUI. Натиснете %3$s за да го използвате сега.</string>
+  <string name="resource_exchange_share_code_dlg_content">Подаръчен код за %1$s: %2$s. Когато го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема</string>
   <string name="resource_exchange_share_code_dlg_title">Изпращане на код</string>
   <string name="resource_exchange_success">Готово! :)</string>
   <string name="resource_exchange_unavailable">Въведеният код не е валиден за тази тема</string>

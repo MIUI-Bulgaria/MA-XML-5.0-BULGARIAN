@@ -290,4 +290,5 @@
     <string name="sync_sub_2_intl_sms">Ще бъдат изпратени 2 международни SMS съобщения за за обвързване на вашите SIM карти с този профил</string>
     <string name="sync_sub_2_sms">Ще бъдат изпратени 2 SMS съобщения за за обвързване на вашите SIM карти с този профил</string>
     <string name="error_device_id">Не може да се получи IMEI</string>
+    <string name="bank_cards">Банкови карти</string>
 </resources>
