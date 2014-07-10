@@ -410,7 +410,7 @@
   <string name="sms_full_title">Паметта за съобщения е пълна</string>
   <string name="sms_rejected_body">Входящото съобщение беше отхвърлено.</string>
   <string name="sms_rejected_title">Отхвърлено съобщение</string>
-  <string name="sp_conversation_title">Уведомителни съобщения</string>
+  <string name="sp_conversation_title">Уведомления</string>
   <string name="sp_mark_as_read">Ще маркирате ли всички съобщения като прочетени?</string>
   <string name="sp_mark_as_read_progress">Маркиране на всички съобщения като прочетени...</string>
   <string name="sp_mark_as_read_title">Маркирай всички като прочетени</string>
@@ -490,4 +490,9 @@
   <string name="send_message_notification_tickerText">Device Management permission request</string>
   <string name="send_message_notification_title">Device Management</string>
   <string name="send_message_notification_msg">Device Management send message permission request</string>
+  <string name="view_hms_details">Детайли</string>
+  <string name="xiaomi_service_number">Сервизен номер</string>
+  <string name="retrive_hms_tips">Извлича се...</string>
+  <string name="hms_first_use_tips">За получаване на сервизни съобщения се нуждаете от връзка с Wi-Fi мрежа</string>
+  <string name="send_hms_editor_hints">Облачно съобщение</string>  
 </resources>

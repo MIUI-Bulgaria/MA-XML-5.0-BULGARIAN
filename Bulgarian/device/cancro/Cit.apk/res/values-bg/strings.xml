@@ -335,4 +335,6 @@
   <string name="cit_wifi_ap_scanning">Търсене на точки за достъп...</string>
   <string name="cit_wifi_fail_to_scan">Не може да се сканира за Wi-Fi мрежи</string>
   <string name="cit_wifi_state_refresh">Опресни</string>
+  <string name="cit_play_sd_mp3_hifi_title">Възпр. на MP3 (HIFI) файл от SD картата</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Уверете се, че има файл на име \"music.mp3\" в основната директория на SD картата. Файлът \"music.mp3\" трябва да се възпроизведе през HIFI пътя на устройството, когато стартирате този тест.</string>
 </resources>

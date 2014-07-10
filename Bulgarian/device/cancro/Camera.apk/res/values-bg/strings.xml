@@ -535,5 +535,7 @@
   <string name="pref_camera_auto_capture_when_stable_title">Авто заснемане след стабилизиране</string>
   <string name="ubi_focus_capture_fail">Кадърът е неуспешен, моля опитайте отново</string>
   <string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
-  <string name="simple_mode_button_text_4kuhd">Затвори 4K камерата</string>
+  <string name="simple_mode_button_text_4kuhd">Спри 4K камерата</string>
+  <string name="pref_camera_countdown_title">Отброяване</string>
+  <string name="simple_mode_button_text_countdown">Спри отброяването</string>
 </resources>
