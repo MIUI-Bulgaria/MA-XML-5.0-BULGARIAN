@@ -398,4 +398,6 @@
     <string name="info_title">Информация</string>
     <string name="prex_playcount">Гледания:</string>
     <string name="post_playcount">пъти</string>
+    <string name="priority_storage">Съхраняване във външната SD карта</string>
+    <string name="priority_storage_summary">Когато използвате външна SD карта, тогава тази функция ще има ефект</string>
 </resources>
