@@ -1198,5 +1198,9 @@
   <string name="confirm_save_info_saved_to">Записът е запаметен на</string>  
   <string name="dual_mic_summary">Подтискане на фоновия шум по време на разговор</string>
   <string name="minutereminder_summary">Напомняне на 50-та сек от всяка минута</string>
-  <string name="not_show_again">Не показвай отново.</string>  
+  <string name="not_show_again">Не показвай отново.</string>
+  <string name="ivr_menu_dialing_msg">Пренасочване...</string>
+  <string name="ivr_menu_list_title">Гласово меню</string>
+  <string name="non_ivr_menu_collapse_menu">Свий менюто</string>
+  <string name="non_ivr_menu_view_menu">Покажи менюто</string>
 </resources>

@@ -3807,4 +3807,8 @@ for MAC"</li>"
   <string name="accessibility_service_no_apps_prompt">TalkBack дава гласово описание на елементи от интерфейса за потребители с влошено зрение. Инсталирайте безплатното приложение от Google Play Store.</string>
   <string name="accessibility_service_no_apps_confirm">ОК</string>
   <string name="bluetooth_preference_connected_devices">Свързани устройства</string>
+  <string name="priority_storage_app_settings">Потр. данни ще се съхраняват на %1$s</string>
+  <string name="priority_storage_settings_summary">Ако не е поставена SD карта, потребителските данни автоматично ще се записват на вътрешното хранилище</string>
+  <string name="priority_storage_summary">Изберете хранилище по подразбиране за съхранение на потребителските данни</string>
+  <string name="priority_storage_title">Избор на хранилище</string>
 </resources>

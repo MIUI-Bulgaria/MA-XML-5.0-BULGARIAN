@@ -652,4 +652,8 @@ phone will open automatically when connected to a computer."</item>
         <item>Разрешаване</item>
         <item>Отказване</item>
     </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Вътрешно хранилище</item>
+        <item>Външно хранилище</item>
+    </string-array>
 </resources>
