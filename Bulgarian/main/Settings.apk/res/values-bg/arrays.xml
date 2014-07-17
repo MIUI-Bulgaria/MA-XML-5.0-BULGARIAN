@@ -7,8 +7,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производителност</item>
-        <item>Балансирано</item>
-        <item>Икономичен</item>
+        <item>Балансирано (по подр.)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>След 1 минута</item>

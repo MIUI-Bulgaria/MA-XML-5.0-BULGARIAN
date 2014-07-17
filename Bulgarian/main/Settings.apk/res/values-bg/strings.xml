@@ -3811,4 +3811,7 @@ for MAC"</li>"
   <string name="priority_storage_settings_summary">Ако не е поставена SD карта, потребителските данни автоматично ще се записват на вътрешното хранилище</string>
   <string name="priority_storage_summary">Изберете хранилище по подразбиране за съхранение на потребителските данни</string>
   <string name="priority_storage_title">Избор на хранилище</string>
+  <string name="high_performance_notif_summary">Батерията ще се изразходва по-бързо от обичайното.</string>
+  <string name="high_performance_notif_title">Активен е режим \"Производителност\"</string>
+  <string name="high_performance_title">Изглежда правите Benchmark тест. Задайте режим \"Производителност\" за най-добри резултати.</string>
 </resources>

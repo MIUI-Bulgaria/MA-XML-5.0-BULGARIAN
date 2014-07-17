@@ -1203,4 +1203,5 @@
   <string name="ivr_menu_list_title">Гласово меню</string>
   <string name="non_ivr_menu_collapse_menu">Свий менюто</string>
   <string name="non_ivr_menu_view_menu">Покажи менюто</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Натиснете %s</string>
 </resources>
