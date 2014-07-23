@@ -1204,4 +1204,6 @@
   <string name="non_ivr_menu_collapse_menu">Свий менюто</string>
   <string name="non_ivr_menu_view_menu">Покажи менюто</string>
   <string name="ivr_menu_list_sub_menu_count_format">Натиснете %s</string>
+  <string name="fdn_contacts_empty_miui">Няма контакти в списъка с ФНН телефонни номера.</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Прехвърляне към избраните услуги (пренебрегване на съобщенията за грешка)…</string>
 </resources>

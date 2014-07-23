@@ -1132,4 +1132,5 @@
   <string name="yellowpage_navigation_send_to_desktop_failed">Неуспешно, проверете вашите мрежови настройки</string>
   <string name="yellowpage_user_profile">Профил</string>
   <string name="yellowpage_navigation_more_items">Още</string>
+  <string name="yellowpage_navigation_search_result_average_price">Средно %d юана</string>
 </resources>

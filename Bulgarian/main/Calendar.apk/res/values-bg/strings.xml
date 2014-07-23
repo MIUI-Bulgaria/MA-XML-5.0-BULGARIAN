@@ -281,6 +281,6 @@
   <string name="cta_notify_settings">Напомняне при четене на контакти</string>
   <string name="text_year">Година</string>
   <string name="button_week">С</string>
-  <string name="week_view_today_toast">Вече е в тази седмица</string>
+  <string name="week_view_today_toast">Понастоящем преглеждате тази седмица</string>
   <string name="alarm_label">ОК</string>
 </resources>

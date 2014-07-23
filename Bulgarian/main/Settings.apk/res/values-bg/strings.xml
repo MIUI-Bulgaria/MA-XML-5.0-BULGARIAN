@@ -3814,4 +3814,5 @@ for MAC"</li>"
   <string name="high_performance_notif_summary">Батерията ще се изразходва по-бързо от обичайното.</string>
   <string name="high_performance_notif_title">Активен е режим \"Производителност\"</string>
   <string name="high_performance_title">Изглежда правите Benchmark тест. Задайте режим \"Производителност\" за най-добри резултати.</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Да се активират ли също и мобилните данни?</string>  
 </resources>

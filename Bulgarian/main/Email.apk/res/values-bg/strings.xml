@@ -755,4 +755,7 @@
     <string name="account_setup_incoming_mail_domain_label">Домейн</string>
     <string name="account_setup_incoming_mail_domain_hint">Може да не се попълва</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Автоматично (Push, ако сървъра го поддържа)</string>
+    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
 </resources>

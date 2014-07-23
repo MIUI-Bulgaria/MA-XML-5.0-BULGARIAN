@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производителност</item>
-        <item>Балансирано (по подр.)</item>
+        <item>Балансиран</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>След 1 минута</item>
@@ -27,7 +27,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Производително</item>
         <item>Балансирано</item>
-        <item>Икономично</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Никога</item>
@@ -379,7 +378,7 @@
         <item>Винаги</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Устройството е свързано, създава се сесия…</item>
+        <item>Създава се сесия…</item>
         <item>Сесията е създадена.</item>
         <item>Сесията се прекратява…</item>
         <item>Сесията е неуспешна.</item>
@@ -387,9 +386,9 @@
         <item>Устройството е свързано</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP и по-стари версии на Windows</item>
-        <item>Windows Vista и по-нови версии на Windows</item>
-        <item>Mac OS</item>
+        <item>Windows XP и по-стари</item>
+        <item>Windows Vista и по-нови</item>
+        <item>OSX</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
