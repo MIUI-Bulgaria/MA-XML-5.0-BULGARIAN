@@ -67,10 +67,10 @@
 интернет връзка чрез мобилни данни"</string>
     <string name="main_button_idel_traffic">Off-peak</string>
     <string name="main_button_normal_traffic">Peak</string>
-    <string name="main_button_usage_adjust">Настройка на трафика</string>
-    <string name="main_button_usage_adjust_manual">Настройка на трафика</string>
+    <string name="main_button_usage_adjust">Задаване на лимит на трафика</string>
+    <string name="main_button_usage_adjust_manual">Задаване на лимит на трафика</string>
     <string name="main_button_usage_adjusting">Настройка…</string>
-    <string name="main_button_usage_package_setting">Настройка на трафика</string>
+    <string name="main_button_usage_package_setting">Задаване на лимит на трафика</string>
     <string name="main_toolbar_firewall">Ограничения</string>
     <string name="main_toolbar_purchase">Зареждане</string>
     <string name="main_toolbar_statistic">Статистика</string>
@@ -195,7 +195,7 @@
     <string name="traffic_saving_button_stop">Деактивиране</string>
     <string name="traffic_saving_button_sorted">Детайли</string>
     <string name="traffic_saving_msg_today">Спестено днес:</string>
-    <string name="traffic_saving_msg_month">Този месец: %1$s</string>
+    <string name="traffic_saving_msg_month">Спестено за месеца</string>
     <string name="traffic_saving_history_title">История на спестяването</string>
     <string name="traffic_saving_history_total_traffic">Спестени данни</string>
     <string name="traffic_saving_history_total_money">Спестена сума</string>
@@ -215,5 +215,26 @@
 &lt;br /&gt;&lt;br /&gt;
 Спестяването на мобилни данни работи само когато сте свързан към 2G/3G мрежа. 
 По време на трафика на данни всички текстове и изображения се компресират в сървъра и по този начин се ускорява зареждането им. Музика и видеоклипове не се компресират."</string>
-    <string name="traffic_saving_button_sorted_chose_simcard">Изберете подредба</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Сортиране по</string>
+    <string name="mi_service_app_detail">Детайли за употребата на данни</string>
+    <string name="mi_service_framework">Mi Service Framework</string>
+    <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+    <string name="mi_service_traffic_detail">Framework детайли</string>
+    <string name="none_mi_service_app_detail">Празно</string>
+    <string name="pref_traffic_saving_whitelist">Изключения</string>
+    <string name="pref_traffic_saving_whitelist_hint">Използването на данни от тези приложения няма да се ограничава</string>
+    <string name="traffic_saving_history_total_month">Спестено този месец</string>
+    <string name="traffic_saving_history_total_month_default">Спестено този месец</string>
+    <string name="traffic_saving_history_total_month_value">"Слушане на музика онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Онлайн чат &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Четене онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; елементи"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Слушане на музика онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Онлайн чат &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Четене онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; елементи"</string>
+    <string name="traffic_saving_history_total_rate">Спестено в проценти</string>
+    <string name="traffic_saving_history_total_rate_unit">%</string>
+    <string name="traffic_saving_msg_not_started">Не е активирано</string>
+    <string name="traffic_saving_whitelist_btn_add">Добави</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Добави</string>
+    <string name="traffic_saving_whitelist_btn_added">Добавено</string>
+    <string name="traffic_saving_whitelist_btn_remove">Премахни</string>
+    <string name="traffic_saving_whitelist_btn_removed">Прилжението е премахнато от списъка</string>
+    <string name="traffic_saving_whitelist_count">Използването на данни от %d приложения не се ограничава</string>
+    <string name="traffic_saving_whitelist_no_app">Няма приложения</string>
 </resources>

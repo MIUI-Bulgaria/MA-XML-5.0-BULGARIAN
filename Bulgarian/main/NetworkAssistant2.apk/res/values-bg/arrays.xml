@@ -52,5 +52,8 @@
         <item>"Wi-Fi "</item>
         <item>"Спестени данни "</item>
     </string-array>
-
+    <string-array name="mi_service_traffic_type">
+        <item>"Мобилни данни "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
 </resources>
