@@ -494,5 +494,10 @@
   <string name="xiaomi_service_number">Сервизен номер</string>
   <string name="retrive_hms_tips">Извлича се...</string>
   <string name="hms_first_use_tips">За получаване на сервизни съобщения се нуждаете от връзка с Wi-Fi мрежа</string>
-  <string name="send_hms_editor_hints">Облачно съобщение</string>  
+  <string name="send_hms_editor_hints">Облачно съобщение</string>
+  <string name="file_create_time">Време на създаване:</string>
+  <string name="file_size">Размер:</string>
+  <string name="file_title">Име:</string>
+  <string name="file_width_height">Размер:</string>
+  <string name="share_img">Сподели</string>
 </resources>

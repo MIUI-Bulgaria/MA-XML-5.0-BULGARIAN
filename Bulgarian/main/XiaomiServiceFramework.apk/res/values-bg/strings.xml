@@ -166,7 +166,7 @@
     <string name="mili_center">MiКредити</string>
     <string name="next">Следващ</string>
     <string name="nobind">Не е обвързан</string>
-    <string name="noRemind">Не ми напомняй</string>
+    <string name="noRemind">Не показвай отново</string>
     <string name="other_settings">Други настройки</string>
     <string name="password">Въведете вашата парола</string>
     <string name="prev">Предишен</string>
@@ -291,4 +291,6 @@
     <string name="sync_sub_2_sms">Ще бъдат изпратени 2 SMS съобщения за за обвързване на вашите SIM карти с този профил</string>
     <string name="error_device_id">Не може да се получи IMEI</string>
     <string name="bank_cards">Банкови карти</string>
+    <string name="error_login">Неуспешно вписване</string>
+    <string name="relogin_notice">Необходимо е да влезете отново</string>
 </resources>

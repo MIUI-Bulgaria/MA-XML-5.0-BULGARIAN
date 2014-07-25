@@ -183,7 +183,7 @@
     <string name="pref_new_installed_preconfig_title">Стандартни настройки за нови прил.</string>
     <string name="spinner_title">%1$s - Мобилни данни: %2$s</string>
     <string name="main_toolbar_saving">Спестяване</string>
-    <string name="traffic_saving_tecsupport"/>
+    <string name="traffic_saving_tecsupport">С подкрепата на Opera Max</string>
     <string name="traffic_saving_notify_start_title">Намалява използваните от вас данни</string>
     <string name="traffic_saving_notify_start_content">%s са спестени този месец</string>
     <string name="traffic_saving_toast_start_mobile">Спестяването на данни е активирано</string>
@@ -195,7 +195,7 @@
     <string name="traffic_saving_button_stop">Деактивиране</string>
     <string name="traffic_saving_button_sorted">Детайли</string>
     <string name="traffic_saving_msg_today">Спестено днес:</string>
-    <string name="traffic_saving_msg_month">Спестено за месеца</string>
+    <string name="traffic_saving_msg_month">Спестено за месеца:</string>
     <string name="traffic_saving_history_title">История на спестяването</string>
     <string name="traffic_saving_history_total_traffic">Спестени данни</string>
     <string name="traffic_saving_history_total_money">Спестена сума</string>
@@ -223,13 +223,13 @@
     <string name="none_mi_service_app_detail">Празно</string>
     <string name="pref_traffic_saving_whitelist">Изключения</string>
     <string name="pref_traffic_saving_whitelist_hint">Използването на данни от тези приложения няма да се ограничава</string>
-    <string name="traffic_saving_history_total_month">Спестено този месец</string>
-    <string name="traffic_saving_history_total_month_default">Спестено този месец</string>
-    <string name="traffic_saving_history_total_month_value">"Слушане на музика онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Онлайн чат &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Четене онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; елементи"</string>
-    <string name="traffic_saving_history_total_month_value_default">"Слушане на музика онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Онлайн чат &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; / Четене онлайн &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; елементи"</string>
-    <string name="traffic_saving_history_total_rate">Спестено в проценти</string>
+    <string name="traffic_saving_history_total_month">"Спестено този месец: "</string>
+    <string name="traffic_saving_history_total_month_default">Средно-месечни спестявания:</string>
+    <string name="traffic_saving_history_total_month_value">"Слушане на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; песни / Чат за &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; часа / Четене на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; статии"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Слушане на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; песни / Чат за &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; часа / Четене на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; статии"</string>
+    <string name="traffic_saving_history_total_rate">В проценти</string>
     <string name="traffic_saving_history_total_rate_unit">%</string>
-    <string name="traffic_saving_msg_not_started">Не е активирано</string>
+    <string name="traffic_saving_msg_not_started">Спестяването не е активирано</string>
     <string name="traffic_saving_whitelist_btn_add">Добави</string>
     <string name="traffic_saving_whitelist_btn_add_app">Добави</string>
     <string name="traffic_saving_whitelist_btn_added">Добавено</string>
