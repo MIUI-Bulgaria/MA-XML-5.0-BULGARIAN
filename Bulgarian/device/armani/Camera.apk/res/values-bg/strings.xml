@@ -95,7 +95,6 @@
   <string name="exposure_time">Време на експониране</string>
   <string name="face_analyze_info">%1$s %2$s години</string>
   <string name="face_analyze_info_female">Жена</string>
-  <string name="face_analyze_info_gender">Пол:</string>
   <string name="face_analyze_info_male">Мъж</string>
   <string name="face_beauty_age_alias_female_0_7">Жена 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Жена 18-30</string>
@@ -123,7 +122,6 @@
   <string name="find_other_qrcode">Открит QR код</string>
   <string name="find_qq_qrcode">Открит е QQ QR код</string>
   <string name="find_web_qrcode">Открит QR код на уебсайт</string>
-  <string name="find_weixin_qrcode">Открит е weixin QR код </string>
   <string name="find_wifi_qrcode">Открит е Wi-Fi QR код</string>
   <string name="flash">Светкавица</string>
   <string name="flash_off">Светкавица изкл.</string>
@@ -234,8 +232,6 @@
   <string name="pref_camera_exposuretime_entry_8">1/8 сек.</string>
   <string name="pref_camera_exposuretime_entry_auto">Авто</string>
   <string name="pref_camera_exposuretime_title">Време на експониране</string>
-  <string name="pref_camera_facedetection_entry_off">Изкл.</string>
-  <string name="pref_camera_facedetection_entry_on">Вкл.</string>
   <string name="pref_camera_facedetection_title">Разпознаване на лице</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_off">Изкл.</string>
@@ -277,8 +273,6 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Фокусиране</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Серия от снимки</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Задържане бутона на затвора</string>
-  <string name="pref_camera_movie_solid_entry_off">Изкл.</string>
-  <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
   <string name="pref_camera_movie_solid_title">Стабилизация на изображението</string>
   <string name="pref_camera_multilevel_entry_high">Високо</string>
   <string name="pref_camera_multilevel_entry_higher">По-високо</string>
@@ -329,8 +323,6 @@
   <string name="pref_camera_redeyereduction_entry_disable">Изкл.</string>
   <string name="pref_camera_redeyereduction_entry_enable">Вкл.</string>
   <string name="pref_camera_redeyereduction_title">Премахване на червени очи</string>
-  <string name="pref_camera_referenceline_entry_off">Изкл.</string>
-  <string name="pref_camera_referenceline_entry_on">Вкл.</string>
   <string name="pref_camera_referenceline_title">Базова линия</string>
   <string name="pref_camera_saturation_title">Наситеност</string>
   <string name="pref_camera_scenedetect_title">Авт. засичане на сцена</string>
@@ -359,11 +351,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Изкл.</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Вкл.</string>
   <string name="pref_camera_skinToneEnhancement_title">Подобряване цвета на кожата</string>
-  <string name="pref_camera_sound_entry_off">Изкл.</string>
-  <string name="pref_camera_sound_entry_on">Вкл.</string>
   <string name="pref_camera_sound_title">Звук на камерата</string>
-  <string name="pref_camera_sound_title_entry_off">Изкл.</string>
-  <string name="pref_camera_sound_title_entry_on">Вкл.</string>
   <string name="pref_camera_touchafaec_entry_off">Изкл.</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
   <string name="pref_camera_touchafaec_title">Фокусиране при докосване</string>
@@ -375,10 +363,7 @@
   <string name="pref_camera_volumekey_function_entry_exposure">Експониране</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
   <string name="pref_camera_volumekey_function_entry_volume">Звук</string>
-  <string name="pref_camera_volumekey_function_entry_zooming">Мащаб</string>
   <string name="pref_camera_volumekey_function_title">Функция на бутоните за звук</string>
-  <string name="pref_camera_watermark_entry_off">Изкл.</string>
-  <string name="pref_camera_watermark_entry_on">Вкл.</string>
   <string name="pref_camera_watermark_title">Дата на снимката</string>
   <string name="pref_camera_whitebalance_entry_auto">Aвто</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Облачно</string>
@@ -392,8 +377,6 @@
   <string name="pref_camera_zsl_entry_off">Изкл.</string>
   <string name="pref_camera_zsl_entry_on">Вкл.</string>
   <string name="pref_camera_zsl_title">ZSL (снима без забавяне)</string>
-  <string name="pref_captrue_mirror_entry_off">Изкл.</string>
-  <string name="pref_captrue_mirror_entry_on">Вкл.</string>
   <string name="pref_captrue_mirror_title">Предна камера</string>
   <string name="pref_exposure_title">Експониране</string>
   <string name="pref_grp_advanced_settings">Разширени настройки</string>
@@ -401,8 +384,6 @@
   <string name="pref_grp_picture_settings">Настройки на снимане</string>
   <string name="pref_grp_restore_settings">Нулиране на настройките</string>
   <string name="pref_manual_exposure_title">Ръчно експониране</string>
-  <string name="pref_scan_qrcode_entry_off">Изкл.</string>
-  <string name="pref_scan_qrcode_entry_on">Вкл.</string>
   <string name="pref_scan_qrcode_title">Сканиране на QR код</string>
   <string name="pref_setting_title">Настройки</string>
   <string name="pref_settings_mode">Режим на камерата</string>
@@ -486,7 +467,6 @@
   <string name="success_message_import_from_account">Импортирането е успешно</string>
   <string name="tags">Тагове</string>
   <string name="tap_to_focus">Докоснете за фокусиране</string>
-  <string name="tap_to_meter">Докоснете за отмерване</string>
   <string name="time">Време</string>
   <string name="time_lapse_error">Невалидна резолюция за записване на \"Time lapse\" видео.</string>
   <string name="times">Време</string>
@@ -525,4 +505,23 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
+  <string name="cannot_move_warning_message">Заснема се снимка, не движете устройството</string>
+  <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
+  <string name="object_track_enable_toast">Плъзнете на екрана за преглед за начало на следене на обекта.</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Авто заснемане след стабилизиране</string>
+  <string name="pref_camera_auto_chroma_flash_title">Авт. Chroma светкавица</string>
+  <string name="pref_camera_countdown_title">Отброяване</string>
+  <string name="pref_camera_hdr_type_title">HDR тип</string>
+  <string name="pref_camera_ubi_focus_title">Дофокусиране</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Мащабиране</string>
+  <string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
+  <string name="simple_mode_button_text_4kuhd">Спри 4K камерата</string>
+  <string name="simple_mode_button_text_countdown">Спри отброяването</string>
+  <string name="simple_mode_button_text_fast_video">Спри fast-motion</string>
+  <string name="simple_mode_button_text_ubi_focus">Спри режим Дофокусиране</string>
+  <string name="tap_to_exposure">Докоснете за ръчно експониране</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
+  <string name="ubi_focus_capture_fail">Кадърът е неуспешен, моля опитайте отново</string>
+  <string name="ubi_focus_exit_button_text">Изход от режим Дофокусиране</string>
+  <string name="ubifocus_capture_warning_message">По-добре е когато екрана на визуализацията съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>  
 </resources>
