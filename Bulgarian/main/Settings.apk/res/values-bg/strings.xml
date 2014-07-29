@@ -822,7 +822,7 @@
   <string name="deep_clean_title_large_file">Големи файлове</string>
   <string name="deep_clean_title_residual">Остатъчни файлове</string>
   <string name="deep_clean_title_uninstall_apps">Приложения</string>
-  <string name="deep_cleaning">Разширено почистване</string>
+  <string name="deep_cleaning">Разширено</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Избор на метода за въвеждане по подразбиране</string>
   <string name="default_sdcard_select_msg">"Ако изберете %1$s, инсталираните приложения на %2$s няма да могат да се използват преди рестартиране на устройството, променяте ли на %3$s?"</string>
@@ -1528,7 +1528,7 @@
   <string name="memory_media_usage">Мултимедия</string>
   <string name="memory_music_usage">Аудио (музика, мелодии, подкастове и др)</string>
   <string name="memory_size">Обща памет</string>
-  <string name="memory_suffix">GB</string>
+  <string name="memory_suffix">ГБ</string>
   <string name="memory_title">На разположение: %1$s\u0009\u0009Общо: %2$s</string>
   <string name="memory_used_suffix">Използвани</string>
   <string name="menu_cancel">Отказ</string>
