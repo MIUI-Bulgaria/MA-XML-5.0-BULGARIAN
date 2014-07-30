@@ -151,7 +151,7 @@
     <string name="sms_template">Текст на съобщението</string>
     <string name="sms_to">Изпращане на SMS</string>
     <string name="splash_tip">Свържете MiKey</string>
-    <string name="task_title_prefix">"Действие N: "</string>
+    <string name="task_title_prefix">"Действие %1$s: %2$s"</string>
     <string name="test_user_entry">Тест</string>
     <string name="times">пъти</string>
     <string name="title">Титла:</string>
@@ -178,8 +178,7 @@
     <string name="setting_buy">Купете MiKey</string>
     <string name="app_not_installed">Приложението не е инсталирано</string>
     <string name="setting_toolbar">Панел с инстр.</string>
-    <string name="setting_toolbar_desc">"Функциите на панела с инстументи са леснодостъпни от лентата с известия
-它能带来更多便利。"</string>
+    <string name="setting_toolbar_desc">"За по-голямо удобство, функциите на панела с инструменти са леснодостъпни от лентата с известия."</string>
     <string name="setting_toolbar_tip">"Натиснете +, за да добавите функция.
 Задръжте дълго за изтриване.
 Можете и да създадете собствен панел с инструменти!

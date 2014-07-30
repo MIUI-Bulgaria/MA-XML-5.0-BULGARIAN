@@ -293,4 +293,5 @@
     <string name="bank_cards">Банкови карти</string>
     <string name="error_login">Неуспешно вписване</string>
     <string name="relogin_notice">Необходимо е да влезете отново</string>
+    <string name="micloud_proceed">Продължи</string> 
 </resources>

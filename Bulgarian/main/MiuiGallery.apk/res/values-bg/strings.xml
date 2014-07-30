@@ -582,4 +582,7 @@
   <string name="ubifocus_refocus_download_tip">Моля, изтеглете данните за дофокусиране, преди да започнете</string>
   <string name="priority_storage">Съхраняване на SD картата</string>
   <string name="priority_storage_summary">Когато използвате SD карта, изтеглените файлове ще се записват автоматично на SD картата.</string>
+  <string name="crop_recognize_text">Разпознаване</string>  
+  <string name="crop_save_text_setas">Приложи</string>
+  <string name="recognizing_image">Снимката се разпознава...</string> 
 </resources>

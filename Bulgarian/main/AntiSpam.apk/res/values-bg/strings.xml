@@ -262,4 +262,9 @@
   <string name="ad_single_block_hint">Блокирано</string>
   <string name="ad_permission_hint">Блокирането на реклами може да се отрази на нормалната работа и бързина на приложенията.</string>
   <string name="block_phm_number">%d</string>
+  <string name="report">Докладване</string>
+  <string name="report_error">Благодарим за доклада, информацията ще бъде изпратена автоматично, когато сте свързани към Wi-Fi мрежа.</string>
+  <string name="report_only">Изберете поне едно съобщение</string>
+  <string name="report_sms">Докладване на съобщение</string>
+  <string name="report_success">Докладвано е успешно</string>
 </resources>

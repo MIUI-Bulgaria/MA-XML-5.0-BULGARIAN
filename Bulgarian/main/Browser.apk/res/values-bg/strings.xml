@@ -636,4 +636,6 @@
   <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
   <string name="cloud_sync_closed_toast">Облачната синхронизация е изключена</string>
   <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
+  <string name="bookmarks_history">Отметки/История</string>
+  <string name="delete_homepage">Изтрий нач. страница</string>
 </resources>
