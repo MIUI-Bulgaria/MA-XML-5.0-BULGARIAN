@@ -229,7 +229,7 @@
     <string name="traffic_saving_history_total_month_value_default">"Слушане на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; песни / Чат за &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; часа / Четене на &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; статии"</string>
     <string name="traffic_saving_history_total_rate">В проценти</string>
     <string name="traffic_saving_history_total_rate_unit">%</string>
-    <string name="traffic_saving_msg_not_started">Спестяването не е активирано</string>
+    <string name="traffic_saving_msg_not_started">Изключено</string>
     <string name="traffic_saving_whitelist_btn_add">Добави</string>
     <string name="traffic_saving_whitelist_btn_add_app">Добави</string>
     <string name="traffic_saving_whitelist_btn_added">Добавено</string>

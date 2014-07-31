@@ -128,7 +128,7 @@
   <string name="HIPS_Perm_PhoneID_Number">да получи телефонния Ви номер</string>
   <string name="HIPS_Perm_PromptAll">Питай винаги</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc">Изисква се ROOT достъп</string>
+  <string name="HIPS_Perm_ROOT_Desc">Заявки за ROOT достъп</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Не се предлага в стабилните версии на MIUI</string>
   <string name="HIPS_Perm_ROOT_Hint">Няма приложения</string>
   <string name="HIPS_Perm_ROOT_Title">да получи ROOT досъп</string>
