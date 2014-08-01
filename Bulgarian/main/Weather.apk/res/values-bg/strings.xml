@@ -29,7 +29,7 @@
     <string name="act_weather_update_time">Обновено %s</string>
     <string name="add_city">Добави град</string>
     <string name="alert_message_delete">Ще изтриете ли избраните елементи (%d)?</string>
-    <string name="alert_provider_message">Трябва да позволите досъп до местоположението ви чрез мобилната мрежа.</string>
+    <string name="alert_provider_message">Трябва да позволите достъп до местоположението ви чрез мобилната мрежа.</string>
     <string name="alert_provider_title">Известие за местоположението</string>
     <string name="alert_title_delete">Изтриване</string>
     <string name="app_love_font_lng">%s</string>
