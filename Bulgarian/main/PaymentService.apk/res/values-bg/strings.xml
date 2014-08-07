@@ -492,4 +492,6 @@ Please check your local date and try again."</string>
   <string name="progress_warning_check_with_contact">"Плащането все още не е достигнало до профила ви. 
 Ще проверим отново в рамките на два работни дни.
 Телефон на потребителя (за Китай)：400-100-5678"</string>
+  <string name="giftcard_title">MiКредит ваучер</string>
+  <string name="giftcard_define_detail">Използвайте тези ваучери точно както и MiКредити-те. Можете да получавате кредити след като се присъедините към някое събитие или промоция на Xiaomi.</string>
 </resources>

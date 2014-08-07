@@ -151,7 +151,7 @@
   <string name="download_complete">Изтеглянето завърши</string>
   <string name="download_default_path_txt">Изтегляй в тази папка по подразбиране, без да питаш за това отново</string>
   <string name="download_dialog_default_path_invalid">Невалидна папка за сваляне, използвай зададената по подразбиране</string>
-  <string name="download_dialog_file_length_hint_txt">Размер на файла:</string>
+  <string name="download_dialog_file_length_hint_txt">"Размер на файла: "</string>
   <string name="download_dialog_file_length_lessthan1kb">По-малко от 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Неуспешно изчисляване на размера на файла</string>
   <string name="download_dialog_file_length_nolength_txt">Изчисляване на размера на файла ...</string>

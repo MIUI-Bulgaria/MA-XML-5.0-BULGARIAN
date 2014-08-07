@@ -155,4 +155,5 @@
   <string name="type_rd"/>
   <string name="view_stations_list">Списък със станции</string>
   <string name="msg_fm_starting">Стартиране...</string>
+  <string name="toast_fm_scaning">Сканиране…</string>
 </resources>

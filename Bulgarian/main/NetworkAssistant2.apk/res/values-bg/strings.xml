@@ -237,4 +237,5 @@
     <string name="traffic_saving_whitelist_btn_removed">Прилжението е премахнато от списъка</string>
     <string name="traffic_saving_whitelist_count">Използването на данни от %d приложения не се ограничава</string>
     <string name="traffic_saving_whitelist_no_app">Няма приложения</string>
+    <string name="checkout_traffic_saving_history">Покажи историята</string>
 </resources>

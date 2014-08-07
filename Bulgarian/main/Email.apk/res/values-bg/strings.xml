@@ -758,4 +758,15 @@
     <string name="outbox_alert_description_auth_error">Причина: Грешка при удостоверяване по време на синхр. на изх. поща</string>
     <string name="outbox_alert_description_provision_error">Причина: Грешка на сървъра по време на синхр. на изх. поща</string>
     <string name="outbox_alert_description_http_error">Причина: HTTP грешка на сървъра по време на синхр. на изх. поща</string>
+    <string name="conversation_list_net_check">Неуспешно свързване с мрежата, проверете настройките на мрежата и опитайте отново по-късно</string>
+    <string name="mail_body_turncated">Този имейл е прекалено голям, за да се зареди. Показана е само част от него, прегледайте го по-късно на компютър.</string>
+    <string name="no_wifi_promot">В момента не се използва Wi-Fi, възможен е голям трафик на мобилни данни</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Не може да се провери сертификата на сървъра
+\u0009 (Проверете настройката 'Авт. синхр. на времето')"</string>
+    <string name="ser_resp_err_map_connect_err">Грешка във връзката на мрежата. Моля, опитайте друга мрежа</string>
+    <string name="ser_resp_err_map_nouser">Няма такъв потребител</string>
+    <string name="ser_resp_err_map_or">Или</string>
+    <string name="ser_resp_err_map_pserr">Неправилно име или парола</string>
+    <string name="ser_resp_err_map_serclosed">Услугата е прекратена</string>
+    <string name="ser_resp_err_map_ssl">"Моля, опитайте да изберете 'SSL/TLS (Приемане на всички сертификати)' във 'Вид защита'"</string>
 </resources>

@@ -16,4 +16,5 @@
   <string name="gemini_sim_management_title">Управление на SIM картата</string>
   <string name="gemini_sim_mode_progress_activating_message">Активиране…</string>
   <string name="gemini_sim_mode_progress_deactivating_message">Деактивиране…</string>
+  <string name="sim_radio_off">Неактивирано</string>
 </resources>
