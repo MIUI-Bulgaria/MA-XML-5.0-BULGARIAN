@@ -360,7 +360,7 @@
   <string name="unlock_screen_set_success">MiBand unlock has been set successfully</string> 
   <string name="unlock_screen_modify_unlock">"If you need to modify please open Settings -> All settings -> Security &amp; privacy -> Screen security"</string> 
   <string name="bind_weixin_title">" after clicking "connect to Wechat" will create a QR code in your album, use the scan QR code in WeChat then you can connect  "</string> 
-  <string name="bind_weixin_tips">"        also, you can use a PC by visiting <font color=blue>http://hm.xiaomi.com/login.do</font> to get the QR code, using the WeChat QR code scanner to connect it"</string> 
+  <string name="bind_weixin_tips">"        also, you can use a PC by visiting http://hm.xiaomi.com/login.do to get the QR code, using the WeChat QR code scanner to connect it"</string> 
   <string name="bind_weixin_now">Generating QR code, please wait...</string> 
   <string name="bind_weixin_failed">Connection failed, please try again</string> 
   <string name="bind_weixin_succ">Connected successfully, use your wechat to try!</string> 
