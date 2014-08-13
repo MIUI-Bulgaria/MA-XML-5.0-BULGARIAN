@@ -1206,4 +1206,19 @@
   <string name="ivr_menu_list_sub_menu_count_format">Натиснете %s</string>
   <string name="fdn_contacts_empty_miui">Няма контакти в списъка с ФНН телефонни номера.</string>
   <string name="ivr_menu_dialing_msg_no_mute">Прехвърляне към избраните услуги (пренебрегване на съобщенията за грешка)…</string>
+  <string name="call_barring_sum">Настр. забрана за гласови повиквания</string>
+  <string name="change_password">Промени парола за забрана на повиквания</string>
+  <string name="confirm_password_label">Потвърдете новата парола</string>
+  <string name="deactivate_all">Отмени всички</string>
+  <string name="enter_callbarring_password">Въведете парола за забрана на повиквания (4 цифри)</string>
+  <string name="invalid_password">Въведете 4-цифрено число</string>
+  <string name="lable_all_incoming">Всички входящи повиквания</string>
+  <string name="lable_all_out_except">Междун. изх. повиквания, с изключ. към дом. мрежа PLMN</string>
+  <string name="lable_all_outgoing">Всички изходящи повиквания</string>
+  <string name="lable_all_outgoing_international">Междунар. изходящи повиквания</string>
+  <string name="lable_call_barring">"Забрана за повиквания "</string>
+  <string name="lable_disable">Деактивиран</string>
+  <string name="lable_enable">Активирано</string>
+  <string name="lable_incoming_calls_except">Входящи повиквания при роуминг</string>
+  <string name="mismatch_password">Новите пароли не съвпадат. Моля, опитайте пак.</string>
 </resources>

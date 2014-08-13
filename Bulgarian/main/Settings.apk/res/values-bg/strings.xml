@@ -1748,7 +1748,7 @@ for MAC"</li>"
   <string name="optimize_cache_header_left">Кеш файлове: %d</string>
   <string name="optimize_cache_list_empty_content">Няма кеш файлове</string>
   <string name="optimize_done">Оптимизацията завърши!</string>
-  <string name="optimize_installed_apps_header_left">Изтеглени приложения: %d</string>
+  <string name="optimize_installed_apps_header_left">Инсталирани приложения: %d</string>
   <string name="optimize_installed_apps_list_empty_content">Няма приложения</string>
   <string name="optimize_large_file_header_left">Големи файлове: %d</string>
   <string name="optimize_large_file_list_empty_content">Няма големи файлове</string>
@@ -3058,7 +3058,7 @@ for MAC"</li>"
   <string name="virus_scan_safe">Системата е защитена</string>
   <string name="virus_scan_settings">Настройки</string>
   <string name="virus_scan_settings_title">Настройки на вирусните дефиниции</string>
-  <string name="virus_scan_start">Проверка за вируси</string>
+  <string name="virus_scan_start">Сканирай</string>
   <string name="virus_scan_stop">Спри</string>
   <string name="virus_scan_support">Разработчик: Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (.apk пакет)</string>
@@ -3814,5 +3814,13 @@ for MAC"</li>"
   <string name="high_performance_notif_summary">Батерията ще се изразходва по-бързо от обичайното.</string>
   <string name="high_performance_notif_title">Активен е режим \"Производителност\"</string>
   <string name="high_performance_title">Изглежда правите Benchmark тест. Задайте режим \"Производителност\" за най-добри резултати.</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Да се активират ли също и мобилните данни?</string>  
+  <string name="enable_mobile_data_when_opening_hotspot">Да се активират ли също и мобилните данни?</string>
+  <string name="cache_data_sort_type_item_name">Име</string>
+  <string name="cache_data_sort_type_item_size">Размер</string>
+  <string name="deepclean_cache_header_left">Кеш файлове: %d</string>
+  <string name="deepclean_sort_type_title">Сортиране</string>
+  <string name="empty_content_size">Няма</string>
+  <string name="large_file_sort_type_item_name">Име</string>
+  <string name="large_file_sort_type_item_size">Размер</string>
+  
 </resources>

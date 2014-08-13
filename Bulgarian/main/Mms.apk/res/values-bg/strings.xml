@@ -147,8 +147,8 @@
   <string name="forward_prefix">"От: "</string>
   <string name="found_old_messages">Ще изпратите ли съобщенията от предишните ви профили (%1$s) към %2$s?</string>
   <string name="found_old_messages_title">Ще изпратите ли съобщенията от другите ваши SIM карти?</string>
-  <string name="found_wild_messages">Ще изтеглите ли съобщенията от другите ваши SIM карти?</string>
-  <string name="found_wild_messages_title">Изтегли съобщенията</string>
+  <string name="found_wild_messages">Съобщения от номерата по-долу бяха открити в MiCloud профила ви:%s Искате ли да ги изтеглите?</string>
+  <string name="found_wild_messages_title">Изтегляне на съобщения</string>
   <string name="from_label">"От: "</string>
   <string name="group_message">Групово съобщение</string>
   <string name="group_message_failed_title">Неуспешно изпращане до %d контакта</string>

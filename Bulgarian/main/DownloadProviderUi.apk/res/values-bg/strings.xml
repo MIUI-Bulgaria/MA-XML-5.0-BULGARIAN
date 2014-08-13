@@ -124,4 +124,7 @@
   <string name="download_list_open_xl_cancel">Отказ</string>
   <string name="download_list_intoAuth">Удостоверяване в страницата на MIUI</string>
   <string name="download_list_intoAuthAlert">Моля, изчакайте</string>
+  <string name="add_flow_fail_haveget_msg">Съжаляваме, но трябва да имате безплатен високоскостен трафик този месец</string>
+  <string name="add_flow_fail_vip_msg">Скъпи Xunlei VIP, високоскоростната връзка е активна</string>
+  <string name="add_flow_success_msg">Успешно получени 300МБ за високоскоростна връзка</string>
 </resources>

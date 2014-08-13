@@ -309,4 +309,7 @@ Custom service will contact you in a moment"</string>
   <string name="added_to_favorite">Added</string>
   <string name="removed_from_favorite">Removed</string>
   <string name="express_send_notice">About prohibited items</string>
+  <string name="express_no_tracking_number">No related tracking number</string>
+  <string name="express_order_info">Order info</string>
+  <string name="express_tracking_number">Tracking number</string>
 </resources>

@@ -212,7 +212,7 @@
   <string name="pref_camera_coloreffect_entry_sketch">Скица</string>
   <string name="pref_camera_coloreffect_entry_vivid">Живо</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
-  <string name="pref_camera_coloreffect_entry_yesteryear">Минала година</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Винтидж</string>
   <string name="pref_camera_coloreffect_title">Филтри</string>
   <string name="pref_camera_contrast_title">Контраст</string>
   <string name="pref_camera_current_k_value">Текуща стойност</string>
@@ -508,20 +508,21 @@
   <string name="cannot_move_warning_message">Заснема се снимка, не движете устройството</string>
   <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
   <string name="object_track_enable_toast">Пипнете и задръжте обекта на екрана за начало на следене на обекта.</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Авто заснемане след стабилизиране</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Авто-заснемане след стабилизиране</string>
   <string name="pref_camera_auto_chroma_flash_title">Авт. Chroma светкавица</string>
   <string name="pref_camera_countdown_title">Отброяване</string>
   <string name="pref_camera_hdr_type_title">HDR тип</string>
   <string name="pref_camera_ubi_focus_title">Дофокусиране</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Мащабиране</string>
   <string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
-  <string name="simple_mode_button_text_4kuhd">Спри 4K камерата</string>
-  <string name="simple_mode_button_text_countdown">Спри отброяването</string>
+  <string name="simple_mode_button_text_4kuhd">Спри</string>
+  <string name="simple_mode_button_text_countdown">Спри</string>
   <string name="simple_mode_button_text_fast_video">Спри fast-motion</string>
   <string name="simple_mode_button_text_ubi_focus">Спри режим Дофокусиране</string>
   <string name="tap_to_exposure">Докоснете за ръчно експониране</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
   <string name="ubi_focus_capture_fail">Кадърът е неуспешен, моля опитайте отново</string>
   <string name="ubi_focus_exit_button_text">Изход от режим Дофокусиране</string>
-  <string name="ubifocus_capture_warning_message">По-добре е когато екрана на визуализацията съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>  
+  <string name="ubifocus_capture_warning_message">За по-добри резултати, смимката ви трябва да съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>
+  <string name="pref_priority_storage_title">Съхраняване на външната SD карта</string>
 </resources>
