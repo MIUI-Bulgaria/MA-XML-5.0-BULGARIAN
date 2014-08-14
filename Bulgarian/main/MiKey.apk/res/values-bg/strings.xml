@@ -185,4 +185,6 @@
 
 Отворете панела с инструменти.
 От горната част на екрана плъзнете надолу, за да го използвате."</string>
+    <string name="action_kuaidi">Бързо такси</string>
+    <string name="hint_long_press_del">Дълго натискане за премахване</string>
 </resources>
