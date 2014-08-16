@@ -67,7 +67,7 @@
   <string name="decompress_fail">Грешка при разархивиране!</string>
   <string name="decompress_success">Разархивирането завърши</string>
   <string name="decompress_to">Разархивирай в:</string>
-  <string name="decompress_to_here">Разархивирай в текущатата папка</string>
+  <string name="decompress_to_here">Разархивирай в текущата папка</string>
   <string name="delete_failed">Грешка при изтриване</string>
   <string name="delete_file">Ще изтриете ли файла?</string>
   <string name="delete_files">Ще изтриете ли избраните файлове %1$d?</string>
