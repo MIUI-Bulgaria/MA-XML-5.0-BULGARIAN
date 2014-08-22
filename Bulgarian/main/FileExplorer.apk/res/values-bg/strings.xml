@@ -83,7 +83,7 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Празна папка</string>
   <string name="dlg_error_unmount_text">"Не можете да изключите USB-паметта. Моля, опитайте отново по-късно."</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Грешка при изтегляне!</string>
   <string name="download_link_completed">Аз споделих %1$s чрез KuaiPan. Натиснете линка долу за преглед:</string>
   <string name="downloading">Изтегляне...</string>
@@ -294,7 +294,6 @@
   <string name="user_guide_download_other_version">"Можете да изтеглите KuaiPan на вашия компютър"</string>
   <string name="user_guide_kuaipan_copy">"Използвайте KuaiPan за споделяне на файловете Ви между различни устройства"</string>
   <string name="user_guide_other_version">Изтеглете алтернативни версии на KuaiPan</string>
-  <string name="user_guide_summary">Как да използвате KuaiPan</string>
   <string name="user_guide_upload_to_kuaipan">"Просто копирайте и поставете в KuaiPan"</string>
   <string name="utf8_summary">Тип кодиране по подразбиране</string>
   <string name="utf8_title">UTF-8</string>
@@ -349,4 +348,12 @@
   <string name="never_notify_network_connect">Не показвай повече</string>
   <string name="connect_network_setting_des">Напомняне при използване на интернет</string>
   <string name="folder_name_illegal">Невалидно име на папка</string>
+  <string name="copy_file_to_kuaipan">Копирай файла в KuaiPan</string>
+  <string name="downloading_in_3g">Изтегля се чрез 3G…</string>
+  <string name="file_already_downlaoded">Файлът е запазен в \"%1$s\"</string>
+  <string name="image_download">Изтегляне</string>
+  <string name="image_share">Сподели</string>
+  <string name="operate_confirm_in_3g">Да се използват ли мобилни данни за изтеглянето на този голям файл?</string>
+  <string name="operation_save">Запазване</string>
+  <string name="user_guide_summary">Кратък преглед</string>
 </resources>

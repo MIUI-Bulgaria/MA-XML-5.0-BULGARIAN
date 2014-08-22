@@ -390,14 +390,14 @@
     <string name="sure">Приемам</string>
     <string name="declaration_content_short">Приемате ли условията за ползване определени от Sohu видео, iQiyi и други видео доставчици на съдържание?</string>
     <string name="ok_no_more">Да, не питай повече</string>
-    <string name="home_net_title">联网提示</string>
-    <string name="home_net_content">视频应用将会使用您的网络流量，是否要继续？</string>
-    <string name="backkey_remark">*备注：按返回键退出</string>
-    <string name="setting_use_network">允许使用网络</string>
-    <string name="setting_use_network_summery">视频应用将会使用您的网络流量</string>
+    <string name="home_net_title">Предупреждение за данни</string>
+    <string name="home_net_content">Използването на мобилни данни за стриймване на видео ще увеличи консумацията ви на данни, което може да доведе до начисляването на такси от мобилния оператор.</string>
+    <string name="backkey_remark">Натиснете отново Назад, за да излезете</string>
     <string name="info_title">Информация</string>
     <string name="prex_playcount">Гледания:</string>
     <string name="post_playcount">пъти</string>
     <string name="priority_storage">Съхраняване във външната SD карта</string>
     <string name="priority_storage_summary">Когато използвате външна SD карта, тогава тази функция ще има ефект</string>
+    <string name="setting_network_alert">Известие за свързване</string>
+    <string name="setting_network_alert_summery">Показване на изскачащо известие преди Видео да се свърже с интернет</string>
 </resources>
