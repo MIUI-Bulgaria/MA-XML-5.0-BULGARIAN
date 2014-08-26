@@ -27,7 +27,7 @@
   <string name="date_last_week">Последната седмица</string> 
   <string name="date_this_month">Този месец</string> 
   <string name="date_last_month">Последния месец</string> 
-  <string name="date_from_to">%1$s до %2$s</string> ю
+  <string name="date_from_to">%1$s до %2$s</string> 
   <string name="date_from_to_short">%1$s-%2$s</string> 
   <string name="date_month_day">%1$d ден %2$d месец</string> 
   <string name="date_year_month_day">%1$d година %2$d месец %3$d ден</string> 
