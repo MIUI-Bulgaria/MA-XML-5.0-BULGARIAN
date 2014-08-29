@@ -356,4 +356,10 @@
   <string name="operate_confirm_in_3g">Да се използват ли мобилни данни за изтеглянето на този голям файл?</string>
   <string name="operation_save">Запазване</string>
   <string name="user_guide_summary">Кратък преглед</string>
+  <string name="google_play">Google Play</string>
+  <string name="ignore">Игнорирай</string>
+  <string name="kuaipan_alert_message">Изтеглете приложението KuaiPan от Google Play и влезте с Хiaomi профил</string>
+  <string name="kuaipan_alert_title">Внимание</string>
+  <string name="kuaipan_app">KuaiPan приложение</string>
+  <string name="kuaipan_can_not_find_play">Не е открит Google Play</string>
 </resources>

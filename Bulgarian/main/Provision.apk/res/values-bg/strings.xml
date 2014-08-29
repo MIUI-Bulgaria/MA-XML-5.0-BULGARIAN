@@ -32,4 +32,10 @@
   <string name="traffic_protection_text_hint">Въведете лимит за мобилни данни.</string>
   <string name="traffic_protection_unknown">Сега не знам, ще въведа по-късно.</string>
   <string name="use_data">Използване на данни</string>
+  <string name="privacy_policy">Правила за поверителност</string>
+  <string name="terms_agree">Приемам</string>
+  <string name="terms_description">Трябва да приемете Условията за ползване и Правилата за поверителност, за да продължите да използвате MIUI.</string>
+  <string name="terms_disagree">Отказ</string>
+  <string name="terms_label">Правила и условия</string>
+  <string name="terms_of_service">Условия за ползване</string>
 </resources>

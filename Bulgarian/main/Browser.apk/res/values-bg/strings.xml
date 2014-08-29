@@ -638,4 +638,8 @@
   <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
   <string name="bookmarks_history">Отметки/История</string>
   <string name="delete_homepage">Изтрий нач. страница</string>
+  <string name="pref_check_security_url_summary">Submit current URL when accessing a Web site to the server detects its security</string>
+  <string name="pref_check_security_url_title">Security URL check</string>
+  <string name="show_check_security_url_check_tip_dialog_description">In order to protect the security of your Internet browser to access the site, the current URL will be submit to the server to detects its security, If you do not need this feature, turn off the Security URL check in the settings can be</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Security URL check tip</string>
 </resources>

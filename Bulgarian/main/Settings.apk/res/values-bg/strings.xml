@@ -3822,4 +3822,7 @@ for MAC"</li>"
   <string name="empty_content_size">Няма</string>
   <string name="large_file_sort_type_item_name">Име</string>
   <string name="large_file_sort_type_item_size">Размер</string>
+  <string name="ime_privacy_policy">Input method privacy policy</string>
+  <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
+  <string name="provision_inputmethod_policy_description">View the privacy policy associated with your current input method</string>
 </resources>
