@@ -45,4 +45,11 @@
         <item>Подател</item>
         <item>Дата</item>
     </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Миниатюрен текст</item>
+        <item>Малък текст</item>
+        <item>Нормален текст</item>
+        <item>Голям текст</item>
+        <item>Огромен текст</item>
+    </string-array>
 </resources>

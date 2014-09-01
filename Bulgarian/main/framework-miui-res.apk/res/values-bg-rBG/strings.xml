@@ -434,7 +434,7 @@
   <string name="select_all">Избери всички</string>
   <string name="send">Сподели</string>
   <string name="send_sms_for_sync_notice">Ще бъде изпратено SMS съобщение за активиране. Продължи?</string>
-  <string name="send_sms_for_sync_title">Изпрати SMS за активиране на Синхронизация</string>
+  <string name="send_sms_for_sync_title">Синхронизацията не е активирана</string>
   <string name="share">Сподели</string>
   <string name="short_pincode_error_msg">Въведете от 4 до 8 цифри</string>
   <string name="short_pukcode_error_msg">Въведете най-малко 8 цифри</string>
@@ -442,7 +442,7 @@
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Текущата SIM карта е деактивирана. Трябва да изпратите международно SMS съобщение за активиране. Възможно е таксуване от оператора.</string>
   <string name="sim_changed_reactivate_notice">Текущата SIM карта е деактивирана. Трябва да изпратите SMS съобщение за активиране. Възможно е таксуване от оператора.</string>
-  <string name="sim_in_airplane_mode">Изключване на Самолетен режим.</string>
+  <string name="sim_in_airplane_mode">Моля, изключете Самолетен режим.</string>
   <string name="sim_locked">SIM картата е блокирана</string>
   <string name="sim_not_ready">SIM картата се използва, моля опитайте по-късно.</string>
   <string name="sim_unavailable">SIM картата е недостъпна</string>
@@ -456,7 +456,7 @@
   <string name="summer_solstice"/>
   <string name="sync_one_time_sync">Натиснете тук за синхронизация (%1$s)</string>
   <string name="teachers_day"/>
-  <string name="text_copied">Текста е копиран.</string>
+  <string name="text_copied">Текстът е копиран.</string>
   <string name="text_cut">Изрежи текста</string>
   <string name="text_pastelist">Буферна памет</string>
   <string name="the_armys_day"/>
@@ -490,7 +490,7 @@
   <string name="v5_date_picker_label_year"/>
   <string name="v5_date_time_picker_dialog_title">Време на известието</string>
   <string name="v5_deselect_all">Размаркирай всички</string>
-  <string name="v5_edit_mode_title_empty">0 избрани</string>
+  <string name="v5_edit_mode_title_empty">Изберете елементи</string>
   <string name="v5_icon_menu_bar_more_item_label">Още</string>
   <string name="v5_select_all">Маркирай всички</string>
   <string name="v5_time_picker_label_hour"/>
@@ -531,4 +531,8 @@
   <string name="sync_data_loading">Получаване на информация от сървъра</string>
   <string name="sync_data_merge_warning_title">Предупреждение за обединяване на данни</string>
   <string name="miui_micloud_license_title">Споразумение за облачните услуги на Xiaomi</string>
+  <string name="provider_114">С подкрепата на 114</string>
+  <string name="provider_sougou">С подкрепата на Sohu</string>
+  <string name="softap_notifif_summary">%d свързани</string>
+  <string name="softap_notifif_title">Хотспотът \"%s\" е активен</string>
 </resources>

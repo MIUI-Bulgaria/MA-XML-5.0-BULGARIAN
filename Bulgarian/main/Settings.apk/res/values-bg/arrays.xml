@@ -394,8 +394,7 @@
     <string-array name="msd_pc_system_install_start_summary">
         <item>"При Windows XP и по-стари версии на Windows,
 драйвера трябва да бъде инсталиран ръчно"</item>
-        <item>"При Windows Vista и по-нови версии на Windows, 
-музикалният плеър ще се появи на вашия компютър"</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
         <item>"При Mac OS,
 драйвера трябва да бъде инсталиран ръчно"</item>
         <item></item>
@@ -410,17 +409,14 @@ Open and select AndroidFileTransfer.dmg to install."</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. MI 2 will appear as a USB mass storage
- device when connected to your computer."</item>
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
         <item>Transfer files like you would to any other external hard drive.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"After you install this driver
-MI 2 will appear as a USB mass storage device when connected to a computer."</item>
-        <item>"For Windows Vista and newer versions of Windows,
-the MI 2 music player will appear on your computer automatically"</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>"When you install this driver
 phone will open automatically when connected to a computer."</item>
         <item></item>

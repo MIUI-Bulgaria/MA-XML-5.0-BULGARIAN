@@ -71,14 +71,11 @@
   <string name="camera_key_action_shortcut_title">Пряк път</string>
   <string name="camera_key_action_shortcut_wake">Заключване/Събуждане на устройството</string>
   <string name="camera_key_action_toggle_title">Превключвател</string>
-  <string name="center_clock_title">Часовник в средата</string>
   <string name="chooseUsbActivity">Избор на приложение за USB усторйството</string>
   <string name="compat_mode_help_body">Когато дадено приложение е създадено за по-малък екран, до часовника ще се покаже управление за промяна на мащаба.</string>
   <string name="compat_mode_help_header">Мащаб и съвместимост</string>
   <string name="compat_mode_off">Разпъване – запълва екрана</string>
   <string name="compat_mode_on">Мащаб – запълва екрана</string>
-  <string name="cust_carrier_label_text_title">Персонализиране на името на оператора</string>
-  <string name="cust_carrier_label_title">Промени името на оператора</string>
   <string name="data_usage_disabled_dialog">"Достигнахте определеното ограничение за използване на данни.
 
 Ако ги активирате отново, е възможно да бъдете таксувани от оператора."</string>
@@ -131,8 +128,6 @@
   <string name="mdb_restore_mode">Режим възстановяване</string>
   <string name="mdb_usb_disconnection_exit">USB е изключен, възстановяването е прекратено!</string>
   <string name="mount_storage">Да</string>
-  <string name="move_data_to_sdcard_message">"Снимките и екранните снимки ще бъдат преместени на SD картата за да се освободи място на вътрешната памет."</string>
-  <string name="move_data_to_sdcard_title">Преместване на данни на SD картата</string>
   <string name="no_notification_tips">Няма известия</string>
   <string name="notification_otg_gamestick_in">Джойстикът в свързан</string>
   <string name="notification_otg_gamestick_out">Джойстикът е изключен</string>
@@ -166,7 +161,6 @@
   <string name="screen_key_recent_apps">Скорошни приложения</string>
   <string name="screen_rotation_freeze_message">Завъртането на екрана е блокирано в пейзажен режим</string>
   <string name="screenshot_failed_text">Екранната снимка не можа да бъде запазена. Възможно е хранилището да се използва.</string>
-  <string name="screenshot_failed_title">Екранната снимка не можа да бъде заснета.</string>
   <string name="screenshot_saved_text">Докоснете, за да видите екранната си снимка.</string>
   <string name="screenshot_saved_title">Екранната снимка е заснета.</string>
   <string name="screenshot_saving_text">Екранната снимка се запазва.</string>
@@ -177,15 +171,9 @@
   <string name="settings_basic_settings">Основни настройки</string>
   <string name="settings_custom_carrier">Име на оператора по избор</string>
   <string name="settings_custom_notification">Управление на известията</string>
-  <string name="settings_expandable_under_fullscreen">Пълноекранни приложения</string>
-  <string name="settings_expandable_under_fullscreen_summary">Възможност за достъп до лентата с известия при работа с приложения на цял екран</string>
   <string name="settings_expandable_under_keyguard">При заключен екран</string>
-  <string name="settings_expandable_under_keyguard_summary">Възможност за достъп до лентата с известия при заключен екран (работи само когато няма парола за заключване)</string>
-  <string name="settings_expanded_view">Показване на статус лентата</string>
   <string name="settings_no_carrier">Без име</string>
   <string name="settings_notification_bar">Лента с известия</string>
-  <string name="settings_notification_icon">Известия в ленатата с известия</string>
-  <string name="settings_screenshot_notification_disabled">Без известия за екранни снимки</string>
   <string name="settings_show_carrier">Показвай името на оператора</string>
   <string name="settings_show_carrier_summary">Когато првключвателят е изключен, името на мобилния оператор ще се показва само на заключен екран и в лентата с известия</string>
   <string name="settings_show_flow_info">Показвай трафика</string>
@@ -194,8 +182,6 @@
   <string name="settings_show_screenshot_notification">Показвай известия за екр. снимки</string>
   <string name="settings_show_statusBar_notification">Показвай в статус лентата</string>
   <string name="settings_status_bar">Статус лента</string>
-  <string name="settings_statusbar_style">Настройка на статус лентата</string>
-  <string name="settings_toggle">Превключватели</string>
   <string name="settings_toggle_collapse_after_clicked">Свиване при докосване</string>
   <string name="settings_toggle_layout_style">Стил на панела</string>
   <string name="settings_toggle_layout_style_applying">Променя се оформлението…</string>
@@ -235,8 +221,6 @@ d MMMM yyyy"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Настройка на статус лентата</string>
-  <string name="status_bar_time_format_12">h:mma</string>
-  <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Kонтрол на достъпа</string>
   <string name="status_bar_toggle_auto_brightness">Авт. яркост</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
@@ -250,7 +234,6 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежов режим</string>
   <string name="status_bar_toggle_power_high">Произв.</string>
-  <string name="status_bar_toggle_power_low">Икономичен</string>
   <string name="status_bar_toggle_power_mid">Нормален</string>
   <string name="status_bar_toggle_power_mode">Енергиен режим</string>
   <string name="status_bar_toggle_privacy_mode">Защитен режим</string>
@@ -274,7 +257,6 @@ d MMMM yyyy"</string>
   <string name="tab_notifications_lable">Известия</string>
   <string name="tab_toggles_lable">Превключватели</string>
   <string name="title_usb_accessory">Аксесоар за USB</string>
-  <string name="toast_rotation_locked">Екранът е заключен в пейзажен режим</string>
   <string name="torch_activity_hint">Включете фенерчето като задържите [icon] при заключен екран</string>
   <string name="torch_activity_name">Фенерче</string>
   <string name="torch_closed">Фенерчето е изключено</string>

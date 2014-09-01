@@ -1,10 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="continues">Продължи</string>
-  <string name="data_usage_summary">Ако вашият месечен план не включва мобилни данни, оператора може да ви таксува допълнително за използването им.</string>
-  <string name="default_gprs_sim_name">Въведете лимита за данни на \"%s\"</string>
-  <string name="input_method">Метод на въвеждане</string>
-  <string name="input_method_category">Изберете метод на въвеждане по подразбиране</string>
   <string name="next">Следващ</string>
   <string name="other_service_google_location">Google услуга за местоположения</string>
   <string name="other_service_google_location_use">Местоположение и Google търсене</string>
@@ -18,6 +14,7 @@
   <string name="other_service_user_experience">Изпращане на отзиви</string>
   <string name="other_service_user_experience_summary0">"Ние сме щастливи, че използвате нашите продукти и се надяваме, че ще ни помогнете да ги подобрим чрез изпращане на отзив. "</string>
   <string name="other_service_user_experience_summary1">(Политика на поверителност)</string>
+  <string name="privacy_policy">Правила за поверителност</string>
   <string name="setup_complete_info" />
   <string name="setup_complete_label">Благодарим Ви</string>
   <string name="setup_complete_start">Започнете да използвате</string>
@@ -27,12 +24,6 @@
   <string name="sim_card_detection_info" />
   <string name="sim_card_detection_label">Търсене на SIM карта</string>
   <string name="sim_card_detection_status_absent">SIM картата не е намерена!</string>
-  <string name="traffic_protection_label">Контрол на трафика на данни</string>
-  <string name="traffic_protection_summary">Контролът на трафика на данни ще Ви предупреди, когато надвишите лимита.</string>
-  <string name="traffic_protection_text_hint">Въведете лимит за мобилни данни.</string>
-  <string name="traffic_protection_unknown">Сега не знам, ще въведа по-късно.</string>
-  <string name="use_data">Използване на данни</string>
-  <string name="privacy_policy">Правила за поверителност</string>
   <string name="terms_agree">Приемам</string>
   <string name="terms_description">Трябва да приемете Условията за ползване и Правилата за поверителност, за да продължите да използвате MIUI.</string>
   <string name="terms_disagree">Отказ</string>

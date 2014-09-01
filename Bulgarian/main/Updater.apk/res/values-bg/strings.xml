@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_device">Всичко за телефона</string>
   <string name="active_xiaomi_account">Активиране</string>
@@ -63,12 +63,11 @@
   <string name="install_file_explorer">Моля, инсталирайте файлов мениджър</string>
   <string name="install_qq">Инсталирайте QQ приложение</string>
   <string name="install_rom_from_sd">Изберете инсталационен пакет</string>
-  <string name="install_sina">Инсталирайте Sina приложението</string>
   <string name="install_whole_rom">Препоръчва се изтеглянето на пълния ROM</string>
   <string name="internal_build">Вътрешна</string>
-  <string name="kernel_upgrade_link"/>
-  <string name="kernel_upgrade_version"/>
-  <string name="later">По-късно</string> 
+  <string name="kernel_upgrade_link" />
+  <string name="kernel_upgrade_version" />
+  <string name="later">По-късно</string>
   <string name="loading">Свързване с MIUI сървъра...</string>
   <string name="md5_check_cancelled">MD5 проверката е отменена</string>
   <string name="mione_update_fail_description">Опитайте отново</string>
@@ -85,6 +84,7 @@
   <string name="my_update_feel">Моите усещания</string>
   <string name="my_worst_update">Най-лоша актуализация</string>
   <string name="network_error">Грешка в мрежата, моля опитайте отново</string>
+  <string name="new_update_content_notification_shade" />
   <string name="new_update_content_title">Има нова версия на MIUI</string>
   <string name="new_update_download_complete_body">Новата версия е готова за инсталиране: %s</string>
   <string name="new_update_downloading_body">Изтегляне на новата версия: %s</string>
@@ -170,5 +170,4 @@
   <string name="wifi_not_available_body">Препоръчително е да използвате Wi-Fi връзка за да изтеглите актуализациите, поради големия им размер. В момента не сте свързани към Wi-Fi.</string>
   <string name="wifi_not_available_title">Предупреждение за данни</string>
   <string name="worst_update">3.Най-лоша актуализация</string>
-  <string name="new_update_content_notification_shade" />
 </resources>

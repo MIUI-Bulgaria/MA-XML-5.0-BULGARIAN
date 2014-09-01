@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_preference_screen_title">Информация</string>
   <string name="about_preference_title">Информация</string>
@@ -11,6 +11,8 @@
   <string name="app_name">Xiaomi Удостоверител</string>
   <string name="app_name_lockpattern">Фигура за закл.</string>
   <string name="app_name_short">Удостоверител</string>
+  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
+  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
   <string name="authenticator_page_reactivation">Активирай отново</string>
   <string name="button_add_account">Добавяне на профил</string>
   <string name="button_add_account_manual_entry">Ръчно добавяне на профил</string>
@@ -26,6 +28,7 @@
   <string name="check_code_menu_item">Проверка на ключа</string>
   <string name="check_code_title">Стойност за целостта</string>
   <string name="context_menu_remove_account">Премахване</string>
+  <string name="continue_btn">Продължи</string>
   <string name="copy_to_clipboard">Копиране в буфера</string>
   <string name="correct_enter_password">Правилна парола</string>
   <string name="correct_enter_update_password">Паролата е правилна</string>
@@ -71,9 +74,9 @@
   <string name="lockpattern_continue_button_text">Продължи</string>
   <string name="lockpattern_need_to_confirm">Начертайте фигурата отново за потвърждение:</string>
   <string name="lockpattern_need_to_confirm_wrong">Не съвпадат! Моля, опитайте отново:</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_footer" />
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Грешна парола, имате още %d опита&lt;/font&gt;</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong_footer" />
   <string name="lockpattern_pattern_confirmed_header">Вашата нова фигура за отключване:</string>
   <string name="lockpattern_pattern_entered_header">Фигурата е запазена.</string>
   <string name="lockpattern_recording_incorrect_too_short">Свържете поне %d точки. Опитайте още веднъж:</string>
@@ -138,7 +141,7 @@
   <string name="timesync_sync_now_screen_title">Синхронизиране сега</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">Вътрешният часовник на Удостоверител не бе коригиран, защото изглежда, че вече е синхронизиран със сървърите на Google.</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Часът вече е правилен</string>
-    <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Вътрешният часовник на Удостоверител бе коригиран да съответства на часа, посочен от сървърите на Google. 
 
 Настройките за датата и часа на устройството не бяха променени."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Часът бе поправен</string>
@@ -165,8 +168,4 @@
   <string name="welcome_page_alert">&lt;font color=#fb3500>Забележка:&lt;/font>Не изтривайте ключа, в противен случай няма как да влезете</string>
   <string name="welcome_page_details">Потвърждаването в две стъпки защитава профила ви в Xiaomi дори ако паролата ви бъде открадната.</string>
   <string name="welcome_page_title">Всеки ден защитата на хиляди профили бива пробита.</string>
-  <string name="success_copy_to_clipboard">Копирано в буфера</string>
-  <string name="continue_btn">Продължи</string>
-  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
-  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
 </resources>

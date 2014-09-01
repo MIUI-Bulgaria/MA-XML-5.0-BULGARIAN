@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MIUI Отчети</string>
-    <string name="main_title">Анонимни данни от използването</string>
-    <string name="main_desc">Включването ви в подаването на аноноимни данни позволява на програмистите от MIUI Android уникално проследяване на устойствата с MIUI. Предоставената информация включва уникален идентификатор, който не застрашава вашата поверителност, както и информация за вида и версията на устройството. Данните се подават при всяко стартиране на устройството. За да видите пример за изпратени данни, натиснете бутона за Преглед по-долу.</string>
-    <string name="main_optin">Активиране на отчетите</string>
-    <string name="main_btn_preview">Преглед</string>
-    <string name="main_btn_save">Запиши настройката</string>
-    <string name="main_show_stats">Покажи отчетите</string>
-    <string name="preview_id_lbl">Уникално ID</string>
-    <string name="preview_device_lbl">Устройство</string>
-    <string name="preview_version_lbl">Версия</string>
-    <string name="preview_done_btn">Готово</string>
-    <string name="preview_country_lbl">Държава</string>
-    <string name="preview_carrier_lbl">Оператор</string>
-    <string name="preview_android_lbl">Версия на Android</string>
-    <string name="preview_language_lbl">Език</string>
-    <string name="notification_ticker">Статистиката е изпратена</string>
-    <string name="notification_title">Статистика MIUIAndroid</string>
-    <string name="notification_desc">Активиране и деактивиране на анонимните отчети</string>
-    <string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Научете повече&lt;/a></string>
-    <string name="preview_title">Визуализация</string>
+  <string name="app_name">MIUI Отчети</string>
+  <string name="main_title">Анонимни данни от използването</string>
+  <string name="main_desc">Включването ви в подаването на аноноимни данни позволява на програмистите от MIUI Android уникално проследяване на устойствата с MIUI. Предоставената информация включва уникален идентификатор, който не застрашава вашата поверителност, както и информация за вида и версията на устройството. Данните се подават при всяко стартиране на устройството. За да видите пример за изпратени данни, натиснете бутона за Преглед по-долу.</string>
+  <string name="main_optin">Активиране на отчетите</string>
+  <string name="main_btn_preview">Преглед</string>
+  <string name="main_btn_save">Запиши настройката</string>
+  <string name="main_show_stats">Покажи отчетите</string>
+  <string name="preview_id_lbl">Уникално ID</string>
+  <string name="preview_device_lbl">Устройство</string>
+  <string name="preview_version_lbl">Версия</string>
+  <string name="preview_done_btn">Готово</string>
+  <string name="preview_country_lbl">Държава</string>
+  <string name="preview_carrier_lbl">Оператор</string>
+  <string name="preview_android_lbl">Версия на Android</string>
+  <string name="preview_language_lbl">Език</string>
+  <string name="notification_ticker">Статистиката е изпратена</string>
+  <string name="notification_title">Статистика MIUIAndroid</string>
+  <string name="notification_desc">Активиране и деактивиране на анонимните отчети</string>
+  <string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Научете повече&lt;/a></string>
+  <string name="preview_title">Визуализация</string>
 </resources>

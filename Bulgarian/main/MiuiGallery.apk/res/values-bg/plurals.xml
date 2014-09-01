@@ -24,4 +24,9 @@
         <item quantity="zero">%1$d елементи</item>
         <item quantity="one">%1$d елемент</item>
     </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="zero">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
 </resources>

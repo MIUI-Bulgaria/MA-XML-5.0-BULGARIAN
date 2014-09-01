@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="remote_service_stopped">Услугата е преустановена</string>
-    <string name="app_name">DS</string>
-    <string name="name_widget_extra_large">DS 6 Профили</string>
-    <string name="name_widget_large">DS 3 Профили</string>
-    <string name="name_widget_small">DS Вкл/Изкл</string>
-    <string name="movie">Филм</string>
-    <string name="music">Музика</string>
-    <string name="game">Игра</string>
-    <string name="voice">Глас</string>
-    <string name="preset_1">По избор 1</string>
-    <string name="preset_2">По избор 2</string>
-</resources>
+ <?xml version="1.0" encoding="utf-8"?>
+ <resources>
+  <string name="remote_service_stopped">Услугата е преустановена</string>
+  <string name="app_name">DS</string>
+  <string name="name_widget_extra_large">DS 6 Профили</string>
+  <string name="name_widget_large">DS 3 Профили</string>
+  <string name="name_widget_small">DS Вкл/Изкл</string>
+  <string name="movie">Филм</string>
+  <string name="music">Музика</string>
+  <string name="game">Игра</string>
+  <string name="voice">Глас</string>
+  <string name="preset_1">По избор 1</string>
+  <string name="preset_2">По избор 2</string>
+ </resources>

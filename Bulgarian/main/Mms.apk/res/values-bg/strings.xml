@@ -3,6 +3,7 @@
   <string name="activity_not_found">Не е открита програма за показване на прикачения файл</string>
   <string name="activity_not_found_uri">Не е открита програма за това действие</string>
   <string name="addBlackList">Добави към блокирани</string>
+  <string name="add_attachment">Прикачи файлове</string>
   <string name="add_bookmark">Любими</string>
   <string name="add_contact">Добави контакт</string>
   <string name="add_festival">Поздравление</string>

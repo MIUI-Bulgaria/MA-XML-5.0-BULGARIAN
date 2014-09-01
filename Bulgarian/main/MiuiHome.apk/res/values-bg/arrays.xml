@@ -26,4 +26,31 @@
         <item>Тапет</item>
         <item>Ефекти</item>
     </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Неясно</item>
+        <item>Мъгливо</item>
+        <item>Силна дъждовна буря</item>
+        <item>Дъждовна буря</item>
+        <item>Много обилни валежи</item>
+        <item>Гръмотевична буря</item>
+        <item>Преваляване</item>
+        <item>Проливен дъжд</item>
+        <item>Дъжд</item>
+        <item>Ръмеж</item>
+        <item>Суграшица</item>
+        <item>Снежна буря</item>
+        <item>Превалявания от сняг</item>
+        <item>Силен снеговалеж</item>
+        <item>Снеговалеж</item>
+        <item>Слаб снеговалеж</item>
+        <item>Силна снежна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Лека пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Градушка</item>
+        <item>Плаващ прах</item>
+        <item>Мараня</item>
+    </string-array>
 </resources>

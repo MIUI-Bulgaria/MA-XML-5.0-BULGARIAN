@@ -197,4 +197,20 @@
   <string name="xiaomi_update_dialog_message_diff">"Нова версия %1$s
 Размер: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Актуализация на %1$s!</string>
+  <string name="alarm_summary_12h">hh:mm a</string>
+  <string name="alarm_summary_24h">kk:mm</string>
+  <string name="body_characters">%d/650</string>
+  <string name="characters">%d/72</string>
+  <string name="err_parse_external_data">Този тип файлове не се поддържа</string>
+  <string name="err_tag_protected">Маркерът е защитен с парола. Моля, въведете правилната парола.</string>
+  <string name="err_tag_read_only">Не може да се записва върху този маркер</string>
+  <string name="failed_to_erase">Неуспешно изтриване на маркера</string>
+  <string name="failed_to_write">Неуспешно записване на маркера</string>
+  <string name="hint_input_web_url">URL</string>
+  <string name="percent">%s%%</string>
+  <string name="play_music_desc">Възпр. или пауза на музика</string>
+  <string name="play_song">Възпр. на песен</string>
+  <string name="pwd_alert">Задаване на парола сега</string>
+  <string name="web_url">URL</string>
+  <string name="writing">Записва се…</string>
 </resources>
