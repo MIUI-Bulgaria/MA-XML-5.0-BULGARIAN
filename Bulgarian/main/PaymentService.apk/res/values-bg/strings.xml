@@ -172,7 +172,7 @@ Please check your local date and try again."</string>
   <string name="mibi_license_checkbox_prompt">Не напомняй отново</string>
   <string name="mibi_license_message">"Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s.
 
-Нуждаете се от интернет връзка, за да използвате Mi Credit.""</string>
+Нуждаете се от интернет връзка, за да използвате Mi Credit."</string>
   <string name="mibi_license_message_span">Условия за ползване на МiКредити</string>
   <string name="mibi_license_net_prompt_message">Използването на Плащания може да увеличи употребата на мобилни данни.</string>
   <string name="mibi_license_net_prompt_title">Изисква се интернет връзка</string>
