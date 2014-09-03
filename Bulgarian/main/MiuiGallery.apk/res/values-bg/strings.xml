@@ -380,6 +380,7 @@
   <string name="remove_hidden_album">Премахване на скрити</string>
   <string name="remove_recent_album">Премахни от последните албуми</string>
   <string name="rename_failed">Преименуването е неуспешно</string>
+  <string name="rename_failed_duplicated_name">Вече съществува файл със същото име.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Създаване на QR код...</string>
   <string name="request_qr_code_failed">Създаването на QR кода е неуспешно, опитайте отново</string>

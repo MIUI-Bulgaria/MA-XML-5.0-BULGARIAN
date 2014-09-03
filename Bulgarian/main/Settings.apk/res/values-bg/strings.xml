@@ -824,7 +824,7 @@
   <string name="deep_clean_title_uninstall_apps">Приложения</string>
   <string name="deep_cleaning">Разширено</string>
   <string name="default_date_format">dd/MM/yyyy</string>
-  <string name="default_input_method">Избор на метода за въвеждане по подразбиране</string>
+  <string name="default_input_method">Избор на клавиатура по подразбиране</string>
   <string name="default_sdcard_select_msg">"Ако изберете %1$s, инсталираните приложения на %2$s няма да могат да се използват преди рестартиране на устройството, променяте ли на %3$s?"</string>
   <string name="default_usb_mode">USB връзка по подразбиране</string>
   <string name="delete">Изтрий</string>
@@ -1259,7 +1259,7 @@
   <string name="ims_reg_required_on">Включи задължителна регистрация за IMS</string>
   <string name="incoming_call_vibrate_abbreviation">"Обаждания "</string>
   <string name="incoming_call_volume_title">Мелодия</string>
-  <string name="input_method">Метод на въвеждане</string>
+  <string name="input_method">Клавиатура</string>
   <string name="input_method_selector">Избери метод на въвеждане</string>
   <string name="input_method_selector_always_hide_title">Винаги скривай</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -3111,7 +3111,7 @@ for MAC"</li>"
   <string name="volume_notification_description">Известия</string>
   <string name="volume_notification_mute">Заглуши известията</string>
   <string name="volume_restore">Възстанови силата на звука</string>
-  <string name="volume_restore_alert">Всички настройки за силата на звука ще бъдат върнати по подразбиране. Продължавате ли?</string>
+  <string name="volume_restore_alert">Всички нива на силата на звука ще бъдат върнати по подразбиране.</string>
   <string name="volume_ring_description">Мелодии и известия</string>
   <string name="volume_ring_mute">Заглуши мелодиите и известията</string>
   <string name="volume_system_description">Сила на звука на затвора на камерата, заключването на екрана и други системни известия</string>
@@ -3822,7 +3822,7 @@ for MAC"</li>"
   <string name="empty_content_size">Няма</string>
   <string name="large_file_sort_type_item_name">Име</string>
   <string name="large_file_sort_type_item_size">Размер</string>
-  <string name="ime_privacy_policy">Input method privacy policy</string>
-  <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
-  <string name="provision_inputmethod_policy_description">View the privacy policy associated with your current input method</string>
+  <string name="ime_privacy_policy">Политика на поверителност на метода за въвеждане</string>
+  <string name="ime_privacy_policy_no_network">Няма връзка с интернет. Може да видите политиката на %s</string>
+  <string name="provision_inputmethod_policy_description">Политика на поверителност за избраната клавиатура</string>
 </resources>

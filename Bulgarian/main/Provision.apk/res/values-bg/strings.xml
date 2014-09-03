@@ -4,17 +4,17 @@
   <string name="next">Следващ</string>
   <string name="other_service_google_location">Google услуга за местоположения</string>
   <string name="other_service_google_location_use">Местоположение и Google търсене</string>
-  <string name="other_service_google_location_use_help">Позволете услугите на Google да събират данни за местоположението ви. Събирането на данни ще се извършва, дори и приложенията да не са стартирани.</string>
+  <string name="other_service_google_location_use_help">Разрешаване на услугата на Google за местоположения да събира анонимни данни за това, къде се намирате. Възможно е някои данни да бъдат съхранявани на устройството ви. Събирането ще се извършва дори когато не се изпълняват приложения.</string>
   <string name="other_service_google_location_use_summary">Позволете Google да използва местоположението за подобряване на резултатите от търсенето и други услуги</string>
   <string name="other_service_label">Други услуги</string>
   <string name="other_service_location">Услуги за местоположение</string>
-  <string name="other_service_location_summary">Разрешава на карти и други приложения да получат данни за Вашето местоположение, използвайки GPS</string>
+  <string name="other_service_location_summary">Разрешаване на услугите за местоположения да събират анонимни данни за това, къде се намирате. Възможно е някои данни да бъдат съхранявани на устройството ви. Събирането ще се извършва дори когато не се изпълняват приложения.</string>
   <string name="other_service_permission_manager">Мениджър на разрешения</string>
   <string name="other_service_permission_manager_summary">Наблюдение на приложенията с цел сигурност и конфиденциалност</string>
   <string name="other_service_user_experience">Изпращане на отзиви</string>
   <string name="other_service_user_experience_summary0">"Ние сме щастливи, че използвате нашите продукти и се надяваме, че ще ни помогнете да ги подобрим чрез изпращане на отзив. "</string>
-  <string name="other_service_user_experience_summary1">(Политика на поверителност)</string>
-  <string name="privacy_policy">Правила за поверителност</string>
+  <string name="other_service_user_experience_summary1">" (Политика на поверителност)"</string>
+  <string name="privacy_policy">Политика на поверителност</string>
   <string name="setup_complete_info" />
   <string name="setup_complete_label">Благодарим Ви</string>
   <string name="setup_complete_start">Започнете да използвате</string>
@@ -25,7 +25,10 @@
   <string name="sim_card_detection_label">Търсене на SIM карта</string>
   <string name="sim_card_detection_status_absent">SIM картата не е намерена!</string>
   <string name="terms_agree">Приемам</string>
-  <string name="terms_description">Трябва да приемете Условията за ползване и Правилата за поверителност, за да продължите да използвате MIUI.</string>
+  <string name="terms_confirm_info">Използването на този телефон от вас е предмет на %1$s и %2$s</string>
+  <string name="terms_description">"Вашата поверителност е много важна за нас. Моля, прочетете следните условия, за да разберете каква информация събираме, как я използваме и какви опции са достъпни за вас.
+
+Използването от вас на MIUI и свързаните с него услуги е предмет на тези правила и условия."</string>
   <string name="terms_disagree">Отказ</string>
   <string name="terms_label">Правила и условия</string>
   <string name="terms_of_service">Условия за ползване</string>

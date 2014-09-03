@@ -140,6 +140,7 @@ Please check your local date and try again."</string>
   <string name="hfb_return">Назад</string>
   <string name="hfb_succ_label">Покупката е завършена</string>
   <string name="hfb_succ_result">"Благодарим Ви, че използвахте нашите услуги. Вие си закупихте [%1$s] на стойност [%2$s юан]. Номерът за Обслужване на Клиенти е: %3$s"</string>
+  <string name="illegal_intent">Заявка с незаконно намерение</string>
   <string name="label_balance">Баланс:</string>
   <string name="label_giftcard">Ваучер:</string>
   <string name="label_order_name">Продуктt:</string>

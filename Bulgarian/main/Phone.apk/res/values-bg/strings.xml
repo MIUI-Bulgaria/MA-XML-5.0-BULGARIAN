@@ -531,6 +531,7 @@
   <string name="information">Информация</string>
   <string name="international_disable">Международните новини са деактивирани</string>
   <string name="international_enable">Международните новини са активирани</string>
+  <string name="international_roaming_setting">Международен роуминг</string>
   <string name="internet_phone">Интернет обаждане</string>
   <string name="invalidPin">Въведете PIN с четири до осем цифри.</string>
   <string name="invalidPin2">Въведете PIN2 с четири до осем цифри.</string>

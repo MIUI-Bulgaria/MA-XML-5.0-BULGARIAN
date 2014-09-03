@@ -4,9 +4,10 @@
   <string name="access_token_expired_warning">Weibo профилът ви е с изтекъл срок: обвържете го отново</string>
   <string name="access_token_invalid_warning">Weibo профилът е невалиден.</string>
   <string name="account">Профил</string>
-  <string name="account_dspt">Влезте със съществуващ профил или създайте нов.</string>
+  <string name="account_dspt">Чрез Mi профилът ви можете да използвате услуги като Mi Cloud, MIUI Теми и Mi Store отвсякъде.</string>
   <string name="account_hint_text">Имейл или телефонен номер</string>
   <string name="account_name">Профил: %1$s</string>
+  <string name="activate">Активиране</string>
   <string name="activate_feature_call_log_sync">Списъци с обаждания</string>
   <string name="activate_feature_find_device">Намиране на устройството</string>
   <string name="activate_feature_mms_sync">Синхронизация на SMS-ите</string>
@@ -14,9 +15,9 @@
   <string name="activate_phone_failed_notif_title">Неуспешно активиране на SIM картата</string>
   <string name="activate_phone_failed_notif_title_msim">Неуспешно активиране на SIM картата %s</string>
   <string name="activate_popup_confirm_failed_phone_error">Нов опит</string>
-  <string name="activate_popup_confirm_failed_query_info">Нов опит</string>
+  <string name="activate_popup_confirm_failed_query_info">Изпрати отново</string>
   <string name="activate_popup_confirm_failed_receive_sms">Нов опит</string>
-  <string name="activate_popup_confirm_failed_send_sms">Нов опит</string>
+  <string name="activate_popup_confirm_failed_send_sms">Изпрати отново</string>
   <string name="activate_popup_confirm_failed_server">Нов опит</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Ще бъдат изпратени 2 международни SMS съобщения за активиране на %s (таксува се от оператора)</string>
   <string name="activate_popup_desc_2_sim_cards">Ще бъдат изпратени 2 SMS съобщения за активиране на %s (таксува се от оператора)</string>
@@ -43,9 +44,9 @@
   <string name="activate_popup_title_failed_receive_sms">Няма отговор</string>
   <string name="activate_popup_title_failed_send_sms">Не може да се изпрати съобщение</string>
   <string name="activate_popup_title_failed_server">Грешка на сървъра</string>
-  <string name="activate_popup_title_manual">Обвързване на SIM карта</string>
-  <string name="activate_popup_title_new_sim_card">Засечена е нова SIM карта</string>
-  <string name="activate_popup_title_register_account">Обвързване на SIM карта</string>
+  <string name="activate_popup_title_manual">Активиране на %s</string>
+  <string name="activate_popup_title_new_sim_card">Реактивиране на %s</string>
+  <string name="activate_popup_title_register_account">Създаване на Mi профил</string>
   <string name="activate_status_desc_acquire_phone_number">Получаване на телефонен номер от сървъра</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Грешка на сървъра при получаване на телефонния номер.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Не може да се получи номер на телефона</string>
@@ -88,13 +89,20 @@
   <string name="captcha">Въведете код</string>
   <string name="checking_account">Проверка на паролата…</string>
   <string name="checking_input">Проверка...</string>
+  <string name="cloud_message_notice">"Облачните съобщения ви позволяват да обменяте безплатни съобщения с други потребители на MIUI чрез Wi-Fi.
+
+По всяко време можете да включите или изключите функцията от Настройки."</string>
   <string name="cloud_messaging">Облачни съобщения</string>
+  <string name="cloud_messaging_dspt">Активиране на облачните съобщения</string>
   <string name="cmcc_data_sync_notice">Синхронизиране на съобщения и контакти между устройствата ви.</string>
   <string name="cmcc_micloud_dspt">Резервно копие на вашите данни, локализиране на телефона ви и споделяне на съдържание с приятели.</string>
   <string name="completed">Готово</string>
-  <string name="confirm">Потвърди</string>
+  <string name="confirm">ОК</string>
   <string name="data_keep_in_phone">Запази на това устройство</string>
-  <string name="data_sync_notice">Използвайте вашият Mi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
+  <string name="data_sync_notice">"Mi Cloud синхронизира вашите снимки, текстови съобщения, бележки и други между всички ваши Mi устройства. Също така имате достъп до тях на i.mi.com.
+
+По всяко време можете да включите или изключите услугата от Настройки.
+"</string>
   <string name="data_wipe_from_phone">Изтрий от това устройство</string>
   <string name="dirty_contacts_count">контакти: %d</string>
   <string name="dirty_mms_count">съобщения: %d</string>
@@ -121,18 +129,24 @@
   <string name="error_user_name">Невалидно потребителско име</string>
   <string name="failed_to_send_activate_email">Неуспешно изпращане на имейл за активиране</string>
   <string name="find_device">Намиране на устройството</string>
+  <string name="find_device_additional_alert">Ако смените SIM картите си, автоматично ще бъде изпратен друг SMS за реактивиране на тази услуга.</string>
   <string name="find_device_disabled_notice">Тази функция може да се промени в Настройки > Профили > Mi Cloud</string>
   <string name="find_device_disabled_title">Изключено</string>
   <string name="find_device_disabling">Изключва се…</string>
   <string name="find_device_enabling">Включва се…</string>
   <string name="find_device_error_network">Проверете дали сте включили мобилните данни и опитайте отново</string>
   <string name="find_device_error_server">Възникна грешка в нашите сървъри.</string>
+  <string name="find_device_notice_1">"Ако загубите устройството си, можете да отидете на "</string>
+  <string name="find_device_notice_2">i.mi.com</string>
+  <string name="find_device_notice_3">", за да го намерите, заключите или нулирате.
+
+По всяко време можете да включите или изключите услугата от Настройки."</string>
   <string name="find_device_notice_p1">Посетете</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">за да намерите, заключите или нулирате вашия телефон дистанционно.</string>
   <string name="find_device_notice_p4">Когато смените SIM картата, е необходимо да бъде изпратено ново регистрационно SMS съобщение.</string>
   <string name="find_device_success_title">\"Намиране на устройството\" е включено</string>
-  <string name="find_password_on_web_msg">Посетете account.xiaomi.com за възстановяване на вашата парола.</string>
+  <string name="find_password_on_web_msg">Посетете account.mi.com за възстановяване на вашата парола.</string>
   <string name="foreign_login"><u>Държава/Код</u></string>
   <string name="forget_password"><u>Забравена парола</u></string>
   <string name="get_back_pwd">Възстанови паролата</string>
@@ -161,7 +175,7 @@
   <string name="micloud_activating_account_notify_info">Активиране на Mi профила ви сега.</string>
   <string name="micloud_activating_account_notify_title">Активиране на вашия Mi профил…</string>
   <string name="micloud_active_email_sent_1">"Връзката за активиране е изпратена на адрес: "</string>
-  <string name="micloud_active_email_sent_2" />
+  <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Проверете входящата поща на %s</string>
   <string name="micloud_activing_account">Активиране на профила…</string>
   <string name="micloud_activing_account_delayed">Довършване на активацията, моля изчакайте…</string>
@@ -207,7 +221,7 @@
   <string name="micloud_password_error_inconsistent">Паролите не съвпадат</string>
   <string name="micloud_password_req_notice">Паролата трябва да бъде с дължина 8~16 символа и да съдържа както букви, така и цифри (малки и големи букви се отчитат различно)</string>
   <string name="micloud_proceed">Продължи</string>
-  <string name="micloud_reg_new">Създаване на профил</string>
+  <string name="micloud_reg_new">Създаване на Mi профил</string>
   <string name="micloud_resend_active_email">Изпрати отново имейл за активиране</string>
   <string name="micloud_space_full_influence"><u>Какво става ако свърши мястото?</u></string>
   <string name="micloud_storage_space">Mi Cloud хранилище</string>
@@ -241,7 +255,7 @@
   <string name="quick_login_title">Въведете вашата парола</string>
   <string name="reg_failed">Профилът не можа да бъде настроен</string>
   <string name="reg_success">Профилът е създаден</string>
-  <string name="reg_success_summary">%1$s е обвързан с профила ви. Може да го използвате за вход в системата и за възстановяване на вашата парола.</string>
+  <string name="reg_success_summary">%1$s бе свързан с профила ви. Може да го използвате за вход в системата и за възстановяване на вашата парола.</string>
   <string name="reg_type_email">Създаване на профил чрез имейл</string>
   <string name="reg_type_phone">Създаване на профил чрез тел. номер (препоръчително)</string>
   <string name="reging">Създаване на профил…</string>
@@ -255,12 +269,16 @@
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Не може да се свърже с Weibo</string>
   <string name="show_password">Покажи паролата</string>
-  <string name="sim_unactivated_title">SIM картата не беше обвързана</string>
+  <string name="sim_unactivated_title">SIM картата не бе активирана</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Пропусни влизането</string>
   <string name="skip_login_u"><u>Пропусни</u></string>
   <string name="skip_setup_account_msg">Може да настроите вашият Mi профил по-късно от \"Настройки\".</string>
   <string name="skip_setup_account_title">Пропусни настройката на профила</string>
+  <string name="sms_prompt_cloud_messaging">Облачни съобщения</string>
+  <string name="sms_prompt_cloud_service">MiCloud услуга</string>
+  <string name="sms_prompt_find_device">Намиране на устройството</string>
+  <string name="sms_prompt_sync">синхр.</string>
   <string name="start_micloud">Към началната страница на Mi Cloud</string>
   <string name="sub_alert_notif_dspt" formatted="false">"%s контакти, %s SMS, %s снимки и %s бележки не бяха синхронизирани."</string>
   <string name="sub_alert_notif_title">Синхронизацията не е включена</string>
@@ -298,5 +316,5 @@
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_vcode">Грешен код</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr" />
+  <string name="xmpp_server_addr"/>
 </resources>
