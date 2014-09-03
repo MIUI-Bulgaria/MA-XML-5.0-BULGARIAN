@@ -246,7 +246,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_screenshot">Екр. снимка</string>
   <string name="status_bar_toggle_shutdown">Изключване</string>
   <string name="status_bar_toggle_sync">Синхрониз.</string>
-  <string name="status_bar_toggle_sync_auto">Автосинхрон.</string>
+  <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
   <string name="status_bar_toggle_sync_manual">Ръчна синхр.</string>
   <string name="status_bar_toggle_syncing">Синхрон...</string>
   <string name="status_bar_toggle_torch">Фенерче</string>
