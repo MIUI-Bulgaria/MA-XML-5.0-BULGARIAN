@@ -317,4 +317,13 @@
   <string name="wrong_vcode">Грешен код</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="all_cloud_service_dspt">"Изберете кои от услугите на Mi Cloud желаете да използвате.
+По всяко време можете да включите или изключите услугата от Настройки."</string>
+  <string name="find_device_dspt_in_all_setting_1">"Локализиране, заключване или нулиране на устойството от всеки браузър на "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
+  <string name="mx_dspt_in_all_setting">Изпращане на безплатни SMS съобщения до други потребители на MIUI</string>
+  <string name="sms_prompt_set_all">тези услуги</string>
+  <string name="sms_prompt_set_single">тази услуга</string>
+  <string name="sync_dspt_in_all_setting">Синхронизация на вашите снимки, текстови съобщения,бележки и други между всички ваши Mi устройства</string>
 </resources>
