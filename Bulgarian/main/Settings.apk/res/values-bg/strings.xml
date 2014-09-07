@@ -2476,7 +2476,7 @@ for MAC"</li>"
   <string name="search_wallpaper">тапет</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="security_passwords_title">Пароли</string>
-  <string name="security_privacy_settings_title">Поверителност</string>
+  <string name="security_privacy_settings_title">Сигурност</string>
   <string name="security_relative">Безопасност</string>
   <string name="security_settings_billing_desc">Това приложение може да ви таксува пари:</string>
   <string name="security_settings_desc">Това приложение има достъп до следните функции на телефона:</string>
