@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string name="title_activity_filter_show">Фоторедактор</string>
     <string name="cannot_load_image">Изображението не може да се зареди!</string>

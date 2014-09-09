@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="ct_mobile_data_hints">Не може да включите мобилните данни за картата в слот 2, докато данните за картата в слот 1 са активирани.</string>
   <string name="gemini_data_connection">Връзка за данни</string>

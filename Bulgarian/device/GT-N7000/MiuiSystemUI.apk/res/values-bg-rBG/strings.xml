@@ -1,4 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="ext_media_nomedia_notification_message">SD картата е премахната. Поставете нова.</string>
   <string name="ext_media_nomedia_notification_title">SD картата бе премахната</string>

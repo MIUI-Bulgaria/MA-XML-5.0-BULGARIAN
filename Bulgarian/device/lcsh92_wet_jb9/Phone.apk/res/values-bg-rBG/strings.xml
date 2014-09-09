@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string name="which_call_to_activate">Кое повикване да се активира?</string>
     <string name="onscreenHangupAll">Затвори всички</string>
