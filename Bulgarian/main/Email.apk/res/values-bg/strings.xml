@@ -195,6 +195,7 @@
   <string name="always_bcc_myself">Използване винаги на скрито копие</string>
   <string name="always_show_images">Снимки от този подател: Показване винаги</string>
   <string name="always_show_images_toast">Снимките от този подател ще се показват автоматично.</string>
+  <string name="annex_size">прикачени</string>
   <string name="app_name">Имейл</string>
   <string name="archive">Архив</string>
   <string name="archived">Архивирана</string>
@@ -246,6 +247,7 @@
   <string name="change_account_type">Промяна типа на профила</string>
   <string name="change_folders_selection_dialog_title">Промяна на папките</string>
   <string name="change_sync_settings">Настройки за синхрон: Промяна</string>
+  <string name="chat_type_name">разговора</string>
   <string name="check_setup_data">Проверка на настройките на сървъра…</string>
   <string name="checking_for_mail">Проверява се за поща</string>
   <string name="checking_message">Проверява се…</string>
@@ -258,6 +260,7 @@
   <string name="compose">Ново съобщение</string>
   <string name="compose_send">Изпрати</string>
   <string name="compose_sent">Изпратено</string>
+  <string name="confirm">потвърди</string>
   <string name="confirm_discard_text">Да се отхвърли ли това съобщение?</string>
   <string name="confirm_response">Отговорът се изпраща…</string>
   <string name="confirm_save_message_no">Не</string>
@@ -436,6 +439,7 @@
   <string name="mark_not_spam">Подаване на сигнал „Не е спам“</string>
   <string name="mark_read">Прочетено</string>
   <string name="mark_unread">Непрочетено</string>
+  <string name="message_type_name">съобщение</string>
   <string name="me_object_pronun">аз</string>
   <string name="me_subject_pronun">аз</string>
   <string name="meeting_accepted">Прието: %s</string>
