@@ -9,4 +9,12 @@
         <item quantity="other">%d пр-я съдържат реклами</item>
         <item quantity="one">1 пр-е съдържа реклами</item>
     </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d обаждания</item>
+        <item quantity="one">1 обаждане</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMS-а</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
 </resources>

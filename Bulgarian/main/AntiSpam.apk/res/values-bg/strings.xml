@@ -268,4 +268,28 @@
   <string name="report_only">Изберете поне едно съобщение</string>
   <string name="report_sms">Докладване на съобщение</string>
   <string name="report_success">Докладвано е успешно</string>
+  <string name="STRANGER_BLOCK">Черен списък</string>
+  <string name="button_to_setting">Настройки</string>
+  <string name="dlg_antispam_mode_delete_message">Не можете да възстановите потребителски правила за списъка с блокирани, след като сте ги изтрили.</string>
+  <string name="dlg_antispam_mode_delete_title">Изтрий потребителски правила</string>
+  <string name="dlg_antispam_using_mode_delete_message">Да се изтрие ли профила на блокиране, който използвате в момента и да се превключи на стандартния профил на блокиране? Това действие е необратимо!</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">Да се изтрие ли профила на блокиране, който използвате в момента и да се превключи на стандартния профил на блокиране? Това действие е необратимо!</string>
+  <string name="dlg_message_not_open_stranger_identify">Трябва да включите разпознаването на неизвестни номера от Телефон &gt; Настройки, за да можете да маркирате номера.</string>
+  <string name="dlg_title_not_open_stranger_identify">Включи разпознаване на неизвестни номера</string>
+  <string name="fw_blocked_join">" и "</string>
+  <string name="info_antispam_current_mode">Сега използвате %s</string>
+  <string name="mark_agent">Търговски агент</string>
+  <string name="mark_agent_block">Маркиран като агент</string>
+  <string name="mark_express">Куриер</string>
+  <string name="mark_express_block">Маркиран като куриер</string>
+  <string name="mark_fraud">Измамник</string>
+  <string name="mark_fraud_block">Маркиран като измамник</string>
+  <string name="mark_meal">Разнос на храна</string>
+  <string name="mark_meal_block">Маркиран като разнос на храна</string>
+  <string name="mark_number_info">"
+Понякога тези обаждания може да бъдат полезни (например когато си търсите квартира). Блокирайте само номерата, от които не искате да получавате обаждания.</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Маркиран като telemarketer</string>
+  <string name="read_all_sms">Прочети всички</string>
+  <string name="st_title_markednumber_group">Списък с маркирани номера</string>
 </resources>

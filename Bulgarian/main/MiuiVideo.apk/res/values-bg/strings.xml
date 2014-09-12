@@ -399,4 +399,17 @@
   <string name="yestorday">Вчера</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="vp_cancel">Отказ</string>
+  <string name="vp_client_message">Да се инсталира ли %1$s?</string>
+  <string name="vp_confirm">ОК</string>
+  <string name="vp_download_connect_fail">URL адресът не може да се открие. Проверете връзката си и опитайте отново.</string>
+  <string name="vp_download_file_fail">Неуспешно изтегляне. Убедете се, че имате достатъчно свободно място в хранилището</string>
+  <string name="vp_install">Инсталиране</string>
+  <string name="vp_install_title">Съвети за инсталиране</string>
+  <string name="vp_loading">&lt;CDATA&gt;&amp;#19979;&amp;#36733;&amp;#20013; &lt;/CDATA&gt;</string>
+  <string name="vp_plugin_message">Плъгин за HD плеър, инсталирането му ще отнеме секунди.</string>
+  <string name="vp_retry">Нов опит</string>
+  <string name="vp_select_video_source">Изберете източник</string>
+  <string name="vp_support_by">С подкрепата на %1$s</string>
+  <string name="vp_unknown_source">Неизвестен източник</string>
 </resources>
