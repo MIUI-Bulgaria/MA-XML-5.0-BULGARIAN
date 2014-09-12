@@ -349,8 +349,8 @@
   <string name="pref_extras_website_settings_summary">Разширени настройки за отделни уеб страници</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Възстанови началната директория за изтегляне</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Възстанови началните настройки</string>
-  <string name="pref_file_download_save_modify_default_path">Директория за изтеглянията</string>
-  <string name="pref_file_download_save_title">Изтегляне и запис на файлове</string>
+  <string name="pref_file_download_save_modify_default_path">Запазвай файловете в</string>
+  <string name="pref_file_download_save_title">Изтегляния</string>
   <string name="pref_fling_on_border_enabled">Плъзгане по границата</string>
   <string name="pref_fling_on_border_enabled_title_summary">Плъзни от границата на екрана</string>
   <string name="pref_font_size_category">Размер на текста</string>
