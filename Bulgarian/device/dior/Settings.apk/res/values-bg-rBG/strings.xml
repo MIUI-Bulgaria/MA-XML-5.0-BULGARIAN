@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="ct_mobile_data_hints">Не може да включите мобилните данни за картата в слот 2, докато данните за картата в слот 1 са активирани.</string>
+  <string name="gemini_data_connection">Връзка за данни</string>
+  <string name="gemini_data_roaming_summary">Свързване с услуги за данни при роуминг</string>
+  <string name="gemini_data_roaming_title">Роуминг на данни</string>
+  <string name="gemini_default_sim_title">НАСТРОЙКИ ПО ПОДРАЗБИРАНЕ</string>
+  <string name="gemini_general_settings_title">ОБЩИ НАСТРОЙКИ</string>
+  <string name="gemini_no_sim_indicator">Няма SIM карта</string>
+  <string name="gemini_roaming_settings_title">Роуминг</string>
+  <string name="gemini_sim_info_editor_name">Редактиране името на SIM картата</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">Това име на SIM карта вече е заето</string>
+  <string name="gemini_sim_info_editor_name_dup_title">Неуспешно записване</string>
+  <string name="gemini_sim_info_editor_number">Въведете телефонен номер</string>
+  <string name="gemini_sim_info_title">ИНФОРМАЦИЯ ЗА SIM КАРТАТА</string>
+  <string name="gemini_sim_management_title">Управление на SIM картата</string>
+  <string name="gemini_sim_mode_progress_activating_message">Активиране…</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Деактивиране…</string>
+  <string name="sim_radio_off">Неактивирано</string>
+</resources>

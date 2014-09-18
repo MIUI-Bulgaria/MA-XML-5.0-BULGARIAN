@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Докладът за грешки е записан</string>
+    <string name="bugreport_finished_text">Натиснете, за да споделите доклада си за грешки</string>
+    <string name="bugreport_confirm">Докладите за грешки съдържат данни от различни регистрационни файлове, включително системни и с лична информация. Споделяйте ги само с надеждни приложения и хора.</string>
+    <string name="bugreport_confirm_repeat">Показвай това съобщение и занапред</string>
+</resources>
