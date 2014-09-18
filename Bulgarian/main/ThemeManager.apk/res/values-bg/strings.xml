@@ -265,4 +265,13 @@
   <string name="wallpaper_set_as_destop">Начален екран</string>
   <string name="wallpaper_set_as_lockscreen">Заключен екран</string>
   <string name="wallpaper_settings">Настройки на тапетите</string>
+  <string name="resource_clear_search_history">Изчистване на историята на търсенията</string>
+  <string name="resource_clear_search_history_dialog">Да се изчисти ли историята на търсенията?</string>
+  <string name="resource_comment_rating_star_tips">Докоснете звездите, за да оцените:</string>
+  <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
+  <string name="resource_search_list_empty">Нищо не е намерено</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Настройки</string>
+  <string name="resource_trial_fail_message">Уверете се, че часовника ви е настроен на правилното време.</string>
+  <string name="resource_trial_fail_title">Не може да се зададе пробен период</string>
 </resources>

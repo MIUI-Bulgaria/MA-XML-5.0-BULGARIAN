@@ -502,4 +502,6 @@
   <string name="file_title">Име:</string>
   <string name="file_width_height">Размер:</string>
   <string name="share_img">Сподели</string>
+  <string name="mx_on_sim_1">Облачни съобщения със SIM слот %s</string>
+  <string name="mx_on_sim_2">Облачни съобщения със SIM слот %s</string>
 </resources>

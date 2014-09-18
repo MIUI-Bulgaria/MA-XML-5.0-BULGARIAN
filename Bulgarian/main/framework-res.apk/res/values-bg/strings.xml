@@ -111,15 +111,11 @@
   <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %p</string>
   <string name="twelve_hour_time_format">h:mm a</string>
   <string name="twenty_four_hour_time_format">H:mm</string>
-  <string name="numeric_date" formatted="false">%d.%m.%Y</string>
   <string name="numeric_date_format">dd.MM.yyyy</string>
   <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
-  <string name="month_day_year" formatted="false">%d %B %Y</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %d.%m.%Y</string>
   <string name="date_time">%2$s %1$s</string>
   <string name="time_date">%1$s %3$s</string>
-  <string name="abbrev_month_day_year" formatted="false">%d.%m.%Y</string>
   <string name="month_day" formatted="false">%-e %B</string>
   <string name="month">%-B</string>
   <string name="month_year" formatted="false">%B %Y</string>

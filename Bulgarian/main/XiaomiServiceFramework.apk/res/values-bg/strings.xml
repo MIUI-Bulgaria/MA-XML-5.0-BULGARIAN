@@ -327,4 +327,10 @@
   <string name="sms_prompt_set_all">тези услуги</string>
   <string name="sms_prompt_set_single">тази услуга</string>
   <string name="sync_dspt_in_all_setting">Синхронизация на вашите снимки, текстови съобщения,бележки и други между всички ваши Mi устройства</string>
+  <string name="error_data_in_transfer">Синхр. ще завърши след %s часа.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud не е достъпен.</string>
+  <string name="reg_title">Създаване на нов Mi профил чрез:</string>
+  <string name="user_agreement_p8">" за да разберете каква информация събираме, как я използваме и какви опции са достъпни за вас.
+
+Създавайки профила, вие приемате горепосочените точки."</string>
 </resources>

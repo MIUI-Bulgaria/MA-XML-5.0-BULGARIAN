@@ -2963,7 +2963,7 @@ for MAC"</li>"
   <string name="user_picture_title">Идент. № на снимката</string>
   <string name="user_profile_confirm_remove_message">Пространството в паметта и данните на този профил ще бъдат премахнати от телефона. Действието не може да бъде отменено.</string>
   <string name="user_profile_confirm_remove_title">Ще премахнете ли профила?</string>
-  <string name="user_remove_user_menu">Изтриване на %1$s от устройството</string>
+  <string name="user_remove_user_menu">Премахване на потребителя</string>
   <string name="user_rename">ПРЕИМЕНУВАНЕ</string>
   <string name="user_restrictions_controlled_by">Контролирано от: %1$s</string>
   <string name="user_restrictions_heading">Ограничения на съдъджанието</string>
@@ -3013,7 +3013,7 @@ for MAC"</li>"
   <string name="virus_scan_app_solve">Всички</string>
   <string name="virus_scan_app_stop">Прекрати проверката</string>
   <string name="virus_scan_app_stop_scan">Спри сканирането</string>
-  <string name="virus_scan_app_uninstall">Премахни (% d)</string>
+  <string name="virus_scan_app_uninstall">Премахни (%d)</string>
   <string name="virus_scan_app_waiting">Изчакване…</string>
   <string name="virus_scan_can_use_wifi">Използвай онлайн база данни за вируси</string>
   <string name="virus_scan_clean_dialog_message">Почистване…</string>

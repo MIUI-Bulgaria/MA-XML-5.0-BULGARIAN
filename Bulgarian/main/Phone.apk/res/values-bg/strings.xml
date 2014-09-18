@@ -147,7 +147,7 @@
   <string name="call_number">До:</string>
   <string name="call_record_button_label">Запис %s</string>
   <string name="call_record_error_access">Не можете да записвате докато сте в режим Гост</string>
-  <string name="call_record_notification_message_low_space_miui">Записът бе спрян, няма достатъчно място. Натиснете, за да прегледате %s.</string>
+  <string name="call_record_notification_message_low_space_miui">Записът бе спрян, няма достатъчно място.</string>
   <string name="call_record_notification_message_miui">Натиснете за да прегледате файла %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Записът спря, тъй като SD картата не е включена.</string>
   <string name="call_record_notification_message_start_failed">Устройството за запис се използва от друго приложение.</string>
@@ -686,7 +686,7 @@
   <string name="notification_on_hold">Задържане на обаждането</string>
   <string name="notification_ongoing_call">Провеждащ се разговор</string>
   <string name="notification_ongoing_call_format">Текущо обаждане от (%s)</string>
-  <string name="notification_ongoing_calling_format_miui">Повикване (%s)</string>
+  <string name="notification_ongoing_calling_format_miui">Повикване</string>
   <string name="notification_voicemail_no_vm_number">Неизвестен номер за гласова поща</string>
   <string name="notification_voicemail_text_format">Набиране на %s</string>
   <string name="notification_voicemail_title">Нова гласова поща</string>
