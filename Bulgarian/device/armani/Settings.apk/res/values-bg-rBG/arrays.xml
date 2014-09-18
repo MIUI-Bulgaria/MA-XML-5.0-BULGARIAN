@@ -23,14 +23,4 @@
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Производителност</item>
-        <item>Балансиран</item>
-        <item>Икономичен</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Производително</item>
-        <item>Балансирано</item>
-        <item>Икономично</item>
-    </string-array>
 </resources>
