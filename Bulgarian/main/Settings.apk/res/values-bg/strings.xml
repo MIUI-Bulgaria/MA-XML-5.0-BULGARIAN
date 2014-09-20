@@ -658,9 +658,9 @@
   <string name="credentials_enabled">Хранилището на идентификационни данни е активирано.</string>
   <string name="credentials_erased">Хранилището на идентификационни данни е изчистено.</string>
   <string name="credentials_install">Инсталиране от хранилището</string>
-  <string name="credentials_install_gesture_explanation">Трябва да начертаете фигурата за отключване.</string>
-  <string name="credentials_install_gesture_prompt">Начертайте фигурата за отключване</string>
-  <string name="credentials_install_summary">Инсталиране на сертификати от хранилище</string>
+  <string name="credentials_install_gesture_explanation">Трябва да начертаете фигурата си за отключване, за да потвърдите инсталирането на идентификационни данни.</string>
+  <string name="credentials_install_gesture_prompt">Начертайте фигурата си за отключване</string>
+  <string name="credentials_install_summary">Инсталиране на сертификати от хранилището</string>
   <string name="credentials_not_erased">Неуспешно изчистване на хранилището.</string>
   <string name="credentials_old_password">Текуща парола:</string>
   <string name="credentials_password_too_short">Паролата трябва да съдържа най-малко 8 знака.</string>
@@ -898,9 +898,9 @@
   <string name="display_settings">Екран</string>
   <string name="display_settings_title">Екран</string>
   <string name="dlg_cancel">Отказ</string>
-  <string name="dlg_confirm_unmount_text">Ако изключите USB паметта, някои приложения няма да работят и могат да останат недостъпни докато не я включите отново.</string>
-  <string name="dlg_confirm_unmount_title">Ще изключите ли USB паметта?</string>
-  <string name="dlg_error_unmount_text">"Неуспех при изключване на USB паметта. Опитайте отново по-късно."</string>
+  <string name="dlg_confirm_unmount_text">Ако спрете USB хранилището, някои използвани от вас приложения ще спрат и може да бъдат недостъпни, докато не го свържете отново.</string>
+  <string name="dlg_confirm_unmount_title">Да се спре ли USB хран.?</string>
+  <string name="dlg_error_unmount_text">USB хранилището не можа да бъде спряно. Опитайте отново по-късно.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dndm_auto_button_title">Време</string>
@@ -1018,12 +1018,12 @@
   <string name="enable_traces_summary_num">%1$d проследявания са активирани</string>
   <string name="enable_traces_title">Активирай проследяване</string>
   <string name="enable_wifi_display">Включване на безжичен дисплей</string>
-  <string name="enforce_read_external_confirm_message">"Когато е включена защитата на USB хранилището, приложенията трябва да искат разрешение за четене на данните му.
+  <string name="enforce_read_external_confirm_message">"Когато USB паметта е защитена, приложенията трябва да поискат разрешение за четене на данни от външното хранилище.
 
-Някои приложения може да спрат работа, докато разработчиците им не ги обновят."</string>
-  <string name="enforce_read_external_confirm_title">Ще защитите ли USB хранилището?</string>
-  <string name="enforce_read_external_summary">Приложенията трябва да искат разрешение за достъп до USB хранилището</string>
-  <string name="enforce_read_external_title">Защити USB хранилището</string>
+Някои от тях може да не работят, докато не бъдат актуализирани от съответните програмисти."</string>
+  <string name="enforce_read_external_confirm_title">Да се защити ли USB хранилището?</string>
+  <string name="enforce_read_external_summary">Прилож. трябва да поискат разрешение за четене на USB хран.</string>
+  <string name="enforce_read_external_title">Да се защити USB хранилището</string>
   <string name="enter_password">Въведете парола за дешифроване на данните от хранилището</string>
   <string name="eq_auto">Персонализиране</string>
   <string name="eq_blues">Блус</string>
@@ -1048,8 +1048,8 @@
   <string name="equalizer">Еквалайзер</string>
   <string name="erase_application">Изтриване на приложения</string>
   <string name="erase_application_description">Премахване на инсталирани приложения</string>
-  <string name="erase_external_storage">Изтриване на външната SD карта</string>
-  <string name="erase_external_storage_description">Изтрива всички данни на вашия телефон, например музика и снимки.</string>
+  <string name="erase_external_storage">Изтриване на USB хранилището</string>
+  <string name="erase_external_storage_description">Изтриване на всички данни във вътрешното USB хранилище, като музика или снимки</string>
   <string name="erase_internal_storage">Изчисти вътрешната памет</string>
   <string name="erase_internal_storage_description">Форматирането ще изтрие всички файлове във вътрешното хранилище, като напр. снимки и музика</string>
   <string name="erase_optional">Почистване по желание</string>
@@ -1069,7 +1069,7 @@
   <string name="experimental_webview">Използване на Experimental WebView</string>
   <string name="experimental_webview_summary">Приложенията ще използват най-новия (beta) WebView</string>
   <string name="external_code_size_label">Приложения USB хранилище</string>
-  <string name="external_data_size_label">Данни в USB хранилище</string>
+  <string name="external_data_size_label">Данни за USB хранилището</string>
   <string name="factory_reset_summary">Може да изтриете личните си данни, или да изтриете избрани инсталирани приложения и да форматирате SD картата за да възстановите настройките по подразбиране.</string>
   <string name="failed_to_open_app_settings_toast">Неуспешно отваряне на настройките за %1$s</string>
   <string name="fcc_equipment_id">ID оборудване</string>
@@ -1077,7 +1077,7 @@
   <string name="filter_apps_all">Всички</string>
   <string name="filter_apps_cached">Кеширани</string>
   <string name="filter_apps_disabled">Деактивирано</string>
-  <string name="filter_apps_onsdcard">В USB хранилище</string>
+  <string name="filter_apps_onsdcard">USB хранилище</string>
   <string name="filter_apps_running">Работещи</string>
   <string name="filter_apps_third_party">Изтеглени</string>
   <string name="filter_dlg_title">Изберете опции на филтъра</string>
@@ -1288,9 +1288,9 @@
   <string name="intent_sender_startactivity_text">Стартиране на дейност</string>
   <string name="internal_format">Форматирай вътрешното хранилище</string>
   <string name="internal_format_summary">Изтрий всички данни от вътрешното хранилище, като музика и снимки</string>
-  <string name="internal_media_format_button_text">Изтрий вътрешната памет</string>
+  <string name="internal_media_format_button_text">Изтриване на вътрешната памет</string>
   <string name="internal_media_format_desc">Ще изтриете ли цялата вътрешна памет? Всички данни ще бъдат премахнати безвъзвратно.</string>
-  <string name="internal_media_format_final_desc">Ще изтриете ли всички данни от вътрешната памет? Това действие не може да се отмени! Телефона ще се рестартира след изчистване на вътрешното хранилище!</string>
+  <string name="internal_media_format_final_desc">Ще изтриете ли всички данни от вътрешната памет? Това действие не може да се отмени! Телефонът ще се рестартира след изчистване на вътрешното хранилище!</string>
   <string name="internal_media_format_title">Изтрий вътрешната памет</string>
   <string name="internal_memory">Вътрешно хранилище</string>
   <string name="internal_storage">Системно хранилище</string>
@@ -1483,7 +1483,7 @@
 "&lt;li&gt;Други потребителски данни&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Ако искате да изтриете също музиката, снимките и другите данни за потребителя, е необходимо да изтриете и SD картата."</string>
+За да изчистите музиката, снимките и другите потребителски данни, трябва да се изтрие "<b>USB хранилището</b>."</string>
   <string name="master_clear_erase_application_progress">Изтриване на приложения…</string>
   <string name="master_clear_failed">"Нулирането не е изпълнено, тъй като услугата System Clear е недостъпна."</string>
   <string name="master_clear_final_button_text">Изтрий всичко</string>
@@ -1500,14 +1500,14 @@
   <string name="master_clear_title">Възстанови фабрични данни</string>
   <string name="media_button">Медиен бутон</string>
   <string name="media_feedback_enable_title">Вибрация в ритъма на музиката</string>
-  <string name="media_format_button_text">Изтрий USB хранилище</string>
-  <string name="media_format_desc">Ще изтриете ли цялото USB хранилище? Всички данни ще бъдат изтрити безвъзвратно!</string>
+  <string name="media_format_button_text">Изтриване на USB</string>
+  <string name="media_format_desc">Да се изтрие ли цялото USB хранилище? Ще загубите <b>цялата</b> съхранена информация!</string>
   <string name="media_format_final_button_text">Изтрий всичко</string>
-  <string name="media_format_final_desc">"Ще изчистите ли USB хранилището, изтривайки всички файлове от там? Действието не може да се отмени!"</string>
-  <string name="media_format_gesture_explanation">Начертайте фигурата за отключване, за да потвърдите изтриването на USB хранилището.</string>
+  <string name="media_format_final_desc">Да се изтрие ли USB хранилището заедно с всички съхранявани там файлове? Не можете да отмените това действие!</string>
+  <string name="media_format_gesture_explanation">Трябва да начертаете фигурата си за отключване, за да потвърдите, че искате да изтриете USB хранилището.</string>
   <string name="media_format_gesture_prompt">Начертайте фигурата за отключване</string>
-  <string name="media_format_summary">Изтрий всички данни в USB хранилището</string>
-  <string name="media_format_title">Изтрий USB хранилище</string>
+  <string name="media_format_summary">Изтрива всички данни в USB</string>
+  <string name="media_format_title">Изтриване на USB</string>
   <string name="media_volume_summary">Настройка на силата на звука при музика и видео</string>
   <string name="media_volume_title">Медия</string>
   <string name="medium_font">Среден</string>
@@ -1609,7 +1609,7 @@
   <string name="move_app_failed_dlg_text">"Преместването на приложението %1$s е неуспешно"</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Премести в телефона</string>
-  <string name="move_app_to_sdcard">Премести в USB хранилището</string>
+  <string name="move_app_to_sdcard">Преместване в USB</string>
   <string name="moving">Преместване</string>
   <string name="msd_driver_download">Изтегли драйвера</string>
   <string name="msd_driver_mac_download">Отидете на  http://miuiandroid.com/mac/ ако имате компютър с MAC</string>
@@ -2417,30 +2417,30 @@ for MAC"</li>"
   <string name="screensaver_timeout_zero_summary">Никога</string>
   <string name="sd_card_settings_label">USB хранилище</string>
   <string name="sd_card_storage">USB хранилище</string>
-  <string name="sd_eject">Изключете USB носителя</string>
-  <string name="sd_eject_summary">Изключете вътрешното USB хранилище</string>
+  <string name="sd_eject">Спиране на сподел. хран.</string>
+  <string name="sd_eject_summary">Спиране на вътрешното USB хранилище</string>
   <string name="sd_ejecting_summary">Отстранява се…</string>
-  <string name="sd_ejecting_title">Демонтиране</string>
-  <string name="sd_format">Изтрий USB хранилището</string>
+  <string name="sd_ejecting_title">Деактивиране</string>
+  <string name="sd_format">Изтриване на USB хранилището</string>
   <string name="sd_format_summary">Изтрива всички данни в USB хранилището, например музика и снимки</string>
   <string name="sd_insert_summary">Свържете USB хранилище</string>
   <string name="sd_memory">USB хранилище</string>
   <string name="sd_mount">Монтиране на USB хранилище</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Промените влизат в сила, когато USB кабелът се свърже отново.</string>
-  <string name="sdcard_format">Изтрий USB хранилище</string>
+  <string name="sdcard_format">Изтриване на USB</string>
   <string name="sdcard_setting">USB хранилище</string>
   <string name="sdcard_settings_available_bytes_label">Налична памет (байта):</string>
-  <string name="sdcard_settings_bad_removal_status">USB хранилището беше премахнато по време на употреба!</string>
-  <string name="sdcard_settings_mass_storage_status">USB хранилището се използва като устройство за съхранение на данни.</string>
+  <string name="sdcard_settings_bad_removal_status">USB е премахнато, докато се ползва!</string>
+  <string name="sdcard_settings_mass_storage_status">USB хран. се използва за масово съхр.</string>
   <string name="sdcard_settings_not_present_status">USB хранилището не е свързано.</string>
-  <string name="sdcard_settings_read_only_status">USB хранилището е свързано само за четене.</string>
-  <string name="sdcard_settings_scanning_status">Сканиране за медия в USB хранилището…</string>
+  <string name="sdcard_settings_read_only_status">USB хран. е свърз. само за четене.</string>
+  <string name="sdcard_settings_scanning_status">USB се сканира за носители...</string>
   <string name="sdcard_settings_screen_mass_storage_text">Активирайте USB устройството за съхранение на данни</string>
   <string name="sdcard_settings_total_bytes_label">Обща памет (байта):</string>
-  <string name="sdcard_settings_unmounted_status">Сега може безопасно да премахнете SD картата.</string>
+  <string name="sdcard_settings_unmounted_status">Извадете USB хранилището сега.</string>
   <string name="sdcard_settings_used_bytes_label">Заета памет (байта):</string>
-  <string name="sdcard_unmount">Изключете USB носителя</string>
+  <string name="sdcard_unmount">Спиране на USB</string>
   <string name="se_route_ese">Вградена защита</string>
   <string name="se_route_uicc">Защита на SIM картата</string>
   <string name="search_about">За програмата</string>
@@ -2655,7 +2655,7 @@ for MAC"</li>"
   <string name="storage_menu_usb">USB връзка към компютър</string>
   <string name="storage_other_users">Други потребители</string>
   <string name="storage_settings">Хранилище</string>
-  <string name="storage_settings_summary">Премахване на SD карта и сведения за достъпната памет</string>
+  <string name="storage_settings_summary">Спиране на USB хранилището, преглед на наличното хранилище</string>
   <string name="storage_settings_title">Настройки на хранилището</string>
   <string name="storage_size_content">Заето: %1$s | Свободно: %2$s</string>
   <string name="storage_size_title">Хранилище</string>
@@ -2853,7 +2853,7 @@ for MAC"</li>"
   <string name="unlock_set_unlock_pin_summary">Средно към високо ниво на сигурност</string>
   <string name="unlock_set_unlock_pin_title">PIN-код</string>
   <string name="unlock_set_unlock_summary">Моля, включете заключването на екрана, преди да изберете метода му</string>
-  <string name="unmount_inform_text">USB хранилището ще бъде изключено.</string>
+  <string name="unmount_inform_text">USB хранилището ще бъде спряно.</string>
   <string name="untitled_apn">Без име</string>
   <string name="upload_debug_log_summary">Изпращане на списък с отстр. на грешки в помощ на разработчиците, за създаване на по-стабилен и по-добър MIUI ROM. Благодарим Ви!</string>
   <string name="upload_debug_log_title">Изпращай журнал с грешки</string>
