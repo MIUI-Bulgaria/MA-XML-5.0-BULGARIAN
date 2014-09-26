@@ -121,4 +121,6 @@
   <string name="xunlei_member_one_month">Месечна такса за Xunlei</string>
   <string name="xunlei_speed_service">Xunlei изтегляния</string>
   <string name="xunlei_switch">Xunlei изтегляне</string>
+  <string name="unbind_xunlei_2_success">Change Xunlei Account Success</string>
+  <string name="unbind_xunlei_success">Unbind Xunlei Account Success</string>
 </resources>

@@ -412,4 +412,7 @@
   <string name="vp_select_video_source">Изберете източник</string>
   <string name="vp_support_by">С подкрепата на %1$s</string>
   <string name="vp_unknown_source">Неизвестен източник</string>
+  <string name="vp_closedialog">OK</string>
+  <string name="vp_hint">Съвет</string>
+  <string name="vp_maintitlearea">Enjoy the massive high-definition blockbuster, the speed of downloading at any time, there are more new TV show yo! Downloading HD components for you, click OK to enter the home page</string>
 </resources>
