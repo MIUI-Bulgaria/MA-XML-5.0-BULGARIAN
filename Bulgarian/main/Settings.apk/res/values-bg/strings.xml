@@ -3017,7 +3017,7 @@ for MAC"</li>"
   <string name="virus_scan_app_waiting">Изчакване…</string>
   <string name="virus_scan_can_use_wifi">Използвай онлайн база данни за вируси</string>
   <string name="virus_scan_clean_dialog_message">Почистване…</string>
-  <string name="virus_scan_clear">Чисто</string>
+  <string name="virus_scan_clear">Изтрий</string>
   <string name="virus_scan_dangerous">Риск</string>
   <string name="virus_scan_description">"Това приложение е риск за вашата безопасност."</string>
   <string name="virus_scan_file_type_risk_apk">Подозрително приложение (.apk пакет)</string>
